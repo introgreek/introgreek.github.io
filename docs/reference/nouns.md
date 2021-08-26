@@ -19,32 +19,32 @@ parent: Reference
 
 ## Alpha/Eta Declension (1st Declension)
 
-### Long-Alpha: θεά, θεᾶς, f. - "goddess"
+### Long-Alpha: συμφορά, συμφορᾶς, f. - "event, outcome, mishap"
 
 | Case      | Singular |Plural |
 | ----------- | ----------- | ----------- |
-| Nom./Voc.    | θε**ά**       | θε**αί**       |
-| Genitive   | θε**ᾶς**        | θε**ῶν**       |
-| Dative   | θε**ᾷ**        | θε**αῖς**      |
-| Accusative   | θε**άν**        | θε**άς**      |
+| Nom./Voc.    | συμφορ**ά**       | συμφορ**αί**       |
+| Genitive   | συμφορ**ᾶς**        | συμφορ**ῶν**       |
+| Dative   | συμφορ**ᾷ**        | συμφορ**αῖς**      |
+| Accusative   | συμφορ**άν**        | συμφορ**άς**      |
 
-### Long-Eta: γνώμη, γνώμης, f. - "opinion"
-
-| Case      | Singular |Plural |
-| ----------- | ----------- | ----------- |
-| Nom./Voc.    | γνώμ**η**       | γνῶμ**αι**       |
-| Genitive   | γνώμ**ης**        | γνωμ**ῶν**       |
-| Dative   | γνώμ**ῃ**        | γνώμ**αις**      |
-| Accusative   | γνώμ**ην**        | γνώμ**ας**      |
-
-### Short-Alpha: πεῖρα, πείρας, f. - "attempt"
+### Long-Eta: δίκη, δίκης, f. - "trial, lawsuit, penalty, custom, right"
 
 | Case      | Singular |Plural |
 | ----------- | ----------- | ----------- |
-| Nom./Voc.    | πεῖρ**α**       | πεῖρ**αι**       |
-| Genitive   | πείρ**ας**        | πειρ**ῶν**       |
-| Dative   | πείρ**ᾳ**        | πείρ**αις**      |
-| Accusative   | πεῖρ**αν**        | πείρ**ας**      |
+| Nom./Voc.    | δίκ**η**       | δίκ**αι**       |
+| Genitive   | δίκ**ης**        | δικ**ῶν**       |
+| Dative   | δίκ**ῃ**        | δίκ**αις**      |
+| Accusative   | δίκ**ην**        | δίκ**ας**      |
+
+### Short-Alpha: θάλαττα, θαλάττης, f. - "sea"
+
+| Case      | Singular |Plural |
+| ----------- | ----------- | ----------- |
+| Nom./Voc.    | θάλαττ**α**       | πεῖρ**αι**       |
+| Genitive   | θαλάττ**ης**        | πειρ**ῶν**       |
+| Dative   | θαλάττ**ῃ**        | πείρ**αις**      |
+| Accusative   | θάλαττ**αν**        | πείρ**ας**      |
 
 ### Short-Eta: θάλαττα, θαλάττης, f. - "sea"
 
@@ -79,15 +79,15 @@ parent: Reference
 
 ## Omicron Declension (2nd Declension)
 
-### Masculine/Feminine: ὁδός, ὁδοῦ, f. - "road"
+### Masculine/Feminine: νόμος, νόμου, m. - "law, custom"
 
 | Case      | Singular |Plural |
 | ----------- | ----------- | ----------- |
-| Nominative    | ὁδ**ός**       | ὁδ**οί**        |
-| Genitive   | ὁδ**οῦ**        | ὁδ**ῶν**       |
-| Dative   | ὁδ**ῷ**         | ὁδ**οῖς**      |
-| Accusative   | ὁδ**όν**         | ὁδ**ούς**      |
-| Vocative | ὁδ**έ**  |  ὁδ**οί** |
+| Nominative    | νόμ**ος**       | νόμ**οι**        |
+| Genitive   | νόμ**ου**        | νόμ**ων**       |
+| Dative   | νόμ**ῳ**         | νόμ**οις**      |
+| Accusative   | νόμ**ον**         | νόμ**ους**      |
+| Vocative | νόμ**ε**  |  νόμ**οι** |
 
 ### Neuter: ἔργον, ἔργου, n. - "deed"
 

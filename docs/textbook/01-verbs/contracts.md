@@ -21,8 +21,10 @@ grand_parent: Textbook
 ## Unit Vocabulary
 
 * **ἀδικέω**, `ἀδικήσω`, **ἠδίκησα**, `ἠδίκηκα`, `ἠδίκημαι`, **ἠδικήθην** - to do wrong, injure
-* **δοκέω**, `δοκήσω`, **ἔδοξα**, --, `δέδογμαι`, **-ἐδόχθην** - to think; (3rd sg.) to seem (best)
+* **δοκέω**, `δοκήσω`, **ἔδοξα**, --, `δέδογμαι`, **-ἐδόχθην**\* - to think; (3rd sg.) to seem (best)
 * **ποιέω**, `ποιήσω`, **ἐποίησα**, `πεποίηκα`, `πεποίημαι`, **ἐποιήθην** - to make, do
+
+\* The hyphen before this form means that it is used only in compounded forms (i.e., with a prefix).
 
 ***
 
