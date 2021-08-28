@@ -89,8 +89,8 @@ Identifying the declension is also important for understanding the **noun's stem
 
 For each of the following nominative singular nouns, look up their definitions in the [master vocabulary list](#) and indicate the noun's **gender** and **declension**.
 
-1. κλώψ
-2. φυγή
-3. οἶκος
+1. μάρτυς
+2. κίνδυνος
+3. δικαστής
 4. πρᾶγμα
-5. δῶρον
+5. ἔργον
