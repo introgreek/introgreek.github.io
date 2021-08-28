@@ -22,11 +22,11 @@ grand_parent: Textbook
 
 Please memorize the following verb dictionary entries, which will be used in this unit.
 
-* **ἄγω**, `ἄξω`, **ἤγαγον**, `ἦχα`, `ἦγμαι`, **ἤχθην**, "to lead"
-* **γίγνομαι**, `γενήσομαι`, **ἐγενόμην**, `γέγονα`, `γεγένημαι`, **ἐγενήθην**, "to become, to happen"
-* **ἔρχομαι**, `ἐλεύσομαι`, **ἦλθον**, `ἐλήλυθα`, --, --, "to come, to go"
-* **ἔχω**, `ἕξω / σχήσω`, **ἔσχον**, `ἔσχηκα`, `-ἔσχημαι`, **ἐσθέθην**, "to have, to hold"
-* **λέγω**, `λέξω`, **εἶπον**, --, --, --, "to say, to speak"
+* **ἄγω**, `ἄξω`, **ἤγαγον**, `ἦχα`, `ἦγμαι`, **ἤχθην**, "[to lead](https://logeion.uchicago.edu/ἄγω)"
+* **γίγνομαι**, `γενήσομαι`, **ἐγενόμην**, `γέγονα`, `γεγένημαι`, **ἐγενήθην**, "[to become, to happen](https://logeion.uchicago.edu/γίγνομαι)"
+* **ἔρχομαι**, `ἐλεύσομαι`, **ἦλθον**, `ἐλήλυθα`, --, --, "[to come, to go](https://logeion.uchicago.edu/ἔρχομαι)"
+* **ἔχω**, `ἕξω / σχήσω`, **ἔσχον**, `ἔσχηκα`, `-ἔσχημαι`, **ἐσθέθην**, "[to have, to hold](https://logeion.uchicago.edu/ἔχω)"
+* **λέγω**, `ἐρέω`, **εἶπον**, εἴρηκα, --, --, "[to say, to speak](https://logeion.uchicago.edu/λέγω)"
 
 ***
 
@@ -103,7 +103,9 @@ You will notice that some dictionary entries lack active forms in some or all pr
 
 Such verbs that lack active forms in some or all principal parts are known as **deponent verbs**. While deponent verbs are conjugated in the middle or passive voice, the main thing to keep in mind is that deponent verbs are **middle or passive in form, but active in meaning**. So, while forms like ἐγένετο or ἐγενήθη are middle or passive respectively, one cannot "be becomed" or "be happened", so an active translation like "he became" or "they became" is needed.
 
-Some deponent verbs are deponent in only some principal parts. For example, take a look at the dictionary entry above for **ἔρχομαι**, "to come, to go." Its third principal part, ἦλθον, is a straightforward second aorist (active), but its first principal part, ἔρχομαι, with its -ομαι ending, is deponent (properly present tense and middle voice, as we'll learn about in a later unit).
+To conjugate deponents, the steps are the same: get the stem, add the appropriate ending, apply an accent. In these cases, the stem can be found by taking off the full middle ending off the principal part; when it comes to deponent 3rd principal parts, that means taking off the -άμην (for first aorists) or -όμην (for second aorists). So, in the case of γίγνομαι, that leaves us with the stem ἐγεν- from the third principal part and forms like ἐγένετο or ἐγένοντο.
+
+Some verbs are deponent in only some principal parts. For example, take a look at the dictionary entry above for **ἔρχομαι**, "to come, to go." Its third principal part, ἦλθον, is a straightforward second aorist (active), but its first principal part, ἔρχομαι, with its -ομαι ending, is deponent (properly present tense and middle voice, as we'll learn about in a later unit).
 
 ***
 

@@ -10,4 +10,10 @@ parent: Vocabulary
 
 ***
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+* ἄγω, ἄξω, ἤγαγον, ἦχα, ἦγμαι, ἤχθην - "[to lead](https://logeion.uchicago.edu/ἄγω)"
+* γίγνομαι, γενήσομαι, ἐγενόμην, γέγονα, γεγένημαι, ἐγενήθην - "[to become, to happen](https://logeion.uchicago.edu/γίγνομαι)"
+* δείκνυμι, δείξω, ἔδειξα, δέδειχα, δέδειγμαι, ἐδείχθην - [to show](https://logeion.uchicago.edu/δείκνυμι)"
+* ἔρχομαι, ἐλεύσομαι, ἦλθον, ἐλήλυθα, --, -- - "[to come, to go](https://logeion.uchicago.edu/ἔρχομαι)"
+* ἔχω, ἕξω / σχήσω, ἔσχον, ἔσχηκα, -ἔσχημαι, ἐσθέθην - "[to have, to hold](https://logeion.uchicago.edu/ἔχω)"
+* κελεύω, κελεύσω, ἐκέλευσα, κεκέλευκα, κεκέλευσμαι, ἐκελεύσθην - "[to order](https://logeion.uchicago.edu/κελεύω)"
+* λέγω, ἐρέω, εἶπον, εἴρηκα, --, -- - "[to say, to speak](https://logeion.uchicago.edu/λέγω)"
