@@ -46,21 +46,39 @@ parent: Vocabulary
 
 ## Pronouns
 
-* ὅδε, ἥδε, τόδε
-* οὗτος, αὕτη, τοῦτο
-* ἐκεῖνος, ἐκείνη, ἐκεῖνο
-* αὐτός, αὐτή, αὐτό
+* ὅδε, ἥδε, τόδε - this, these, the following
+* οὗτος, αὕτη, τοῦτο - this; the preceding; the latter (vs. ἐκεῖνος)
+* ἐκεῖνος, ἐκείνη, ἐκεῖνο - that, those; the former (vs. οὗτος)
+* αὐτός, αὐτή, αὐτό - him, her, it, them; (intensive pronoun, *not* reflexive) myself, yourself, etc.; (in attributive position) the same
 
 ***
 
 ## Adjectives
 
-* ἄλλος
-* πρότερος
-* μέγας
-* μίκρος
-* ἀγαθός
-* κάκος
-* πρῶτος
-* ὕστατος
-* πᾶς
+* ἄλλος, -η, -ο - another, other; (ἄλλος ... ἄλλος) one ... the other
+* πρότερος, -α, -ον - previous, former, earlier
+* μέγας, μεγάλη, μέγα - great, big
+* μίκρος, -α, -ον - small
+* ἀγαθός, -η, -ον - noble, good
+* κάκος, -η, -ον - bad
+* πρῶτος, -η, -ον - first
+* ὕστατος, -η, -ον - last
+* πᾶς, πᾶσα, πᾶν - each, every, all
+
+***
+
+## Prepositions
+
+* ἀνά
+* κατά
+* ὑπό
+* ὑπέρ
+* μετά
+* παρά
+* περί
+* πρός
+* ἐκ
+* ἀπό
+* εἰς
+* ἐπί
+* ἐν

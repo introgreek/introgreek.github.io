@@ -25,7 +25,7 @@ Syllabus day (website crawl, grading scheme)
 
 ### Friday, September 3
 {: .no_toc }
-Basics: Alphabet, Pronunciation, Accents
+Basics: Alphabet, Pronunciation, Accents, Inflection
 
 ***
 

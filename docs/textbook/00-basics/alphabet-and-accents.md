@@ -121,6 +121,8 @@ Occasionally, you will see a small mark underneath α, η, or ω (ᾳ, ῃ, ῳ)
 
 Try pronouncing the following words. Do not worry about the accents besides the breathing marks above the letters for now.
 
+[Answer key here](../answer-key#alphabet-and-accents-po1).
+
 1. φωνή
 2. φωνῇ
 3. ἡδεῖα
@@ -187,6 +189,8 @@ Accents may or may not occupy different positions in the same word across its di
 ### Practice Opportunity 2
 
 Add an appropriate accent (an acute, a circumflex, or a grave) on the following words given the guidelines in parentheses.
+
+[Answer key here](../answer-key#alphabet-and-accents-po2).
 
 1. δεικνυασι (recessive accent)
 2. πολιτης (persistent accent on penult, long iota, long ultima)
