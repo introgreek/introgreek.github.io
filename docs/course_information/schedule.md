@@ -126,7 +126,8 @@ Midterm
 
 ### Wednesday, October 20
 {: .no_toc }
-Translation 2 Due
+Translation 2 Due  
+**Helen Morales visit at 7pm (Zoom)**
 
 ### Friday, October 22
 {: .no_toc }
