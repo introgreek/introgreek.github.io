@@ -50,6 +50,7 @@ Throughout the semester, there will be a number of completely optional events th
 * ***short response papers.*** There will be opportunities to read articles and chapters relating to the study of ancient Greek language and culture and to respond with your thoughts about them in 1-2pp. papers. More details to come.
 * ***Helen Morales visit.*** On Wednesday, 10/20, at 7pm (via Zoom), Prof. Helen Morales of UC Santa Barbara will be paying us a (virtual) visit to discuss sections of her book *Antigone Rising: The Subversive Power of the Ancient Myths*, which investigates how ancient myths interact with modern cultural topics. It will be an awesome discussion, and you'll be able to write a reflection on the visit for a significant amount of semester points.
 * ***Twitch streams.*** (At least) three times this semester, I’ll be streaming my playthroughs of video games based on Greek mythology and history on [Twitch](https://twitch.tv/TheDancingGrad). If you attend and follow the instructions that I’ll talk about in the stream, you can earn some semester points!
+* ***Selfie and Object Analysis***. You can complete a scavenger hunt at the Worcester Art Museum to find a particular object in the Roman or Greek rooms and tie it into the themes of our course! More details to come.
 
 Check out full details of the external events and assignments [on this page](#).
 
