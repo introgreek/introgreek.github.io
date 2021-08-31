@@ -17,6 +17,10 @@ parent: Course Information
 
 ***
 
+As of the time of this writing (T 8/31, 10:30am), the schedule is filled in only through the midpoint of the semester so that we can gauge our progress and reevaluate how much time is being spent on any given topic if need be. All dates from October 25 on are blank on purpose.
+
+***
+
 ## Week 1 (9/1 - 9/3)
 
 ### Wednesday, September 1
@@ -121,17 +125,19 @@ Substantives and Adjectives Summary
 
 ### Monday, October 18
 {: .no_toc }
+Workshop / Buffer  
 Module 2 Quiz Due  
-Midterm
 
 ### Wednesday, October 20
 {: .no_toc }
-Translation 2 Due  
+Workshop / Buffer  
+Module 2 Translation Due  
 **Helen Morales visit at 7pm (Zoom)**
 
 ### Friday, October 22
 {: .no_toc }
-Composition 2 Due
+Workshop / Buffer  
+Module 2 Composition Due
 
 ***
 
@@ -139,6 +145,7 @@ Composition 2 Due
 
 ### Monday, October 25
 {: .no_toc }
+Midterm
 
 ### Wednesday, October 27
 {: .no_toc }
