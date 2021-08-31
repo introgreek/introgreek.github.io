@@ -6,9 +6,6 @@ nav_order: 2
 parent: Course Information
 ---
 
-# GRADING DETAILS TBD -- INFORMATION ON THIS PAGE IS A PLACEHOLDER FROM GREK 102 IN SPRING 2021
-{: .no_toc }
-
 # Grading
 {: .no_toc }
 
@@ -24,7 +21,7 @@ parent: Course Information
 
 Grading in this course will be slightly unorthodox. Every student will begin the semester with a **point total** of 0. Then, every assignment that you complete in the areas of daily check-ins, module quizzes, translations, compositions, exams, and external events will add points to your total. Your point total across all categories at the end of the semester will determine the semester grade that you receive, and you get to decide what combination of assignments and assessments will get you to your desired final grade. You choose the grade that you want, and you are in control of drawing your own pathway to get there.
 
-Because there will be a number of pathways to get to the minimum point total for an A (900 points), **every assignment is optional**. This includes **everything**: check-ins, quizzes, translations, compositions, exams, external events. As such, if you don’t submit an assignment by its indicated due date, I will simply assume that you have opted not to complete it and I won’t chase you down for it. If you intend to complete an assignment but anticipate difficulty in meeting its deadline, **please be proactive and contact me before it’s due**. I am flexible with granting extensions, especially in the current pandemic atmosphere, but I can’t grant an extension that isn’t asked for! I reserve the right to deduct points from or not give any credit for any assignment submitted late without prior notification or discussion.
+Because there will be a number of pathways to get to the minimum point total for an A (925 points), **every assignment is optional**. This includes **everything**: check-ins, quizzes, translations, compositions, exams, external events. As such, if you don’t submit an assignment by its indicated due date, I will simply assume that you have opted not to complete it and I won’t chase you down for it. If you intend to complete an assignment but anticipate difficulty in meeting its deadline, **please be proactive and contact me before it’s due**. I am flexible with granting extensions, especially in the current pandemic atmosphere, but I can’t grant an extension that isn’t asked for! I reserve the right to deduct points from or not give any credit for any assignment submitted late without prior notification or discussion.
 
 ***
 
@@ -46,13 +43,13 @@ There will be **four (4) composition projects** throughout the semester that wil
 There will be **two (2) exams** throughout the semester, one midterm and one final. Each exam will have a maximum total of 100 points, and it will be graded traditionally. Each exam will cover the material in its respective half of the course; this means that the final will focus on material from the second half of the course, but it will draw on material that you learned previously. Each exam will be open-note, open-resource, and open-Internet, and there will be no time limit.
 
 ### External Events and Assignments (various point totals)
-Throughout the semester, there will be a number of completely optional events that you can attend and projects that you can complete that will earn you points outside of the structures of the assessments listed above. To be clear, you can easily meet the 900-point threshold for an A in the course without attending or completing any of these events or projects, but they aim at getting you to engage with the material of the course (ancient Greek language and culture) in outside-of-the-box ways -- they’ll be a lot of fun! Each opportunity will be advertised in advance, and undoubtedly, more will pop up, but here are some that are currently on the books:
+Throughout the semester, there will be a number of completely optional events that you can attend and projects that you can complete that will earn you points outside of the structures of the assessments listed above. To be clear, you can meet the 925-point threshold for an A in the course without attending or completing any of these events or projects, but they aim at getting you to engage with the material of the course (ancient Greek language and culture) in outside-of-the-box ways -- they’ll be a lot of fun! Each opportunity will be advertised in advance, and undoubtedly, more will pop up, but here are some that are currently on the books:
 * ***short response papers.*** There will be opportunities to read articles and chapters relating to the study of ancient Greek language and culture and to respond with your thoughts about them in 1-2pp. papers. More details to come.
 * ***Helen Morales visit.*** On Wednesday, 10/20, at 7pm (via Zoom), Prof. Helen Morales of UC Santa Barbara will be paying us a (virtual) visit to discuss sections of her book *Antigone Rising: The Subversive Power of the Ancient Myths*, which investigates how ancient myths interact with modern cultural topics. It will be an awesome discussion, and you'll be able to write a reflection on the visit for a significant amount of semester points.
 * ***Twitch streams.*** (At least) three times this semester, I’ll be streaming my playthroughs of video games based on Greek mythology and history on [Twitch](https://twitch.tv/TheDancingGrad). If you attend and follow the instructions that I’ll talk about in the stream, you can earn some semester points!
-* ***Selfie and Object Analysis***. You can complete a scavenger hunt at the Worcester Art Museum to find a particular object in the Roman or Greek rooms and tie it into the themes of our course! More details to come.
+* ***Selfie and Object Analysis***. You can complete a scavenger hunt at the Worcester Art Museum to find particular objects in the Roman or Greek rooms and tie it into the themes of our course! More details to come.
 
-Check out full details of the external events and assignments [on this page](#).
+Check out full details of the external events and assignments [on this page (LINK FORTHCOMING)](#).
 
 ***
 
@@ -60,8 +57,8 @@ Check out full details of the external events and assignments [on this page](#).
 
 Homework, quizzes, exams, translations, and compositions will add up to a possible maximum of **980 points** throughout the semester; points from external events and assignments will be added into your total point pool, equivalent to points earned through the core five assessment types. The following list indicates the point ranges for semester-end grade levels:
 
-900-980 = A  
-850-899 = A-  
+925-980 = A  
+850-924 = A-  
 800-849 = B+  
 750-799 = B  
 700-749 = B-  
