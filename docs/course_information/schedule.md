@@ -25,11 +25,18 @@ As of the time of this writing (T 8/31, 10:30am), the schedule is filled in only
 
 ### Wednesday, September 1
 {: .no_toc }
-Syllabus day (website crawl, grading scheme)
+Syllabus day (website crawl, grading scheme)  
+**Today's slideshow:** [click here](https://drive.google.com/file/d/13kl-gJyFe62c_nkrOaLbEGrzGcesIc7X/view?usp=sharing)
 
 ### Friday, September 3
 {: .no_toc }
 Basics: Alphabet, Pronunciation, Accents, Inflection
+
+**HW due today:**
+* memorize the [Greek alphabet](textbook/basics/alphabet-and-accents)
+* fill out [Student Information Form](https://forms.gle/ubbEy67RFwB1YS359)
+* read through [course information (resources, policies, grading, schedule)](course_info)
+* read through [Alphabets and Accents](textbook/basics/alphabet-and-accents) and [Inflection](textbook/basics/inflection)
 
 ***
 
