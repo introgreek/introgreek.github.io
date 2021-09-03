@@ -30,7 +30,8 @@ Syllabus day (website crawl, grading scheme)
 
 ### Friday, September 3
 {: .no_toc }
-Basics: Alphabet, Pronunciation, Accents, Inflection
+Basics: Alphabet, Pronunciation, Accents, Inflection  
+**Today's slideshow:** [click here](https://drive.google.com/file/d/142hxvIFg78KkVasOhXuROybJKILHXacq/view?usp=sharing)
 
 **HW due today:**
 * memorize the [Greek alphabet](textbook/basics/alphabet-and-accents)
@@ -44,7 +45,11 @@ Basics: Alphabet, Pronunciation, Accents, Inflection
 
 ### Monday, September 6
 {: .no_toc }
-Verb Overview
+Verb Overview  
+
+**HW due today:**
+* read through [Verb Overview](https://introgreek.github.io/textbook/verbs/overview)
+* gain basic understanding of each verb aspect (person, number, tense, voice, and mood) and its possibilities
 
 ### Wednesday, September 8
 {: .no_toc }
