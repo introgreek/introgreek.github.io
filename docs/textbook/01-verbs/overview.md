@@ -96,7 +96,7 @@ In each of the following English sentences, identify the finite/conjugated verb 
 [Answer key here](../answer-key#verbs-overview-po1).
 
 1. He will arrive tomorrow.
-2. You (sg.) ordered French fries.
+2. You (singular) ordered French fries.
 3. You (sg.) ordered French fries for yourself.
 4. We are reading the books.
 5. The documents were being shown to me.
