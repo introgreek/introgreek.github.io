@@ -179,6 +179,6 @@ Here are the nouns that we will use in the coming chapters. You can bookmark [th
 | Definition | Nom. Sg. | Nom. Pl. | Acc. Sg. | Acc. Pl. |
 | ----- | ----- | ----- | ----- | ----- |
 | the city | ἡ πόλις | αἱ πόλεις | τὴν πόλιν | τὰς πόλεις |
-| the citizen | ὁ πολίτης | τὸν πολίτην | οἱ πολῖται | τοὺς πολίτας |
+| the citizen | ὁ πολίτης | οἱ πολῖται | τὸν πολίτην | τοὺς πολίτας |
 | the person | ὁ ἄνθρωπος | οἱ ἄνθρωποι | τὸν ἄνθρωπον | τοὺς ἀνθρώπους |
-| the thing; (plural) the money | τὸ χρῆμα | τὸ χρῆμα | τὰ χρήματα | τὰ χρήματα |
+| the thing; (plural) the money | τὸ χρῆμα | τὰ χρήματα | τὸ χρῆμα | τὰ χρήματα |
