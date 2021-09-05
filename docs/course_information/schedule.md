@@ -46,6 +46,7 @@ Basics: Alphabet, Pronunciation, Accents, Inflection
 ### Monday, September 6
 {: .no_toc }
 Verb Overview  
+**Today's slideshow:** [click here](https://drive.google.com/file/d/1478T-oUYwx5hlWbqnEetIKPgvoQNnT7R/view?usp=sharing)
 
 **HW due today:**
 * read through [Verb Overview](https://introgreek.github.io/textbook/verbs/overview)
@@ -53,7 +54,11 @@ Verb Overview
 
 ### Wednesday, September 8
 {: .no_toc }
-First Aorist
+First Aorist  
+
+**HW due today:**
+* read through [First Aorist](https://introgreek.github.io/textbook/verbs/first-aorist)
+* memorize the dictionary entries (bolded forms and definitions) under “Principal Parts and Memorization”
 
 ### Friday, September 10
 {: .no_toc }
