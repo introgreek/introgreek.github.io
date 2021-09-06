@@ -62,7 +62,11 @@ First Aorist
 
 ### Friday, September 10
 {: .no_toc }
-Second Aorist
+Second Aorist  
+
+**HW due today:**
+* read through [Second Aorist](https://introgreek.github.io/textbook/verbs/second-aorist)
+* memorize the dictionary entries (bolded forms and definitions) under “Unit Vocabulary”
 
 ***
 

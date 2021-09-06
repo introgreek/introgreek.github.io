@@ -15,12 +15,12 @@ Welcome to the landing page for GREK 101 01, Introduction to Greek 1, in Fall 20
 
 ## Next Deadlines
 
-### Monday, September 6
-
-* read through [Verb Overview](https://introgreek.github.io/textbook/verbs/overview)
-* gain basic understanding of each verb aspect (person, number, tense, voice, and mood) and its possibilities
-
 ### Wednesday, September 8
 
 * read through [First Aorist](https://introgreek.github.io/textbook/verbs/first-aorist)
 * memorize the dictionary entries (bolded forms and definitions) under “Principal Parts and Memorization”
+
+### Friday, September 10
+
+* read through [Second Aorist](https://introgreek.github.io/textbook/verbs/second-aorist)
+* memorize the dictionary entries (bolded forms and definitions) under “Unit Vocabulary”
