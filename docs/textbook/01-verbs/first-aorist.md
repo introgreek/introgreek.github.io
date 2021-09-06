@@ -129,7 +129,7 @@ Following our conjugation rules, we come up with the following forms for **3rd p
 
 So much for forming these verbs in Greek; what do they actually mean? Put differently, how do we translate forms like ἐκελεύσατο or ἐκέλευσαν?
 
-The verb's ending indicates the verb's person and number, and so it automatically supplies us with a subject, even if we don't have a separate word to indicate the subject as we do in English. So, the form ἐκέλευσαν, by virtue of the fact that it's **3rd person plural**, automatically has the subject "they." We can supply an explicit noun or pronoun to serve as the subject, as we'll learn in a later unit, but in the absence of an explicit noun in the appropriate case, **we should use the verb's person and number to supply a subject for the verb**.
+The verb's ending indicates the verb's person and number, and so it automatically supplies us with a subject, even if we don't have a separate word to indicate the subject as we do in English. So, the form ἐκέλευσαν, by virtue of the fact that it's **3rd person plural**, automatically has the subject "they." We can supply an explicit noun or pronoun to serve as the subject (for example, the nominative nouns in the [example nouns chart](overview#example-nouns)), but in the absence of an explicit noun in the nominative case, **we should use the verb's person and number to supply a subject for the verb**.
 
 Note also that these are **aorist** forms, so the action of the verb occurred in the past. The best translation for an aorist tense verb is its simple past tense, often denoted with an "-ed."
 
