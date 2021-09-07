@@ -55,6 +55,7 @@ Verb Overview
 ### Wednesday, September 8
 {: .no_toc }
 First Aorist  
+**Today's slideshow:** [click here](https://drive.google.com/file/d/14LpgB4NuoF5Dk-lX6j8fygTHTNtpgbnq/view?usp=sharing)
 
 **HW due today:**
 * read through [First Aorist](https://introgreek.github.io/textbook/verbs/first-aorist)
