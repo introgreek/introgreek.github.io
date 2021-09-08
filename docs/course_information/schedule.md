@@ -68,6 +68,7 @@ Second Aorist
 **HW due today:**
 * read through [Second Aorist](https://introgreek.github.io/textbook/verbs/second-aorist)
 * memorize the dictionary entries (bolded forms and definitions) under “Unit Vocabulary”
+* refresh yourself on dictionary entries for κελεύω and δείκνυμι for check-in
 
 ***
 
