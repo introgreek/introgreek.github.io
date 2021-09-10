@@ -64,6 +64,7 @@ First Aorist
 ### Friday, September 10
 {: .no_toc }
 Second Aorist  
+**Today's slideshow:** [click here](https://drive.google.com/file/d/15bEknF18qpbXOgRB1nfZFizVGfi19tHU/view?usp=sharing)
 
 **HW due today:**
 * read through [Second Aorist](https://introgreek.github.io/textbook/verbs/second-aorist)
