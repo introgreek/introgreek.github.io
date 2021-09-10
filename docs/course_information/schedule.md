@@ -77,7 +77,11 @@ Second Aorist
 
 ### Monday, September 13
 {: .no_toc }
-Clauses and Coordination
+Clauses and Coordination  
+
+**HW due today:**
+* read through [Clauses and Coordination](https://introgreek.github.io/textbook/verbs/clauses-and-coordination)
+* memorize the dictionary entries under “Unit Vocabulary”
 
 ### Wednesday, September 15
 {: .no_toc }
