@@ -15,13 +15,12 @@ Welcome to the landing page for GREK 101 01, Introduction to Greek 1, in Fall 20
 
 ## Next Deadlines
 
-### Friday, September 10
-
-* read through [Second Aorist](https://introgreek.github.io/textbook/verbs/second-aorist)
-* memorize the dictionary entries (bolded forms and definitions) under “Unit Vocabulary”
-* refresh yourself on dictionary entries for κελεύω and δείκνυμι for check-in
-
 ### Monday, September 13
 
 * read through [Clauses and Coordination](https://introgreek.github.io/textbook/verbs/clauses-and-coordination)
 * memorize the dictionary entries under “Unit Vocabulary”
+
+### Wednesday, September 15
+
+* read through [Present Tense](https://introgreek.github.io/textbook/verbs/present)
+* refresh yourself on vocab from [First Aorist](https://introgreek.github.io/textbook/verbs/first-aorist) and [Second Aorist](https://introgreek.github.io/textbook/verbs/second-aorist), especially first principal parts

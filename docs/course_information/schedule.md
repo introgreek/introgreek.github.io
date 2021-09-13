@@ -78,14 +78,19 @@ Second Aorist
 ### Monday, September 13
 {: .no_toc }
 Clauses and Coordination  
+**Today's slideshow:** [click here](https://drive.google.com/file/d/15yokGDZt4TdubV3xPsbzsmoJVsVEe4Fz/view?usp=sharing)
 
-**HW due today:**
+**HW due today:**  
 * read through [Clauses and Coordination](https://introgreek.github.io/textbook/verbs/clauses-and-coordination)
 * memorize the dictionary entries under “Unit Vocabulary”
 
 ### Wednesday, September 15
 {: .no_toc }
-Present Tense
+Present Tense  
+
+**HW due today:**  
+* read through [Present Tense](https://introgreek.github.io/textbook/verbs/present)
+* refresh yourself on vocab from [First Aorist](https://introgreek.github.io/textbook/verbs/first-aorist) and [Second Aorist](https://introgreek.github.io/textbook/verbs/second-aorist), especially first principal parts
 
 ### Friday, September 17
 {: .no_toc }
