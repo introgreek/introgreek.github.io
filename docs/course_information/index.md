@@ -13,7 +13,7 @@ has_children: true
 ## Course Details
 
 **Meeting time**: MWF 9-9:50am  
-**Meeting Place**: Smith 210  
+**Meeting Place**: Stein 134  
 **Instructor**: Prof. Daniel Libatique (he/him/his)  
 **Office**: Fenwick 410  
 **Student Hours**: M 2-3pm, T 9-10am, or by appointment  
