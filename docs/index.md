@@ -15,11 +15,6 @@ Welcome to the landing page for GREK 101 01, Introduction to Greek 1, in Fall 20
 
 ## Next Deadlines
 
-### Monday, September 13
-
-* read through [Clauses and Coordination](https://introgreek.github.io/textbook/verbs/clauses-and-coordination)
-* memorize the dictionary entries under “Unit Vocabulary”
-
 ### Wednesday, September 15
 
 * read through [Present Tense](https://introgreek.github.io/textbook/verbs/present)
