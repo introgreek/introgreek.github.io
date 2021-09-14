@@ -115,6 +115,8 @@ The verbal aspects that we took into consideration when learning about the aoris
 
 Translate the following sentences into English, using the verbs that you've learned previously and the [example nouns listed in the verb overview](http://localhost:4000/textbook/verbs/overview#example-nouns).
 
+[Answer key here](../answer-key#present-po1).
+
 1. ὁ πολίτης κελεύει τοὺς ἀνθρώπους.
 2. ὁ ἄνθρωπος τὴν πόλιν δείκνυσιν.
 3. οἱ πολῖται λέγουσιν.
@@ -196,6 +198,8 @@ The conjugation of these verbs on their first principal parts, then, will use on
 #### Practice Opportunity 2
 
 Translate the following sentences into English, using the verbs that you've learned previously and the [example nouns listed in the verb overview](http://localhost:4000/textbook/verbs/overview#example-nouns).
+
+[Answer key here](../answer-key#present-po2).
 
 1. οἱ πολῖται τὴν πόλιν ἄγονται.
 2. ὁ πολίτης ἔρχεται.
