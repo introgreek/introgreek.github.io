@@ -113,6 +113,8 @@ Some verbs are deponent in only some principal parts. For example, take a look a
 
 Translate the following sentences into English, using the verb entries above and the [example nouns listed in the verb overview](overview#example-nouns).
 
+[Answer key here](../answer-key#second-aorist-po1).
+
 1. οἱ πολῖται τὴν πόλιν ἤγαγον.
 2. ὁ πολίτης ἦλθεν.
 3. ὁ ἄνθρωπος τὰ χρήματα εἴχετο.
