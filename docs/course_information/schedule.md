@@ -87,6 +87,7 @@ Clauses and Coordination
 ### Wednesday, September 15
 {: .no_toc }
 Present Tense  
+**Today's slideshow:** [click here](https://drive.google.com/file/d/167XR9j7_TymessFzAMpP2oPyvms7BM4D/view?usp=sharing)
 
 **HW due today:**  
 * read through [Present Tense](https://introgreek.github.io/textbook/verbs/present)
