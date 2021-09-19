@@ -104,6 +104,7 @@ Present Tense Continued
 ### Monday, September 20
 {: .no_toc }
 Imperfect Tense  
+**Today's slideshow:** [click here](https://drive.google.com/file/d/181Ci5_knE6MR0qTtneLZ-AmA1jOwAuzo/view?usp=sharing)
 
 **HW due today:**
 * read through [Imperfect Tense](https://introgreek.github.io/textbook/verbs/imperfect)
@@ -111,12 +112,11 @@ Imperfect Tense
 
 ### Wednesday, September 22
 {: .no_toc }
-Epsilon Contracts
+Imperfect Continued
 
 ### Friday, September 24
 {: .no_toc }
-Nouns Overview  
-Module 1 Quiz Due
+Epsilon Contracts
 
 ***
 
@@ -124,17 +124,15 @@ Module 1 Quiz Due
 
 ### Monday, September 27
 {: .no_toc }
-Nominative, Genitive, Article  
-Module 1 Translation Due
+Verb Review
 
 ### Wednesday, September 29
 {: .no_toc }
-Accusative and Dative  
-Module 1 Composition Due
+TBD
 
 ### Friday, October 1
 {: .no_toc }
-Prepositions  
+TBD
 
 ***
 
@@ -142,15 +140,12 @@ Prepositions
 
 ### Monday, October 4
 {: .no_toc }
-Pronouns  
 
 ### Wednesday, October 6
 {: .no_toc }
-Adjectives  
 
 ### Friday, October 8
 {: .no_toc }
-Substantives and Adjectives Summary  
 
 ***
 
@@ -163,19 +158,13 @@ Substantives and Adjectives Summary
 
 ### Monday, October 18
 {: .no_toc }
-Workshop / Buffer  
-Module 2 Quiz Due  
 
 ### Wednesday, October 20
 {: .no_toc }
-Workshop / Buffer  
-Module 2 Translation Due  
 **Helen Morales visit at 7pm (Zoom)**
 
 ### Friday, October 22
 {: .no_toc }
-Workshop / Buffer  
-Module 2 Composition Due
 
 ***
 
@@ -183,7 +172,6 @@ Module 2 Composition Due
 
 ### Monday, October 25
 {: .no_toc }
-Midterm
 
 ### Wednesday, October 27
 {: .no_toc }
