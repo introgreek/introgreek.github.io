@@ -95,7 +95,7 @@ Present Tense
 
 ### Friday, September 17
 {: .no_toc }
-Imperfect Tense
+Present Tense Continued
 
 ***
 
@@ -103,11 +103,15 @@ Imperfect Tense
 
 ### Monday, September 20
 {: .no_toc }
-Epsilon Contracts
+Imperfect Tense  
+
+**HW due today:**
+* read through [Imperfect Tense](https://introgreek.github.io/textbook/verbs/imperfect)
+* refresh yourself on vocab from [First Aorist](https://introgreek.github.io/textbook/verbs/first-aorist) and [Second Aorist](https://introgreek.github.io/textbook/verbs/second-aorist), especially first principal parts
 
 ### Wednesday, September 22
 {: .no_toc }
-Verb Summary
+Epsilon Contracts
 
 ### Friday, September 24
 {: .no_toc }
