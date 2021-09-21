@@ -7,4 +7,6 @@ parent: Textbook
 has_children: true
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+# Infinitives and Participles
+
+This module introduces two verb forms outside of finite forms that we can use to add information to a sentence: the infinitive, a verbal noun; and the participle, a verb adjective. Throughout this module, you'll become familiar with the formation and uses of the infinitive and the participle.

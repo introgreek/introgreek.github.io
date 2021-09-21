@@ -7,4 +7,6 @@ parent: Textbook
 has_children: true
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+# Subordination
+
+This module introduces methods of creating complex sentences, wherein a dependent clause or verbal unit helps answer a question posed by a main clause. Some constructions that we'll discuss include indirect statement and purpose clauses, and in so doing, we'll learn about two new verb moods, the subjunctive and the optative, and when we should use them according to the sequence of moods.

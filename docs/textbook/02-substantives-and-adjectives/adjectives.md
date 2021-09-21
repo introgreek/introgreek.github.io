@@ -17,3 +17,9 @@ grand_parent: Textbook
 {:toc}
 
 ***
+
+## Noun-Adjective Agreement
+
+## Adjective Declension
+
+## Attributive and Predicative Position

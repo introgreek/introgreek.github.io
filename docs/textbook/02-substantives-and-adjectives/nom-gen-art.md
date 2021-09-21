@@ -20,6 +20,10 @@ grand_parent: Textbook
 
 ## Unit Vocabulary
 
+### Verbs
+
+* **εἰμί**, `ἔσομαι`, --, --, --, -- - "[to be](https://logeion.uchicago.edu/εἰμί)"
+
 ### First Declension
 
 * γνώμη, γνώμης, f. - "[judgment, opinion](https://logeion.uchicago.edu/γνώμη)"
@@ -58,6 +62,14 @@ There are quite a few **uses** of the genitive, but we'll focus on only one for 
   * οἱ λόγοι **τῆς γυναικός**, "The words **of the woman**"
 
 When the genitive is used in this way,
+
+***
+
+## The Article: ὁ, ἡ, τό
+
+### Attributive and Predicative Position
+
+
 
 ***
 
