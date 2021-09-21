@@ -196,3 +196,24 @@ imperfect - aorist
 
 4. ἀδικέω - 3rd singular active  
 ἠδικεῖτο
+
+***
+
+## Substantives and Adjectives
+
+### Noun Overview: PO1
+
+1. μάρτυς  
+masculine or feminine; third declension
+
+2. κίνδυνος  
+masculine; second declension
+
+3. δικαστής  
+masculine; first declension
+
+4. πρᾶγμα  
+neuter; third declension
+
+5. ἔργον  
+neuter; second declension

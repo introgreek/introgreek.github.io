@@ -87,7 +87,9 @@ Identifying the declension is also important for understanding the **noun's stem
 
 ### Practice Opportunity 1
 
-For each of the following nominative singular nouns, look up their definitions in the [master vocabulary list](#) and indicate the noun's **gender** and **declension**.
+For each of the following nominative singular nouns, look up their definitions in the [master vocabulary list](../../vocabulary/master) and indicate the noun's **gender** and **declension**.
+
+[Answer key here](../answer-key#noun-overview-po1).
 
 1. μάρτυς
 2. κίνδυνος
