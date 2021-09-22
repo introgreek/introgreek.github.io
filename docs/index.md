@@ -15,7 +15,7 @@ Welcome to the landing page for GREK 101 01, Introduction to Greek 1, in Fall 20
 
 ## Next Deadlines
 
-### Monday, September 20
+### Friday, September 24
 
-* read through [Imperfect Tense](https://introgreek.github.io/textbook/verbs/imperfect)
-* refresh yourself on vocab from [First Aorist](https://introgreek.github.io/textbook/verbs/first-aorist) and [Second Aorist](https://introgreek.github.io/textbook/verbs/second-aorist), especially first principal parts
+* read through [Epsilon Contracts](https://introgreek.github.io/textbook/verbs/epsilon-contracts)
+* memorize the dictionary entries under "Unit Vocabulary"

@@ -116,7 +116,11 @@ Imperfect Continued
 
 ### Friday, September 24
 {: .no_toc }
-Epsilon Contracts
+Epsilon Contracts  
+
+**HW due today:**
+* read through [Epsilon Contracts](https://introgreek.github.io/textbook/verbs/epsilon-contracts)
+* memorize the dictionary entries under "Unit Vocabulary"
 
 ***
 
