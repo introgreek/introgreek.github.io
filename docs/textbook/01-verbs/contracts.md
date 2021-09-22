@@ -107,6 +107,8 @@ So, given the chart above, our forms contract into the following:
 
 Conjugate the given verb into the **present tense in the indicated person, number, and voice.**
 
+[Answer key here](../answer-key#contracts-po1).
+
 1. ἀδικέω - 3rd singular middle/passive
 2. δοκέω - 3rd plural active
 3. ἀδικέω - 3rd plural middle/passive
@@ -138,6 +140,8 @@ Then, the process of contraction results in the following forms:
 #### Practice Opportunity 2
 
 Conjugate the given verb into the **imperfect tense in the indicated person, number, and voice.**
+
+[Answer key here](../answer-key#contracts-po2).
 
 1. δοκέω - 3rd singular middle/passive
 2. ἀδικέω - 3rd plural active
