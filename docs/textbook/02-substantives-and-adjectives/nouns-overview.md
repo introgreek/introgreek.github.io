@@ -50,7 +50,7 @@ As indicated above, essential information about a noun, like its gender, can be 
 
 λόγος, λόγου, m. - word
 
-Note the **four** parts of the entry:
+Note the **four** parts of the entry, respectively:
 1. the nominative singular form of the noun
 2. the genitive singular form of the noun
 3. the gender of the noun (denoted either by the letters **M**(asculine), **F**(eminine), or **N**(euter), OR the definite articles ὁ, ἡ, τό, which we'll learn about in the next unit)
@@ -66,7 +66,7 @@ Note the **four** parts of the entry:
 
 ### Declensions
 
-Greek is an inflected language and relies on word endings to reveal how a word functions within the sentence. The act of changing the ending on a noun is called **declension**; we **decline** a noun (i.e., change its endings) to reflect its different cases and numbers.
+Greek is an inflected language and relies on word endings to reveal how a word functions within the sentence. The act of changing the ending on a noun is called **declension**; we **decline** a noun (i.e., change its endings) to reflect its different **cases** and **numbers**.
 
 **Declension** can *also* refer to *groups* of nouns that share similar ending patterns to reflect those different cases and numbers. There are **three** major declensions, each with subsections:
 

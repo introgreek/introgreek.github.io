@@ -2,7 +2,7 @@
 layout: page
 title: Accusative, Dative
 permalink: /textbook/nouns/acc-dat
-nav_order: 2
+nav_order: 3
 parent: 02 - Substantives and Adjectives
 grand_parent: Textbook
 ---
