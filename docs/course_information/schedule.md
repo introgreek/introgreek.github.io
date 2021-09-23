@@ -117,6 +117,7 @@ Imperfect Continued
 ### Friday, September 24
 {: .no_toc }
 Epsilon Contracts  
+**Today's slideshow:** [click here](https://drive.google.com/file/d/18js_mUjSGrWvTS_ze9FbX1BLsqMucB6e/view?usp=sharing)
 
 **HW due today:**
 * read through [Epsilon Contracts](https://introgreek.github.io/textbook/verbs/epsilon-contracts)
