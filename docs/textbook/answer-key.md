@@ -195,7 +195,7 @@ imperfect - aorist
 ἐδοκοῦντο
 
 4. ἀδικέω - 3rd singular active  
-ἠδικεῖτο
+ἠδικεῖ(ν)
 
 ***
 
