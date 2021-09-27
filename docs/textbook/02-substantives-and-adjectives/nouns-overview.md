@@ -28,11 +28,20 @@ Ancient Greek, like English, has several **parts of speech** into which words ca
 
 Every noun in Greek has three **aspects** that indicate qualities of that noun.
 
-1. **gender**: A Greek noun can exhibit one of three grammatical genders: **masculine**, **feminine**, or **neuter**. Note my qualification: a noun's gender is *grammatical* but not necessarily biological. For example, ἀνήρ, "man", is masculine in Greek, while γυνή, "woman", is feminine. However, other noun genders are not intuitive (for example, ὁδός, "road", is feminine; λόγος, "word", is masculine; ποίημα, "poem", is neuter). As a result, **a noun's gender must be memorized in its dictionary entry** (on which see below). A noun's gender *cannot be changed*, and it helps determine what adjective forms can modify the noun or what pronoun forms can replace the noun (as you'll learn about in later units).
+1\. **gender**: A Greek noun can exhibit one of three grammatical genders: **masculine**, **feminine**, or **neuter**. Note my qualification: a noun's gender is *grammatical* but not necessarily biological. For example, ἀνήρ, "man", is masculine in Greek, while γυνή, "woman", is feminine. However, other noun genders are not intuitive (for example, ὁδός, "road", is feminine; λόγος, "word", is masculine; ποίημα, "poem", is neuter). As a result, **a noun's gender must be memorized in its dictionary entry** (on which see below). A noun's gender *cannot be changed*, and it helps determine what adjective forms can modify the noun or what pronoun forms can replace the noun (as you'll learn about in later units).
 
-2. **case**: A Greek noun can exhibit one of five core cases: **nominative, vocative, genitive, dative, or accusative**. A noun's **case** indicates the noun's function within its sentence. Because Greek is an inflected language, it does not rely on word order, like English does, to indicate how a word functions in a sentence. Rather, we *inflect* or *decline* a noun (that is, we change its endings to indicate its case) to reflect what it is doing in the sentence: whether it is a subject or direct object or the object of a preposition, etc. The noun's case will also provide information about the form that the modifying adjective or the replacing pronoun must take (more on this later).
+2\. **case**: A Greek noun can exhibit one of five core cases: **nominative, genitive, dative, accusative, or vocative**. A noun's **case** indicates the noun's function within its sentence. Because Greek is an inflected language, it does not rely on word order, like English does, to indicate how a word functions in a sentence. Rather, we *inflect* or *decline* a noun (that is, we change its endings to indicate its case) to reflect what it is doing in the sentence: whether it is a subject or direct object or the object of a preposition, etc. The noun's case will also provide information about the form that the modifying adjective or the replacing pronoun must take (more on this later).
 
-3. **number**: A Greek noun can exhibit one of three numbers: **singular** (if there's only one of the noun); **plural** (if there's more than one of the noun); or **dual** (if there are exactly two of the noun; the dual becomes progressively rarer the further in time we progress, but it tends to be used with natural pairs like eyes or knees in early works like the *Iliad* and the *Odyssey*). A noun's number *can change* depending on what is needed. Think, for example, about the difference between one "dog" and three "dogs" -- same noun, but singular and plural number, respectively. A noun's number is particularly important for subject-verb agreement, which you'll learn about in later units.
+Here are some quick examples of the uses of each case:
+* **nominative**: subject, predicate nominative
+* **genitive**: possession, agent
+* **dative**: indirect object
+* **accusative**: direct object
+* **vocative**: direct address
+
+We'll learn about each of these cases in the coming units.
+
+3\. **number**: A Greek noun can exhibit one of three numbers: **singular** (if there's only one of the noun); **plural** (if there's more than one of the noun); or **dual** (if there are exactly two of the noun; the dual becomes progressively rarer the further in time we progress, but it tends to be used with natural pairs like eyes or knees in early works like the *Iliad* and the *Odyssey*). A noun's number *can change* depending on what is needed. Think, for example, about the difference between one "dog" and three "dogs" -- same noun, but singular and plural number, respectively. A noun's number is particularly important for subject-verb agreement, which you'll learn about in later units.
 
 Every Greek noun has a **gender**, **case**, and **number**, and the possibilities are summarized as follows:
 
@@ -70,7 +79,7 @@ Greek is an inflected language and relies on word endings to reveal how a word f
 
 **Declension** can *also* refer to *groups* of nouns that share similar ending patterns to reflect those different cases and numbers. There are **three** major declensions, each with subsections:
 
-* The **alpha/eta declension** (also called **first declension**) exhibits a large number of alphas and/or etas in its endings and includes feminine and masculine nouns. Subsections of this declension include short alpha, long alpha, and eta variants.
+* The **alpha/eta declension** (also called **first declension**) exhibits a large number of alphas and/or etas in its endings and includes feminine and masculine nouns. Subsections of this declension include long feminine, short feminine, and masculine variants.
 * The **omicron declension** (also called **second declension**) exhibits a large number of omicrons in its endings and includes nouns of all three genders.
 * The **consonant declension** (also called **third declension**) exhibits wide variety in its endings and includes nouns of all three genders.
 

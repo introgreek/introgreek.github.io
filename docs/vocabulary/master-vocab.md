@@ -13,6 +13,7 @@ parent: Vocabulary
 α
 
 * ἄγω, ἄξω, ἤγαγον, ἦχα, ἦγμαι, ἤχθην - "[to lead](https://logeion.uchicago.edu/ἄγω)"
+* ἀδικέω, ἀδικήσω, ἠδίκησα, ἠδίκηκα, ἠδίκημαι, ἠδικήθην - "[to do wrong, injure](https://logeion.uchicago.edu/ἀδικέω)"
 * ἄνθρωπος, ἀνθρώπου, m. - "[person, human](https://logeion.uchicago.edu/ἄνθρωπος)"
 * ἀνήρ, ἀνδρός, m. - "[man, husband](https://logeion.uchicago.edu/ἀνήρ)"
 * αὐτός, αὐτή, αὐτό - him, her, it, them; (intensive pronoun, *not* reflexive) myself, yourself, etc.; (in attributive position) the same
@@ -32,6 +33,7 @@ parent: Vocabulary
 * δείκνυμι, δείξω, ἔδειξα, δέδειχα, δέδειγμαι, ἐδείχθην - [to show](https://logeion.uchicago.edu/δείκνυμι)"
 * δικαστής, δικαστοῦ, m. - "[juror](https://logeion.uchicago.edu/δικαστής)"
 * δίκη, δίκης, f. - "[trial, lawsuit, penalty, custom, right](https://logeion.uchicago.edu/δίκη)"
+* δοκέω, δοκήσω, ἔδοξα, --, δέδογμαι, -ἐδόχθην - "[to think; (3rd sg.) to seem (best)](https://logeion.uchicago.edu/δοκέω)"
 
 ε
 
@@ -71,6 +73,7 @@ o
 
 * παῖς, παῖδος, m./f. - "[child](https://logeion.uchicago.edu/παῖς)"
 * πατήρ, πατρός, m. - "[father](https://logeion.uchicago.edu/πατήρ)"
+* ποιέω, ποιήσω, ἐποίησα, πεποίηκα, πεποίημαι, ἐποιήθην - "[to make, do](https://logeion.uchicago.edu/ποιέω)"
 * πόλις, πόλεως, f. - "[city](https://logeion.uchicago.edu/πόλις)"
 * πολίτης, πολίτου, m. - "[citizen](https://logeion.uchicago.edu/πολίτης)"
 * πρᾶγμα, πράγματος, n. - "[deed](https://logeion.uchicago.edu/πρᾶγμα)"

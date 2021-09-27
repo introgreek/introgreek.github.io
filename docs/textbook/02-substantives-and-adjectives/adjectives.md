@@ -2,7 +2,7 @@
 layout: page
 title: Adjectives
 permalink: /textbook/nouns/adjectives
-nav_order: 6
+nav_order: 4
 parent: 02 - Substantives and Adjectives
 grand_parent: Textbook
 ---

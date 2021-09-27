@@ -217,3 +217,41 @@ neuter; third declension
 
 5. ἔργον  
 neuter; second declension
+
+### Nominative, Genitive, and the Article: PO1
+
+1. ἀνθρώπων  
+masculine genitive plural
+
+2. γυναικές  
+feminine nominative plural
+
+3. συμφορᾶς  
+feminine genitive singular
+
+4. ἔργα  
+neuter nominative plural  
+(also neuter accusative plural, as we'll learn in the next unit)
+
+5. θάλαττα  
+feminine nominative singular
+
+6. ἀνήρ  
+masculine nominative singular
+
+### Nominative, Genitive, and the Article: PO2
+
+1. ὁ τῆς γυναικὸς ἀνὴρ ἐκελεύσθη.  
+The husband of the woman was ordered.
+
+2. αἱ γνῶμαι τῶν δικαστῶν δείκνυνται.  
+The opinions of the jurors are (being) shown.
+
+3. οἱ ἄνθρωποι πρὸς τὴν θάλατταν\* ἤγοντο. (πρὸς τὴν θάλατταν = "to the sea")  
+The people were being led to the sea.
+
+4. τὰ ἔργα ποιεῖται.  
+The deeds are (being) done.
+
+5. αἱ συμφοραὶ ἐγένοντο.  
+The events happened.
