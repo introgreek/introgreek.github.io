@@ -133,7 +133,11 @@ Verb Review
 
 ### Wednesday, September 29
 {: .no_toc }
-TBD
+Nouns Overview  
+**Today's slideshow:** [click here](https://drive.google.com/file/d/18shk2pNMudDmtP0LK0fmiSsvf1T4vZy0/view?usp=sharing)
+
+**HW due today:**
+* read through [Nouns Overview](https://introgreek.github.io/textbook/nouns/nouns-overview)
 
 ### Friday, October 1
 {: .no_toc }
@@ -145,12 +149,15 @@ TBD
 
 ### Monday, October 4
 {: .no_toc }
+Module 1 Quiz due today
 
 ### Wednesday, October 6
 {: .no_toc }
+Module 1 Translation due today
 
 ### Friday, October 8
 {: .no_toc }
+Module 1 Composition due today
 
 ***
 

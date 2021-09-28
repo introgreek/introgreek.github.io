@@ -15,7 +15,7 @@ Welcome to the landing page for GREK 101 01, Introduction to Greek 1, in Fall 20
 
 ## Next Deadlines
 
-### Friday, September 24
+### Wednesday, September 29
 
-* read through [Epsilon Contracts](https://introgreek.github.io/textbook/verbs/epsilon-contracts)
+* read through [Nouns Overview](https://introgreek.github.io/textbook/nouns/nouns-overview)
 * memorize the dictionary entries under "Unit Vocabulary"
