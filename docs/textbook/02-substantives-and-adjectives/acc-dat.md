@@ -41,10 +41,16 @@ grand_parent: Textbook
 
 ***
 
-## Accusative
+## Case Uses: Accusative and Dative
 
-We continue our discussion of noun cases by exploring the **accusative** and the **dative** next. In traditional paradigm charts, accusative tends to come after dative (as you can see in the [noun paradigm charts](../../reference/nouns))
+We continue our discussion of noun cases by exploring the **accusative** and the **dative** next. In traditional paradigm charts, accusative tends to come after dative (as you can see in the [noun paradigm charts](../../reference/nouns)), but beginning with the accusative gives us a reference point to discuss the dative.
 
-## Dative
+### Accusative
+
+### Dative
+
+## Accusative and Dative Endings
+
+
 
 ### Third Declension Dative Plurals

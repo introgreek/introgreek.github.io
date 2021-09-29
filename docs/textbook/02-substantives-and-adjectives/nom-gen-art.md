@@ -78,7 +78,7 @@ There are quite a few **uses** of the genitive, but we'll focus on only one for 
   * ἡ γνώμη **τοῦ ἀνδρός**, "The opinion **of the man**" or "the **man's** opinion"
   * τὰ ἔργα **τῆς γυναικός**, "The deeds **of the woman**" or "the **woman's** deeds"
 
-Note that we can also write the phrases above in the following way, sandwiching the genitive phrase between the article and the noun without any change in meaning:
+Note that we can also write the phrases above in the following way, sandwiching the genitive phrase between the article (on which see below) and the noun without any change in meaning:
 
 * ἡ τοῦ ἀνδρὸς γνώμη
 * τὰ τῆς γυναικὸς ἔργα
@@ -203,7 +203,7 @@ The third declension exhibits the most variety by far in terms of what can appea
 
 In Greek, the **definite article** is used with a noun to indicate that we're talking about a specific noun. Its translation defaults to the English "the", but it can also be used to indicate possession (e.g., ἡ γνώμη = "the opinion" or "my/your/their [etc.] opinion") or stand alone as a pronoun (on which we'll learn more in the unit on pronouns).
 
-Unlike nouns, the article does not have different declensions or subgroups. **The article declines to match its noun in gender, case, and number**, and its forms (including for the accusative and dative cases, which we'll talk about in the next unit) are as follows:
+Unlike nouns, the article does not have different declensions or subgroups; there is only one definite article. **The article does decline [i.e., we change its form] to match its noun in gender, case, and number**, and its forms (including for the accusative and dative cases, which we'll talk about in the next unit) are as follows:
 
 | Case and Number | Masculine | Feminine | Neuter |
 | --- | --- | --- | --- |
