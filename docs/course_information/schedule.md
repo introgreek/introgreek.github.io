@@ -141,7 +141,8 @@ Nouns Overview
 
 ### Friday, October 1
 {: .no_toc }
-TBD
+Nominative, Genitive, and the Article  
+**Today's slideshow:** [click here](https://drive.google.com/file/d/190rc6wRISYaiFCojeb_Aoep80e14Q42w/view?usp=sharing)
 
 ***
 
@@ -149,6 +150,7 @@ TBD
 
 ### Monday, October 4
 {: .no_toc }
+Nominative, Genitive, and the Article continued  
 Module 1 Quiz due today
 
 ### Wednesday, October 6
