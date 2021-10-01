@@ -15,7 +15,12 @@ Welcome to the landing page for GREK 101 01, Introduction to Greek 1, in Fall 20
 
 ## Next Deadlines
 
-### Wednesday, September 29
+### Friday, October 1
 
-* read through [Nouns Overview](https://introgreek.github.io/textbook/nouns/nouns-overview)
+* read through [Nominative, Genitive, and the Article](https://introgreek.github.io/textbook/nouns/nom-gen-art)
 * memorize the dictionary entries under "Unit Vocabulary"
+
+### Monday, October 4
+
+* submit Module 1 Quiz
+* begin memorizing: Nominative, Genitive, and the Article Unit Vocabulary; nom. and gen. noun endings; definite article chart.
