@@ -255,3 +255,42 @@ The deeds are (being) done.
 
 5. αἱ συμφοραὶ ἐγένοντο.  
 The events happened.
+
+### Accusative and Dative: PO1
+
+1. The sailor sent the money to his family. (3)  
+sailor - nominative (subject); money - accusative (direct object); family - dative (indirect object)
+
+2. The students heard the teacher's words. (3)  
+students - nominative (subject); teacher's - genitive (possession); words - accusative (direct object)
+
+3. The children gave the parent the book. (3)  
+children - nominative (subject); parent - dative (indirect object); book - accusative (direct object)
+
+4. The home of the family was being built. (2)  
+home - nominative (subject); family - genitive (possession)
+
+### Accusative and Dative: PO2
+
+1. οἱ παῖδες τοὺς πολίτας ἠγάγοντο.  
+direct object: τοὺς πολίτας  
+The children led the citizens.
+
+2. ἡ γυνὴ τοὺς λόγους τῷ ἀνδρὶ ἔλεγεν.  
+direct object: τοὺς λόγους  
+indirect object: τῷ ἀνδρὶ  
+The wife was speaking the words to (her) husband.
+
+3. τὸ πρᾶγμα ἐποίουν.  
+direct object: τὸ πρᾶγμα  
+They were doing the deed.
+
+4. ὁ ἄνθρωπος τοῖς μάρτυρσι τὸν κίνδυνον ἔδειξεν.  
+direct object: τὸν κίνδυνον  
+indirect object: τοῖς μάρτυρσι  
+The person showed the danger to the witnesses.
+
+5. οἱ ἀνδρὲς τὰ χρήματα τοῖς παισὶν εἶχον. (τὰ χρήματα > χρῆμα, χρήματος, n. - "thing; [plural] money, goods, property")  
+direct object: τὰ χρήματα  
+indirect object: τοῖς παισὶν  
+The men were holding the money for (their) children.
