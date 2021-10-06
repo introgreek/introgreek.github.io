@@ -155,10 +155,14 @@ Module 1 Quiz due today
 
 ### Wednesday, October 6
 {: .no_toc }
-Module 1 Translation due today
+Accusative and Dative  
+**Today's slideshow:**: [click here](https://drive.google.com/file/d/19ToltnTOllTTUcWiUj7UGpA6qXEM1cVc/view?usp=sharing)  
+Module 1 Translation due today  
+Hades Twitch stream tonight 5-7pm
 
 ### Friday, October 8
 {: .no_toc }
+Accusative and Dative continued  
 Module 1 Composition due today
 
 ***
