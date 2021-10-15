@@ -294,3 +294,20 @@ The person showed the danger to the witnesses.
 direct object: τὰ χρήματα  
 indirect object: τοῖς παισὶν  
 The men were holding the money for (their) children.
+
+### Prepositions: PO1
+
+### Prepositions: PO2
+
+1. ἡ γυνὴ τοὺς λόγους ἔλεγεν.  
+οἱ λόγοι ὑπὸ τῆς γυναικὸς ἐλέγοντο.  
+The woman was saying the words. > The words were being said by the woman.
+
+2. οἱ ἀνδρὲς ἠδίκησαν τοὺς πολίτας.  
+οἱ πολῖται ἠδικήθησαν ὑπὸ τῶν ἀνδρῶν.  
+The men injured the citizens. > The citizens were injured by the men.
+
+3. τὰ ἔργα οἱ ἄνθρωποι ποιοῦσιν.  
+τὰ ἔργα ὑπὸ τῶν ἀνθρώπων ποιεῖται.\*  
+The people are doing the deeds. > The deeds are (being) done by the people.  
+\* Note that in the answer, τὰ ἔργα is the nominative subject of the verb, rather than the accusative direct object as in the original sentence. ποιεῖται is singular because neuter plural subjects take singular verbs (rather counterintuitively).

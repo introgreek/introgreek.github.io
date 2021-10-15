@@ -69,16 +69,16 @@ parent: Vocabulary
 
 ## Prepositions
 
-* ἀνά
-* κατά
-* ὑπό
-* ὑπέρ
-* μετά
-* παρά
-* περί
-* πρός
-* ἐκ
-* ἀπό
-* εἰς
-* ἐπί
-* ἐν
+* ἀνά - up
+* κατά - down
+* ὑπό - under
+* ὑπέρ - over, above
+* μετά - after; with (+ gen.)
+* παρά - next to
+* περί - around
+* πρός - to, toward
+* ἐκ (+ gen.) - out of
+* ἀπό (+ gen.) - away from
+* εἰς (+ acc.) - into
+* ἐπί - on, upon
+* ἐν (+ dat.) - in
