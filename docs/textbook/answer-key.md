@@ -297,6 +297,21 @@ The men were holding the money for (their) children.
 
 ### Prepositions: PO1
 
+1. ἡ δίκη εἴχετο παρὰ τὴν θάλατταν.  
+The trial was being held by/next to the sea.
+
+2. οἱ ἀνδρὲς σὺν ταῖς γυναιξὶν ἔρχονται.  
+The husbands are going with their wives.
+
+3. ἀνὰ τὸ ὄρος ὁ μάρτυς ἤγετο. (ὄρος, ὄρους, n. - mountain)  
+The witness was being led up to the mountain.
+
+3. ἀνὰ τῆς θαλάττης ὁ μάρτυς ἤγετο.  
+The witness was being led up from the sea.
+
+5. ἐν κινδύνῳ εἰσίν. (εἰσίν = "they are")  
+They are in danger.
+
 ### Prepositions: PO2
 
 1. ἡ γυνὴ τοὺς λόγους ἔλεγεν.  

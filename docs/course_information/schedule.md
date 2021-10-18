@@ -176,10 +176,16 @@ Module 1 Composition due today
 
 ### Monday, October 18
 {: .no_toc }
+Cases Review
 
 ### Wednesday, October 20
 {: .no_toc }
-**Helen Morales visit at 7pm (Zoom)**
+Prepositions  
+**Today's slideshow**: TBD
+
+**HW due and events happening today:**
+* Read [Prepositions](textbook/nouns/prepositions) and begin memorizing its unit vocabulary
+* Prof. Helen Morales' visit at 7pm via Zoom (check email for Zoom invitation)
 
 ### Friday, October 22
 {: .no_toc }

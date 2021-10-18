@@ -53,9 +53,9 @@ In these examples, the prepositional phrase tells us more about a noun by answer
 
 Compare this against prepositional phrases that function adverbially, to answer questions like "where", "when" or "how":
 * We are standing **on the platform.** (Where are we standing? On the platform.)
-* They were coming **from the concert.** (Where did they come from? From the concert.)
+* The clock chimes **on the hour.** (When does it chime? On the hour, every hour.)
 
-In all of these examples, the preposition (e.g., "in", "behind", "on", "from") serves as a bridge word that relates the prepositional object either to another noun or to the verb's action.
+In all of these examples, the preposition (e.g., "in", "behind", "on") serves as a bridge word that relates the prepositional object either to another noun or to the verb's action.
 
 ***
 
@@ -79,11 +79,11 @@ However, when the object of μετά is in the *genitive* case, μετά means
 
 * ὁ πολίτης ἦλθε **μετὰ τοῦ δικαστοῦ**. The citizen came *with the juror*.
 
-So, you must know both what the preposition means and pay attention to the case of its object; the case of the object can change that definition, the meaning of the prepositional phrase, and the idea being communicated by the sentence.
+So, you must both know what the preposition means and pay attention to the case of its object; the case of the object can change that definition, the meaning of the prepositional phrase, and the idea being communicated by the sentence.
 
-### Case
+### Case Directions
 
-Each of the cases has a direction inherent in it.
+With prepositions that can take any of the three oblique cases, there is often a rationale to the use of one case versus another. We've discussed how each preposition has a location or direction inherent in its definition, but the case of a prepositional object *also* has a direction or location inherent in it:
 * The **accusative** usually indicates **motion toward** the prepositional object.
 * The **dative** usually indicates a **static location** for the prepositional object.
 * The **genitive** usually indicates **motion away from** the prepositional object.
@@ -92,8 +92,10 @@ When we combine the case of the prepositional object with the direction/location
 
 * ἦλθον **κατὰ τῆς νεώς**. (νεώς > gen. sg. of ναῦς, νεώς, f. - ship)
   * They came down from the ship.
-* ἦλθον **κατὰ τὴν ναῦν**. (νεώς > acc. sg. of ναῦς, νεώς, f. - ship)
+* ἦλθον **κατὰ τὴν ναῦν**. (ναῦν > acc. sg. of ναῦς, νεώς, f. - ship)
   * They came down to the ship.
+
+The direction of "down" is inherent in the preposition κατά, and it indicates in what direction the subject is coming (ἦλθον κατά - they came *down*). The object of the preposition, then, fills out the picture further. If we use the genitive, which indicates **motion away from** the object, the image that we get is of the subject disembarking from the ship, presumably from the high desk to the lower ground of the shore: ἦλθον κατὰ τῆς νεώς, they came *down from* (κατά + gen.) the ship. However, if we use the accusative, which indicates **motion toward** the object, the image that we get is of the subject approaching the ship, presumably from higher ground to sea level: ἦλθον κατὰ τὴν ναῦν, they came down *to* (κατά + acc.) the ship. These nuances draw a more detailed and complete picture of how a verbal action occurs.
 
 ***
 
@@ -103,7 +105,11 @@ Translate the following sentences.
 
 [Answer key here](../answer-key#prepositions-po1).
 
-1.
+1. ἡ δίκη εἴχετο παρὰ τὴν θάλατταν.
+2. οἱ ἀνδρὲς σὺν ταῖς γυναιξὶν ἔρχονται.
+3. ἀνὰ τὸ ὄρος ὁ μάρτυς ἤγετο. (ὄρος, ὄρους, n. - mountain)
+3. ἀνὰ τῆς θαλάττης ὁ μάρτυς ἤγετο.
+5. ἐν κινδύνῳ εἰσίν. (εἰσίν = "they are")
 
 ***
 
@@ -121,7 +127,7 @@ In a sentence with a **passive** verb, however, the subject *receives* the actio
 
 * ὁ μάρτυς εἰς τὴν οἰκίαν ἄγεται. The witness is being led into the house.
 
-We're left wondering, though -- who is doing the leading? Who is performing that verb's action? A **genitive of agent** construction helps answer that question, even though it is not technically necessary for the sentence to make sense. So, **ὑπὸ τῶν πολιτῶν** ("by the citizens")
+We're left wondering, though -- who is doing the leading? Who is performing that verb's action? A **genitive of agent** construction helps answer that question, even though it is not technically necessary for the sentence to make sense. So, **ὑπὸ τῶν πολιτῶν** ("by the citizens") gives us that answer.ßß
 
 ***
 
