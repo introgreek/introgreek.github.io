@@ -181,7 +181,7 @@ Cases Review
 ### Wednesday, October 20
 {: .no_toc }
 Prepositions  
-**Today's slideshow**: TBD
+**Today's slideshow**: [click here](https://drive.google.com/file/d/1Ah9svOuA2RqY4fG7QFMSc_0OVXz79o_2/view?usp=sharing)
 
 **HW due and events happening today:**
 * Read [Prepositions](textbook/nouns/prepositions) and begin memorizing its unit vocabulary
