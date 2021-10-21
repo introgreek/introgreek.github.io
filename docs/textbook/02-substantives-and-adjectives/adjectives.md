@@ -21,8 +21,7 @@ grand_parent: Textbook
 ## Unit Vocabulary
 
 ### Vowel Declension
-* ἄδικος, ἄδικον - unjust
-* ἀθάνατος, ἀθάνατον - undying, immortal
+{: .no_toc }
 * πρότερος, πρότερα, πρότερον - previous, former, earlier
 * μίκρος, μίκρα, μίκρον - small
 * ἀγαθός, ἀγαθή, ἀγαθόν - noble, good
@@ -30,10 +29,13 @@ grand_parent: Textbook
 * πρῶτος, πρώτη, πρῶτον - first
 * ὕστατος, ὑστάτη, ὕστατον - last
 * ἄλλος, ἄλλη, ἄλλο - another, other; (ἄλλος ... ἄλλος) one ... the other
+* ἄδικος, ἄδικον - unjust
+* ἀθάνατος, ἀθάνατον - undying, immortal
 
 ### Consonant Declension
-* μέγας, μεγάλη, μέγα - great, big
-* πᾶς, πᾶσα, πᾶν - each, every, all
+{: .no_toc }
+* πᾶς, πᾶσα, πᾶν (m./n. stem πάντ-) - (sg.) each, every; (pl.) all
+* σώφρων, σῶφρον (stem σώφρον-) - wise
 
 ***
 
@@ -73,13 +75,15 @@ Like nouns, however, adjectives belong to certain groups and subgroups that dete
 
 There are two major adjective declensions, each with two sub-groups:
 1. **vowel declension** (1st/2nd declension)
-  1. three-termination (-ος, -α/-η, -ον) (2-1-2)
-  2. two-termination (-ος, -ον)
+    * three-termination (-ος, -α/-η, -ον) (2-1-2)
+    * two-termination (-ος, -ον)
 2. **consonant declension** (3rd declension-ish)
-  1. three-termination (--, -α, --) (3-1-3)
-  2. two-termination (-ης, -ες or -ων, -ον)
+    * three-termination (--, -α, --) (3-1-3)
+    * two-termination (-ων, -ον or -ης, -ες)
 
 Each of these declensions and sub-groups has certain features and rules of declension that will be discussed under the appropriate subheading and ending chart below.
+
+***
 
 ### Vowel-Declension
 
@@ -138,7 +142,7 @@ Two-termination vowel declension adjectives are essentially 2-1-2s with the femi
 
 You'll notice that there are only two Greek forms in the entry that end in the pattern -ος, -ον. This differentiates two-terminations from 2-1-2s because of the absence of an entry ending in -α or -η.
 
-In the absence of discrete feminine endings, **the first column of the paradigm is used for both masculine and feminine forms of the adjective**.
+In the absence of discrete feminine endings, **the first column of the paradigm is used for both masculine and feminine forms of the adjective**. Hence, the name "two-termination", for the fact that there are only two forms of the nominative singular: one for masculine *and* feminine, and one for neuter.
 
 | | Masc./Fem. | Neut. |
 | ----- | ----- | ----- |
@@ -170,13 +174,23 @@ Two-termination vowel declension adjectives, like 2-1-2s, must match the nouns t
 
 But:
 
-* τὴν ἄδικον γνώμην, "the unjust opinion"
+* τὴν ἄδικον γνώμην, "the unjust opinion" (feminine accusative singular)
 
 Because ἄδικος is two-termination, the same form (ἄδικον) is used for both **masculine** accusative singular and **feminine** accusative singular.
 
+***
+
 ### Consonant Declension
 
+Consonant declension adjectives exhibit a wide variety of patterns and idiosyncrasies. While I will do my best to summarize the features of the consonant declension under each subgroup below, please be aware that there will be a lot of exceptions to these rules and morphological features that we have yet to practice that will result in strange forms later on down the line. For ease of introduction, though, I will use only "regular" examples and delineate the general rules that govern consonant declension adjectives.
+
 #### Three-Termination (3-1-3)
+
+Like the vowel declension, the consonant declension of adjectives has two subgroups: three-termination and two-termination. These distinctions mean the same thing as in the vowel declension: three-termination adjectives have three distinct forms for the nominative singular (masculine, feminine, and neuter), while two-termination adjectives have only two distinct forms for the nominative singular (masculine/feminine and neuter).
+
+Three-termination consonant declension adjectives, however, use a strange combination of **third** declension endings for **masculine and neuter** forms and **first** declension endings for **feminine** forms; hence, the alternative name for this subgroup: **3-1-3** (compare this with 2-1-2).
+
+Moreover, the rules of declension are different for masculine and neuter versus feminine. Feminine forms of the adjective like vowel declension adjectives: remove the -α ending and add the appropriate endings for case and number. Masculine and neuter adjectives, however, have an adjective stem that you can get in one of two ways: either take it from the **masculine genitive singular** form or look to the **dictionary entry**, which will be marked with a notation like "(m./n. stem ____)."
 
 | | Masc. | Fem. | Neut. |
 | ----- | ----- | ----- | ----- |
@@ -188,3 +202,32 @@ Because ἄδικος is two-termination, the same form (ἄδικον) is used 
 | Gen. Pl. | -ων | -ων | -ων |
 | Dat. Pl. | -σι(ν) | -αις | -σι(ν) |
 | Acc. Pl. | -ας | -ας | -α |
+
+Like third declension nouns, there are a variety of possible endings for the masculine and neuter nominative singular forms of a 3-1-3, hence the "--" in those boxes in the chart above.
+
+Here is the paradigm for our sole 3-1-3 adjective in this unit: πᾶς, πᾶσα, πᾶν - (sg.) each, every; (pl.) all
+
+| | Masc. | Fem. | Neut. |
+| ----- | ----- | ----- | ----- |
+| Nom. Sg. | πᾶς | πᾶσα | πᾶν |
+| Gen. Sg. | πάντος | πάσης | πάντος |
+| Dat. Sg. | πάντι | πάσῃ | πάντι |
+| Acc. Sg. | πάντα | πᾶσαν | πᾶν |
+| Nom. Pl. | πάντες | πᾶσαι | πάντα |
+| Gen. Pl. | πάντων | πασῶν | πάντων |
+| Dat. Pl. | πᾶσι(ν) | πάσαις | πᾶσι(ν) |
+| Acc. Pl. | πάντας | πάσας | πάντα |
+
+And the same disclaimers about matching this adjective to a noun apply: the adjective must match the noun in gender, case, and number, but not necessarily ending:
+
+* τὰς πάσας συμφοράς, "all the outcomes" (feminine accusative plural)
+
+But:
+
+* τὸν πάντα δικαστήν, "every juror" (masculine accusative singular)
+
+Note how not only do the adjective (πάντα) and the noun (δικαστήν) not share the same ending, but even the article (τὸν) differs as well. However, this is a correct formation: the article, the adjective, and the noun are *all* masculine accusative singular.
+
+#### Two-Termination
+
+Like its vowel declension counterpart, a two-termination consonant declension adjective yeets the feminine column in favor of one consolidated form for both masculine and feminine
