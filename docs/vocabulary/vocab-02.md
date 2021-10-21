@@ -64,6 +64,7 @@ parent: Vocabulary
 * πρῶτος, -η, -ον - first
 * ὕστατος, -η, -ον - last
 * πᾶς, πᾶσα, πᾶν - each, every, all
+* ἄδικος, -ον - unjust
 
 ***
 
