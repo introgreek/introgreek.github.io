@@ -230,4 +230,48 @@ Note how not only do the adjective (πάντα) and the noun (δικαστήν
 
 #### Two-Termination
 
-Like its vowel declension counterpart, a two-termination consonant declension adjective yeets the feminine column in favor of one consolidated form for both masculine and feminine
+Like its vowel declension counterpart, a two-termination consonant declension adjective yeets the feminine column in favor of one consolidated form for both masculine and feminine; the neuter has its own form.
+
+| | Masc. | | Neut. |
+| ----- | ----- | ----- |
+| Nom. Sg. | -- | -- |
+| Gen. Sg. | -ος | -ος |
+| Dat. Sg. | -ι | -ι |
+| Acc. Sg. | -α | same as nom. |
+| Nom. Pl. | -ες | -α |
+| Gen. Pl. | -ων | -ων |
+| Dat. Pl. | -σι(ν) | -σι(ν) |
+| Acc. Pl. | -ας | -α |
+
+Two-termination consonant declension adjectives fall into one of two groups, based on their definition entries: -ων, -ον or -ης, -ες. The latter involves complicated contractions, so we will deal with it at a later point and focus for now on the -ων, -ον variant.
+
+Like the masculine and neuter forms of 3-1-3s, all oblique forms of a two-termination consonant declension adjective will be built on a stem that is either apparent in the masculine/feminine genitive singular or in the dictionary entry. For example:
+
+* σώφρων, σῶφρον (stem σώφρον-) - wise
+
+Hence:
+
+| | Masc. | | Neut. |
+| ----- | ----- | ----- |
+| Nom. Sg. | σώφρων | σῶφρον |
+| Gen. Sg. | σώφρονος | σώφρονος |
+| Dat. Sg. | σώφρονι | σώφρονι |
+| Acc. Sg. | σώφρονα | σῶφρον |
+| Nom. Pl. | σώφρονες | σώφρονα |
+| Gen. Pl. | σωφρόνων | σωφρόνων |
+| Dat. Pl. | σώφροσι(ν) | σώφροσι(ν) |
+| Acc. Pl. | σώφρονας | σώφρονα |
+
+And again, the now usual disclaimers apply regarding adjective-noun agreement.
+
+* τὰ σώφρονα πράγματα, "the wise deeds" (neuter nom./acc. plural)
+
+But:
+
+* τοῖς σώφροσι πολίταις, "to the wise citizens" (masculine dative plural)
+
+***
+
+## Substantive Adjectives
+
+An adjective may be used on its own or with an article to

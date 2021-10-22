@@ -189,6 +189,8 @@ Prepositions
 
 ### Friday, October 22
 {: .no_toc }
+Adjectives  
+**Today's slideshow**: [click here](https://drive.google.com/file/d/1AkV8rSTXpwT91b8IbfX5oZkAOscqKPf4/view?usp=sharing)
 
 ***
 
