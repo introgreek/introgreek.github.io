@@ -232,7 +232,7 @@ Note how not only do the adjective (πάντα) and the noun (δικαστήν
 
 Like its vowel declension counterpart, a two-termination consonant declension adjective yeets the feminine column in favor of one consolidated form for both masculine and feminine; the neuter has its own form.
 
-| | Masc. | | Neut. |
+| | Masc. | Neut. |
 | ----- | ----- | ----- |
 | Nom. Sg. | -- | -- |
 | Gen. Sg. | -ος | -ος |
@@ -251,7 +251,7 @@ Like the masculine and neuter forms of 3-1-3s, all oblique forms of a two-termin
 
 Hence:
 
-| | Masc. | | Neut. |
+| | Masc. | Neut. |
 | ----- | ----- | ----- |
 | Nom. Sg. | σώφρων | σῶφρον |
 | Gen. Sg. | σώφρονος | σώφρονος |
@@ -272,6 +272,54 @@ But:
 
 ***
 
+## Practice Opportunity 1
+
+Identify the **declension and sub-group** of the given adjective, and then make it match the given noun form. For example:
+
+* καλός, καλή, καλόν - beautiful, handsome -> πολίτας
+    * vowel declension three-termination (2-1-2) -> καλούς
+
+[Answer key here](../answer-key#adjectives-po1).
+
+1. δίκαιος, δικαία, δίκαιον - just -> δικασταῖς
+2. ἀδύνατος, ἀδύνατον - impossible -> συμφορᾷ
+3. μέλας, μέλαινα, μέλαν (m./n. stem μέλαν-) - black -> βιβλίου (βιβλίον, βιβλίου, n. - book)
+4. ἐχθρός, ἐχθρά, ἐχθρόν - hated, hostile -> ἄνδρες
+5. ἀμείνων, ἀμεῖνον (stem ἀμεινον-) - better -> δίκαι  
+
+***
+
 ## Substantive Adjectives
 
-An adjective may be used on its own or with an article to
+If an adjective is used on its own or with an article (i.e., without an explicit noun for it to modify), we consider it a **substantive adjective**, which means that we need to use its gender and number to supply a noun for the adjective to modify. Take a look at the following example:
+
+* οἱ ἀγαθοὶ τοὺς λόγους εἶπον.
+
+ἀγαθοί is masculine nominative plural. The gender (masculine) and number (plural) are enough to indicate the noun modified by the adjective, so even though a noun is not explicitly named in the sentence, we can *supply* one from the gender and number of the adjective: "The good **people** spoke the words."
+
+Keep in mind: in Greek, a group of people of mixed gender defaults to the masculine, so οἱ ἀγαθοί can either be "the good men" (if all members of the group are masculine) or "the good people" (if the group consists of people of more than one gender).
+
+Here are some suggested translations for gender-number combinations in substantive adjectives:
+* any gender, singular: "one"
+* any gender, plural: "ones"
+* masculine or feminine singular: "person"
+* masculine singular: "man"
+* feminine singular: "woman"
+* neuter singular: "thing"
+* masculine plural: "people, men"
+* feminine plural: "people, women"
+* neuter plural: "things"
+
+***
+
+## Practice Opportunity 2
+
+Translate the following sentences.
+
+[Answer key here](../answer-key#adjectives-po2).
+
+1. οἱ πρότεροι δικασταὶ ἀπὸ τῆς δίκης σὺν τοῖς ὑστάτοις ἄγονται.
+2. ὁ παῖς τὰ μίκρα πράγματα ἐποίησεν, ἀλλ' οὐ πάντα. (ἀλλ' > ἀλλά; οὐ = "not")
+3. ἡ σώφρων ὑπὸ τῶν ἀγαθῶν ἐφιλήθη. (φιλέω ... ἐφίλησα ... ἐφιλήθην - to love)
+4. οἱ ἀγαθοὶ ἔσχον τὰς ἀδικοὺς γνώμας.
+5. ὁ πρῶτος τὰ κάκα παρὰ τὴν οἰκίαν ἐποίησεν. (οἰκία, οἰκίας, f. - house)

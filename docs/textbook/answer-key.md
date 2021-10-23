@@ -326,3 +326,37 @@ The men injured the citizens. > The citizens were injured by the men.
 τὰ ἔργα ὑπὸ τῶν ἀνθρώπων ποιεῖται.\*  
 The people are doing the deeds. > The deeds are (being) done by the people.  
 \* Note that in the answer, τὰ ἔργα is the nominative subject of the verb, rather than the accusative direct object as in the original sentence. ποιεῖται is singular because neuter plural subjects take singular verbs (rather counterintuitively).
+
+### Adjectives: PO1
+
+1. δίκαιος, δικαία, δίκαιον - just -> δικασταῖς  
+vowel declension three-termination (2-1-2) -> δικαίοις
+
+2. ἀδύνατος, ἀδύνατον - impossible -> συμφορᾷ  
+vowel declension two-termination -> ἀδυνάτῳ
+
+3. μέλας, μέλαινα, μέλαν (m./n. stem μέλαν-) - black -> βιβλίου (βιβλίον, βιβλίου, n. - book)  
+consonant declension three-termination (3-1-3) -> μέλανος
+
+4. ἐχθρός, ἐχθρά, ἐχθρόν - hated, hostile -> ἀνδρές  
+vowel declension three-termination (2-1-2) -> ἐχθροί
+
+5. ἀμείνων, ἀμεῖνον (stem ἀμεινον-) - better -> δίκαι  
+consonant declension two-termination -> ἀμείνονες
+
+### Adjectives: PO2
+
+1. οἱ πρότεροι δικασταὶ ἀπὸ τῆς δίκης σὺν τοῖς ὑστάτοις ἄγονται.  
+The previous jurors are (being) led away from the trial with the last (jurors, ones, men, etc.).
+
+2. ὁ παῖς τὰ μίκρα πράγματα ἐποίησεν, ἀλλ' οὐ πάντα. (ἀλλ' > ἀλλά; οὐ = "not")  
+The child did the small deeds, but not all (the deeds).
+
+3. ἡ σώφρων ὑπὸ τῶν ἀγαθῶν ἐφιλήθη. (φιλέω ... ἐφίλησα ... ἐφιλήθην - to love)  
+The wise (woman, one) was loved by the good (people, ones, men, women).
+
+4. οἱ ἀγαθοὶ ἔσχον τὰς ἀδικοὺς γνώμας.  
+The good (people, men, ones) held the unjust opinions.
+
+5. ὁ πρῶτος τὰ κάκα παρὰ τὴν οἰκίαν ἐποίησεν. (οἰκία, οἰκίας, f. - house)  
+The first (man, one) did the bad things near the house.

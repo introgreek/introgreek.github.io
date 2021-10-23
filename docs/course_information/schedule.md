@@ -198,6 +198,7 @@ Adjectives
 
 ### Monday, October 25
 {: .no_toc }
+Adjectives continued
 
 ### Wednesday, October 27
 {: .no_toc }

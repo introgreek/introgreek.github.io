@@ -24,6 +24,11 @@ grand_parent: Textbook
 
 * **εἰμί**, `ἔσομαι`, --, --, --, -- - "[to be](https://logeion.uchicago.edu/εἰμί)"
 
+### Nouns
+
+* οἰκία
+*
+
 ***
 
 
