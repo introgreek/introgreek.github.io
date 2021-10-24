@@ -18,6 +18,10 @@ grand_parent: Textbook
 
 ***
 
+## Articular Substantives
+
+### μέν ... δέ
+
 ## Demonstratives
 
 ## αὐτός
