@@ -34,7 +34,7 @@ grand_parent: Textbook
 
 ### Consonant Declension
 {: .no_toc }
-* πᾶς, πᾶσα, πᾶν (m./n. stem πάντ-) - (sg.) each, every; (pl.) all
+* πᾶς, πᾶσα, πᾶν (m./n. stem πάντ-) - (sg., w/o article) each, every; (sg., with article) the whole, entire; (pl.) all
 * σώφρων, σῶφρον (stem σώφρον-) - wise
 
 ***
