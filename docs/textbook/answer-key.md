@@ -360,3 +360,29 @@ The good (people, men, ones) held the unjust opinions.
 
 5. ὁ πρῶτος τὰ κάκα παρὰ τὴν οἰκίαν ἐποίησεν. (οἰκία, οἰκίας, f. - house)  
 The first (man, one) did the bad things near the house.
+
+### Attributive and Predicative Position: PO1
+
+1. ὁ ἀνὴρ ἔγραψεν τῇ παρὰ τὴν οἰκίαν γυναικὶ τὰ ποιήματα.  
+παρὰ τὴν οἰκίαν - prepositional phrase - attributive  
+The man wrote the poems for the woman near the house.
+
+2. τὸν διδάσκαλον τὸν τῶν παίδων οἱ πολῖται ἔβλεψαν.  
+τῶν παίδων - genitive phrase - attributive  
+The citizens saw the teacher of the children.
+
+3. οἱ λόγοι κάκοι.  
+κάκοι - adjective - predicative  
+The words are bad.
+
+4. οἱ ἄνθρωποι οἱ τότε τὸ πρᾶγμα ἐποίουν.  
+τότε - adverb - attributive  
+The people at that time were doing the deed.
+
+5. ἐπὶ τῷ ἵππῳ ὁ ἀνήρ.  
+ἐπὶ τῷ ἵππῳ - prepositional phrase - predicative  
+The man is on the horse.
+
+6. ὁ παῖς ἀκούει τοῦ σώφρονος μαθητοῦ.  
+σώφρονος - adjective - attributive  
+The child hears the wise student.

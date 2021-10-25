@@ -22,7 +22,7 @@ grand_parent: Textbook
 
 ### Verbs
 
-* **ἀκούω**, `ἀκούσομαι`, **ἤκουσα**, `ἀκήκοα`, --, **ἠκούσθην** - to hear (if object is a person, use genitive; if object is a thing, use accusative)
+* **ἀκούω**, `ἀκούσομαι`, **ἤκουσα**, `ἀκήκοα`, --, **ἠκούσθην** - to hear, listen to (if object is a person, use genitive; if object is a thing, use accusative)
 * **βλέπω**, `βλέψομαι`, **ἔβλεψα**, `βέβλεφα`, `βέβλεμμαι`, **ἐβλέφθην** - to see
 * **γράφω**, `γράψω`, **ἔγραψα**, `γέγραφα`, `γέγραμμαι`, **ἐγράφην** - to write
 * **εἰμί**, `ἔσομαι`, --, --, --, -- - "[to be](https://logeion.uchicago.edu/εἰμί)"
@@ -30,6 +30,7 @@ grand_parent: Textbook
 ### Nouns
 
 * οἰκία, οἰκίας, f. - home, house
+* μαθητής, μαθητοῦ, m. - student
 * ἵππος, ἵππου, m./f. - horse
 * ὁδός, ὁδοῦ, f. - road
 * διδάσκαλος, διδασκάλου, m. - teacher
@@ -102,15 +103,36 @@ In this example, note the accusative noun phrase and the juxtaposition of articl
 
 ### Predicative Position
 
-If a modifier occurs outside of the three configurations listed above, then it is in **predicative position**. While it can serve the same purpose as a modifier in the attributive position (i.e., simply describing a substantive), more often, it actually helps create a full sentence without the use of a conjugated verb. The **predicate** of a sentence is the section of the sentence that contains the verb and non-subject words associated with the verb (e.g., direct objects, predicate nominatives [on which see below], adverbs). So, it stands to reason that a modifier in the **predicative position** can create a predicate.
+If a modifier is placed outside of the three configurations listed above, then it is in **predicative position**. While it can serve the same purpose as a modifier in the attributive position (i.e., simply describing a substantive), more often, it actually helps create a full sentence without an explicit conjugated verb. The **predicate** of a sentence is the section of the sentence that contains the verb and non-subject words associated with the verb (e.g., direct objects, predicate nominatives [on which see below], adverbs). So, it stands to reason that a modifier in the **predicative position** can create a predicate.
 
 The verb that a modifier in the predicative position supplies is the linking verb "to be." So, note the following example:
 
 * δίκαιοι οἱ δικασταί. The jurors are just.
 
-In this example, there is no explicit conjugated verb, but because the adjective δίκαιοι is in the predicative position, we can *supply* a form of the verb "to be."
+In this example, there is no explicit conjugated verb, but because the adjective δίκαιοι is in the predicative position, we can *supply* a form of the verb "to be" as the main verb. Compare this against οἱ δίκαιοι δικασταί (or any other attributive configuration): in this position, δίκαιοι simply modifies δικασταί as just part of a larger sentence (e.g., οἱ δίκαιοι δικασταὶ ἔλεγον, The just jurors were speaking).
 
-Note that this also constitutes the second use of the **nominative case** that we'll learn about this semester: the **predicate nominative** is an adjective or noun in the nominative case that  
+This idea of a modifier in the predicative position also constitutes the second use of the **nominative case** that we'll learn about this semester: the **predicate nominative**. The predicate nominative is an adjective or noun in the nominative case that tells us more about the subject of a sentence while being placed in the predicate of a sentence, after a linking verb, whether an explicitly mentioned one or an implied one (as in predicative position). So, in the example above, note that δίκαιοι is a predicate nominative.
+
+This also applies to nouns:
+
+* δικασταὶ οἱ πολῖται. The citizens are jurors.
+
+In this case, the predicate nominative δικασταὶ, "jurors", tells us more about οἱ πολῖται, "the citizens".
+
+***
+
+## Practice Opportunity 1
+
+Each of the following sentences contains one of the four types of modifiers (adjective, prepositional phrase, genitive noun, or adverb). Identify the modifier, indicate which of the four it is, identify whether it's in attributive or predicative position, and then translate the sentence.
+
+[Answer key here](../answer-key#attributive-and-predicative-position-po1).
+
+1. ὁ ἀνὴρ ἔγραψεν τῇ παρὰ τὴν οἰκίαν γυναικὶ τὰ ποιήματα.
+2. τὸν διδάσκαλον τὸν τῶν παίδων οἱ πολῖται ἔβλεψαν.
+3. οἱ λόγοι κάκοι.
+4. οἱ ἄνθρωποι οἱ τότε τὸ πρᾶγμα ἐποίουν.
+5. ἐπὶ τῷ ἵππῳ ὁ ἀνήρ.
+6. ὁ παῖς ἀκούει τοῦ σώφρονος μαθητοῦ. (Note: look at the dictionary entry for ἀκούω above to see what to make of the genitive in this sentence.)
 
 ***
 
