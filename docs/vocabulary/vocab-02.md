@@ -63,7 +63,7 @@ parent: Vocabulary
 * κάκος, -η, -ον - bad
 * πρῶτος, -η, -ον - first
 * ὕστατος, -η, -ον - last
-* πᾶς, πᾶσα, πᾶν - each, every, all
+* πᾶς, πᾶσα, πᾶν (m./n. stem πάντ-) - (sg., w/o article) each, every; (sg., with article) the whole, entire; (pl.) all
 * ἄδικος, -ον - unjust
 
 ***
