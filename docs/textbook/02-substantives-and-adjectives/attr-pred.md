@@ -30,13 +30,18 @@ grand_parent: Textbook
 
 ### Nouns
 
+#### First Declension
 * οἰκία, οἰκίας, f. - home, house
 * μαθητής, μαθητοῦ, m. - student
+
+#### Second Declension
+* βιβλίον, βιβλίου, n. - book
+* διδάσκαλος, διδασκάλου, m. - teacher
 * ἵππος, ἵππου, m./f. - horse
 * ὁδός, ὁδοῦ, f. - road
-* διδάσκαλος, διδασκάλου, m. - teacher
 * ὅπλον, ὅπλου, n. - weapon
-* βιβλίον, βιβλίου, n. - book
+
+#### Third Declension
 * ἀγών, ἀγῶνος, m. - contest
 * ποίημα, ποιήματος, n. - poem
 
@@ -46,9 +51,9 @@ grand_parent: Textbook
 
 ### Adverbs
 
-* τότε - then, at that time
 * νῦν - now
 * οὐ (οὐκ before smooth breathing, οὐχ before rough breathing) - not, no
+* τότε - then, at that time
 
 ***
 
@@ -101,6 +106,8 @@ Here, we have *two* examples of modification, both in the attributive position: 
 * οἱ σώφρονες ἄγουσιν τὸν παῖδα τὸν τοῦ ἀνδρός. The wise people lead the child of the man.
 
 In this example, note the accusative noun phrase and the juxtaposition of articles in the middle: τὸν παῖδα τὸν τοῦ ἀνδρός. As in the last example, the repeated article τὸν leads us to expect a modifier of some sort. Here, the modifier is a genitive phrase that indicates whose child it is ("the man's", τοῦ ἀνδρός). τοῦ ἀνδρός forms a single unit that gets attached in the attributive position to the noun that it describes, τὸν παῖδα.
+
+Note that an **adverb** that exists outside of attributive position will most likely be functioning regularly, i.e. *not* modifying a substantive but rather modifying a verb, adjective, or another adverb. Take a look at the adverb examples in the [Substantive Modifiers](#substantive-modifiers) above.
 
 ### Predicative Position
 
@@ -173,6 +180,8 @@ A form of εἰμί can make explicit what is implicit in a predicative phrase:
 It can also help to disambiguate between tenses:
 
 * δίκαιοι ἦσαν οἱ δικασταί. The jurors **were** just.
+
+The use of an explicit form of εἰμί can also help clarify which element of a sentence is the nominative subject and which element is a predicate nominative. Note, for example, how the use of εἰσιν and ἦσαν in the previous examples separates the adjective δίκαιοι from the article-noun phrase οἱ δικασταί. With that separation, it's easier to tell that οἱ δικασταί serves as the subject and δίκαιοι is *not* in attributive position.
 
 The 3rd singular when accented recessively, ἔστι(ν), may also be used in two circumstances, often at the beginning of its sentence:
 * to emphasize the verb: ἔστιν ἡ οἰκία μίκρα. The house *is* small!

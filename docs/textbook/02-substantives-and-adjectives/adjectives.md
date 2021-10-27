@@ -22,6 +22,9 @@ grand_parent: Textbook
 
 ### Vowel Declension
 {: .no_toc }
+
+#### Three-Termination (2-1-2)
+{: .no_toc }
 * πρότερος, πρότερα, πρότερον - previous, former, earlier
 * μίκρος, μίκρα, μίκρον - small
 * ἀγαθός, ἀγαθή, ἀγαθόν - noble, good
@@ -29,12 +32,21 @@ grand_parent: Textbook
 * πρῶτος, πρώτη, πρῶτον - first
 * ὕστατος, ὑστάτη, ὕστατον - last
 * ἄλλος, ἄλλη, ἄλλο - another, other; (ἄλλος ... ἄλλος) one ... the other
+
+#### Two-Termination
+{: .no_toc }
 * ἄδικος, ἄδικον - unjust
 * ἀθάνατος, ἀθάνατον - undying, immortal
 
 ### Consonant Declension
+{: .no_toc
+}
+#### Three-Termination (3-1-3)
 {: .no_toc }
 * πᾶς, πᾶσα, πᾶν (m./n. stem πάντ-) - (sg., w/o article) each, every; (sg., with article) the whole, entire; (pl.) all
+
+#### Two-Termination
+{: .no_toc }
 * σώφρων, σῶφρον (stem σώφρον-) - wise
 
 ***
@@ -232,7 +244,7 @@ Note how not only do the adjective (πάντα) and the noun (δικαστήν
 
 Like its vowel declension counterpart, a two-termination consonant declension adjective yeets the feminine column in favor of one consolidated form for both masculine and feminine; the neuter has its own form.
 
-| | Masc. | Neut. |
+| | Masc./Fem. | Neut. |
 | ----- | ----- | ----- |
 | Nom. Sg. | -- | -- |
 | Gen. Sg. | -ος | -ος |
@@ -251,7 +263,7 @@ Like the masculine and neuter forms of 3-1-3s, all oblique forms of a two-termin
 
 Hence:
 
-| | Masc. | Neut. |
+| | Masc./Fem. | Neut. |
 | ----- | ----- | ----- |
 | Nom. Sg. | σώφρων | σῶφρον |
 | Gen. Sg. | σώφρονος | σώφρονος |
