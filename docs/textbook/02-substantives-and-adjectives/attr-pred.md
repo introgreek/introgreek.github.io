@@ -22,10 +22,11 @@ grand_parent: Textbook
 
 ### Verbs
 
+* **αἱρέω**, `αἱρήσω`, **εἷλον**, `ᾕρηκα`, `ᾕρημαι`, **ᾑρέθην** - to take, seize
 * **ἀκούω**, `ἀκούσομαι`, **ἤκουσα**, `ἀκήκοα`, --, **ἠκούσθην** - to hear, listen to (if object is a person, use genitive; if object is a thing, use accusative)
 * **βλέπω**, `βλέψομαι`, **ἔβλεψα**, `βέβλεφα`, `βέβλεμμαι`, **ἐβλέφθην** - to see
 * **γράφω**, `γράψω`, **ἔγραψα**, `γέγραφα`, `γέγραμμαι`, **ἐγράφην** - to write
-* **εἰμί**, `ἔσομαι`, --, --, --, -- - "[to be](https://logeion.uchicago.edu/εἰμί)"
+* **εἰμί**, `ἔσομαι`, --, --, --, -- - "[to be](https://logeion.uchicago.edu/εἰμί); [3rd singular] it is possible"
 
 ### Nouns
 
@@ -138,10 +139,41 @@ Each of the following sentences contains one of the four types of modifiers (adj
 
 ## The Verb εἰμί
 
-As mentioned above, the verb "to be" is not strictly needed to form a complete Greek sentence, since using the predicative position does the work of the linking verb for you. The verb can be made explicit, though, by using forms of the verb εἰμί, an irregular verb. This means that its forms change stems and endings in unpredictable ways, and thus their paradigms must be memorized.
+As mentioned above, the verb "to be" is not strictly needed to form a complete Greek sentence, since using the predicative position does the work of the linking verb for you. The verb can be made explicit, though, if you want to emphasize the importance of the verb "to be" or if you want to compare that state of being against another verb.
+
+The verb "to be" in Greek is εἰμί, an irregular verb. This means that its forms change stems and endings in unpredictable ways, and thus their paradigms must be memorized.
 
 ### Present Tense
 
+| | Singular | Plural |
+| ----- | ----- | ----- |
+| 1st Person | `εἰμί` | `ἐσμέν` |
+| 2nd Person | `εἶ` | `ἐστέ` |
+| 3rd Person | **ἐστί(ν)** | **εἰσί(ν)** |
 
+Note that all of these forms except the 2nd singular (εἶ) are [enclitic](../basics/alphabet-and-accents/#accent-positions-and-enclitics). The 3rd singular (ἐστί(ν)) may be accented recessively if it's emphatic or impersonal, on which see below.
 
 ### Imperfect Tense
+
+| | Singular | Plural |
+| ----- | ----- | ----- |
+| 1st Person | `ἦν` or `ἦ` | `ἦμεν` |
+| 2nd Person | `ἦσθα` | `ἦτε` or `ἦστε` |
+| 3rd Person | **ἦν** | **ἦσαν** |
+
+Note that εἰμί does not have any aorist forms.
+
+### Uses of εἰμί
+
+A form of εἰμί can make explicit what is implicit in a predicative phrase:
+
+* δίκαιοι οἱ δικασταί. The jurors are just.
+* δίκαιοί εἰσιν οἱ δικασταί. The jurors are just.
+
+It can also help to disambiguate between tenses:
+
+* δίκαιοι ἦσαν οἱ δικασταί. The jurors **were** just.
+
+The 3rd singular when accented recessively, ἔστι(ν), may also be used in two circumstances, often at the beginning of its sentence:
+* to emphasize the verb: ἔστιν ἡ οἰκία μίκρα. The house *is* small!
+* or to indicate possibility with an infinitive (which we'll learn about in the next module): ἔστιν τοῦ ἀνδρὸς ἀκούειν. It is possible to hear the man.
