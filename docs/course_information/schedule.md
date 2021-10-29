@@ -202,9 +202,12 @@ Adjectives continued
 
 ### Wednesday, October 27
 {: .no_toc }
+Adjectives continued
 
 ### Friday, October 29
 {: .no_toc }
+Attributive and Predicative Position  
+**Today's slideshow**: [click here](https://drive.google.com/file/d/1DAH3RDu3_8J5TmylFz5zTLp-vrgS2837/view?usp=sharing)
 
 ***
 
@@ -212,9 +215,11 @@ Adjectives continued
 
 ### Monday, November 1
 {: .no_toc }
+Attributive and Predicative Position continued; Pronouns  
 
 ### Wednesday, November 3
 {: .no_toc }
+Pronouns continued  
 
 ### Friday, November 5
 {: .no_toc }
