@@ -21,20 +21,24 @@ grand_parent: Textbook
 ## Unit Vocabulary
 
 ### Verbs
+{: .no_toc }
 
 * **αἱρέω**, `αἱρήσω`, **εἷλον**, `ᾕρηκα`, `ᾕρημαι`, **ᾑρέθην** - to take, seize
 * **ἀκούω**, `ἀκούσομαι`, **ἤκουσα**, `ἀκήκοα`, --, **ἠκούσθην** - to hear, listen to (if object is a person, use genitive; if object is a thing, use accusative)
 * **βλέπω**, `βλέψομαι`, **ἔβλεψα**, `βέβλεφα`, `βέβλεμμαι`, **ἐβλέφθην** - to see
 * **γράφω**, `γράψω`, **ἔγραψα**, `γέγραφα`, `γέγραμμαι`, **ἐγράφην** - to write
-* **εἰμί**, `ἔσομαι`, --, --, --, -- - "[to be](https://logeion.uchicago.edu/εἰμί); [3rd singular] it is possible"
+* **εἰμί**, `ἔσομαι`, --, --, --, -- - "[to be](https://logeion.uchicago.edu/εἰμί); [3rd singular] it is possible, there is"
 
 ### Nouns
+{: .no_toc }
 
 #### First Declension
+{: .no_toc }
 * οἰκία, οἰκίας, f. - home, house
 * μαθητής, μαθητοῦ, m. - student
 
 #### Second Declension
+{: .no_toc }
 * βιβλίον, βιβλίου, n. - book
 * διδάσκαλος, διδασκάλου, m. - teacher
 * ἵππος, ἵππου, m./f. - horse
@@ -42,14 +46,17 @@ grand_parent: Textbook
 * ὅπλον, ὅπλου, n. - weapon
 
 #### Third Declension
+{: .no_toc }
 * ἀγών, ἀγῶνος, m. - contest
 * ποίημα, ποιήματος, n. - poem
 
 ### Adjectives
+{: .no_toc }
 
 * δίκαιος, δικαία, δίκαιον - just
 
 ### Adverbs
+{: .no_toc }
 
 * νῦν - now
 * οὐ (οὐκ before smooth breathing, οὐχ before rough breathing) - not, no

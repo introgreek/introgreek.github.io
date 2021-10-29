@@ -52,7 +52,7 @@ parent: Vocabulary
 
 ## ε
 
-* εἰμί, ἔσομαι, --, --, --, -- - "[to be](https://logeion.uchicago.edu/εἰμί); [3rd singular] it is possible"
+* εἰμί, ἔσομαι, --, --, --, -- - "[to be](https://logeion.uchicago.edu/εἰμί); [3rd singular] it is possible, there is"
 * εἰς (+ acc.) - "[into](https://logeion.uchicago.edu/εἰς)"
 * ἐκ (+ gen.) - "[out of](https://logeion.uchicago.edu/ἐκ)"
 * ἐκεῖνος, ἐκείνη, ἐκεῖνο - "[that, those](https://logeion.uchicago.edu/ἐκεῖνος)"; the former (vs. οὗτος)

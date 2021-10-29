@@ -16,7 +16,7 @@ parent: Vocabulary
 * ἀκούω, ἀκούσομαι, ἤκουσα, ἀκήκοα, --, ἠκούσθην - “[to hear, listen to](https://logeion.uchicago.edu/ἀκούω) (if object is a person, use genitive; if object is a thing, use accusative)”
 * βλέπω, βλέψομαι, ἔβλεψα, βέβλεφα, βέβλεμμαι, ἐβλέφθην - “[to see](https://logeion.uchicago.edu/βλέπω)”
 * γράφω, γράψω, ἔγραψα, γέγραφα, γέγραμμαι, ἐγράφην - "[to write](https://logeion.uchicago.edu/γράφω)"
-* εἰμί, ἔσομαι, --, --, --, -- - "[to be](https://logeion.uchicago.edu/εἰμί); [3rd singular] it is possible"
+* εἰμί, ἔσομαι, --, --, --, -- - "[to be](https://logeion.uchicago.edu/εἰμί); [3rd singular] it is possible, there is"
 
 ## Nouns
 
