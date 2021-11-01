@@ -130,4 +130,4 @@ parent: Vocabulary
 * ἐκεῖνος, ἐκείνη, ἐκεῖνο - "[that, those](https://logeion.uchicago.edu/ἐκεῖνος)"; the former (vs. οὗτος)
 
 ### Personal / Intensive
-* αὐτός, αὐτή, αὐτό - "[him, her, it, them](https://logeion.uchicago.edu/αὐτός)"; (intensive pronoun, *not* reflexive) myself, yourself, etc.; (in attributive position) the same
+* αὐτός, αὐτή, αὐτό - "[him, her, it, them](https://logeion.uchicago.edu/αὐτός)"; (intensive adj./pronoun, *not* reflexive) the very ____; himself, herself, themselves, etc.; (in attributive position) the same

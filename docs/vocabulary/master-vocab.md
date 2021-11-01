@@ -26,7 +26,7 @@ parent: Vocabulary
 * ἀνήρ, ἀνδρός, m. - "[man, husband](https://logeion.uchicago.edu/ἀνήρ)"
 * ἀνά - "[up](https://logeion.uchicago.edu/ἀνά)"
 * ἀπό (+ gen.) - "[away from](https://logeion.uchicago.edu/ἀπό)"
-* αὐτός, αὐτή, αὐτό - "[him, her, it, them](https://logeion.uchicago.edu/αὐτός)"; (intensive pronoun, *not* reflexive) myself, yourself, etc.; (in attributive position) the same
+* αὐτός, αὐτή, αὐτό - "[him, her, it, them](https://logeion.uchicago.edu/αὐτός)"; (intensive adj./pronoun, *not* reflexive) the very ____; himself, herself, themselves, etc.; (in attributive position) the same
 
 ## β
 

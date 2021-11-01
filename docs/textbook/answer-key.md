@@ -386,3 +386,14 @@ The man is on the horse.
 6. ὁ παῖς ἀκούει τοῦ σώφρονος μαθητοῦ.  
 σώφρονος - adjective - attributive  
 The child hears the wise student.
+
+### Pronouns: PO1
+
+1. ὁ μὲν τοὺς δικαστὰς ἠδίκησεν, ὁ δὲ ἀγαθὰ ἐποιήσεν.  
+One person wronged the jurors, but the other person did good things.
+
+2. αἱ μὲν εἶλον τὰ μίκρα βιβλία, αἱ δὲ ἔγραψαν τὰ ποιήματα.  
+Some women took the small books, while the others wrote the poems.
+
+3. ἡ παῖς τοῦ σώφρονος ἀκούει· ὁ δὲ κάκον λόγον εἶπεν.  
+The child listens to the wise man, but he said a bad word.

@@ -28,6 +28,8 @@ parent: Vocabulary
 * χρῆμα, χρήματος, n. - "[thing; (plural) money, goods, property](https://logeion.uchicago.edu/χρῆμα)"
 * πατήρ, πατρός, m. - "[father](https://logeion.uchicago.edu/πατήρ)"
 
+ποιήτης
+
 πρό
 ἀντί
 διά
