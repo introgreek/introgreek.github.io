@@ -1,13 +1,13 @@
 ---
 layout: page
-title: Infinitives
+title: Participle Formation
 permalink: /textbook/infs-and-parts/participles-overview
 nav_order: 1
 parent: 03 - Infinitives and Participles
 grand_parent: Textbook
 ---
 
-# Participles Overview
+# Participle Formation
 {: .no_toc }
 
 ## Table of contents
