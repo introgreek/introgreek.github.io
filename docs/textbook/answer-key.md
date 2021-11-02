@@ -397,3 +397,40 @@ Some women took the small books, while the others wrote the poems.
 
 3. ἡ παῖς τοῦ σώφρονος ἀκούει· ὁ δὲ κάκον λόγον εἶπεν.  
 The child listens to the wise man, but he said a bad word.
+
+### Pronouns: PO2
+
+1. ὅδε -> τῷ δικαστῇ  
+τῷδε
+
+2. οὗτος -> αἱ ἵπποι  
+αὗται  
+
+3. ἐκεῖνος -> τὸ ποιήμα  
+ἐκεῖνο
+
+4. ὅδε -> τὰς οἰκίας  
+τάσδε
+
+5. οὗτος -> τοῖς πράγμασιν  
+τούτοις
+
+6. ἐκεῖνος -> τῇ ὁδῷ  
+ἐκείνῃ
+
+### Pronouns: PO3
+
+1. The citizens saw him in the house.  
+οἱ πολῖται αὐτὸν ἐν τῇ οἰκίᾳ ἔβλεψαν.
+
+2. He said the same words.  
+τοὺς αὐτοὺς λόγους εἶπεν.
+
+3. They themselves came from the sea.  
+αὐτοὶ ἀπὸ τῆς θαλάττης ἦλθον.
+
+4. He showed the book to the man himself.  
+ἔδειξε τὸ βιβλίον αὐτῷ τῷ ἀνδρί.
+
+5. Their horses (lit., "the horses of them") were led into the road.  
+οἱ αὐτῶν ἵπποι / οἱ ἵπποι αὐτῶν εἰς τὴν ὁδὸν ἤχθησαν.
