@@ -216,6 +216,7 @@ Attributive and Predicative Position
 ### Monday, November 1
 {: .no_toc }
 Attributive and Predicative Position continued; Pronouns  
+**Today's slideshow**: [click here](https://drive.google.com/file/d/1DT2FUvuV1KvaC0SKyFUSXrxfDMeU8ZJs/view?usp=sharing)
 
 ### Wednesday, November 3
 {: .no_toc }
@@ -223,6 +224,7 @@ Pronouns continued
 
 ### Friday, November 5
 {: .no_toc }
+Substantives and Adjectives Review
 
 ***
 
@@ -230,12 +232,18 @@ Pronouns continued
 
 ### Monday, November 8
 {: .no_toc }
+Infinitives  
+Module 2 Quiz Due
 
 ### Wednesday, November 10
 {: .no_toc }
+Participles Formation  
+Module 2 Translation Due
 
 ### Friday, November 12
 {: .no_toc }
+Participle Uses  
+Module 2 Composition Due
 
 ***
 
@@ -243,6 +251,7 @@ Pronouns continued
 
 ### Monday, November 15
 {: .no_toc }
+Participles Continued
 
 ### Wednesday, November 17
 {: .no_toc }
