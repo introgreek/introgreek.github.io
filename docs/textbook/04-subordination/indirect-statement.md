@@ -2,7 +2,7 @@
 layout: page
 title: Indirect Statement
 permalink: /textbook/subordination/indirect-statement
-nav_order: 1
+nav_order: 2
 parent: 04 - Subordination
 grand_parent: Textbook
 ---

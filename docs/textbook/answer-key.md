@@ -434,3 +434,59 @@ The child listens to the wise man, but he said a bad word.
 
 5. Their horses (lit., "the horses of them") were led into the road.  
 οἱ αὐτῶν ἵπποι / οἱ ἵπποι αὐτῶν εἰς τὴν ὁδὸν ἤχθησαν.
+
+***
+
+## Infinitives and Participles
+
+### Infinitive Formation: PO1
+
+1. ἀδικέω -> present active  
+ἀδικεῖν
+
+2. ἄγω -> aorist middle  
+ἀγαγέσθαι
+
+3. ἔχω -> aorist passive  
+σχεθῆναι
+
+4. μείγνυμι -> present middle/passive  
+μείγνυσθαι
+
+5. αἰρέω -> present middle/passive  
+αἱρεῖσθαι
+
+6. γράφω -> aorist active  
+γράψαι
+
+7. λαμβάνω -> aorist passive  
+ληφθῆναι
+
+8. ἀκούω -> present active  
+ἀκούειν
+
+### Infinitive Formation: PO2
+
+1. ἑλέσθαι  
+aorist middle from αἱρέω
+
+2. λέγειν  
+present active from λέγω
+
+3. δεῖξαι  
+aorist active from δείκνυμι
+
+4. λαβεῖν  
+aorist active from λαμβάνω
+
+5. ἐνεχθῆναι  
+aorist passive from φέρω
+
+6. ἀκούσασθαι  
+aorist middle from ἀκούω
+
+7. λέγεσθαι  
+present middle/passive from λέγω
+
+8. μειγνύναι  
+present active from μείγνυμι

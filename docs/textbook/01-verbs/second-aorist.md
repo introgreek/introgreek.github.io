@@ -25,7 +25,7 @@ Please memorize the following verb dictionary entries, which will be used in thi
 * **ἄγω**, `ἄξω`, **ἤγαγον**, `ἦχα`, `ἦγμαι`, **ἤχθην**, "[to lead](https://logeion.uchicago.edu/ἄγω)"
 * **γίγνομαι**, `γενήσομαι`, **ἐγενόμην**, `γέγονα`, `γεγένημαι`, **ἐγενήθην**, "[to become, to happen](https://logeion.uchicago.edu/γίγνομαι)"
 * **ἔρχομαι**, `ἐλεύσομαι`, **ἦλθον**, `ἐλήλυθα`, --, --, "[to come, to go](https://logeion.uchicago.edu/ἔρχομαι)"
-* **ἔχω**, `ἕξω / σχήσω`, **ἔσχον**, `ἔσχηκα`, `-ἔσχημαι`, **ἐσθέθην**, "[to have, to hold](https://logeion.uchicago.edu/ἔχω)"
+* **ἔχω**, `ἕξω / σχήσω`, **ἔσχον**, `ἔσχηκα`, `-ἔσχημαι`, **ἐσχέθην**, "[to have, to hold](https://logeion.uchicago.edu/ἔχω)"
 * **λέγω**, `ἐρέω`, **εἶπον**, εἴρηκα, --, --, "[to say, to speak](https://logeion.uchicago.edu/λέγω)"
 
 ***

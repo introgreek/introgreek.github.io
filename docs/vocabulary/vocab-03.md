@@ -12,13 +12,17 @@ parent: Vocabulary
 
 ## Verbs
 
-* ἀκούω
+* **φέρω**, `οἴσω`, **ἤνεγκον / ἤνεγκα**, `ἐνήνοχα`, `ἐνήνεγμαι`, **ἠνέχθην** - [to bring, carry, bear](https://logeion.uchicago.edu/φέρω)
+* **μείγνυμι**, `μείξω`, **ἔμειξα**, `μέμιχα`, `μέμιγμαι`, **ἐμίγην** - [to mix](https://logeion.uchicago.edu/μείγνυμι)
+* **λαμβάνω**, `λήψομαι`, **ἔλαβον**, `εἴληφα`, `εἴλημμαι`, **ἐλήφθην** - [to take](https://logeion.uchicago.edu/λαμβάνω)
+
+
 * λαμβάνω
-* μείγνυμι
 * πέμπω
 * κρύπτω
 * λύω
-* φέρω
+* δυναμαι
+* ἐθέλω
 
 * βουλή, βουλῆς, f. - "[will, plan, advice](https://logeion.uchicago.edu/βουλή)"
 * θάνατος, θανάτου, m. - "[death](https://logeion.uchicago.edu/θάνατος)"
@@ -32,5 +36,7 @@ parent: Vocabulary
 
 πρό
 ἀντί
-διά
 ἀμφί
+
+* ἐκ (+ gen.) - out of, from; as a result of
+* διά - through; because of; by means of

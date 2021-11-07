@@ -60,7 +60,7 @@ parent: Vocabulary
 * ἐπί - "[on, upon](https://logeion.uchicago.edu/ἐπί)"
 * ἔρχομαι, ἐλεύσομαι, ἦλθον, ἐλήλυθα, --, -- - "[to come, to go](https://logeion.uchicago.edu/ἔρχομαι)"
 * ἔργον, ἔργου, n. - "[deed](https://logeion.uchicago.edu/ἔργον)"
-* ἔχω, ἕξω / σχήσω, ἔσχον, ἔσχηκα, -ἔσχημαι, ἐσθέθην - "[to have, to hold](https://logeion.uchicago.edu/ἔχω)"
+* ἔχω, ἕξω / σχήσω, ἔσχον, ἔσχηκα, -ἔσχημαι, ἐσχέθην - "[to have, to hold](https://logeion.uchicago.edu/ἔχω)"
 
 ## θ
 

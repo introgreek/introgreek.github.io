@@ -1,13 +1,13 @@
 ---
 layout: page
-title: Indirect Statement
-permalink: /textbook/subordination/indirect-statement
-nav_order: 2
+title: Subjunctive, Optative, and Sequence of Moods
+permalink: /textbook/subordination/subj-opt
+nav_order: 3
 parent: 04 - Subordination
 grand_parent: Textbook
 ---
 
-# Indirect Statement
+# Subjunctive, Optative, and Sequence of Moods
 {: .no_toc }
 
 ## Table of contents

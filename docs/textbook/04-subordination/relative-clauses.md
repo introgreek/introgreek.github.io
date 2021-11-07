@@ -1,13 +1,13 @@
 ---
 layout: page
-title: Purpose Clauses
-permalink: /textbook/subordination/purpose
-nav_order: 4
+title: Relative Clauses
+permalink: /textbook/subordination/relative-clauses
+nav_order: 1
 parent: 04 - Subordination
 grand_parent: Textbook
 ---
 
-# Purpose Clauses
+# Relative Clauses
 {: .no_toc }
 
 ## Table of contents
@@ -18,4 +18,6 @@ grand_parent: Textbook
 
 ***
 
-## ἵνα
+## Relative Pronoun
+
+## Antecedents

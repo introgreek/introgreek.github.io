@@ -2,7 +2,7 @@
 layout: page
 title: Participle Formation
 permalink: /textbook/infs-and-parts/participles-overview
-nav_order: 1
+nav_order: 2
 parent: 03 - Infinitives and Participles
 grand_parent: Textbook
 ---
