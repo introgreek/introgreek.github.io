@@ -232,17 +232,18 @@ Substantives and Adjectives Review
 
 ### Monday, November 8
 {: .no_toc }
-Infinitives  
-Module 2 Quiz Due
+Infinitive Formation  
+Module 2 Quiz Due  
+**Today's slideshow**: [click here](https://drive.google.com/file/d/1EKn1lnzXNawLvA8LltgbSCpkR8BsPRmh/view?usp=sharing)
 
 ### Wednesday, November 10
 {: .no_toc }
-Participles Formation  
+Infinitive Uses  
 Module 2 Translation Due
 
 ### Friday, November 12
 {: .no_toc }
-Participle Uses  
+Participle Formation  
 Module 2 Composition Due
 
 ***
@@ -251,7 +252,7 @@ Module 2 Composition Due
 
 ### Monday, November 15
 {: .no_toc }
-Participles Continued
+Participles Uses
 
 ### Wednesday, November 17
 {: .no_toc }
