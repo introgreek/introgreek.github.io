@@ -239,11 +239,12 @@ Module 2 Quiz Due
 ### Wednesday, November 10
 {: .no_toc }
 Infinitive Uses  
-Module 2 Translation Due
+Module 2 Translation Due  
+**Today's slideshow**: [click here](https://drive.google.com/file/d/1Fmk9nyRrb_aF_GFDiUjrMkQ3AeyTOeJ6/view?usp=sharing)
 
 ### Friday, November 12
 {: .no_toc }
-Participle Formation  
+Infinitive Uses continued    
 Module 2 Composition Due
 
 ***
@@ -252,10 +253,11 @@ Module 2 Composition Due
 
 ### Monday, November 15
 {: .no_toc }
-Participles Uses
+Participles Formation
 
 ### Wednesday, November 17
 {: .no_toc }
+Participles Uses
 
 ### Friday, November 19
 {: .no_toc }
