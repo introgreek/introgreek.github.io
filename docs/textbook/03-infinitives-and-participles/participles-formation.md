@@ -79,9 +79,11 @@ Participles fall into the regular declension patterns of the [adjectives that we
     * 2nd aorist: -όμενος, -ομένη, -όμενον (2-1-2)
 * aorist passive: -είς, -εῖσα, -έν (3-1-3, m./n. stem -έντ-)
 
-*** 
+***
 
 ## Present Participles
+
+Present participles, like finite verbs and infinitives, are built on the **first principal part** and are formed by the combination of the present stem with a set of endings.
 
 ### Present Active
 
