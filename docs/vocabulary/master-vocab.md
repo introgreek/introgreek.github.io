@@ -8,7 +8,7 @@ parent: Vocabulary
 
 # Master Vocabulary List
 
-***
+*
 
 ## α
 
@@ -20,6 +20,7 @@ parent: Vocabulary
 * ἀθάνατος, ἀθάνατον - "[undying, immortal](https://logeion.uchicago.edu/ἀθάνατος)"
 * αἱρέω, αἱρήσω, εἷλον, ᾕρηκα, ᾕρημαι, ᾑρέθην - to take, seize
 * ἀκούω, ἀκούσομαι, ἤκουσα, ἀκήκοα, --, ἠκούσθην - “[to hear, listen to](https://logeion.uchicago.edu/ἀκούω) (if object is a person, use genitive; if object is a thing, use accusative)
+* ἀλλά - but
 * ἄλλος, ἄλλη, ἄλλο - "[another, other](https://logeion.uchicago.edu/ἄλλος); (ἄλλος ... ἄλλος) one ... the other"
 * ἀνά - "[up](https://logeion.uchicago.edu/ἀνά)"
 * ἄνθρωπος, ἀνθρώπου, m. - "[person, human](https://logeion.uchicago.edu/ἄνθρωπος)"
@@ -36,6 +37,7 @@ parent: Vocabulary
 
 ## γ
 
+* γάρ (post-positive) - for, because, since
 * γίγνομαι, γενήσομαι, ἐγενόμην, γέγονα, γεγένημαι, ἐγενήθην - "[to become, to happen](https://logeion.uchicago.edu/γίγνομαι)"
 * γνώμη, γνώμης, f. - "[judgment, opinion](https://logeion.uchicago.edu/γνώμη)"
 * γράφω, γράψω, ἔγραψα, γέγραφα, γέγραμμαι, ἐγράφην - "[to write](https://logeion.uchicago.edu/γράφω)"
@@ -43,20 +45,25 @@ parent: Vocabulary
 
 ## δ
 
+* δεῖ - it is necessary
 * δείκνυμι, δείξω, ἔδειξα, δέδειχα, δέδειγμαι, ἐδείχθην - [to show](https://logeion.uchicago.edu/δείκνυμι)"
+* διά - through; because of; by means of
 * διδάσκαλος, διδασκάλου, m. - "[teacher](https://logeion.uchicago.edu/διδάσκαλος)"
 * δίκαιος, δικαία, δίκαιον - "[just](https://logeion.uchicago.edu/δίκαιος)"
 * δικαστής, δικαστοῦ, m. - "[juror](https://logeion.uchicago.edu/δικαστής)"
 * δίκη, δίκης, f. - "[trial, lawsuit, penalty, custom, right](https://logeion.uchicago.edu/δίκη)"
 * δοκέω, δοκήσω, ἔδοξα, --, δέδογμαι, -ἐδόχθην - "[to think; (3rd sg.) to seem (best)](https://logeion.uchicago.edu/δοκέω)"
+* δύναμαι, δυνήσομαι, --, --, δεδύνημαι, ἐδυνήθην - to be able to, can
 
 ## ε
 
+* ἐθέλω, ἐθελήσω, ἠθέλησα, ἠθέληκα, --, -- - to want, wish
 * εἰμί, ἔσομαι, --, --, --, -- - "[to be](https://logeion.uchicago.edu/εἰμί); [3rd singular] it is possible, there is"
 * εἰς (+ acc.) - "[into](https://logeion.uchicago.edu/εἰς)"
-* ἐκ (+ gen.) - "[out of](https://logeion.uchicago.edu/ἐκ)"
+* ἐκ (+ gen.) - "[out of, from; as a result of](https://logeion.uchicago.edu/ἐκ)"
 * ἐκεῖνος, ἐκείνη, ἐκεῖνο - "[that, those](https://logeion.uchicago.edu/ἐκεῖνος)"; the former (vs. οὗτος)
 * ἐν (+ dat.) - "[in, within](https://logeion.uchicago.edu/ἐν)"
+* ἔξεστι(ν) - it is possible
 * ἐπί - "[on, upon](https://logeion.uchicago.edu/ἐπί)"
 * ἔρχομαι, ἐλεύσομαι, ἦλθον, ἐλήλυθα, --, -- - "[to come, to go](https://logeion.uchicago.edu/ἔρχομαι)"
 * ἔργον, ἔργου, n. - "[deed](https://logeion.uchicago.edu/ἔργον)"
@@ -73,6 +80,7 @@ parent: Vocabulary
 
 ## κ
 
+* καί - and; also, even
 * κάκος, κάκη, κάκον - "[bad](https://logeion.uchicago.edu/κάκος)"
 * κατά - "[down](https://logeion.uchicago.edu/κατά)"
 * κελεύω, κελεύσω, ἐκέλευσα, κεκέλευκα, κεκέλευσμαι, ἐκελεύσθην - "[to order](https://logeion.uchicago.edu/κελεύω)"
@@ -80,6 +88,7 @@ parent: Vocabulary
 
 ## λ
 
+* λαμβάνω, λήψομαι, ἔλαβον, εἴληφα, εἴλημμαι, ἐλήφθην - [to take](https://logeion.uchicago.edu/λαμβάνω)
 * λέγω, ἐρέω, εἶπον, εἴρηκα, --, -- - "[to say, to speak](https://logeion.uchicago.edu/λέγω)"
 * λόγος, λόγου, m. - "[word, speech](https://logeion.uchicago.edu/λόγος)"
 
@@ -87,7 +96,9 @@ parent: Vocabulary
 
 * μαθητής, μαθητοῦ, m. - "[student](https://logeion.uchicago.edu/μαθητής)"
 * μάρτυς, μάρτυρος, m./f. - "[witness](https://logeion.uchicago.edu/μάρτυς)"
+* μείγνυμι, μείξω, ἔμειξα, μέμιχα, μέμιγμαι, ἐμίγην - [to mix](https://logeion.uchicago.edu/μείγνυμι)
 * μετά - "[after (+ acc.); with (+ gen.)](https://logeion.uchicago.edu/μετά)"
+* μή - not
 * μίκρος, μίκρα, μίκρον - "[small](https://logeion.uchicago.edu/μίκρος)"
 
 ## ν
@@ -102,6 +113,7 @@ parent: Vocabulary
 * οἰκία, οἰκίας, f. - "[home, house](https://logeion.uchicago.edu/οἰκία)"
 * ὅπλον, ὅπλου, n. - "[weapon](https://logeion.uchicago.edu/ὅπλον)"
 * οὐ (οὐκ before smooth breathing, οὐχ before rough breathing) - "[not, no](https://logeion.uchicago.edu/οὐ)"
+* οὖν (post-positive) - therefore, then
 * οὗτος, αὕτη, τοῦτο - "[this; the preceding](https://logeion.uchicago.edu/οὗτος)"; the latter (vs. ἐκεῖνος)
 
 ## π
@@ -116,7 +128,8 @@ parent: Vocabulary
 * πόλις, πόλεως, f. - "[city](https://logeion.uchicago.edu/πόλις)"
 * πολίτης, πολίτου, m. - "[citizen](https://logeion.uchicago.edu/πολίτης)"
 * πρᾶγμα, πράγματος, n. - "[deed](https://logeion.uchicago.edu/πρᾶγμα)"
-* πρός - "[to, toward](https://logeion.uchicago.edu/πρός)"
+* πρέπει - it is fitting
+* πρός - "[to, toward; in addition to](https://logeion.uchicago.edu/πρός)"
 * πρότερος, πρότερα, πρότερον - "[previous, former, earlier](https://logeion.uchicago.edu/πρότερος)"
 * πρῶτος, πρώτη, πρῶτον - "[first](https://logeion.uchicago.edu/πρῶτος)"
 
@@ -128,6 +141,7 @@ parent: Vocabulary
 
 ## τ
 
+* τε (post-positive) - and
 * τότε - "[then, at that time](https://logeion.uchicago.edu/τότε)"
 
 ## υ
@@ -136,7 +150,12 @@ parent: Vocabulary
 * ὑπέρ - "[over, above](https://logeion.uchicago.edu/ὑπέρ)"
 * ὕστατος, ὑστάτη, ὕστατον - "[last](https://logeion.uchicago.edu/ὕστατος)"
 
+## φ
+
+* φέρω, οἴσω, ἤνεγκον / ἤνεγκα, ἐνήνοχα, ἐνήνεγμαι, ἠνέχθην - [to bring, carry, bear](https://logeion.uchicago.edu/φέρω)
+
 ## χ
 
+* χρή - it is necessary
 * χρῆμα, χρήματος, n. - "[thing; (plural) money, goods, property](https://logeion.uchicago.edu/χρῆμα)"
 * χρόνος, χρόνου, m. - "[time](https://logeion.uchicago.edu/χρόνος)"
