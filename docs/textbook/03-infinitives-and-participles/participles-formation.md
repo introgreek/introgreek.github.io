@@ -18,12 +18,79 @@ grand_parent: Textbook
 
 ***
 
-## Participles
+## Unit Vocabulary
 
-## Uses of Participles
+TBD
 
-### Attributive
+***
 
-### Circumstantial
+## Participles Overview
 
-### Complementary
+Participles are **verbal adjectives**. Note how this differs from infinitives, which are verbal *nouns* -- a noun is a person, place, thing, or idea, while an adjective is a word that modifies a substantive and agrees with it in gender, case, and number. Both, however, are based on verbal dictionary entries and have some sense of action built into them, and neither can be the main verb of its sentence.
+
+A participle modifies a noun by describing what it's doing or what's being done to it. The most straightforward appearance of a participle in English often uses the -ing or -ed form of a verb, as in the following examples:
+
+* The **crying** boy sat on the ground.
+* We ate the **hardboiled** eggs.
+
+In these examples, the bolded words are based on verbs. "Crying" is an *active* participle from the verb "to cry", and it describes an activity of the boy while he's sitting on the ground. "Hardboiled" is a *passive* participle from the verb "to hardboil", and it describes what happened to the eggs before they were eaten: they got hardboiled. Both participles derive from verbs but modify nouns in their capacity as adjectives.
+
+However, as we will see, participles are extremely versatile in ancient Greek and can (and should) be translated in more interesting ways than simply "[verb]ing" or "[verb]ed". We can build a participial phrase out into its own dependent clause, depending on how we interpret a participle to be relating to its noun and the main verb of a sentence. Take a look at the following example:
+
+* γράψαντες τὰ ποιήματα, οἱ παῖδες εἰς τὴν οἰκίαν ἦλθον.
+
+The participle in this sentence is γράψαντες, a masculine nominative plural aorist active participle from ἔρχομαι, and it modifies the subject of the sentence οἱ παῖδες, the children. Because of the participle's predicative position, there are a numnber of ways that we can interpret and translate the participle and its direct object that indicate its aoristic aspect (a verbal action that's completed and done by the time of the action of the main verb). Here are some quick examples:
+
+* **After they wrote/had written** the poems, the children went into the house.
+* **When they wrote/had written** the poems, the children went into the house.
+* **Since they wrote/had written** the poems, the children went into the house.
+* **Because they wrote/had written** the poems, the children went into the house.
+* **Although they wrote/had written** the poems, the children went into the house.
+
+As you can see, the participle is extremely versatile, and depending on your interpretation, there are many ways in which it can be translated. Of course, some possibilities are more likely than others. Why, for example, would "writing the poems" be set in opposition to "going into the house" as in the last example with "although"? Note also how the verbal action in γράψαντες can be rendered either with a regular aorist translation ("they wrote") or what we would term a *pluperfect* translation ("they *had written*"); the pluperfect is a tense that indicates that a verbal action occurred *before* an event that itself occurred in the past (i.e., the action of "going" in ἦλθον).
+
+We will get into the details of the various ways in which you can interpret a participle in the next unit. For now, though, we have to understand how to form and identify participles.
+
+***
+
+## Participle Formation Guidelines
+
+Like infinitives or conjugated forms of the verb, the formation of a participle is a matter of adding endings to a verb stem. However, unlike infinitives or conjugated forms of the verb, because participles are verbal **adjectives**, you must then **decline** the participle to match in gender, case, and number with the noun that it's describing or replacing (if it's used as a substantive adjective).
+
+Like infinitives, there are five tense-voice combinations of the participle from the combinations that we've met so far:
+
+* present active (1st pp)
+* present middle/passive (1st pp)
+* aorist active (3rd pp)
+* aorist middle (3rd pp)
+* aorist passive (6th pp)
+
+There is no imperfect participle
+
+Participles fall into the regular declension patterns of the [adjectives that we learned about in Module 2](../nouns/adjectives); the key is remembering which pattern of endings each participle uses. Here is a list in summary; we'll explore each in the following sections.
+
+* present active: -ων, -ουσα, -ον (3-1-3, m./n. stem -οντ-)
+* present middle/passive: -όμενος, -ομένη, -όμενον (2-1-2)
+* aorist active:
+    * 1st aorist: -ας, -ασα, -αν (3-1-3, m./n. stem -αντ-)
+    * 2nd aorist: -ών, -οῦσα, -όν (3-1-3, m./n. stem -όντ-)
+* aorist middle:
+    * 1st aorist: -άμενος, -αμένη, -άμενον (2-1-2)
+    * 2nd aorist: -όμενος, -ομένη, -όμενον (2-1-2)
+* aorist passive: -είς, -εῖσα, -έν (3-1-3, m./n. stem -έντ-)
+
+*** 
+
+## Present Participles
+
+### Present Active
+
+### Present Middle/Passive
+
+## Aorist Participles
+
+### Aorist Active
+
+### Aorist Middle
+
+### Aorist Passive
