@@ -29,8 +29,8 @@ grand_parent: Textbook
 
 ### Verbs That Take Complementary Infinitives
 {: .no_toc }
-* δύναμαι, δυνήσομαι, --, --, δεδύνημαι, ἐδυνήθην - to be able to, can
-* ἐθέλω, ἐθελήσω, ἠθέλησα, ἠθέληκα, --, -- - to want, wish
+* **δύναμαι**, `δυνήσομαι`, --, --, `δεδύνημαι`, **ἐδυνήθην** - to be able to, can
+* **ἐθέλω**, `ἐθελήσω`, **ἠθέλησα**, `ἠθέληκα`, --, -- - to want, wish
 
 ### Nouns
 
