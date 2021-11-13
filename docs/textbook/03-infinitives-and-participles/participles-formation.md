@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Participle Formation
-permalink: /textbook/infs-and-parts/participles-overview
+permalink: /textbook/infs-and-parts/participle-formation
 nav_order: 2
 parent: 03 - Infinitives and Participles
 grand_parent: Textbook
@@ -65,29 +65,133 @@ Like infinitives, there are five tense-voice combinations of the participle from
 * aorist middle (3rd pp)
 * aorist passive (6th pp)
 
-There is no imperfect participle
+There is no imperfect participle.
 
 Participles fall into the regular declension patterns of the [adjectives that we learned about in Module 2](../nouns/adjectives); the key is remembering which pattern of endings each participle uses. Here is a list in summary; we'll explore each in the following sections.
 
-* present active: -ων, -ουσα, -ον (3-1-3, m./n. stem -οντ-)
-* present middle/passive: -όμενος, -ομένη, -όμενον (2-1-2)
+* present active:
+    * -ω verbs: **-ων, -ουσα, -ον** (3-1-3, m./n. stem -οντ-)
+    * -μι verbs: **-ς, -σα, -ν** (3-1-3, m./n. stem -ντ-)
+* present middle/passive:
+    * -ω verbs: **-όμενος, -ομένη, -όμενον** (2-1-2)
+    * -μι verbs: **-μενος, -μένη, -μενον** (2-1-2)
 * aorist active:
-    * 1st aorist: -ας, -ασα, -αν (3-1-3, m./n. stem -αντ-)
-    * 2nd aorist: -ών, -οῦσα, -όν (3-1-3, m./n. stem -όντ-)
+    * 1st aorist: **-ας, -ασα, -αν** (3-1-3, m./n. stem -αντ-)
+    * 2nd aorist: **-ών, -οῦσα, -όν** (3-1-3, m./n. stem -όντ-)
 * aorist middle:
-    * 1st aorist: -άμενος, -αμένη, -άμενον (2-1-2)
-    * 2nd aorist: -όμενος, -ομένη, -όμενον (2-1-2)
-* aorist passive: -είς, -εῖσα, -έν (3-1-3, m./n. stem -έντ-)
+    * 1st aorist: **-άμενος, -αμένη, -άμενον** (2-1-2)
+    * 2nd aorist: **-όμενος, -ομένη, -όμενον** (2-1-2)
+* aorist passive: **-είς, -εῖσα, -έν** (3-1-3, m./n. stem -έντ-)
 
 ***
 
 ## Present Participles
 
-Present participles, like finite verbs and infinitives, are built on the **first principal part** and are formed by the combination of the present stem with a set of endings.
+Present participles, like finite verbs and infinitives, are built on the **first principal part** and are formed by the combination of the present stem with a set of endings; these endings depend first on whether the verb is an **-ω verb** or a **-μι verb**, and then on whether you want your participle to be in the **active** voice or in the **middle or passive** voice.
 
 ### Present Active
 
+Both types of present active participle (-ω or -μι) are **three-termination consonant declension adjectives** or **3-1-3s**. To form the participle, you must get the present stem as usual and then attach the following endings:
+
+* -ω verbs: **-ων, -ουσα, -ον** (3-1-3, m./n. stem -οντ-)
+* -μι verbs: **-ς, -σα, -ν** (3-1-3, m./n. stem -ντ-)
+
+Both types of present active participle are 3-1-3s, and recall what this means from [our discussion of 3-1-3s](../nouns/adjectives#three-termination-3-1-3-1). The **feminine** forms of the participle decline according to first-declension short feminine patterns, but the **masculine** and **neuter** forms of the participle decline according to third declension patterns.
+
+Recall also that if the verb in question is an **epsilon-contract**, you must contract the stem's epsilon with the vowel or diphthong that follows.
+
+Let's take a look at the verbs κελεύω, μείγνυμι, and ποιέω as paradigm examples.
+
+**κελεύω**
+
+| | Masc. | Fem. | Neut. |
+| ----- | ----- | ----- | ----- |
+| Nom. Sg. | κελεύ**ων** | κελεύ**ουσα** | κέλευ**ον** |
+| Gen. Sg. | κελεύ**οντος** | κελευ**ούσης** | κελεύ**οντος** |
+| Dat. Sg. | κελεύ**οντι** | κελευ**ούσῃ** | κελεύ**οντι** |
+| Acc. Sg. | κελεύ**οντα** | κελεύ**ουσαν** | κέλευ**ον** |
+| Nom. Pl. | κελεύ**οντες** | κελεύ**ουσαι** | κελεύ**οντα** |
+| Gen. Pl. | κελευ**όντων** | κελευ**ουσῶν** | κελευ**όντων** |
+| Dat. Pl. | κελεύ**ουσι(ν)**\* | κελευ**ούσαις** | κελεύ**ουσι(ν)**\* |
+| Acc. Pl. | κελεύ**οντας** | κελεύ**ουσας** | κελεύ**οντα** |
+
+\* Note that in the masculine and dative plural, the sigma of the ending (-σι(ν)) knocks out the stem's -ντ-, and the -ο- left behind lengthens to -ου- to compensate.
+
+**μείγνυμι**
+
+| | Masc. | Fem. | Neut. |
+| ----- | ----- | ----- | ----- |
+| Nom. Sg. | μειγνύ**ς** | μειγνῦ**σα** | μειγνύ**ν** |
+| Gen. Sg. | μειγνῦ**ντος** | μειγνύ**σης** | μειγνῦ**ντος** |
+| Dat. Sg. | μειγνῦ**ντι** | μειγνύ**σῃ** | μειγνῦ**ντι** |
+| Acc. Sg. | μειγνῦ**ντα** | μειγνῦ**σαν** | μειγνύ**ν** |
+| Nom. Pl. | μειγνῦ**ντες** | μειγνῦ**σαι** | μειγνῦ**ντα** |
+| Gen. Pl. | μειγνύ**ντων** | μειγνυ**σῶν** | μειγνύ**ντων** |
+| Dat. Pl. | μειγνῦ**σι(ν)** | μειγνύ**σαις** | μειγνῦ**σι(ν)** |
+| Acc. Pl. | μειγνῦ**ντας** | μειγνύ**σας** | μειγνῦ**ντα** |
+
+**ποιεώ**
+
+| | Masc. | Fem. | Neut. |
+| ----- | ----- | ----- | ----- |
+| Nom. Sg. | ποι**ῶν** | ποι**οῦσα** | ποί**ουν** |
+| Gen. Sg. | ποι**οῦντος** | ποι**ούσης** | ποι**οῦντος** |
+| Dat. Sg. | ποι**οῦντι** | ποι**ούσῃ** | ποι**οῦντι** |
+| Acc. Sg. | ποι**οῦντα** | ποι**οῦσαν** | ποί**ουν** |
+| Nom. Pl. | ποι**οῦντες** | ποι**οῦσαι** | ποι**οῦντα** |
+| Gen. Pl. | ποι**ούντων** | ποι**ουσῶν** | ποι**ούντων** |
+| Dat. Pl. | ποι**οῦσι(ν)** | ποι**ούσαις** | ποι**οῦσι(ν)** |
+| Acc. Pl. | ποι**οῦντας** | ποι**ούσας** | ποι**οῦντα** |
+
+Note that in all of these forms, the stem's -ε- contracts with the vowel or diphthong that follows. So, ποι**ε**- + -**ω**ν becomes ποιῶν in the masc. nom. sg.; ποι**ε**- + -**ο**ντος becomes ποιοῦντος in the masc. gen. sg.; and so on.
+
 ### Present Middle/Passive
+
+The declension of the present middle/passive participle in both forms (-ω and -μι) is more straightforward than its active counterpart since both variations are [**three-termination vowel declension (2-1-2) adjectives**](../nouns/adjectives#three-termination-2-1-2-1). The middle/passive endings are as follows:
+
+* -ω verbs: **-όμενος, -ομένη, -όμενον** (2-1-2)
+* -μι verbs: **-μενος, -μένη, -μενον** (2-1-2)
+
+Note that the only functional difference between the endings is the thematic vowel -ο- in the -ω verb endings.
+
+**κελεύω**
+
+| | Masc. | Fem. | Neut. |
+| ----- | ----- | ----- | ----- |
+| Nom. Sg. | κελευ**όμενος** | κελευ**ομένη** | κέλευ**όμενον** |
+| Gen. Sg. | κελευ**ομένου** | κελευ**ομένης** | κελευ**ομένου** |
+| Dat. Sg. | κελευ**ομένῳ** | κελευ**ομένῃ** | κελευ**ομένῳ** |
+| Acc. Sg. | κελευ**όμενον** | κελευ**ομένην** | κέλευ**όμενον** |
+| Nom. Pl. | κελευ**όμενοι** | κελευ**όμεναι** | κελευ**όμενα** |
+| Gen. Pl. | κελευ**ομένων** | κελευ**ομένων** | κελευ**ομένων** |
+| Dat. Pl. | κελευ**ομένοις** | κελευ**ομέναις** | κελευ**ομένοις** |
+| Acc. Pl. | κελευ**ομένους** | κελευ**όμενας** | κελευ**όμενα** |
+
+**μείγνυμι**
+
+| | Masc. | Fem. | Neut. |
+| ----- | ----- | ----- | ----- |
+| Nom. Sg. | μειγνύ**μενος** | μειγνυ**μένη** | μειγνύ**μενον** |
+| Gen. Sg. | μειγνυ**μένου** | μειγνυ**μένης** | μειγνυ**μένου** |
+| Dat. Sg. | μειγνυ**μένῳ** | μειγνυ**μένῃ** | μειγνυ**μένῳ** |
+| Acc. Sg. | μειγνύ**μενον** | μειγνυ**μένην** | μειγνύ**μενον** |
+| Nom. Pl. | μειγνυ**μενοι** | μειγνύ**μεναι** | μειγνύ**μενα** |
+| Gen. Pl. | μειγνυ**μένων** | μειγνυ**μένων** | μειγνυ**μένων** |
+| Dat. Pl. | μειγνυ**μένοις** | μειγνυ**μέναις** | μειγνυ**μένοις** |
+| Acc. Pl. | μειγνυ**μένους** | μειγνύ**μενας** | μειγνύ**μενα** |
+
+**ποιεώ**
+
+| | Masc. | Fem. | Neut. |
+| ----- | ----- | ----- | ----- |
+| Nom. Sg. | ποι**ούμενος** | ποι**ουμένη** | ποί**ούμενον** |
+| Gen. Sg. | ποι**ουμένου** | ποι**ουμένης** | ποι**ουμένου** |
+| Dat. Sg. | ποι**ουμένῳ** | ποι**ουμένῃ** | ποι**ουμένῳ** |
+| Acc. Sg. | ποι**ούμενον** | ποι**ουμένην** | ποί**ούμενον** |
+| Nom. Pl. | ποι**ούμενοι** | ποι**ούμεναι** | ποι**ούμενα** |
+| Gen. Pl. | ποι**ουμένων** | ποι**ουμένων** | ποι**ουμένων** |
+| Dat. Pl. | ποι**ουμένοις** | ποι**ουμέναις** | ποι**ουμένοις** |
+| Acc. Pl. | ποι**ουμένους** | ποι**ούμενας** | ποι**ούμενα** |
 
 ## Aorist Participles
 
