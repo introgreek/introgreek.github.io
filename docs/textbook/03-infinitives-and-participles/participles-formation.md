@@ -164,10 +164,10 @@ Note that the only functional difference between the endings is the thematic vow
 
 | | Masc. | Fem. | Neut. |
 | ----- | ----- | ----- | ----- |
-| Nom. Sg. | κελευ**όμενος** | κελευ**ομένη** | κέλευ**όμενον** |
+| Nom. Sg. | κελευ**όμενος** | κελευ**ομένη** | κελευ**όμενον** |
 | Gen. Sg. | κελευ**ομένου** | κελευ**ομένης** | κελευ**ομένου** |
 | Dat. Sg. | κελευ**ομένῳ** | κελευ**ομένῃ** | κελευ**ομένῳ** |
-| Acc. Sg. | κελευ**όμενον** | κελευ**ομένην** | κέλευ**όμενον** |
+| Acc. Sg. | κελευ**όμενον** | κελευ**ομένην** | κελευ**όμενον** |
 | Nom. Pl. | κελευ**όμενοι** | κελευ**όμεναι** | κελευ**όμενα** |
 | Gen. Pl. | κελευ**ομένων** | κελευ**ομένων** | κελευ**ομένων** |
 | Dat. Pl. | κελευ**ομένοις** | κελευ**ομέναις** | κελευ**ομένοις** |
@@ -198,6 +198,25 @@ Note that the only functional difference between the endings is the thematic vow
 | Gen. Pl. | ποι**ουμένων** | ποι**ουμένων** | ποι**ουμένων** |
 | Dat. Pl. | ποι**ουμένοις** | ποι**ουμέναις** | ποι**ουμένοις** |
 | Acc. Pl. | ποι**ουμένους** | ποι**ούμενας** | ποι**ούμενα** |
+
+***
+
+## Practice Opportunity 1
+
+Identify the **voice** and then the **gender, case, and number** of each of the following present tense participles. If there are multiple possibilities, list them.
+
+[Answer key here](../answer-key#participle-formation-po1).
+
+1. λυόμενοι
+2. αἱροῦντας
+3. δεικνῦσα
+4. μειγνυμένων
+5. ποιουμέναις
+6. κελεῦον
+7. γράφοντα
+8. μειγνῦντος
+9. πέμπουσιν
+10. κρυπτομένοις
 
 ***
 

@@ -490,3 +490,35 @@ present middle/passive from λέγω
 
 8. μειγνύναι  
 present active from μείγνυμι
+
+### Participle Formation: PO1
+
+1. λυόμενοι  
+middle/passive - masc. nom. pl.
+
+2. αἱροῦντας  
+active - masc. acc. pl.
+
+3. δεικνῦσα  
+active - fem. nom. sg.
+
+4. μειγνυμένων  
+mid./pass. - masc./fem./neut. gen. pl.
+
+5. ποιουμέναις  
+mid./pass. - fem. dat. pl.
+
+6. κελεῦον  
+act. - neut. nom./acc. sg.
+
+7. γράφοντα  
+act. - masc. acc. sg. OR neut. nom./acc. pl.
+
+8. μειγνῦντος  
+act. - masc./neut. gen. sg.
+
+9. πέμπουσιν  
+act. - masc./neut. dat. pl.
+
+10. κρυπτομένοις  
+mid./pass. - masc./neut. dat pl.
