@@ -21,28 +21,28 @@ parent: Vocabulary
 * πρέπει - it is fitting
 * δύναμαι, δυνήσομαι, --, --, δεδύνημαι, ἐδυνήθην - to be able to, can
 * ἐθέλω, ἐθελήσω, ἠθέλησα, ἠθέληκα, --, -- - to want, wish
-* πέμπω
-* κρύπτω
-* λύω
+* **κρύπτω**, `κρύψω`, **ἔκρυψα**, `--`, `κέκρυμμαι`, **ἐκρύφθην** - to hide, conceal
+* **λύω**, `λύσω`, **ἔλυσα**, `λέλυκα`, `λέλυμαι`, **ἐλύθην** - to free, loosen
+* **πέμπω**, `πέμψω`, **ἔπεμψα**, `πέπομφα`, `πέπεμμαι`, **ἐπέμφθην** - to send
 
 ## Nouns
+* οἶνος, οἴνου, m. - wine
 * βουλή, βουλῆς, f. - "[will, plan, advice](https://logeion.uchicago.edu/βουλή)"
 * θάνατος, θανάτου, m. - "[death](https://logeion.uchicago.edu/θάνατος)"
 * νόμος, νόμου, m. - "[law, custom](https://logeion.uchicago.edu/νόμος)"
 * χρόνος, χρόνου, m. - "[time](https://logeion.uchicago.edu/χρόνος)"
-* πόλις, πόλεως, f. - "[city](https://logeion.uchicago.edu/πόλις)"
 * χρῆμα, χρήματος, n. - "[thing; (plural) money, goods, property](https://logeion.uchicago.edu/χρῆμα)"
 * πατήρ, πατρός, m. - "[father](https://logeion.uchicago.edu/πατήρ)"
-* οἶνος, οἴνου, m. - wine
+* πόλις, πόλεως, f. - "[city](https://logeion.uchicago.edu/πόλις)"
 * ποιήτης
 
 ## Prepositions
 * ἐκ (+ gen.) - out of, from; as a result of
 * διά - through; because of; by means of
 * πρός - to, toward; in addition to
-* πρό  
-* ἀντί  
-* ἀμφί  
+* πρό (+ gen.) - before; in front of; on behalf of
+* ἀντί (+ gen.) - instead of; in place of; opposite
+* ἀμφί - on both sides of; around
 
 ### Adverbs
 

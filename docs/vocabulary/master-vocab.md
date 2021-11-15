@@ -85,12 +85,14 @@ parent: Vocabulary
 * κατά - "[down](https://logeion.uchicago.edu/κατά)"
 * κελεύω, κελεύσω, ἐκέλευσα, κεκέλευκα, κεκέλευσμαι, ἐκελεύσθην - "[to order](https://logeion.uchicago.edu/κελεύω)"
 * κίνδυνος, κινδύνου, m. - "[danger](https://logeion.uchicago.edu/κίνδυνος)"
+* κρύπτω, κρύψω, ἔκρυψα, --, κέκρυμμαι, ἐκρύφθην - to hide, conceal
 
 ## λ
 
 * λαμβάνω, λήψομαι, ἔλαβον, εἴληφα, εἴλημμαι, ἐλήφθην - [to take](https://logeion.uchicago.edu/λαμβάνω)
 * λέγω, ἐρέω, εἶπον, εἴρηκα, --, -- - "[to say, to speak](https://logeion.uchicago.edu/λέγω)"
 * λόγος, λόγου, m. - "[word, speech](https://logeion.uchicago.edu/λόγος)"
+* λύω, λύσω, ἔλυσα, λέλυκα, λέλυμαι, ἐλύθην - to free, loosen
 
 ## μ
 
@@ -122,6 +124,7 @@ parent: Vocabulary
 * παρά - "[next to, near](https://logeion.uchicago.edu/παρά)"
 * πᾶς, πᾶσα, πᾶν (m./n. stem πάντ-) - (sg., w/o article) each, every; (sg., with article) the whole, entire; (pl.) all ([Logeion entry](https://logeion.uchicago.edu/πᾶς))
 * πατήρ, πατρός, m. - "[father](https://logeion.uchicago.edu/πατήρ)"
+* πέμπω, πέμψω, ἔπεμψα, πέπομφα, πέπεμμαι, ἐπέμφθην - to send
 * περί - "[around](https://logeion.uchicago.edu/περί)"
 * ποιέω, ποιήσω, ἐποίησα, πεποίηκα, πεποίημαι, ἐποιήθην - "[to make, do](https://logeion.uchicago.edu/ποιέω)"
 * ποίημα, ποιήματος, n. - "[poem](https://logeion.uchicago.edu/ποίημα)"

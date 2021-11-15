@@ -253,14 +253,16 @@ Module 2 Composition Due
 
 ### Monday, November 15
 {: .no_toc }
-Participles Formation
+Participle Formation  
+**Today's slideshow**: [click here](https://drive.google.com/file/d/1GBwyltlobsdIcqx1p8Ne_qPtYezPQtCz/view?usp=sharing)
 
 ### Wednesday, November 17
 {: .no_toc }
-Participles Uses
+Participle Formation continued
 
 ### Friday, November 19
 {: .no_toc }
+Participle Uses
 
 ***
 
@@ -268,6 +270,7 @@ Participles Uses
 
 ### Monday, November 22
 {: .no_toc }
+Participle Uses continued
 
 ***
 
