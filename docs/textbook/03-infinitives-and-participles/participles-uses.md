@@ -18,7 +18,18 @@ grand_parent: Textbook
 
 ***
 
-## Participles
+## Unit Vocabulary
+
+### Nouns
+{: .no_toc }
+
+* βουλή, βουλῆς, f. - "[will, plan, advice](https://logeion.uchicago.edu/βουλή)"
+* θάνατος, θανάτου, m. - "[death](https://logeion.uchicago.edu/θάνατος)"
+* νόμος, νόμου, m. - "[law, custom](https://logeion.uchicago.edu/νόμος)"
+* χρόνος, χρόνου, m. - "[time](https://logeion.uchicago.edu/χρόνος)"
+* χρῆμα, χρήματος, n. - "[thing; (plural) money, goods, property](https://logeion.uchicago.edu/χρῆμα)"
+
+***
 
 ## Uses of Participles
 

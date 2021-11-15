@@ -26,15 +26,6 @@ grand_parent: Textbook
 * **λύω**, `λύσω`, **ἔλυσα**, `λέλυκα`, `λέλυμαι`, **ἐλύθην** - to free, loosen
 * **πέμπω**, `πέμψω`, **ἔπεμψα**, `πέπομφα`, `πέπεμμαι`, **ἐπέμφθην** - to send
 
-### Nouns
-{: .no_toc }
-
-* βουλή, βουλῆς, f. - "[will, plan, advice](https://logeion.uchicago.edu/βουλή)"
-* θάνατος, θανάτου, m. - "[death](https://logeion.uchicago.edu/θάνατος)"
-* νόμος, νόμου, m. - "[law, custom](https://logeion.uchicago.edu/νόμος)"
-* χρόνος, χρόνου, m. - "[time](https://logeion.uchicago.edu/χρόνος)"
-* χρῆμα, χρήματος, n. - "[thing; (plural) money, goods, property](https://logeion.uchicago.edu/χρῆμα)"
-
 ***
 
 ## Participles Overview
