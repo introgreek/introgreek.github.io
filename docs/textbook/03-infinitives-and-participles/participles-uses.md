@@ -72,7 +72,7 @@ Because we have such latitude in translation, there are many possibilities and w
 * The books **that are being carried by the child** are small.
 etc.
 
-
+**INSERT EXPLORATION OF ASPECT HERE**
 
 ***
 
