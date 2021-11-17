@@ -258,7 +258,8 @@ Participle Formation
 
 ### Wednesday, November 17
 {: .no_toc }
-Participle Formation continued
+Participle Formation continued, Participle Uses  
+**Today's slideshow**: [click here](https://drive.google.com/file/d/1GicTr6rqkPhMi6SGHiY09QZ-ycbkB1wj/view?usp=sharing)
 
 ### Friday, November 19
 {: .no_toc }
