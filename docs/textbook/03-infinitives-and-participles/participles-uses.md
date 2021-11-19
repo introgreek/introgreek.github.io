@@ -72,16 +72,71 @@ Because we have such latitude in translation, there are many possibilities and w
 * The books **that are being carried by the child** are small.
 etc.
 
-**INSERT EXPLORATION OF ASPECT HERE**
+***
+
+## A Note on Aspect and Relative Tense
+
+Recall that the tense of participles, like the tense infinitives, indicates [**aspect**](infinitive-uses#verbal-aspect) and thus **relative time to the main verb** rather than **absolute time**. While this distinction is difficult to determine with the infinitive constructions that we currently know, it is much clearer with participial expressions that get expanded into dependent clauses.
+
+* ὁ παῖς ὁ τοὺς ἵππους **ἄγων** τὰ βιβλία **φέρει**.
+    * The child who **leads** the horses **carries** the books.
+* ὁ παῖς ὁ τοὺς ἵππους **ἄγων** τὰ βιβλία **ἤνεγκεν**.
+    * The child who **was leading/led** the horses **carried** the books.
+
+**Present aspect** means that the action of the participle is **in progress**, **incomplete**, and **happening at the same time as the main verb**.
+
+In the first sentence, the present participle ἄγων indicates that the action of "leading" occurs at the same time as the main verb φέρει, which is in the present tense. Therefore, ἄγων gets translated with a present verb: "leads."
+
+We use the same present participle ἄγων in the second sentence, but note that the main verb is now the aorist ἤνεγκεν. Because **present aspect** means that the action occurs **at the same time as the main verb**, that means that our translation necessarily needs to reflect that: thus, we get "was leading" or "led" *rather than* the expected "leads". While "led" (a simple past tense) illustrates the idea that the action of "leading" occurs in the past along with the action of "carrying", the translation "was leading" illustrates the same along with also conveying the participle's **in progress** quality.
+
+* ὁ παῖς ὁ τοὺς ἵππους **ἀγαγὼν** τὰ βιβλία **φέρει**.
+    * The child who **led** the horses **carries** the books.
+* ὁ παῖς ὁ τοὺς ἵππους **ἀγαγὼν** τὰ βιβλία **ἤνεγκεν**.
+    * The child who **had led** the horses **carried** the books.
+
+**Aorist aspect** means that the action of the participle is **instantaneous (one and done)**, **completed**, and **happened before the main verb**.
+
+This is easy enough to see in the first sentence, which maintains the same relationship of time that one would expect between aorist and present: "led" is an instantaneous action that is completed and done before the action of "carrying" happens.
+
+However, in the second sentence, notice how the translation of the aorist participle needs to indicate that it happened *before* the aorist main verb. To make this clear, we can use the English **pluperfect** tense ("**had** [verb]**ed**"), which indicates an action that occurred *before* an action in the past.
+
+Whenever you're translating a participle, you must always think in terms of **duration**, **completeness**, and **relative tense**; you can't take "present" or "aorist" at face value necessarily.
 
 ***
 
 ## Circumstantial Participles
 
-* **temporal**.
-* **causal**.
-* **concessive**.
-* **conditional**.
+**Circumstantial participles** perform double duty in a sentence. They both modify a noun *and* explain the **circumstances** of the action of the main verb. They will also usually be placed in **predicative position** to help differentiate them from attributive participles. Participles of this sort often answer questions like "when does the main verb happen?", "why does it happen?", "what obstacles could impede the main verb from happening?", and "under what condition will the main verb happen?" Although there are some clues that may point to one type of circumstantial participle over another, often it will be a matter of personal interpretation, and you have to make a choice as to which of the following translations makes the most sense in the context of what you're reading.
+
+### Temporal
+If a circumstantial participle functions in a **temporal** fashion, it is answering the "when" question -- "temporal" derives from the Latin *tempus*, "time". The way that the participle answers the question (i.e., to indicate at what time the main verb occurred) depends on its tense/aspect.
+
+* Either tense of the participle may be translated with **"when"**.
+* Present participles may be translated with **"while"** or **"as"**.
+* Aorist participles may be translated with **"after"**.
+
+We'll illustrate this idea by using the same sentence with various tenses.
+
+ὁ πολίτης βλέπει τὴν οἰκίαν **ἐρχόμενος ἀπὸ τῆς ὁδοῦ**.
+* The citizen sees the house **when he comes from the road**.
+* The citizen sees the house **while he comes from the road**.
+* The citizen sees the house **as he comes from the road**.
+
+In each of these three sample translations, the conjunctions "when", "while", and "as" indicate the relationship of time between the present participle ἐρχόμενος and the main verb βλέπει -- because the participle has present aspect, the two verb actions are happening at the same time.
+
+Notice that because the participle is outside of attributive position, we have to be careful about who/what the participle modifies. Because ἐρχόμενος is masculine nominative singular, the only noun that it can modify is πολίτης -- it is the *citizen* who is coming, not the house (οἰκίαν), which is feminine accusative singular, despite the fact that οἰκίαν is the closest noun to ἐρχόμενος.
+
+ὁ πολίτης βλέπει τὴν οἰκίαν **ἐλθὼν ἀπὸ τῆς ὁδοῦ**.
+* The citizen sees the house **when he came from the road**.
+* The citizen sees the house **after he came from the road**.
+
+
+
+### Causal
+
+### Concessive
+
+### Conditional
 
 ### Genitive Absolute
 
