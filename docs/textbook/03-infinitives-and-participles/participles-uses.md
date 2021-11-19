@@ -29,6 +29,12 @@ grand_parent: Textbook
 * χρόνος, χρόνου, m. - "[time](https://logeion.uchicago.edu/χρόνος)"
 * χρῆμα, χρήματος, n. - "[thing; (plural) money, goods, property](https://logeion.uchicago.edu/χρῆμα)"
 
+### Particles
+
+* ὡς, ἅτε, οἷα - (used with causal participle)
+* καίπερ - (used with concessive participle)
+* ὅμως - nevertheless, still
+
 ***
 
 ## Uses of Participles
