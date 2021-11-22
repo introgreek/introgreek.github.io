@@ -113,6 +113,7 @@ parent: Vocabulary
 * ὅδε, ἥδε, τόδε - [this, these, the following](https://logeion.uchicago.edu/ὅδε)
 * ὁδός, ὁδοῦ, f. - "[road](https://logeion.uchicago.edu/ὁδός)"
 * οἰκία, οἰκίας, f. - "[home, house](https://logeion.uchicago.edu/οἰκία)"
+* οἶνος, οἴνου, m. - "[wine](https://logeion.uchicago.edu/οἰκία)"
 * ὅπλον, ὅπλου, n. - "[weapon](https://logeion.uchicago.edu/ὅπλον)"
 * οὐ (οὐκ before smooth breathing, οὐχ before rough breathing) - "[not, no](https://logeion.uchicago.edu/οὐ)"
 * οὖν (post-positive) - therefore, then
@@ -125,7 +126,7 @@ parent: Vocabulary
 * πᾶς, πᾶσα, πᾶν (m./n. stem πάντ-) - (sg., w/o article) each, every; (sg., with article) the whole, entire; (pl.) all ([Logeion entry](https://logeion.uchicago.edu/πᾶς))
 * πατήρ, πατρός, m. - "[father](https://logeion.uchicago.edu/πατήρ)"
 * πέμπω, πέμψω, ἔπεμψα, πέπομφα, πέπεμμαι, ἐπέμφθην - to send
-* περί - "[around](https://logeion.uchicago.edu/περί)"
+* περί - "[around, about](https://logeion.uchicago.edu/περί)"
 * ποιέω, ποιήσω, ἐποίησα, πεποίηκα, πεποίημαι, ἐποιήθην - "[to make, do](https://logeion.uchicago.edu/ποιέω)"
 * ποίημα, ποιήματος, n. - "[poem](https://logeion.uchicago.edu/ποίημα)"
 * πόλις, πόλεως, f. - "[city](https://logeion.uchicago.edu/πόλις)"

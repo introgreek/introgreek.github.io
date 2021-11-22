@@ -78,7 +78,7 @@ parent: Vocabulary
 * κατά - "[down](https://logeion.uchicago.edu/κατά)"
 * μετά - "[after (+ acc.); with (+ gen.)](https://logeion.uchicago.edu/μετά)"
 * παρά - "[next to, near](https://logeion.uchicago.edu/παρά)"
-* περί - "[around](https://logeion.uchicago.edu/περί)"
+* περί - "[around, about](https://logeion.uchicago.edu/περί)"
 * πρός - "[to, toward](https://logeion.uchicago.edu/πρός)"
 * σύν (+ dat.) - "[with](https://logeion.uchicago.edu/σύν)"
 * ὑπό - "[under](https://logeion.uchicago.edu/ὑπό); by (with gen. and passive verb)"

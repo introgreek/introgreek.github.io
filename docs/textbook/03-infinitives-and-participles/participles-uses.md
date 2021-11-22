@@ -20,14 +20,11 @@ grand_parent: Textbook
 
 ## Unit Vocabulary
 
-### Nouns
+### Verbs
 {: .no_toc }
 
-* βουλή, βουλῆς, f. - "[will, plan, advice](https://logeion.uchicago.edu/βουλή)"
-* θάνατος, θανάτου, m. - "[death](https://logeion.uchicago.edu/θάνατος)"
-* νόμος, νόμου, m. - "[law, custom](https://logeion.uchicago.edu/νόμος)"
-* χρόνος, χρόνου, m. - "[time](https://logeion.uchicago.edu/χρόνος)"
-* χρῆμα, χρήματος, n. - "[thing; (plural) money, goods, property](https://logeion.uchicago.edu/χρῆμα)"
+* ἄρχω - to begin (+ part.)
+* παύω - to stop (+ part.)
 
 ### Particles
 
@@ -136,18 +133,74 @@ Notice that because the participle is outside of attributive position, we have t
 * The citizen sees the house **when he came from the road**.
 * The citizen sees the house **after he came from the road**.
 
-
+In this sentence, we've changed the tense of the participle from present (ἐρχόμενος) to aorist (ἐλθὼν), which indicates a different relationship of time between the participle and the main verb. If we interpret it again as acting temporally (i.e., indicating *when* the action of the main verb occurred), either the conjunction "when" or "after" can make that relationship of time clear: the action of "coming" happened *before* the action of "seeing".
 
 ### Causal
+If a circumstantial participle acts in a **causal** fashion, then it answers the question "for what reason" or "why is the action of the main verb happening?" As a result, the best subordinating conjunction to use to translate the participle will be **"because"** or **"since"**.
+
+**βλέψας τοὺς ἵππους**, ὁ ἀνὴρ εἰς τὴν οἰκίαν ἦλθεν.
+* **Because he saw the horses**, the man went into the house.
+
+The reason that the man went into the house is given by the participle **βλέψας** -- he performed the action of "going" *because* he saw the horses.
+
+A causal participle can occasionally be prefaced with a **particle** that indicates that you should interpret it in a causal fashion as opposed to temporal, concessive, or conditional: **ὡς**, **ἅτε**, or **οἷα**.
+
+ὁ ἄδικος ἐν τῇ δίκῃ βλέπεται **ὡς ἀδικήσας** τοὺς πολίτας.
+* The unjust man is being seen at the trial **because** he wronged the citizens.
 
 ### Concessive
+If a circumstantial participle acts in a **concessive** fashion, then it is explaining an obstacle that would get in the way of the performance of the main verb. As a result, the best subordinating conjunction to use to translate the participle will be **"although"**, **"even though"**, or **"though"**.
+
+τὸ ἔργον οὐ **βλέψας**, ὁ ἀνὴρ ἐθέλει περὶ αὐτῷ εἰπεῖν.
+* **Even though he didn't see the deed**, the man wants to talk about it.
+
+The man was not a witness to the deed, but *despite* that fact, which might prevent one from speaking knowledgeably about it, the man nevertheless wants to talk about it. The participle explains an obstacle that should get impede the performance of the main verb.
+
+Like causal participles, concessive participles have a clue **particle** that lets you know that you should interpret it as concessive rather than temporal, causal, or conditional: **καίπερ**. In addition, the *main* clause of a sentence that contains a concessive participle might also include the adverb **ὅμως**, which means "nevertheless" or "still." So, we can rewrite the sentence above as follows:
+
+**καίπερ** τὸ ἔργον οὐ **βλέψας**, ὁ ἀνὴρ **ὅμως** ἐθέλει περὶ αὐτῷ εἰπεῖν.
+* **Although he didn't see the deed**, the man **nevertheless** wants to talk about it.
 
 ### Conditional
+If a circumstantial participle acts in a **conditional** fashion, then it is explaining a condition that the main verb needs to be met in order to be performed. As a result, the best subordinating conjunction to use to translate the participle will be **"if"**.
+
+ὁ μαθητὴς καλὰ ποιήματα γράφει **τὰ βιβλία φέρων**.
+* The student writes good poems **if he brings his books**.
+
+Conditionals ("if...then" statements) are actually a discrete syntactic topic that we will discuss in the second semester once we learn about the subjunctive and the optative moods of the verb. For now, it's enough to know that you can approximate a conditional by using a participle.
 
 ### Genitive Absolute
+
+One special use of a circumstantial participle, in any of its four interpretations above (temporal, causal, concessive, or conditonal), is in a construction called the **genitive absolute**. In all of the above examples, the participle modified an explicit part of the main sentence, like a subject or a direct object. A **genitive absolute**, however, uses **a substantive in the genitive case and a participle that agrees with it in gender, case, and number** to explain the circumstances around the action of the main verb, much like a regular circumstantial participle. The key difference, however, is that the genitive substantive does not bear any syntactic relationship to the main clause: the participle is not an action done by or done to a subject, direct object, etc., in the main clause.
+
+**τῶν ἵππων ἀπὸ τῆς ὁδοῦ αχθέντων**, οἱ ἄνδρες τὸν οἶνον ἔμειξαν.
+* **After the horses had been led away from the road**, the men mixed the wine. (temporal)
+* **Because the horses had been led away from the road**, the men mixed the wine. (causal)
+* etc.
+
+The participle of the **genitive absolute** functions like a regular circumstantial participle: you can interpret it as functioning temporally, causally, concessively, or conditionally, and it's best translated with a full subordinate clause with an appropriate conjunction for your interpretation. You just have to be aware that instead of looking for a core part of the sentence for the participle to modify, the participle of the genitive absolute will be modifying a genitive subtantive as its actor (if active/middle) or acted-upon (if passive).
 
 ***
 
 ## Complementary Participles
 
+**Complementary participles** complete the sense of a main verb that needs a complement. Although we've encountered this idea before with [complementary infinitives](infinitive-uses#complementary-infinitive), there are certain verbs that require a **participle** rather than an infinitive to complete them, like the two in the [Unit Vocabulary](#unit-vocabulary) above: ἄρχω, "to begin", and παύω, "to stop".
+
+Because the action in the participle will often be performed by or upon the subject of the sentence, it will often be in the **nominative** case.
+
+* αἱ γυναῖκες ἄρχουσι **τὰ ὅπλα λαμβάνουσαι**. The women begin **taking the weapons**.
+* οἱ δικασταὶ ἔπαυσαν **τοὺς τοῦ ἀδίκου λόγους ἀκούοντες**. The jurors stopped **listening to the unjust man's words**.
+
 ### Preview of Indirect Statement
+
+One special use of complementary participles is in a construction called **indirect statement**, in which someone's words or thoughts are expressed through the filter of a main verb that is performed with the head (verbs like "to say", "to think", "to know", "to hear", "to show", etc.). Here's an English example:
+
+* The just person heard that the citizen had done evil things.
+
+The "that" clause is an **indirect statement**, the *direct* version of which would be "The citizen had done evil things." However, here, it is a subordinate clause that depends on the main clause, "The just person heard."
+
+There are three ways to indicate an indirect statement in Greek, one of which is by using a **complementary participle** in the accusative case (with an accusative noun to serve as its actor or acted-upon if needed). Thus:
+
+* ὁ δίκαιος ἤκουσε **τὸν πολίτην κακὰ ποιήσαντα**.
+
+We will explore this construction in much more detail in the next module, when we'll tackle all three methods of indirect statement at the same time.
