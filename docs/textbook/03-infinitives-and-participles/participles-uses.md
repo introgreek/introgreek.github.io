@@ -24,7 +24,7 @@ grand_parent: Textbook
 {: .no_toc }
 
 * ἄρχω - to begin (+ part.)
-* παύω - to stop (+ part.)
+* παύω (+ part.) - (act.) to stop [accusative] from [participle]-ing; (mid.) to stop [oneself] (from) [participle]-ing
 
 ### Particles
 
@@ -189,7 +189,9 @@ The participle of the **genitive absolute** functions like a regular circumstant
 Because the action in the participle will often be performed by or upon the subject of the sentence, it will often be in the **nominative** case.
 
 * αἱ γυναῖκες ἄρχουσι **τὰ ὅπλα λαμβάνουσαι**. The women begin **taking the weapons**.
-* οἱ δικασταὶ ἔπαυσαν **τοὺς τοῦ ἀδίκου λόγους ἀκούοντες**. The jurors stopped **listening to the unjust man's words**.
+* οἱ δικασταὶ ἐπαύσαντο\* **τοὺς τοῦ ἀδίκου λόγους ἀκούοντες**. The jurors stopped **listening to the unjust man's words**.
+
+\* Note that παύω has a strong difference in meaning depending on whether it is in the **active** or **middle** voice. In the **active**, it means "to stop [someone else, in the **accusative** case] from [participle]-ing". In the **middle**, though, it means "to stop [oneself, no extra words needed] [participle]-ing." So, note in how the example above, the jurors are stopping themselves from listening, rather than stopping anyone else from doing so.
 
 ### Preview of Indirect Statement
 
