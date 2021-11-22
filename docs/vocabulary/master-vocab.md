@@ -113,7 +113,7 @@ parent: Vocabulary
 * ὅδε, ἥδε, τόδε - [this, these, the following](https://logeion.uchicago.edu/ὅδε)
 * ὁδός, ὁδοῦ, f. - "[road](https://logeion.uchicago.edu/ὁδός)"
 * οἰκία, οἰκίας, f. - "[home, house](https://logeion.uchicago.edu/οἰκία)"
-* οἶνος, οἴνου, m. - "[wine](https://logeion.uchicago.edu/οἰκία)"
+* οἶνος, οἴνου, m. - "[wine](https://logeion.uchicago.edu/οἶνος)"
 * ὅπλον, ὅπλου, n. - "[weapon](https://logeion.uchicago.edu/ὅπλον)"
 * οὐ (οὐκ before smooth breathing, οὐχ before rough breathing) - "[not, no](https://logeion.uchicago.edu/οὐ)"
 * οὖν (post-positive) - therefore, then
