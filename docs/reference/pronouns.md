@@ -72,3 +72,18 @@ parent: Reference
 | Gen. Pl. | αὐτῶν | αὐτῶν | αὐτῶν |
 | Dat. Pl. | αὐτοῖς | αὐταῖς | αὐτοῖς |
 | Acc. Pl. | αὐτούς | αὐτάς | αὐτά |
+
+***
+
+## Relative Pronoun: ὅς, ἥ, ὅ
+
+| | Masculine | Feminine | Neuter |
+| ----- | ----- | ----- | ----- |
+| Nom. Sg. | ὅς | ἥ | ὅ |
+| Gen. Sg. | οὗ | ἧς | οὗ |
+| Dat. Sg. | ᾧ | ᾗ | ᾧ |
+| Acc. Sg. | ὅν | ἥν | ὅ |
+| Nom. Pl. | οἵ | αἵ | ἅ |
+| Gen. Pl. | ὧν | ὧν | ὧν |
+| Dat. Pl. | οἷς | αἷς | οἷς |
+| Acc. Pl. | οὕς | ἅς | ἅ |
