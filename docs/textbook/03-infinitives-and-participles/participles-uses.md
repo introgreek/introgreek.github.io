@@ -23,8 +23,8 @@ grand_parent: Textbook
 ### Verbs
 {: .no_toc }
 
-* ἄρχω - to begin (+ part.)
-* παύω (+ part.) - (act.) to stop [accusative] from [participle]-ing; (mid.) to stop [oneself] (from) [participle]-ing
+* **ἄρχω**, `ἄρξω`, **ἦρξα**, `ἦρχα`, `ἦργμαι`, **ἤρχθην** - to begin (+ part.)
+* **παύω**, `παύσω`, **ἔπαυσα**, `πέπαυκα`, `πέπαυμαι`, **ἐπαύθην** (+ part.) - (act.) to stop [accusative] from [participle]-ing; (mid.) to stop [oneself] (from) [participle]-ing
 
 ### Particles
 

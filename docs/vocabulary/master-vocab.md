@@ -27,6 +27,7 @@ parent: Vocabulary
 * ἀνήρ, ἀνδρός, m. - "[man, husband](https://logeion.uchicago.edu/ἀνήρ)"
 * ἀνά - "[up](https://logeion.uchicago.edu/ἀνά)"
 * ἀπό (+ gen.) - "[away from](https://logeion.uchicago.edu/ἀπό)"
+* ἄρχω, ἄρξω, ἦρξα, ἦρχα, ἦργμαι, ἤρχθην - to begin (+ part.)
 * αὐτός, αὐτή, αὐτό - "[him, her, it, them](https://logeion.uchicago.edu/αὐτός)"; (intensive adj./pronoun, *not* reflexive) the very ____; himself, herself, themselves, etc.; (in attributive position) the same
 
 ## β
@@ -125,6 +126,7 @@ parent: Vocabulary
 * παρά - "[next to, near](https://logeion.uchicago.edu/παρά)"
 * πᾶς, πᾶσα, πᾶν (m./n. stem πάντ-) - (sg., w/o article) each, every; (sg., with article) the whole, entire; (pl.) all ([Logeion entry](https://logeion.uchicago.edu/πᾶς))
 * πατήρ, πατρός, m. - "[father](https://logeion.uchicago.edu/πατήρ)"
+* παύω, παύσω, ἔπαυσα, πέπαυκα, πέπαυμαι, ἐπαύθην (+ part.) - (act.) to stop [accusative] from [participle]-ing; (mid.) to stop [oneself] (from) [participle]-ing
 * πέμπω, πέμψω, ἔπεμψα, πέπομφα, πέπεμμαι, ἐπέμφθην - to send
 * περί - "[around, about](https://logeion.uchicago.edu/περί)"
 * ποιέω, ποιήσω, ἐποίησα, πεποίηκα, πεποίημαι, ἐποιήθην - "[to make, do](https://logeion.uchicago.edu/ποιέω)"
