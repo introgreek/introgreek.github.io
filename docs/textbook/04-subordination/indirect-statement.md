@@ -18,6 +18,14 @@ grand_parent: Textbook
 
 ***
 
+## Unit Vocabulary
+
+***
+
+## Indirect Statement
+
+An **indirect statement** is a phrase that reports what someone says or thinks through the filter of a main verb performed by the head (e.g., "to say", "to think", "to shout").
+
 ## ὅτι / ὡς
 
 ## Accusative + Infinitive
