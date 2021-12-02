@@ -284,12 +284,16 @@ Participle Uses continued
 
 ### Monday, November 29
 {: .no_toc }
+Participle Uses continued
 
 ### Wednesday, December 1
 {: .no_toc }
+No class
 
 ### Friday, December 3
 {: .no_toc }
+Relative Clauses  
+**Today's slideshow**: [click here](https://drive.google.com/file/d/1HLpUWkSx6QIYYQfZ0jmhSMPvooJZ3naV/view?usp=sharing)
 
 ***
 
@@ -297,12 +301,15 @@ Participle Uses continued
 
 ### Monday, December 6
 {: .no_toc }
+Indirect Statement
 
 ### Wednesday, December 8
 {: .no_toc }
+Indirect Statement continued
 
 ### Friday, December 10
 {: .no_toc }
+Preview of GREK 102
 
 ***
 
