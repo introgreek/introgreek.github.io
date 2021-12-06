@@ -301,7 +301,8 @@ Relative Clauses
 
 ### Monday, December 6
 {: .no_toc }
-Indirect Statement
+Indirect Statement  
+**Today's slideshow**: [click here](https://drive.google.com/file/d/1HUex4EjLVGDibn6XxWJ1C9sm_PvOO_dy/view?usp=sharing)
 
 ### Wednesday, December 8
 {: .no_toc }

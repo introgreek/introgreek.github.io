@@ -20,11 +20,31 @@ grand_parent: Textbook
 
 ## Unit Vocabulary
 
+### Verbs that can take ὅτι / ὡς
+{: .no_toc }
+* λέγω
+* ἀγγέλλω
+* μανθάνω
+
+### Verbs that can take accusative + infinitive
+{: .no_toc }
+* νομίζω
+* φημί
+
+### Verbs that can take complementary participle
+{: .no_toc }
+* δείκνυμι
+* ἀγνοέω
+
 ***
 
 ## Indirect Statement
 
-An **indirect statement** is a phrase that reports what someone says or thinks through the filter of a main verb performed by the head (e.g., "to say", "to think", "to shout").
+An **indirect statement** is a phrase that reports what someone says or thinks through the filter of a main verb performed by the head (e.g., "to say", "to think", "to shout"). Here's an example in English:
+
+* He says that the sky is blue.
+
+In this sentence, the direct form of the thought is "the sky is blue." However, it is getting filtered through a main verb of speaking, "he says", and a bridge word "that."
 
 ## ὅτι / ὡς
 
