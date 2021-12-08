@@ -13,6 +13,8 @@ parent: Vocabulary
 ## α
 
 * ἀγαθός, ἀγαθή, ἀγαθόν - "[noble, good](https://logeion.uchicago.edu/ἀγαθός)"
+* ἀγγέλλω, ἀγγελέω, ἤγγειλα, ἤγγελκα, ἤγγελμαι, ἠγγέλθην - "[to announce](https://logeion.uchicago.edu/ἀγγέλλω)"
+* ἀγνοέω, ἀγνοήσω, ἠγνόησα, ἠγνόηκα, ἠγνόημαι, ἠγνοήθην - "[not to know, to be unaware](https://logeion.uchicago.edu/ἀγνοέω)"
 * ἄγω, ἄξω, ἤγαγον, ἦχα, ἦγμαι, ἤχθην - "[to lead](https://logeion.uchicago.edu/ἄγω)"
 * ἀγών, ἀγῶνος, m. - "[contest](https://logeion.uchicago.edu/ἀγών)"
 * ἀδικέω, ἀδικήσω, ἠδίκησα, ἠδίκηκα, ἠδίκημαι, ἠδικήθην - "[to do wrong, injure](https://logeion.uchicago.edu/ἀδικέω)"
@@ -98,6 +100,7 @@ parent: Vocabulary
 ## μ
 
 * μαθητής, μαθητοῦ, m. - "[student](https://logeion.uchicago.edu/μαθητής)"
+* μανθάνω, μαθήσομαι, ἔμαθον, μεμάθηκα, --, -- - "[to learn](https://logeion.uchicago.edu/μανθάνω)"
 * μάρτυς, μάρτυρος, m./f. - "[witness](https://logeion.uchicago.edu/μάρτυς)"
 * μείγνυμι, μείξω, ἔμειξα, μέμιχα, μέμιγμαι, ἐμίγην - [to mix](https://logeion.uchicago.edu/μείγνυμι)
 * μετά - "[after (+ acc.); with (+ gen.)](https://logeion.uchicago.edu/μετά)"
@@ -106,6 +109,7 @@ parent: Vocabulary
 
 ## ν
 
+* νομίζω, νομιέω, ἐνόμισα, νενόμικα, νενόμισμαι, ἐνομίσθην - "[to think](https://logeion.uchicago.edu/νομίζω)"
 * νόμος, νόμου, m. - "[law, custom](https://logeion.uchicago.edu/νόμος)"
 * νῦν - "[now](https://logeion.uchicago.edu/νῦν)"
 
@@ -159,6 +163,7 @@ parent: Vocabulary
 ## φ
 
 * φέρω, οἴσω, ἤνεγκον / ἤνεγκα, ἐνήνοχα, ἐνήνεγμαι, ἠνέχθην - [to bring, carry, bear](https://logeion.uchicago.edu/φέρω)
+* φημί, φήσω, ἔφησα, --, --, -- - "[to say](https://logeion.uchicago.edu/φημί)"
 
 ## χ
 
