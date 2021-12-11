@@ -81,4 +81,10 @@ The formation of the optative involves new endings and new sentence construction
 
 ### φημί
 
-## Participle
+***
+
+## Complementary Participle
+
+***
+
+## Irregular Infinitives and Participles
