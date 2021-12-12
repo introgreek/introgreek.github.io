@@ -23,11 +23,11 @@ grand_parent: Textbook
 ### Pronouns
 {: .no_toc }
 
-* ὅς, ἥ, ὅ - who(m), which, that (relative pronoun)
+* ὅς, ἥ, ὅ - [who(m), which, that](https://logeion.uchicago.edu/ὅς) (relative pronoun)
 
 ### Verbs
 
-* **διδάσκω**, `διδάξω`, **ἐδίδαξα**, `δεδίδαχα`, `δεδίδαγμαι`, **ἐδιδάχθην** - to teach; [with double accusative] to teach [accusative 1] (to) [accusative 2]
+* **διδάσκω**, `διδάξω`, **ἐδίδαξα**, `δεδίδαχα`, `δεδίδαγμαι`, **ἐδιδάχθην** - [to teach; (with double accusative) to teach (accusative 1) (to) (accusative 2)](https://logeion.uchicago.edu/διδάσκω)
 
 ***
 

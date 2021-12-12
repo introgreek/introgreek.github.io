@@ -22,32 +22,32 @@ grand_parent: Textbook
 
 ### Impersonal Verbs
 {: .no_toc }
-* χρή - it is necessary
-* δεῖ - it is necessary
-* ἔξεστι(ν) - it is possible
-* πρέπει - it is fitting
+* χρή - [it is necessary](https://logeion.uchicago.edu/χρή)
+* δεῖ - [it is necessary](https://logeion.uchicago.edu/δεῖ)
+* ἔξεστι(ν) - [it is possible](https://logeion.uchicago.edu/ἔξεστι)
+* πρέπει - [it is fitting](https://logeion.uchicago.edu/πρέπω)
 
 ### Verbs That Take Complementary Infinitives
 {: .no_toc }
-* **δύναμαι**, `δυνήσομαι`, --, --, `δεδύνημαι`, **ἐδυνήθην** - to be able to, can
-* **ἐθέλω**, `ἐθελήσω`, **ἠθέλησα**, `ἠθέληκα`, --, -- - to want, wish
+* **δύναμαι**, `δυνήσομαι`, --, --, `δεδύνημαι`, **ἐδυνήθην** - [to be able to, can](https://logeion.uchicago.edu/δύναμαι)
+* **ἐθέλω**, `ἐθελήσω`, **ἠθέλησα**, `ἠθέληκα`, --, -- - [to want, wish](https://logeion.uchicago.edu/ἐθέλω)
 
 ### Nouns
 
-* οἶνος, οἴνου, m. - wine
+* οἶνος, οἴνου, m. - [wine](https://logeion.uchicago.edu/οἶνος)
 
 ### Prepositions
 {: .no_toc }
 
-* ἐκ (+ gen.) - out of, from; as a result of
-* διά - through; because of; by means of
-* πρός - to, toward; in addition to
+* ἐκ (+ gen.) - [out of, from; as a result of](https://logeion.uchicago.edu/ἐκ)
+* διά - [through; because of; by means of](https://logeion.uchicago.edu/διά)
+* πρός - [to, toward; in addition to](https://logeion.uchicago.edu/πρός)
 
-### Adverb
+### Adverbs
 {: .no_toc }
 
-* μή - not
-* καί - also, even
+* μή - [not](https://logeion.uchicago.edu/μή)
+* καί - [and; also, even](https://logeion.uchicago.edu/καί)
 
 ***
 

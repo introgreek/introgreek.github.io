@@ -23,18 +23,18 @@ grand_parent: Textbook
 ### Verbs that can take ὅτι / ὡς
 {: .no_toc }
 * **λέγω**
-* **ἀγγέλλω**, `ἀγγελέω`, **ἤγγειλα**, `ἤγγελκα`, `ἤγγελμαι`, **ἠγγέλθην** - to announce
-* **μανθάνω**, `μαθήσομαι`, **ἔμαθον**, `μεμάθηκα`, --, -- - to learn
+* **ἀγγέλλω**, `ἀγγελέω`, **ἤγγειλα**, `ἤγγελκα`, `ἤγγελμαι`, **ἠγγέλθην** - [to announce](https://logeion.uchicago.edu/ἀγγέλλω)
+* **μανθάνω**, `μαθήσομαι`, **ἔμαθον**, `μεμάθηκα`, --, -- - [to learn](https://logeion.uchicago.edu/μανθάνω)
 
 ### Verbs that can take accusative + infinitive
 {: .no_toc }
-* **νομίζω**, `νομιέω`, **ἐνόμισα**, `νενόμικα`, `νενόμισμαι`, **ἐνομίσθην** - to think
-* **φημί**, `φήσω`, **ἔφησα**, --, --, -- - to say
+* **νομίζω**, `νομιέω`, **ἐνόμισα**, `νενόμικα`, `νενόμισμαι`, **ἐνομίσθην** - [to think](https://logeion.uchicago.edu/νομίζω)
+* **φημί**, `φήσω`, **ἔφησα**, --, --, -- - [to say](https://logeion.uchicago.edu/φημί)
 
 ### Verbs that can take complementary participle
 {: .no_toc }
 * **δείκνυμι**
-* **ἀγνοέω**, `ἀγνοήσω`, **ἠγνόησα**, `ἠγνόηκα`, `ἠγνόημαι`, **ἠγνοήθην** - not to know, to be unaware
+* **ἀγνοέω**, `ἀγνοήσω`, **ἠγνόησα**, `ἠγνόηκα`, `ἠγνόημαι`, **ἠγνοήθην** - [not to know, to be unaware](https://logeion.uchicago.edu/ἀγνοέω)
 
 ***
 

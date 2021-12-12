@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Pronouns
-permalink: /reference/Pronouns
+permalink: /reference/pronouns
 nav_order: 4
 parent: Reference
 ---
