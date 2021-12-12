@@ -79,12 +79,69 @@ The formation of the optative involves new endings and new sentence construction
 
 ## Accusative + Infinitive
 
+After verbs like νομίζω ("to think") and φημί ("to say", on which see below), an indirect statement takes a different form. Rather than a dependent clause introduced by a conjunction with a conjugated verb, such verbs will take an **accusative and infinitive** structure, with two transformations from the direct version of the statement as follows:
+
+* The **subject** of the direct statement goes into the **accusative case** (if it is different from the subject of the main head verb), and
+* the **verb** of the direct statement becomes an **infinitive** in the **same voice** and built from the **same tense stem**.
+
+Note the following example:
+
+* **ὁ μαθητὴς** τὸ ποίημα **ἔγραψεν**. **The student wrote** the poem.
+* ὁ διδάσκαλος νομίζει **τὸν μαθητὴν** το ποίημα **γράψαι**. The teacher thinks *that* **the student wrote** the poem.
+
+Note that the accusative and infinitive structure does not have a clear marker like ὅτι / ὡς clauses do. You need to understand that a head verb like νομίζω expects an accusative and infinitive structure to complete its meaning.
+
+If the subject of the infinitive matches the subject of the main head verb, it may be omitted and you'll have to supply the subject a second time from context. For example:
+
+* ὁ διδάσκαλός φησι το ποίημα γράψαι. The teacher says that **he** wrote the poem.
+
+With regard to the infinitive, note the qualification in the transformation instruction: the infinitive is in the **same voice** and built from the **same tense** ***stem*** -- this does NOT necessarily mean that the infinitive will be in the same tense as the direct version of the verb. In particular, remember that the **imperfect tense** is built from the **first principal part**, and because there is no imperfect infinitive, we must use the infinitive built from the first principal part: the **present infinitive**.
+
+* τὸ ποίημα ὑπο τοῦ μαθητοῦ **ἐγράφετο**. The poem **was being written** by the student.
+* ὁ διδάσκαλος νομίζει τὸ ποίημα ὑπο τοῦ μαθητοῦ **γράφεσθαι**. The teacher thinks that the poem **was being written** by the student.
+
+Note that because the present tense and the imperfect tense share a common stem, if you were presented just with the indirect statement and the present infinitive γράφεσθαι, you need to make a decision about which tense the infinitive is masking. If you decide that it's replacing an imperfect tense, the translation above stands: "The teacher thinks that the poem **was being written** by the student." However, you can also decide that it's replacing a present tense: "The teacher thinks that the poem **is (being) written** by the student." It's up to you to use your context clues to figure out which is more appropriate.
+
+Be aware also that as opposed to ὅτι / ὡς, which tends to begin a dependent clause and govern the dependent clause that follows it, an accusative and infinitive structure isn't quite so strictly bound to word order. Elements of the main clause can be interspersed with or even follow elements of the indirect statement. It therefore becomes imperative to understand the different elements of the indirect statement: the main head verb, the infinitive, its accusative subject, and any other words or phrases like prepositional phrases, adverbs, direct objects, etc., that can go with the conjugated verb or the infinitive. The last example above, for example, can be rewritten in the following ways with no difference in meaning:
+
+* ὁ διδάσκαλος τὸ ποίημα νομίζει ὑπο τοῦ μαθητοῦ γράφεσθαι.
+* ὁ διδάσκαλος τὸ ποίημα ὑπο τοῦ μαθητοῦ γράφεσθαι νομίζει.
+* τὸ ποίημα ὑπο τοῦ μαθητοῦ γράφεσθαι ὁ διδάσκαλος νομίζει.
+
 ### φημί
+
+The verb φημί ("to say"), like εἰμί, is an irregular verb in its conjugated forms of the first principal part (namely the present and imperfect tense forms). Note that in the present tense, all forms except the 2nd singular are enclitic.
+
+| | Present | Imperfect |
+| ----- | ----- | ----- |
+| 1st sg. | φημί | ἔφην |
+| 2nd sg. | φῇς | ἔφησθα / ἔφης |
+| 3rd sg. | φησί(ν) | ἔφη |
+| 1st pl. | φαμέν | ἔφαμεν |
+| 2nd pl. | φατέ | ἔφατε |
+| 3rd pl. | φασί(ν) | ἔφασαν |
 
 ***
 
 ## Complementary Participle
 
+After verbs like δείκνυμι ("to show") and ἀγνοέω ("not to know", "to be unaware"), a third method of indirect statement is often used: a **complementary participle**. In this construction, the nominative subject of the direct version of the verb turns into the **accusative direct object** of the main head verb, while the direct verb becomes a **participle of the same voice and built from the same tense stem**. This is similar to the accusative and infinitive method, with the added step of **the participle needing to match its noun in gender, case, and number**. Note the following examples:
+
+* ὁ διδάσκαλος δείκνυσι τὸ βιβλίον γραφόμενον. The teacher shows that the book is being written.
+* οἱ δικασταὶ ἠγνόησαν ἐκείνους τοὺς λόγους ἀδίκους ὄντας. The jurors didn't know that those words are unjust.
+
+As with the accusative and infinitive method, there is no clear dependent clause marker for the indirect statement as with the ὅτι / ὡς method; you have to take your cues from the use of verbs like δείκνυμι or ἀγνοέω to look out for a complementary participle and the noun that it matches.
+
 ***
 
 ## Irregular Infinitives and Participles
+
+The irregular verbs εἰμί and φημί can be used in all types of indirect statements, which means that each must have infinitives and participles to use in the second and third methods. Those forms exist primarily in the present tense and are as follows:
+
+* εἰμί
+    * present active infinitive: εἶναι
+    * present active participle: ὤν, οὖσα, ὄν (m./n. stem ὀντ-)
+
+* φημί
+    * present active infinitive: φάναι
+    * present active participle: φάς, φᾶσα, φάν (m./n. stem φάντ-)
