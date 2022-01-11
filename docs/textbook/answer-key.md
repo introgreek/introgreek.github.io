@@ -522,3 +522,37 @@ act. - masc./neut. dat. pl.
 
 10. κρυπτομένοις  
 mid./pass. - masc./neut. dat pl.
+
+***
+
+### Alpha- and Omicron-Contracts: PO1
+
+1. 2nd pl. imperfect middle/passive  
+ἐποιεῖσθε
+
+2. neut. acc. pl., present active participle  
+ποιοῦντα
+
+3. present middle/passive infinitive  
+ποιεῖσθαι
+
+4. masc. nom. sg., present active participle  
+ποιῶν
+
+5. 1st pl. present active  
+ποιοῦμεν
+
+6. 1st sg. imperfect active  
+ἐποίουν
+
+7. fem. dat. pl., present middle/passive participle  
+ποιούσαις
+
+8. present active infinitive  
+ποιεῖν
+
+9. 3rd sg. present active  
+ποιεῖ
+
+10. 3rd sg. imperfect active  
+ἐποίει

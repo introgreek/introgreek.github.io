@@ -23,10 +23,13 @@ grand_parent: Textbook
 ### Alpha-Contracts
 {: .no_toc }
 * ὁράω
+* τιμάω
+* νικάω
 
 ### Omicron-Contracts
 {: .no_toc }
 * δηλόω
+* ζηλόω
 
 ***
 
@@ -66,12 +69,18 @@ Semester 2:
 
 Generate the requested fully-contracted form of the verb ποιέω.
 
+[Answer key here](../answer-key#alpha--and-omicron--contracts-po1).
+
 1. 2nd pl. imperfect middle/passive
 2. neut. acc. pl., present active participle
 3. present middle/passive infinitive
 4. masc. nom. sg., present active participle
 5. 1st pl. present active
-6.
+6. 1st sg. imperfect active
+7. fem. dat. pl., present middle/passive participle
+8. present active infinitive
+9. 3rd sg. present active
+10. 3rd sg. imperfect active
 
 ***
 
@@ -81,18 +90,47 @@ As indicated last semester, epsilon is not the only letter at the end of a first
 
 A full list of contractions for epsilons, alphas, and omicrons can be found [in the reference section](../../reference/contractions) of our site. Here is a list of both alpha and omicron contractions, beginning with those that apply directly to ending vowels that we learned about in the first semester and continuing with those that we will make use of later in this current semester.
 
-Semester 1 Endings:
-* α + ει = ᾳ (note the iota subscript) (3rd sg. pres. act.)
-* α + ε = α (long alpha) (3rd sg. impf. act.)
+Combinations for Semester 1 endings:
+* α + ει = ᾳ (note the iota subscript)\*
+* α + ε = α (long alpha)
 * α + ου = ω
 * α + ο = ω
+* α + ω = ω
 * ο + ει = οι
 * ο + ε = ου
 * ο + ου = ου
 * ο + ο = ου
+* ο + ω = ω
 
-### ὁράω
+\* There is a specific exception for this: the -ει- of the **present active infinitive ending -ειν** is linguistically dissimilar to the -ει of the 3rd person singular present active ending, so it results in a different contraction: -α-. Thus, the present active infinitive of the verb ὁράω is **ὁρᾶν** (no iota subscript).
+
+Combinations for later this semester:
+* α + ᾱ = ᾱ
+* α + α = ᾱ
+* α + η = ᾱ
+* α + αι = αι
+* α + ῃ = ᾳ
+* α + οι = ῳ
+* ο + οι = οι
+* ο + ῃ = οι
+* ο + η = ω
+* ο + ῳ = ῳ
+
+***
+
+### Practice Opportunity 2
+
+Generate the requested fully-contracted form of the verb τιμάω.
+
+### Practice Opportunity 3
+
+Generate the requested fully-contracted form of the verb ζηλόω.
+
+
+***
+
+***
+
+## ὁράω
 
 One of the most common alpha-contract verbs is ὁράω, "to see."
-
-## Omicron-Contracts
