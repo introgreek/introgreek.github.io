@@ -556,3 +556,90 @@ mid./pass. - masc./neut. dat pl.
 
 10. 3rd sg. imperfect active  
 ἐποίει
+
+***
+
+### Alpha- and Omicron-Contracts: PO2
+
+1. 3rd pl. imperfect middle/passive  
+ἐτιμῶντο
+
+2. fem. nom. pl., present middle/passive participle  
+τιμώμεναι
+
+3. present active infinitive  
+τιμᾶν
+
+4. neut. nom. sg., present active participle  
+τιμῶν
+
+5. 2nd pl. present active  
+τιμᾶτε
+
+6. 2nd sg. imperfect active  
+ἐτίμας
+
+7. masc. gen. pl., present active participle  
+τιμώντων
+
+8. present middle/passive infinitive  
+τιμᾶσθαι
+
+9. 3rd sg. present active  
+τιμᾷ
+
+10. 1st pl. imperfect middle/passive  
+ἐτιμώμεθα
+
+***
+
+### Alpha- and Omicron-Contracts: PO3
+
+1. 2nd pl. present middle/passive  
+ζηλοῦσθε
+
+2. fem. gen. pl., present active participle  
+ζηλουσῶν
+
+3. present active infinitive  
+ζηλοῦν
+
+4. neut. dat. sg., present middle/passive participle  
+ζηλουμένῳ
+
+5. 3rd pl. present active  
+ζηλοῦσι(ν)
+
+6. 3rd sg. imperfect middle/passive  
+ἐζηλοῦτο
+
+7. masc. dat. pl., present active participle  
+ζηλοῦσι(ν)
+
+8. present middle/passive infinitive  
+ζηλοῦσθαι
+
+9. 3rd sg. present active  
+ζηλοῖ
+
+10. 1st pl. imperfect middle/passive  
+ἐζηλούμεθα
+
+***
+
+### Alpha- and Omicron-Contracts: PO4
+
+1. ὑπὸ τῶν δικαστῶν ἑωρώμην.  
+I was (being) seen by the jurors.
+
+2. οἱ μὲν τὸν οἶνον ἐμείγνυσαν, οἱ δὲ τὸν κίνδυνον ἐδήλουν.  
+Some (people) were mixing the wine, while others were pointing out the danger.
+
+3. ὁ μαθητὴς ἐτιμᾶτο, ἀγαθὰ ποιῶν.  
+The student was being honored because he was doing good things.
+
+4. ἔξεστι τῇ ἀγαθῇ νικᾶν.  
+It is possible for the good person to win.
+
+5. ὁ πολίτης εἶπεν ὅτι τὰ βιβλία ἑώρων.  
+The citizen said that I was seeing the books. **OR** The citizen said that they were seeing the books.
