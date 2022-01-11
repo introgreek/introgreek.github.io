@@ -2,7 +2,7 @@
 layout: page
 title: Future Tense
 permalink: /textbook/verbs-2/future
-nav_order: 2
+nav_order: 1
 parent: 05 - Verbs 2
 grand_parent: Textbook
 ---
@@ -90,6 +90,27 @@ Similary, the endings for the future active and middle infinitives and participl
 
 ## Future Passive
 
-The **future passive** is built on the **6th principal part**, which you used last semester also to build the aorist passive. Because the future tense is a *primary* tense (i.e., not a past tense), we need to **un-augment** the stem of the 6th principal part in the same way that we would if we were forming an infinitive or participle from it. For a refresher on how to do that, check out last semester's unit on [aorist infinitives](../infs-and-parts/infinitive-formation#aorist-infinitives)
+The **future passive** is built on the **6th principal part**, which you used last semester also to build the aorist passive. Because the future tense is a *primary* tense (i.e., not a past tense), we need to **un-augment** the stem of the 6th principal part in the same way that we would if we were forming an infinitive or participle from it. For a refresher on how to remove a syllabic or temporal augment from a verb, check out last semester's unit on [aorist infinitives](../infs-and-parts/infinitive-formation#aorist-infinitives).
+
+So, our paradigm verb is κελεύω, which has a 6th principal part in ἐκελεύσθην. When we un-augment it, we are left with **κελευσθ-**. Then, to form the finite forms of the aorist passive, we can add the following endings (which all retain the -η- visible in the 6th principal part, add the characteristic -σ- future tense marker, and the future middle endings):
+
+| | Singular | Plural |
+| ----- | ----- | ----- |
+| 1st | -ήσομαι | -ησόμεθα |
+| 2nd | -ήσῃ | -ησέσθε |
+| 3rd | -ήσεται | -ήσονται |
+
+resulting in the following future passive forms for κελεύω:
+
+| | Singular | Plural |
+| ----- | ----- | ----- |
+| 1st | κελευσθήσομαι | κελευσθησόμεθα |
+| 2nd | κελευσθήσῃ | κελευσθησέσθε |
+| 3rd | κελευσθήσεται | κελευσθήσονται |
 
 ### Fut. Pass. Infinitive and Participle
+
+The future passive infinitive and participle are similarly formed from the un-augmented 6th principal part stem, and they apply the same endings that you used for the future middle:
+
+* future passive infinitive: κελευσθήσεσθαι
+* future passive participle: κελευσθησόμενος, κελευσθησομένη, κελυσθησόμενον

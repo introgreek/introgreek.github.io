@@ -2,7 +2,7 @@
 layout: page
 title: Result Clauses
 permalink: /textbook/syntax-2/result-clauses
-nav_order: 1
+nav_order: 0
 parent: 07 - Syntax 2
 grand_parent: Textbook
 ---

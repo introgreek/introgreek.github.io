@@ -2,7 +2,7 @@
 layout: page
 title: 06 - Substantives and Adjectives 2
 permalink: /textbook/substantives-2
-nav_order: 7
+nav_order: 6
 parent: Textbook
 has_children: true
 ---

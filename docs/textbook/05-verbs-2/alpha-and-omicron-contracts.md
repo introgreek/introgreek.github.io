@@ -2,7 +2,7 @@
 layout: page
 title: α- and ο-Contracts
 permalink: /textbook/verbs-2/alpha-and-omicron-contracts
-nav_order: 1
+nav_order: 0
 parent: 05 - Verbs 2
 grand_parent: Textbook
 ---

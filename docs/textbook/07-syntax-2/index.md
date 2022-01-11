@@ -2,7 +2,7 @@
 layout: page
 title: 07 - Syntax 2
 permalink: /textbook/syntax-2
-nav_order: 8
+nav_order: 7
 parent: Textbook
 has_children: true
 ---

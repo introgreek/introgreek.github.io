@@ -2,7 +2,7 @@
 layout: page
 title: 05 - Verbs 2
 permalink: /textbook/verbs-2
-nav_order: 6
+nav_order: 5
 parent: Textbook
 has_children: true
 ---

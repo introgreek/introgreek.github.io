@@ -2,7 +2,7 @@
 layout: page
 title: Variable-Stem Nouns
 permalink: /textbook/substantives-2/variable-stem-nouns
-nav_order: 1
+nav_order: 0
 parent: 06 - Substantives and Adjectives 2
 grand_parent: Textbook
 ---
