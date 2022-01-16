@@ -643,3 +643,90 @@ It is possible for the good person to win.
 
 5. ὁ πολίτης εἶπεν ὅτι τὰ βιβλία ἑώρων.  
 The citizen said that I was seeing the books. **OR** The citizen said that they were seeing the books.
+
+***
+
+### Future Tense: PO1
+
+1. κελεύω -> 2nd pl. fut. act.  
+κελεύσετε
+
+2. πέμπω -> fut. act. participle, masc. dat. pl.  
+πέμψουσι(ν)
+
+3. νομίζω -> fut. mid. infinitive  
+νομιεῖσθαι
+
+4. ἀγγέλλω -> 3rd pl. fut. mid.  
+ἀγγελοῦνται
+
+5. λαμβάνω -> 1st pl. fut. mid.  
+ληψόμεθα
+
+6. αἱρέω -> fut. mid. participle, fem. acc. pl.  
+αἱρήσομένας
+
+7. δείκνυμι -> 2nd sg. fut. act.  
+δείξεις
+
+8. μείγνυμι -> fut. act. participle, neut. gen. sg.  
+μείξοντος
+
+9. μανθάνω -> 1st sg. fut. mid.  
+μαθήσομαι
+
+10. φέρω -> fut. mid. participle, masc. nom. pl.  
+οἰσόμενοι
+
+***
+
+### Future Tense: PO2
+
+1. κελευσθήσεσθε  
+κελεύω - 2nd pl.
+
+2. πεμφθήσεσθαι  
+πέμπω - infinitive
+
+3. γραφήσονται  
+γράφω - 3rd pl.
+
+4. νομισθησόμεθα  
+νομίζω - 1st pl.
+
+5. ἀγγελθησομένῳ  
+ἀγγέλλω - masc./neut. dat. sg.
+
+6. ληφθήσεται  
+λαμβάνω - 3rd sg.
+
+7. ἐνεχθησόμεναν  
+φέρω - fem. acc. sg.
+
+8. μιγήθεσθαι  
+μείγνυμι - infinitive
+
+9. δειχθήσῃ  
+δείκνυμι - 2nd sg.
+
+10. λυθήσομαι  
+λύω - 1st sg.
+
+***
+
+### Future Tense: PO3
+
+1. ὑπὸ τῶν δικαστῶν ὀφθήσομαι.  
+I will be seen by the jurors.
+
+2. οἱ μὲν τὸν οἶνον μείξουσιν, οἱ δὲ τὸν κίνδυνον δηλώσουσιν.  
+Some will mix the wine, while others will point out the danger.
+
+3. ὁ μαθητὴς τιμηθήσεται, ἀγαθὰ ποιήσων.  
+The student will be honored, because he will do good things.
+
+4. νομίζω τὴν ἀγαθὴν νικήσειν.  
+I think that the good woman/person will win.
+
+5. ὁ πολίτης ἀγγέλλει ὅτι τὰ βιβλία ἕξομεν.  
+The citizen announces that we will have the books.

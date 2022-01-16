@@ -1,13 +1,13 @@
 ---
 layout: page
 title: Future Tense
-permalink: /textbook/verbs-2/future
-nav_order: 1
+permalink: /textbook/verbs-2/perfect
+nav_order: 2
 parent: 05 - Verbs 2
 grand_parent: Textbook
 ---
 
-# Future Tense
+# Perfect Tense
 {: .no_toc }
 
 ## Table of contents
@@ -20,67 +20,39 @@ grand_parent: Textbook
 
 ## Unit Vocabulary
 
-### Contract Futures
+### Verbs
 {: .no_toc }
-* ἀγγέλλω
-* νομίζω
-* ἀποκτείνω, ἀποκτενέω, ἀπέκτεινα, ἀπέκτονα, --, -- - to kill
-* βάλλω, βαλέω, ἔβαλον, βέβληκα, βέβλημαι, ἐβλήθην - to throw, cast, hurl, hit
+*
 
 ***
 
-## Future Tense Overview
+## Perfect Tense Overview
 
-The **future** tense, as discussed [in the verb overview](overview#verb-aspects), indicates an action that has yet to happen, i.e., it will happen *in the future*. The future tense can exhibit both aoristic and present aspects, meaning the future action can be a one-and-done or ongoing event. Here are a few examples:
+Compared to the other tenses that you've learned so far (aorist, present, imperfect, and future), the **perfect tense** is more rare, but it will be beneficial to know how to identify it in context and how to translate it.
 
-* "They **will order**"
-* "They **will be ordering**"
-* "They **are going to order**"
-* "They **shall order**"
+The **perfect** tense, as discussed [in the verb overview](overview#verb-aspects), indicates an action that occured in the past but has lasting effects into the present. This idea constitutes the third of the three verb **aspects**:
 
-These are all variations of the future tense of the verb "to order"; all of these actions *will* occur. Each is expressed slightly differently but equally as valid for indicating that core concept: that the verbal action in question has yet to happen and is not currently occurring.
+* present aspect: continuous, ongoing, incomplete action
+* aorist(ic) aspect: instantaneous, completed action
+* **perfect(ive) aspect**: action with effects that last beyond the action's completion
 
-Like the other tenses that you already know, the future tense can be expressed in any of the three voices. For example:
+An illustration of perfect aspect is the following example: "He **has been seen**." The act of being seen occurred in the past, but he is still in the state of having been seen in the present tense; he can't be *un*seen.
 
-* active: "They will order"
-* middle: "They will order (for themselves)"
-* passive: "They will be ordered"
+Thus, the **perfect tense** is best expressed in English using **the auxiliary verb "has/have" with the past participle of the verb**, e.g. "has died", "have seen", "has spoken", "have wanted."
 
-The future tense, however, is akin to the aorist tense, in that the **future active and middle voices** are built on *one* principal part, **the 2nd**, while the **future passive voice** is built on **the 6th**. This means that you need to return to the verbs that we learned about in the first semester and begin memorizing their **2nd principal parts** in order to put verbs into the future tense, at least in the active and middle voices.
+Like the other tenses that you already know, the perfect tense can be expressed in any of the three voices. For example:
 
-### Second Principal Part and Future Tense Markers
+* active: "They have ordered"
+* middle: "They have ordered (for themselves)"
+* passive: "They have been ordered"
 
-The **second principal part** of any verb can end in either **-ω** or **-ομαι**, like present tense -ω verbs. To get the **future active or middle stem** in order to conjugate, you simply take the -ω or -ομαι off, and we'll discuss the endings that you attach to that stem below.
+The perfect tense will also complete our knowledge of the **principal parts**. The **fourth principal part** is used to conjugate the **perfect active** and also form its infinitive and participles. The **fifth principal part** is used to conjugate the **perfect middle and passive** and also form its infinitive and participles. Thus, the perfect operates similarly to the present tense: it has one form for **active** and one form for both **middle and passive**, so you will need to use context clues to figure out which voice your verb is.
 
-The other tenses and voices with which we've worked so far have exhibited certain linguistic markers that clue you into what tense or voice a verb is in. For example:
+### Fourth and Fifth Principal Part and Perfect Tense Markers
 
-* The stem of **first aorists** often end in a **-σ-** or **sigma sound** (e.g., ψ 'ps' or ξ 'ks') before endings that usually exhibit the letter **α**.
-* The stem of **aorist passives** often end in a **-θ-** with endings that usually exhibit the letter **η**.
-* The stems of **past tense finite verbs** (i.e., imperfect or aorist tense) will begin with an **augment**, either the syllabic augment **ἐ-** or the long vowel/diphthong of a temporal augment.
+The **perfect tense** in any voice will usually exhibit one tense marker: **reduplication**. Like an augment, **reduplication** affects the beginning of the verb stem, depending on the letter(s) that the verb stem begins with. However, unlike an augment, **reduplication cannot be removed or undone from a perfect tense stem**. This will be important when considering perfect infinitives, participles, and finite forms in the subjunctive or optative, especially since reduplication in some contexts can look like an augment.
 
-The **future active and middle** (i.e., the forms built on the second principal part) will similarly usually have a tense marker: the letter **-σ-** at the end of the stem. This is the same tense marker that first aorists use, but there are two major differences: 1) aorists will begin with an **augment**, and the **endings** that aorists use will be different.
-
-Nevertheless, the differences between a second principal part and a third principal part can be easy to miss or even non-existent in some circumstances. Look at the following examples:
-
-* πέμπω > 2nd pp **πέμψω**, 3rd pp **ἔπεμψα**
-* κελεύω > 2nd pp **κελεύσω**, 3rd pp **ἐκέλευσα**
-
-In the first, the stem of the 2nd pp is **πεμψ-**, and similarly, the unaugmented stem of the 3rd pp is **πεμψ-**, which will be used for forms like infinitives and participles. In the second, the same similarity applies: both the 2nd pp stem and the unaugmented 3rd pp stem is **κελευσ-**.
-
-So, you will have to make sure to use the **endings** of the form to determine what tense you are working with; as you will see, there is barely any, if any, overlap between future tense endings and first aorist tense endings.
-
-The **future passive**, built on the 6th principal part, will exhibit the same -θ- of the stem that marks the aorist passive. The major difference will be that forms of the future passive will *un-augment* the stem. More on this below.
-
-### Contract Futures
-
-Some second principal parts will have an epsilon before the final -ω or -ομαι, much like an epsilon-contract in a first principal part. These verbs are called **contract futures**, because as with [present tense epsilon-contracts](../verbs/epsilon-contracts), you will need to contract the -ε- of the future active/middle stem with whatever vowel of the ending follows it. Note the following examples:
-
-* ἀγγέλλω, **ἀγγελέω**, ἤγγειλα, ἤγγελκα, ἤγγελμαι, ἠγγέλθην - to announce
-* ἀποκτείνω, **ἀποκτενέω**, ἀπέκτεινα, ἀπέκτονα, --, -- - to kill
-* βάλλω, **βαλέω**, ἔβαλον, βέβληκα, βέβλημαι, ἐβλήθην - to throw, cast, hurl, hit
-* νομίζω, **νομιέω**, ἐνόμισα, νενόμικα, νενόμισμαι, ἐνομίσθην - to think
-
-In each of these verbs, the stem of the second principal part ends with -ε-, and we will need to follow the same rules as we do for present tense epsilon-contracts in combining the stem vowel with the ending vowel.
+**Reduplication**
 
 ***
 
