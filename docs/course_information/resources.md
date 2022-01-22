@@ -21,7 +21,7 @@ parent: Course Information
 
 * [Logeion: Lexidium](https://logeion.uchicago.edu/lexidium): An online version of the Liddell-Scott-Jones (LSJ) Greek to English Dictionary.
 * [Furman: L&S](http://folio2.furman.edu/lsj/): Furman University's version of the LSJ.
-* [GroupMe](#): A GroupMe group to chat with one another and with me, ask quick questions, and share course-related thoughts, comments, and memes. Especially memes.
+* [Discord](https://discord.gg/2UQTcz2WTN): A Discord server to chat with one another and with me, ask quick questions, and share course-related thoughts, comments, and memes. Especially memes.
 * [Conditional Clauses chart](https://dlibatique.github.io/images/conditions-chart.tif): A chart that describes the components of different types of conditionals. Credit to Prof. Stephen Esposito of Boston University.
 * [Dependent Clauses chart](https://dlibatique.github.io/images/dependent-clause-chart.tif): A chart that describes the components of different types of dependent clauses. Credit to Prof. Stephen Esposito of Boston University.
 
