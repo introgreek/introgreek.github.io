@@ -1,14 +1,22 @@
 ---
 layout: page
-title: Module 5
+title: GREK 102 Vocabulary
 permalink: /vocabulary/05
 nav_order: 5
 parent: Vocabulary
 ---
 
-# Module 5 Vocabulary
+# GREK 102 Vocabulary
 
 ***
+
+## Verbs
+* ὁράω
+* δηλόω
+* δίδωμι
+* τίθημι
+* ἵστημι
+* ἵημι
 
 ## Nouns
 

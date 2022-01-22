@@ -17,305 +17,238 @@ parent: Course Information
 
 ***
 
-As of the time of this writing (T 8/31, 10:30am), the schedule is filled in only through the midpoint of the semester so that we can gauge our progress and reevaluate how much time is being spent on any given topic if need be. All dates from October 25 on are blank on purpose.
-
-***
-
-## Week 1 (9/1 - 9/3)
+## Week 1 (1/26 - 1/28)
 
 ### Wednesday, September 1
 {: .no_toc }
-Syllabus day (website crawl, grading scheme)  
-**Today's slideshow:** [click here](https://drive.google.com/file/d/13kl-gJyFe62c_nkrOaLbEGrzGcesIc7X/view?usp=sharing)
+Syllabus Day, GREK 101 Review
 
 ### Friday, September 3
 {: .no_toc }
-Basics: Alphabet, Pronunciation, Accents, Inflection  
-**Today's slideshow:** [click here](https://drive.google.com/file/d/142hxvIFg78KkVasOhXuROybJKILHXacq/view?usp=sharing)
-
-**HW due today:**
-* memorize the [Greek alphabet](textbook/basics/alphabet-and-accents)
-* fill out [Student Information Form](https://forms.gle/ubbEy67RFwB1YS359)
-* read through [course information (resources, policies, grading, schedule)](course_info)
-* read through [Alphabets and Accents](textbook/basics/alphabet-and-accents) and [Inflection](textbook/basics/inflection)
+Syllabus Day, GREK 101 Review
 
 ***
 
-## Week 2 (9/6 - 9/10)
+## Week 2 (1/31 - 2/4)
 
-### Monday, September 6
+### Monday, January 31
 {: .no_toc }
-Verb Overview  
-**Today's slideshow:** [click here](https://drive.google.com/file/d/1478T-oUYwx5hlWbqnEetIKPgvoQNnT7R/view?usp=sharing)
+Alpha- and Omicron-Contracts
 
-**HW due today:**
-* read through [Verb Overview](https://introgreek.github.io/textbook/verbs/overview)
-* gain basic understanding of each verb aspect (person, number, tense, voice, and mood) and its possibilities
-
-### Wednesday, September 8
+### Wednesday, February 2
 {: .no_toc }
-First Aorist  
-**Today's slideshow:** [click here](https://drive.google.com/file/d/14LpgB4NuoF5Dk-lX6j8fygTHTNtpgbnq/view?usp=sharing)
+Future Tense
 
-**HW due today:**
-* read through [First Aorist](https://introgreek.github.io/textbook/verbs/first-aorist)
-* memorize the dictionary entries (bolded forms and definitions) under “Principal Parts and Memorization”
-
-### Friday, September 10
+### Friday, February 4
 {: .no_toc }
-Second Aorist  
-**Today's slideshow:** [click here](https://drive.google.com/file/d/15bEknF18qpbXOgRB1nfZFizVGfi19tHU/view?usp=sharing)
-
-**HW due today:**
-* read through [Second Aorist](https://introgreek.github.io/textbook/verbs/second-aorist)
-* memorize the dictionary entries (bolded forms and definitions) under “Unit Vocabulary”
-* refresh yourself on dictionary entries for κελεύω and δείκνυμι for check-in
+Future Tense continued
 
 ***
 
-## Week 3 (9/13 - 9/17)
+## Week 3 (2/7 - 2/11)
 
-### Monday, September 13
+### Monday, February 7
 {: .no_toc }
-Clauses and Coordination  
-**Today's slideshow:** [click here](https://drive.google.com/file/d/15yokGDZt4TdubV3xPsbzsmoJVsVEe4Fz/view?usp=sharing)
+Perfect Tense
 
-**HW due today:**  
-* read through [Clauses and Coordination](https://introgreek.github.io/textbook/verbs/clauses-and-coordination)
-* memorize the dictionary entries under “Unit Vocabulary”
-
-### Wednesday, September 15
+### Wednesday, February 9
 {: .no_toc }
-Present Tense  
-**Today's slideshow:** [click here](https://drive.google.com/file/d/167XR9j7_TymessFzAMpP2oPyvms7BM4D/view?usp=sharing)
+Perfect Tense Continued
 
-**HW due today:**  
-* read through [Present Tense](https://introgreek.github.io/textbook/verbs/present)
-* refresh yourself on vocab from [First Aorist](https://introgreek.github.io/textbook/verbs/first-aorist) and [Second Aorist](https://introgreek.github.io/textbook/verbs/second-aorist), especially first principal parts
-
-### Friday, September 17
+### Friday, February 11
 {: .no_toc }
-Present Tense Continued
+Variable-Stem Nouns
 
 ***
 
-## Week 4 (9/20 - 9/24)
+## Week 4 (2/14 - 2/18)
 
-### Monday, September 20
+### Monday, February 14
 {: .no_toc }
-Imperfect Tense  
-**Today's slideshow:** [click here](https://drive.google.com/file/d/181Ci5_knE6MR0qTtneLZ-AmA1jOwAuzo/view?usp=sharing)
+Variable-Stem Adjectives
 
-**HW due today:**
-* read through [Imperfect Tense](https://introgreek.github.io/textbook/verbs/imperfect)
-* refresh yourself on vocab from [First Aorist](https://introgreek.github.io/textbook/verbs/first-aorist) and [Second Aorist](https://introgreek.github.io/textbook/verbs/second-aorist), especially first principal parts
-
-### Wednesday, September 22
+### Wednesday, February 16
 {: .no_toc }
-Imperfect Continued
+Personal, Reflexive, and Reciprocal Pronouns
 
-### Friday, September 24
+### Friday, February 18
 {: .no_toc }
-Epsilon Contracts  
-**Today's slideshow:** [click here](https://drive.google.com/file/d/18js_mUjSGrWvTS_ze9FbX1BLsqMucB6e/view?usp=sharing)
-
-**HW due today:**
-* read through [Epsilon Contracts](https://introgreek.github.io/textbook/verbs/epsilon-contracts)
-* memorize the dictionary entries under "Unit Vocabulary"
+Result Clauses
 
 ***
 
-## Week 5 (9/27 - 10/1)
+## Week 5 (2/21 - 2/25)
 
-### Monday, September 27
+### Monday, February 21
 {: .no_toc }
-Verb Review
+Comparative and Superlative Adjectives
 
-### Wednesday, September 29
+### Wednesday, February 23
 {: .no_toc }
-Nouns Overview  
-**Today's slideshow:** [click here](https://drive.google.com/file/d/18shk2pNMudDmtP0LK0fmiSsvf1T4vZy0/view?usp=sharing)
+Comparative and Superlative Adjectives continued
 
-**HW due today:**
-* read through [Nouns Overview](https://introgreek.github.io/textbook/nouns/nouns-overview)
-
-### Friday, October 1
+### Friday, February 25
 {: .no_toc }
-Nominative, Genitive, and the Article  
-**Today's slideshow:** [click here](https://drive.google.com/file/d/190rc6wRISYaiFCojeb_Aoep80e14Q42w/view?usp=sharing)
+Interrogative and Indefinite Pronouns
 
 ***
 
-## Week 6 (10/4 - 10/8)
+## Week 6 (2/28 - 3/4)
 
-### Monday, October 4
+### Monday, February 28
 {: .no_toc }
-Nominative, Genitive, and the Article continued  
-Module 1 Quiz due today
+Core Four -μι Verbs
 
-### Wednesday, October 6
+### Wednesday, March 2
 {: .no_toc }
-Accusative and Dative  
-**Today's slideshow:**: [click here](https://drive.google.com/file/d/19ToltnTOllTTUcWiUj7UGpA6qXEM1cVc/view?usp=sharing)  
-Module 1 Translation due today  
-Hades Twitch stream tonight 5-7pm
+Core Four -μι Verbs continued
 
-### Friday, October 8
+### Friday, March 4
 {: .no_toc }
-Accusative and Dative continued  
-Module 1 Composition due today
+Athematic Aorists
 
 ***
 
-## Fall Break: 10/9 to 10/17
+## Spring Break: 3/5 to 3/13
 {: .no_toc }
 
 ***
 
-## Week 7 (10/18 - 10/22)
+## Week 7 (3/14 - 3/18)
 
-### Monday, October 18
+### Monday, March 14
 {: .no_toc }
-Cases Review
+Review
 
-### Wednesday, October 20
+### Wednesday, March 16
 {: .no_toc }
-Prepositions  
-**Today's slideshow**: [click here](https://drive.google.com/file/d/1Ah9svOuA2RqY4fG7QFMSc_0OVXz79o_2/view?usp=sharing)
+Review
 
-**HW due and events happening today:**
-* Read [Prepositions](textbook/nouns/prepositions) and begin memorizing its unit vocabulary
-* Prof. Helen Morales' visit at 7pm via Zoom (check email for Zoom invitation)
-
-### Friday, October 22
+### Friday, March 18
 {: .no_toc }
-Adjectives  
-**Today's slideshow**: [click here](https://drive.google.com/file/d/1AkV8rSTXpwT91b8IbfX5oZkAOscqKPf4/view?usp=sharing)
+Review
 
 ***
 
-## Week 8 (10/25 - 10/29)
+## Week 8 (3/21 - 3/25)
 
-### Monday, October 25
+### Monday, March 21
 {: .no_toc }
-Adjectives continued
+Subjunctive and Optative Overview
 
-### Wednesday, October 27
+### Wednesday, March 23
 {: .no_toc }
-Adjectives continued
+Subjunctive: Formation
 
-### Friday, October 29
+### Friday, March 25
 {: .no_toc }
-Attributive and Predicative Position  
-**Today's slideshow**: [click here](https://drive.google.com/file/d/1DAH3RDu3_8J5TmylFz5zTLp-vrgS2837/view?usp=sharing)
+Independent Uses of the Subjunctive: Hortatory, Deliberative, Prohibitive
 
 ***
 
-## Week 9 (11/1 - 11/5)
+## Week 9 (3/28 - 4/1)
 
-### Monday, November 1
+### Monday, March 28
 {: .no_toc }
-Attributive and Predicative Position continued; Pronouns  
-**Today's slideshow**: [click here](https://drive.google.com/file/d/1DT2FUvuV1KvaC0SKyFUSXrxfDMeU8ZJs/view?usp=sharing)
+Dependent Uses of the Subjunctive: Purpose Clauses, Fear Clauses
 
-### Wednesday, November 3
+### Wednesday, March 30
 {: .no_toc }
-Pronouns continued  
+Optative: Formation
 
-### Friday, November 5
+### Friday, April 1
 {: .no_toc }
-Substantives and Adjectives Review
+Independent Uses of the Optative: Potential, Wishes
 
 ***
 
-## Week 10 (11/8 - 11/12)
+## Week 10 (4/4 - 4/8)
 
-### Monday, November 8
+### Monday, April 4
 {: .no_toc }
-Infinitive Formation  
-Module 2 Quiz Due  
-**Today's slideshow**: [click here](https://drive.google.com/file/d/1EKn1lnzXNawLvA8LltgbSCpkR8BsPRmh/view?usp=sharing)
+Sequence of Moods and Dependent Uses of the Optative
 
-### Wednesday, November 10
+### Wednesday, April 6
 {: .no_toc }
-Infinitive Uses  
-Module 2 Translation Due  
-**Today's slideshow**: [click here](https://drive.google.com/file/d/1Fmk9nyRrb_aF_GFDiUjrMkQ3AeyTOeJ6/view?usp=sharing)
+Sequence of Moods and Dependent Uses of the Optative continued
 
-### Friday, November 12
+### Friday, April 8
 {: .no_toc }
-Infinitive Uses continued    
-Module 2 Composition Due
+Indirect Questions
 
 ***
 
-## Week 11 (11/15 - 11/19)
+## Week 11 (4/11 - 4/13)
 
-### Monday, November 15
+### Monday, April 11
 {: .no_toc }
-Participle Formation  
-**Today's slideshow**: [click here](https://drive.google.com/file/d/1GBwyltlobsdIcqx1p8Ne_qPtYezPQtCz/view?usp=sharing)
+Conditions, Part 1
 
-### Wednesday, November 17
+### Wednesday, April 13
 {: .no_toc }
-Participle Formation continued, Participle Uses  
-**Today's slideshow**: [click here](https://drive.google.com/file/d/1GicTr6rqkPhMi6SGHiY09QZ-ycbkB1wj/view?usp=sharing)
-
-### Friday, November 19
-{: .no_toc }
-Participle Uses
+Conditions, Part 2
 
 ***
 
-## Week 12 (11/22)
-
-### Monday, November 22
-{: .no_toc }
-Participle Uses continued
-
-***
-
-## Thanksgiving Break: 11/24 to 11/28
+## Easter Break: 4/14 to 4/18
 {: .no_toc }
 
 ***
 
-## Week 13 (11/29 - 12/3)
+## Week 12 (4/20 - 4/22)
 
-### Monday, November 29
+### Wednesday, April 20
 {: .no_toc }
-Participle Uses continued
+Imperative Mood
 
-### Wednesday, December 1
+### Friday, April 22
 {: .no_toc }
-No class
-
-### Friday, December 3
-{: .no_toc }
-Relative Clauses  
-**Today's slideshow**: [click here](https://drive.google.com/file/d/1HLpUWkSx6QIYYQfZ0jmhSMPvooJZ3naV/view?usp=sharing)
+Verbal Compounds
 
 ***
 
-## Week 14 (12/6 - 12/10)
+## Week 13 (4/25 - 4/29)
 
-### Monday, December 6
+### Monday, April 25
 {: .no_toc }
-Indirect Statement  
-**Today's slideshow**: [click here](https://drive.google.com/file/d/1HUex4EjLVGDibn6XxWJ1C9sm_PvOO_dy/view?usp=sharing)
+Substantive Odds and Ends
 
-### Wednesday, December 8
+### Wednesday, April 27
 {: .no_toc }
-Indirect Statement continued
+NO CLASSES (Academic Conference)
 
-### Friday, December 10
+### Friday, April 29
 {: .no_toc }
-Preview of GREK 102
+Practice
 
 ***
 
-## Study Period: 12/11 through 12/13
+## Week 14 (5/2 - 5/6)
+
+### Monday, May 2
+{: .no_toc }
+Practice
+
+### Wednesday, May 4
+{: .no_toc }
+Practice
+
+### Friday, May 6
+{: .no_toc }
+Practice
+
+***
+
+## Week 15 (5/9)
+
+### Monday, May 9
+{: .no_toc }
+In Conclusion
+
+***
+
+## Study Period: 5/10 through 5/11
 {: .no_toc }
 
-## Exam Period: 12/14 through 12/18
+## Exam Period: 5/12 through 5/18
 {: .no_toc }

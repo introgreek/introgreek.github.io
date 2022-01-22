@@ -19,7 +19,7 @@ parent: Course Information
 
 ## The Pandemic
 
-The coronavirus pandemic has upended our normal way of life for the past year and a half, and although we are hopefully at the tail end of it, the disruptions that we've experienced since March 2020 will have lasting effects in various ways. As of summer 2021, we are slated to be on campus and in person in the fall (yay!), but if the pandemic surges again, we have to be ready to shift online and conduct our class via Zoom and other online media.
+The coronavirus pandemic has upended our normal way of life for the past year and a half, and although we are hopefully at the tail end of it, the disruptions that we’ve experienced since March 2020 will have lasting effects in various ways. As of January 2022, we are slated to begin the semester remotely for the first week, potentially for the first two, and to begin in-person sessions by the third week of the semester, but if the pandemic continues to surge, we have to be ready to shift entirely online and conduct our class via Zoom and other online media.
 
 Please rest assured that your health and safety and that of your family and friends will always come first, and I make it my mission to create a classroom environment that is supportive and safe as you navigate what’s happening in our world and deal with everything else that you have to deal with, in practical and emotional terms. If you have to miss class to take care of yourself or others, either physically or mentally, then do so and just let me know that you'll be missing class via email. If you need extensions on assignments, ask for them. If you would like extra help outside of class time, don't hesitate to let me know.
 
@@ -79,9 +79,7 @@ If you are already registered with Accessibility Services, please be sure to get
 
 In addition to my email and student hours, there are resources outside myself and the Classics department, like [Academic Services and Learning Resources](https://www.holycross.edu/support-and-resources/academic-services-and-learning-resources) that can help with assignments or your progress through the course in general. Remember, there is no such thing as a stupid question.
 
-In addition, the Department of Classics and the Classics Department Inclusion Committee are pleased to offer a peer-based tutoring program for Greek 101 students. The tutors (Rose K., Catherine O., and Anne-Catherine S.) have received training through Academic Services and Learning Resources and will discuss material being covered in the students’ courses, guide students on how to solve problems, and provide independent learning strategies. The workshop will run as an appointment-based service of 40-minute sessions, with the student and Peer Tutor working together to find a convenient time. **To set up an appointment with one of the tutors, please contact me and we'll set it up**!
-
-By the way, to test whether you’re reading the syllabus all the way through, please send me an email indicating your favorite uppercase Greek letter by 9:00am on Friday, September 3, 2021, with the subject line “Easy as PI! Nothing NU!” If you do so, you will receive five (5) extra credit points (see the [grading](/course_info/grading) page for the course grading structure).
+In addition, the Department of Classics and the Classics Department Inclusion Committee are pleased to offer a peer-based tutoring program for Greek 102 students. The tutors have received training through Academic Services and Learning Resources and will discuss material being covered in the students’ courses, guide students on how to solve problems, and provide independent learning strategies. The workshop will run as an appointment-based service of 40-minute sessions, with the student and Peer Tutor working together to find a convenient time. **To set up an appointment with one of the tutors, please contact me and we'll set it up**!
 
 [Return to top.](#top)
 

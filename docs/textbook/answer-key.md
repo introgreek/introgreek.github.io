@@ -2,7 +2,7 @@
 layout: page
 title: Answer Key
 permalink: /textbook/answer-key
-nav_order: 6
+nav_order: 9
 parent: Textbook
 ---
 
@@ -522,3 +522,211 @@ act. - masc./neut. dat. pl.
 
 10. κρυπτομένοις  
 mid./pass. - masc./neut. dat pl.
+
+***
+
+### Alpha- and Omicron-Contracts: PO1
+
+1. 2nd pl. imperfect middle/passive  
+ἐποιεῖσθε
+
+2. neut. acc. pl., present active participle  
+ποιοῦντα
+
+3. present middle/passive infinitive  
+ποιεῖσθαι
+
+4. masc. nom. sg., present active participle  
+ποιῶν
+
+5. 1st pl. present active  
+ποιοῦμεν
+
+6. 1st sg. imperfect active  
+ἐποίουν
+
+7. fem. dat. pl., present middle/passive participle  
+ποιούσαις
+
+8. present active infinitive  
+ποιεῖν
+
+9. 3rd sg. present active  
+ποιεῖ
+
+10. 3rd sg. imperfect active  
+ἐποίει
+
+***
+
+### Alpha- and Omicron-Contracts: PO2
+
+1. 3rd pl. imperfect middle/passive  
+ἐτιμῶντο
+
+2. fem. nom. pl., present middle/passive participle  
+τιμώμεναι
+
+3. present active infinitive  
+τιμᾶν
+
+4. neut. nom. sg., present active participle  
+τιμῶν
+
+5. 2nd pl. present active  
+τιμᾶτε
+
+6. 2nd sg. imperfect active  
+ἐτίμας
+
+7. masc. gen. pl., present active participle  
+τιμώντων
+
+8. present middle/passive infinitive  
+τιμᾶσθαι
+
+9. 3rd sg. present active  
+τιμᾷ
+
+10. 1st pl. imperfect middle/passive  
+ἐτιμώμεθα
+
+***
+
+### Alpha- and Omicron-Contracts: PO3
+
+1. 2nd pl. present middle/passive  
+ζηλοῦσθε
+
+2. fem. gen. pl., present active participle  
+ζηλουσῶν
+
+3. present active infinitive  
+ζηλοῦν
+
+4. neut. dat. sg., present middle/passive participle  
+ζηλουμένῳ
+
+5. 3rd pl. present active  
+ζηλοῦσι(ν)
+
+6. 3rd sg. imperfect middle/passive  
+ἐζηλοῦτο
+
+7. masc. dat. pl., present active participle  
+ζηλοῦσι(ν)
+
+8. present middle/passive infinitive  
+ζηλοῦσθαι
+
+9. 3rd sg. present active  
+ζηλοῖ
+
+10. 1st pl. imperfect middle/passive  
+ἐζηλούμεθα
+
+***
+
+### Alpha- and Omicron-Contracts: PO4
+
+1. ὑπὸ τῶν δικαστῶν ἑωρώμην.  
+I was (being) seen by the jurors.
+
+2. οἱ μὲν τὸν οἶνον ἐμείγνυσαν, οἱ δὲ τὸν κίνδυνον ἐδήλουν.  
+Some (people) were mixing the wine, while others were pointing out the danger.
+
+3. ὁ μαθητὴς ἐτιμᾶτο, ἀγαθὰ ποιῶν.  
+The student was being honored because he was doing good things.
+
+4. ἔξεστι τῇ ἀγαθῇ νικᾶν.  
+It is possible for the good person to win.
+
+5. ὁ πολίτης εἶπεν ὅτι τὰ βιβλία ἑώρων.  
+The citizen said that I was seeing the books. **OR** The citizen said that they were seeing the books.
+
+***
+
+### Future Tense: PO1
+
+1. κελεύω -> 2nd pl. fut. act.  
+κελεύσετε
+
+2. πέμπω -> fut. act. participle, masc. dat. pl.  
+πέμψουσι(ν)
+
+3. νομίζω -> fut. mid. infinitive  
+νομιεῖσθαι
+
+4. ἀγγέλλω -> 3rd pl. fut. mid.  
+ἀγγελοῦνται
+
+5. λαμβάνω -> 1st pl. fut. mid.  
+ληψόμεθα
+
+6. αἱρέω -> fut. mid. participle, fem. acc. pl.  
+αἱρήσομένας
+
+7. δείκνυμι -> 2nd sg. fut. act.  
+δείξεις
+
+8. μείγνυμι -> fut. act. participle, neut. gen. sg.  
+μείξοντος
+
+9. μανθάνω -> 1st sg. fut. mid.  
+μαθήσομαι
+
+10. φέρω -> fut. mid. participle, masc. nom. pl.  
+οἰσόμενοι
+
+***
+
+### Future Tense: PO2
+
+1. κελευσθήσεσθε  
+κελεύω - 2nd pl.
+
+2. πεμφθήσεσθαι  
+πέμπω - infinitive
+
+3. γραφήσονται  
+γράφω - 3rd pl.
+
+4. νομισθησόμεθα  
+νομίζω - 1st pl.
+
+5. ἀγγελθησομένῳ  
+ἀγγέλλω - masc./neut. dat. sg.
+
+6. ληφθήσεται  
+λαμβάνω - 3rd sg.
+
+7. ἐνεχθησόμεναν  
+φέρω - fem. acc. sg.
+
+8. μιγήθεσθαι  
+μείγνυμι - infinitive
+
+9. δειχθήσῃ  
+δείκνυμι - 2nd sg.
+
+10. λυθήσομαι  
+λύω - 1st sg.
+
+***
+
+### Future Tense: PO3
+
+1. ὑπὸ τῶν δικαστῶν ὀφθήσομαι.  
+I will be seen by the jurors.
+
+2. οἱ μὲν τὸν οἶνον μείξουσιν, οἱ δὲ τὸν κίνδυνον δηλώσουσιν.  
+Some will mix the wine, while others will point out the danger.
+
+3. ὁ μαθητὴς τιμηθήσεται, ἀγαθὰ ποιήσων.  
+The student will be honored, because he will do good things.
+
+4. νομίζω τὴν ἀγαθὴν νικήσειν.  
+I think that the good woman/person will win.
+
+5. ὁ πολίτης ἀγγέλλει ὅτι τὰ βιβλία ἕξομεν.  
+The citizen announces that we will have the books.
