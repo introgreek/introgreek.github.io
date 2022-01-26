@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Future Tense
+title: Perfect Tense
 permalink: /textbook/verbs-2/perfect
 nav_order: 2
 parent: 05 - Verbs 2
@@ -56,7 +56,7 @@ The **perfect tense** in any voice will usually exhibit one tense marker: **redu
 
 ***
 
-## Future Active and Middle
+## Perfect Active
 
 As mentioned above, the **future active and middle voices** are built on the **2nd principal part**, and you get the stem to which you need to add the personal endings by removing the **-ω** or **-ομαι**. The easy part about forming these voices is that you already know the personal endings to apply to the verb stem: they are exactly identical to the **present tense -ω** endings from last semester.
 
@@ -80,7 +80,7 @@ You simply need to add these endings to the **future tense stem**, which is the 
 | 2nd pl. | κελεύσετε | κελεύσεσθε |
 | 3rd pl. | κελεύσουσι(ν) | κελεύσονται |
 
-### Fut. Act. and Mid. Infinitives and Participles
+### Perfect Active Infinitive and Participle
 
 Similary, the endings for the future active and middle infinitives and participles are exactly the same as those for **present tense -ω** verbs, but added to the **future stem** of the **2nd principal part**. So, if we keep using our paradigm verb κελεύω:
 
@@ -110,7 +110,7 @@ Generate the requested form of the given verb.
 
 ***
 
-## Future Passive
+## Perfect Middle/Passive
 
 The **future passive** is built on the **6th principal part**, which you used last semester also to build the aorist passive. Because the future tense is a *primary* tense (i.e., not a past tense), we need to **un-augment** the stem of the 6th principal part in the same way that we would if we were forming an infinitive or participle from it. For a refresher on how to remove a syllabic or temporal augment from a verb, check out last semester's unit on [aorist infinitives](../infs-and-parts/infinitive-formation#aorist-infinitives).
 
@@ -130,7 +130,7 @@ resulting in the following future passive forms for κελεύω:
 | 2nd | κελευσθήσῃ | κελευσθησέσθε |
 | 3rd | κελευσθήσεται | κελευσθήσονται |
 
-### Fut. Pass. Infinitive and Participle
+### Perf. Mid./Pass. Infinitive and Participle
 
 The future passive infinitive and participle are similarly formed from the un-augmented 6th principal part stem. The endings are a similar combination of tense and voice markers: the -η- of the principal part, the tense marker -σ-, and the same endings that you used for the future middle (-εσθαι for the infinitive or -όμενος, -ομένη, -όμενον for the participle):
 
@@ -155,6 +155,10 @@ All the given forms are aorist passive. For all exercises, identify the **first 
 8. μιγήθεσθαι
 9. δειχθήσῃ
 10. λυθήσομαι
+
+***
+
+## Pluperfect and Future Perfect
 
 ***
 
