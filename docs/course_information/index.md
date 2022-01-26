@@ -13,7 +13,7 @@ has_children: true
 ## Course Details
 
 **Meeting time**: MWF 9-9:50am  
-**Meeting Place**: Stein 134  
+**Meeting Place**: Zoom through F 2/4; thereafter Stein 134  
 **Instructor**: Prof. Daniel Libatique (he/him/his)  
 **Office**: Fenwick 410  
 **Student Hours**: T 2-3pm, W 10am-12pm, Th 11am-12pm, or by appointment.  
