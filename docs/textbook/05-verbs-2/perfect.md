@@ -22,8 +22,8 @@ grand_parent: Textbook
 
 ### Verbs
 {: .no_toc }
-* φεύγω
-* ῥίπτω
+* φεύγω, φεύξομαι / φευξέομαι, ἔφυγον, πέφευγα, --, -- - to flee, escape
+* ῥίπτω, ῥίψω, ἔρριψα, ἔρριφα, ἔρριμμαι, ἐρρίφθην / ερρίφην - to hurl, cast, throw
 
 ***
 
@@ -124,7 +124,16 @@ Let's stick with φέρω -> ἐνήνοχα as our paradigm here.
 
 * perfect active participle: ἐνηνοχώς, ἐνηνοχυῖα, ἐνηνοχός (m./n. stem ἐνηνοχότ-)
 
-
+| | Masc. | Fem. | Neut. |
+| ----- | ----- | ----- | ----- |
+| Nom. Sg. | ἐνηνοχ**ώς** | ἐνηνοχ**υῖα** | ἐνηνοχ**ός** |
+| Gen. Sg. | ἐνηνοχ**ότος** | ἐνηνοχ**υίας** | ἐνηνοχ**ότος** |
+| Dat. Sg. | ἐνηνοχ**ότι** | ἐνηνοχ**υίᾳ** | ἐνηνοχ**ότι** |
+| Acc. Sg. | ἐνηνοχ**ότα** | ἐνηνοχ**υῖαν** | ἐνηνοχ**ός** |
+| Nom. Pl. | ἐνηνοχ**ότες** | ἐνηνοχ**υῖαι** | ἐνηνοχ**ότα** |
+| Gen. Pl. | ἐνηνοχ**ότων** | ἐνηνοχ**υιῶν** | ἐνηνοχ**ότων** |
+| Dat. Pl. | ἐνηνοχ**όσι(ν)** | ἐνηνοχ**υίαις** | ἐνηνοχ**όσι(ν)** |
+| Acc. Pl. | ἐνηνοχ**ότας** | ἐνηνοχ**υίας** | ἐνηνοχ**ότα** |
 
 ***
 
@@ -132,7 +141,7 @@ Let's stick with φέρω -> ἐνήνοχα as our paradigm here.
 
 Generate the requested form of the given verb.
 
-[Answer key here](../answer-key#future-tense-po1).
+[Answer key here](../answer-key#perfect-tense-po1).
 
 1. κελεύω -> 2nd pl. fut. act.
 2. πέμπω -> fut. act. participle, masc. dat. pl.
@@ -149,7 +158,17 @@ Generate the requested form of the given verb.
 
 ## Perfect Middle/Passive
 
-The **future passive** is built on the **6th principal part**, which you used last semester also to build the aorist passive. Because the future tense is a *primary* tense (i.e., not a past tense), we need to **un-augment** the stem of the 6th principal part in the same way that we would if we were forming an infinitive or participle from it. For a refresher on how to remove a syllabic or temporal augment from a verb, check out last semester's unit on [aorist infinitives](../infs-and-parts/infinitive-formation#aorist-infinitives).
+The **perfect middle/passive** is built on the **5th principal part**, the stem of which you can determine by removing the ending **-μαι**, and like other tenses, the conjugation of the perfect middle/passive is a matter of combining personal endings with a very stem. The endings in question are as follows:
+
+| | Singular | Plural |
+| ----- | ----- | ----- |
+| 1st | -μαι | -μεθα |
+| 2nd | -σαι | -σθε |
+| 3rd | -ται | -νται |
+
+Note that these endings are exactly the same as athematic middle/passive endings of present tense -μι verbs. That's because the perfect tense counts as a *primary* tense (i.e., not a past tense) and thus it uses primary tense endings.
+
+However, the endings of the perfect middle/passive can affect the end of the 5th principal part stem in various ways, based on the letter that ends the stem.
 
 So, our paradigm verb is κελεύω, which has a 6th principal part in ἐκελεύσθην. When we un-augment it, we are left with **κελευσθ-**. Then, to form the finite forms of the aorist passive, we can add the following endings (which all retain the -η- visible in the 6th principal part, add the characteristic -σ- future tense marker, and then use the future *middle* endings):
 
