@@ -22,7 +22,8 @@ grand_parent: Textbook
 
 ### Verbs
 {: .no_toc }
-*
+* φεύγω
+* ῥίπτω
 
 ***
 
@@ -48,46 +49,82 @@ Like the other tenses that you already know, the perfect tense can be expressed 
 
 The perfect tense will also complete our knowledge of the **principal parts**. The **fourth principal part** is used to conjugate the **perfect active** and also form its infinitive and participles. The **fifth principal part** is used to conjugate the **perfect middle and passive** and also form its infinitive and participles. Thus, the perfect operates similarly to the present tense: it has one form for **active** and one form for both **middle and passive**, so you will need to use context clues to figure out which voice your verb is.
 
-### Fourth and Fifth Principal Part and Perfect Tense Markers
+### Reduplication and Perfect Tense Markers
+
+Be aware that the tips and rules in this section are meant mainly to help you identify a perfect tense verb when you're looking at it. You will not be expected to memorize these rules or to generate a fourth or fifth principal part solely from looking at a first principal part, but being aware of reduplication and other perfect tense markers can help you identify a verb's meaning and form more easily.
 
 The **perfect tense** in any voice will usually exhibit one tense marker: **reduplication**. Like an augment, **reduplication** affects the beginning of the verb stem, depending on the letter(s) that the verb stem begins with. However, unlike an augment, **reduplication cannot be removed or undone from a perfect tense stem**. This will be important when considering perfect infinitives, participles, and finite forms in the subjunctive or optative, especially since reduplication in some contexts can look like an augment.
 
-**Reduplication**
+There are four kinds of **reduplication**:
+
+1) On most verbs that begin with a single consonant, reduplication involves **doubling the initial letter and adding -ε-**. Hence, notice the following transformations from a first principal part to a fourth and fifth:
+
+* κελεύω > **κεκ**έλευκα, **κεκ**έλευσμαι
+* δείκνυμι > **δέδ**ειχα, **δέδ**ειγμαι
+* ποιέω > **πεπ**οίηκα, **πεπ**οίημαι
+
+Note that if the single consonant is an aspirate (χ, φ, or θ), the reduplicated letter will be reduced to its non-aspirated form (χ -> κ, φ -> π, θ -> τ). For example, note from this unit's vocabulary:
+
+* φεύγω -> **πέφ**ευγα
+
+2) On verbs that begin with **the letters ζ, ρ, or a plosive + liquid or nasal combination** (see [consonant groups here](../basics/alphabet-and-accents#consonant-groups)), reduplication involves **adding an initial ε-**. Keep in mind, though, that this is ***not*** a syllabic augment that can be detached from a verb stem; it must remain when we are forming perfect infinitive, participle, subjunctive, optative, and imperative forms. For example:
+
+* ζηλόω -> **ἐζ**ήλωκα, **ἐζ**ήλωμαι
+* ῥίπτω -> **ἔρρ**ιφα, **ἔρρ**ιμμαι
+
+3) On most verbs that begin with a **vowel**, reduplication involves **lengthening the vowel**, very similarly to a temporal augment on an indicative past tense verb. However, keep in mind that this lengthening ***must*** remain and not be undone when forming perfect infinitive, participle, subjunctive, optative, and imperative forms.
+
+* ἀδικέω -> **ἠ**δίκηκα, **ἠ**δίκημαι
+* αἱρέω -> **ᾕ**ρηκα, **ᾕ**ρημαι
+
+4) Some verbs exhibit both a reduplication of an initial vowel + consonant *and* a lengthening of the vowel following the reduplicated syllable. These perfect forms may look completely irregular, but they often occur on commonly-seen verbs and must be memorized.
+
+* ἀκούω -> ἀκήκοα
+* ἔρχομαι -> ἐλήλυθα
+* φέρω -> ἐνήνοχα, ἐνηνέγμαι
 
 ***
 
 ## Perfect Active
 
-As mentioned above, the **future active and middle voices** are built on the **2nd principal part**, and you get the stem to which you need to add the personal endings by removing the **-ω** or **-ομαι**. The easy part about forming these voices is that you already know the personal endings to apply to the verb stem: they are exactly identical to the **present tense -ω** endings from last semester.
+As mentioned above, the **perfect active** is built on the **4th principal part**. You get the stem to which you need to add the personal endings by removing the **-α**.
 
-| | Active | Middle |
+| | Singular | Plural |
 | ----- | ----- | ----- |
-| 1st sg. | -ω | -ομαι |
-| 2nd sg. | -εις | -ῃ |
-| 3rd sg. | -ει | -εται |
-| 1st pl. | -ομεν | -όμεθα |
-| 2nd pl. | -ετε | -εσθε |
-| 3rd pl. | -ουσι(ν) | -ονται |
+| 1st | -α | -αμεν |
+| 2nd | -ας | -ατε |
+| 3rd | -ε(ν) | -ασι(ν) |
 
-You simply need to add these endings to the **future tense stem**, which is the **2nd principal part minus the ending -ω or -ομαι**. So, let's take the verb κελεύω, "to order", as our paradigm example.
+Note that these endings look very similar to the first aorist active endings except for the third plural (1st aor.: -αν; perfect: -ασι(ν)).
 
-| | Active | Middle |
+Let's use the fourth principal part of φέρω, ἐνήνοχα, to demonstrate the conjugation of the perfect active:
+
+| | Singular | Plural |
 | ----- | ----- | ----- |
-| 1st sg. | κελεύσω | κελεύσομαι |
-| 2nd sg. | κελεύσεις | κελεύσῃ |
-| 3rd sg. | κελεύσει | κελεύσεται |
-| 1st pl. | κελεύσομεν | κελευσόμεθα |
-| 2nd pl. | κελεύσετε | κελεύσεσθε |
-| 3rd pl. | κελεύσουσι(ν) | κελεύσονται |
+| 1st | ἐνήνοχα | ἐνηνόχαμεν |
+| 2nd | ἐνήνοχας | ἐνηνόχατε |
+| 3rd | ἐνήνοχε(ν) | ἐνηνόχασι(ν) |
+
+Person, number, and voice work exactly the same as they do in other tenses; the only change in translation here is the tense of the verb:
+
+* ἐνήνοχα -> "I have carried"
+* ἐνηνόχασι -> "They have carried"
 
 ### Perfect Active Infinitive and Participle
 
-Similary, the endings for the future active and middle infinitives and participles are exactly the same as those for **present tense -ω** verbs, but added to the **future stem** of the **2nd principal part**. So, if we keep using our paradigm verb κελεύω:
+The formation of the perfect active infinitive and participle is a simple matter of adding endings to the fourth principal part stem. Recall that no matter what kind of reduplication the fourth principal part exhibits, you do ***not*** need to change anything about the stem (unlike when you needed to un-augment aorist principal parts to form aorist infinitives and participles).
 
-* future active infinitive: κελεύσειν
-* future active participle: κελεύσων, κελεύσουσα, κελεῦσον (m./n. stem κελευσοντ-)
-* future middle infinitive: κελεύσεσθαι
-* future middle participle: κελευσόμενος, κελευσομένη, κελευσόμενον
+The perfect active infinitive ending is **-έναι**, with a persistent accent on the -ε-.
+
+The perfect active participle endings are **-ώς, -υῖα, -ός (m./n. stem -ότ-)**. Note the persistent accent on the vowel of the ending.
+
+Let's stick with φέρω -> ἐνήνοχα as our paradigm here.
+
+* perfect active infinitive: ἐνηνοχέναι
+
+* perfect active participle: ἐνηνοχώς, ἐνηνοχυῖα, ἐνηνοχός (m./n. stem ἐνηνοχότ-)
+
+
 
 ***
 
