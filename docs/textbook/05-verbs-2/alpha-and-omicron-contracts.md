@@ -69,7 +69,7 @@ Semester 2:
 
 Generate the requested fully-contracted form of the verb ποιέω.
 
-[Answer key here](../answer-key#alpha--and-omicron--contracts-po1).
+[Answer key here](../answer-key#alpha--and-omicron-contracts-po1).
 
 1. 2nd pl. imperfect middle/passive
 2. neut. acc. pl., present active participle
@@ -124,7 +124,7 @@ Combinations for later this semester:
 
 Generate the requested fully-contracted form of the verb τιμάω.
 
-[Answer key here](../answer-key#alpha--and-omicron--contracts-po2).
+[Answer key here](../answer-key#alpha--and-omicron-contracts-po2).
 
 1. 3rd pl. imperfect middle/passive
 2. fem. nom. pl., present middle/passive participle
@@ -141,7 +141,7 @@ Generate the requested fully-contracted form of the verb τιμάω.
 
 Generate the requested fully-contracted form of the verb ζηλόω.
 
-[Answer key here](../answer-key#alpha--and-omicron--contracts-po3).
+[Answer key here](../answer-key#alpha--and-omicron-contracts-po3).
 
 1. 2nd pl. present middle/passive
 2. fem. gen. pl., present active participle
@@ -183,7 +183,7 @@ Thus, the imperfect forms of ὁράω look like the following. Keep in mind th
 
 Translate the following sentences.
 
-[Answer key here](../answer-key#alpha--and-omicron--contracts-po3).
+[Answer key here](../answer-key#alpha--and-omicron-contracts-po4).
 
 1. ὑπὸ τῶν δικαστῶν ἑωρώμην.
 2. οἱ μὲν τὸν οἶνον ἐμείγνυσαν, οἱ δὲ τὸν κίνδυνον ἐδήλουν.
