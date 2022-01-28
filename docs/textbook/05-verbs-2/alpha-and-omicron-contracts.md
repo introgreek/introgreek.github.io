@@ -22,14 +22,14 @@ grand_parent: Textbook
 
 ### Alpha-Contracts
 {: .no_toc }
-* ὁράω, ὄψομαι, εἶδον, ἑώρακα/ἑόρακα, ἑώραμαι/ὦμμαι, ὤφθην - to see
-* τιμάω, τιμήσω, ἐτίμησα, τετίμηκα, τετίμημαι, ἐτιμήθην - to honor, esteem
-* νικάω, νικήσω, ἐνίκησα, νενίκηκα, νενίκημαι, ἐνικήθην - to win, conquer, prevail
+* νικάω, νικήσω, ἐνίκησα, νενίκηκα, νενίκημαι, ἐνικήθην - [to win, conquer, prevail](https://logeion.uchicago.edu/νικάω)
+* ὁράω, ὄψομαι, εἶδον, ἑώρακα/ἑόρακα, ἑώραμαι/ὦμμαι, ὤφθην - [to see](https://logeion.uchicago.edu/ὁράω)
+* τιμάω, τιμήσω, ἐτίμησα, τετίμηκα, τετίμημαι, ἐτιμήθην - [to honor, esteem](https://logeion.uchicago.edu/τιμάω)
 
 ### Omicron-Contracts
 {: .no_toc }
-* δηλόω, δηλώσω, ἐδήλωσα, δεδήλωκα, δεδήλωμαι, ἐδηλώθην - to make clear, point out
-* ζηλόω, ζηλώσω, ἐζήλωσα, ἐζήλωκα, ἐζήλωμαι, ἐζηλώθην - to rival, emulate, praise
+* δηλόω, δηλώσω, ἐδήλωσα, δεδήλωκα, δεδήλωμαι, ἐδηλώθην - [to make clear, point out](https://logeion.uchicago.edu/δηλόω)
+* ζηλόω, ζηλώσω, ἐζήλωσα, ἐζήλωκα, ἐζήλωμαι, ἐζηλώθην - [to rival, emulate, praise](https://logeion.uchicago.edu/ζηλόω)
 
 ***
 

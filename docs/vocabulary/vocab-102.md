@@ -11,8 +11,17 @@ parent: Vocabulary
 ***
 
 ## Verbs
-* ὁράω
-* δηλόω
+
+* ἀποκτείνω, ἀποκτενέω, ἀπέκτεινα, ἀπέκτονα, --, -- - [to kill](https://logeion.uchicago.edu/ἀποκτείνω)
+* βάλλω, βαλέω, ἔβαλον, βέβληκα, βέβλημαι, ἐβλήθην - [to throw, cast, hurl, hit](https://logeion.uchicago.edu/βάλλω)
+* δηλόω, δηλώσω, ἐδήλωσα, δεδήλωκα, δεδήλωμαι, ἐδηλώθην - [to make clear, point out](https://logeion.uchicago.edu/δηλόω)
+* ζηλόω, ζηλώσω, ἐζήλωσα, ἐζήλωκα, ἐζήλωμαι, ἐζηλώθην - [to rival, emulate, praise](https://logeion.uchicago.edu/ζηλόω)
+* νικάω, νικήσω, ἐνίκησα, νενίκηκα, νενίκημαι, ἐνικήθην - [to win, conquer, prevail](https://logeion.uchicago.edu/νικάω)
+* ὁράω, ὄψομαι, εἶδον, ἑώρακα/ἑόρακα, ἑώραμαι/ὦμμαι, ὤφθην - [to see](https://logeion.uchicago.edu/ὁράω)
+* τιμάω, τιμήσω, ἐτίμησα, τετίμηκα, τετίμημαι, ἐτιμήθην - [to honor, esteem](https://logeion.uchicago.edu/τιμάω)
+
+```
+## Verbs
 * δίδωμι
 * τίθημι
 * ἵστημι
@@ -34,3 +43,4 @@ parent: Vocabulary
 * πρό (+ gen.) - before; in front of; on behalf of
 * ἀντί (+ gen.) - instead of; in place of; opposite
 * ἀμφί - on both sides of; around
+```

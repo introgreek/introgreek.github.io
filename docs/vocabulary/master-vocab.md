@@ -29,12 +29,14 @@ parent: Vocabulary
 * ἀνήρ, ἀνδρός, m. - [man, husband](https://logeion.uchicago.edu/ἀνήρ)
 * ἀνά - [up](https://logeion.uchicago.edu/ἀνά)
 * ἀπό (+ gen.) - [away from](https://logeion.uchicago.edu/ἀπό)
+* ἀποκτείνω, ἀποκτενέω, ἀπέκτεινα, ἀπέκτονα, --, -- - [to kill](https://logeion.uchicago.edu/ἀποκτείνω)
 * ἄρχω, ἄρξω, ἦρξα, ἦρχα, ἦργμαι, ἤρχθην - [to begin (+ part.)](https://logeion.uchicago.edu/ἄρχω)
 * [ἅτε](https://logeion.uchicago.edu/ἅτε) - (used with causal participle)
 * αὐτός, αὐτή, αὐτό - [him, her, it, them](https://logeion.uchicago.edu/αὐτός); (intensive adj./pronoun, *not* reflexive) the very ____; himself, herself, themselves, etc.; (in attributive position) the same
 
 ## β
 
+* βάλλω, βαλέω, ἔβαλον, βέβληκα, βέβλημαι, ἐβλήθην - [to throw, cast, hurl, hit](https://logeion.uchicago.edu/βάλλω)
 * βιβλίον, βιβλίου, n. - [book](https://logeion.uchicago.edu/βιβλίον)
 * βλέπω, βλέψομαι, ἔβλεψα, βέβλεφα, βέβλεμμαι, ἐβλέφθην - “[to see](https://logeion.uchicago.edu/βλέπω)”
 * βουλή, βουλῆς, f. - [will, plan, advice](https://logeion.uchicago.edu/βουλή)
@@ -52,6 +54,7 @@ parent: Vocabulary
 * δέ - (post-positive) [and, but](https://logeion.uchicago.edu/δέ)
 * δεῖ - [it is necessary](https://logeion.uchicago.edu/δεῖ)
 * δείκνυμι, δείξω, ἔδειξα, δέδειχα, δέδειγμαι, ἐδείχθην - [to show](https://logeion.uchicago.edu/δείκνυμι)
+* δηλόω, δηλώσω, ἐδήλωσα, δεδήλωκα, δεδήλωμαι, ἐδηλώθην - [to make clear, point out](https://logeion.uchicago.edu/δηλόω)
 * διά - [through; because of; by means of](https://logeion.uchicago.edu/διά)
 * διδάσκαλος, διδασκάλου, m. - [teacher](https://logeion.uchicago.edu/διδάσκαλος)
 * διδάσκω, διδάξω, ἐδίδαξα, δεδίδαχα, δεδίδαγμαι, ἐδιδάχθην - [to teach; (with double accusative) to teach (accusative 1) (to) (accusative 2)](https://logeion.uchicago.edu/διδάσκω)
@@ -74,6 +77,10 @@ parent: Vocabulary
 * ἔρχομαι, ἐλεύσομαι, ἦλθον, ἐλήλυθα, --, -- - [to come, to go](https://logeion.uchicago.edu/ἔρχομαι)
 * ἔργον, ἔργου, n. - [deed](https://logeion.uchicago.edu/ἔργον)
 * ἔχω, ἕξω / σχήσω, ἔσχον, ἔσχηκα, -ἔσχημαι, ἐσχέθην - [to have, to hold](https://logeion.uchicago.edu/ἔχω)
+
+## ζ
+
+* ζηλόω, ζηλώσω, ἐζήλωσα, ἐζήλωκα, ἐζήλωμαι, ἐζηλώθην - [to rival, emulate, praise](https://logeion.uchicago.edu/ζηλόω)
 
 ## η
 
@@ -119,6 +126,7 @@ parent: Vocabulary
 
 ## ν
 
+* νικάω, νικήσω, ἐνίκησα, νενίκηκα, νενίκημαι, ἐνικήθην - [to win, conquer, prevail](https://logeion.uchicago.edu/νικάω)
 * νομίζω, νομιέω, ἐνόμισα, νενόμικα, νενόμισμαι, ἐνομίσθην - [to think](https://logeion.uchicago.edu/νομίζω)
 * νόμος, νόμου, m. - [law, custom](https://logeion.uchicago.edu/νόμος)
 * νῦν - [now](https://logeion.uchicago.edu/νῦν)
@@ -132,6 +140,7 @@ parent: Vocabulary
 * οἶνος, οἴνου, m. - [wine](https://logeion.uchicago.edu/οἶνος)
 * ὅμως - [nevertheless, still](https://logeion.uchicago.edu/ὅμως)
 * ὅπλον, ὅπλου, n. - [weapon](https://logeion.uchicago.edu/ὅπλον)
+* ὁράω, ὄψομαι, εἶδον, ἑώρακα/ἑόρακα, ἑώραμαι/ὦμμαι, ὤφθην - [to see](https://logeion.uchicago.edu/ὁράω)
 * ὅς, ἥ, ὅ - [who(m), which, that](https://logeion.uchicago.edu/ὅς) (relative pronoun)
 * οὐ (οὐκ before smooth breathing, οὐχ before rough breathing) - [not, no](https://logeion.uchicago.edu/οὐ)
 * οὖν - (post-positive) [therefore, then](https://logeion.uchicago.edu/οὖν)
@@ -165,6 +174,7 @@ parent: Vocabulary
 ## τ
 
 * τε - (enclitic, post-positive) [and](https://logeion.uchicago.edu/τε)
+* τιμάω, τιμήσω, ἐτίμησα, τετίμηκα, τετίμημαι, ἐτιμήθην - [to honor, esteem](https://logeion.uchicago.edu/τιμάω)
 * τότε - [then, at that time](https://logeion.uchicago.edu/τότε)
 
 ## υ

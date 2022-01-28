@@ -24,8 +24,8 @@ grand_parent: Textbook
 {: .no_toc }
 * ἀγγέλλω
 * νομίζω
-* ἀποκτείνω, ἀποκτενέω, ἀπέκτεινα, ἀπέκτονα, --, -- - to kill
-* βάλλω, βαλέω, ἔβαλον, βέβληκα, βέβλημαι, ἐβλήθην - to throw, cast, hurl, hit
+* ἀποκτείνω, ἀποκτενέω, ἀπέκτεινα, ἀπέκτονα, --, -- - [to kill](https://logeion.uchicago.edu/ἀποκτείνω)
+* βάλλω, βαλέω, ἔβαλον, βέβληκα, βέβλημαι, ἐβλήθην - [to throw, cast, hurl, hit](https://logeion.uchicago.edu/βάλλω)
 
 ***
 
