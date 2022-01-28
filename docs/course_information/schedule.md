@@ -21,11 +21,14 @@ parent: Course Information
 
 ### Wednesday, September 1
 {: .no_toc }
-Syllabus Day, GREK 101 Review
+Syllabus Day, GREK 101 Review  
+**Today's slideshow:** [link here](https://drive.google.com/file/d/1L34VZscFu9OQuPSEhKQYaNKhGpjx7Hlo/view?usp=sharing)
 
 ### Friday, September 3
 {: .no_toc }
-Syllabus Day, GREK 101 Review
+GREK 101 Review  
+
+**HW due next class**: read through [Alpha and Omicron-Contracts](../textbook/verbs-2/alpha-and-omicron-contracts)
 
 ***
 
