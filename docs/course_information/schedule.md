@@ -36,7 +36,8 @@ GREK 101 Review
 
 ### Monday, January 31
 {: .no_toc }
-Alpha- and Omicron-Contracts
+Alpha- and Omicron-Contracts  
+**Today's slideshow:** [link here](https://drive.google.com/file/d/1L3yE84Bz2dJ9TQctBF5aSd2xU8oe1VvD/view?usp=sharing)
 
 ### Wednesday, February 2
 {: .no_toc }
