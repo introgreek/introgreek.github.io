@@ -41,7 +41,8 @@ Alpha- and Omicron-Contracts
 
 ### Wednesday, February 2
 {: .no_toc }
-Future Tense
+Future Tense  
+**Today's slideshow:** [link here](https://drive.google.com/file/d/1LLAEthjcnL90BuoEh56yf-XxcPFjrENl/view?usp=sharing)
 
 ### Friday, February 4
 {: .no_toc }
