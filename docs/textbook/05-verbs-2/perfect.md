@@ -53,7 +53,7 @@ The perfect tense will also complete our knowledge of the **principal parts**. T
 
 Be aware that the tips and rules in this section are meant mainly to help you identify a perfect tense verb when you're looking at it. You will not be expected to memorize these rules or to generate a fourth or fifth principal part solely from looking at a first principal part, but being aware of reduplication and other perfect tense markers can help you identify a verb's meaning and form more easily.
 
-The **perfect tense** in any voice will usually exhibit one tense marker: **reduplication**. Like an augment, **reduplication** affects the beginning of the verb stem, depending on the letter(s) that the verb stem begins with. However, unlike an augment, **reduplication cannot be removed or undone from a perfect tense stem**. This will be important when considering perfect infinitives, participles, and finite forms in the subjunctive or optative, especially since reduplication in some contexts can look like an augment.
+The **perfect tense** in any voice will usually exhibit at least one tense marker: **reduplication**. Like an augment, **reduplication** affects the beginning of the verb stem, depending on the letter(s) that the verb stem begins with. However, unlike an augment, **reduplication cannot be removed or undone from a perfect tense stem**. This will be important when considering perfect infinitives, participles, and finite forms in the subjunctive or optative, especially since reduplication in some contexts can look like an augment.
 
 There are four kinds of **reduplication**:
 
@@ -82,6 +82,13 @@ Note that if the single consonant is an aspirate (χ, φ, or θ), the reduplicat
 * ἀκούω -> ἀκήκοα
 * ἔρχομαι -> ἐλήλυθα
 * φέρω -> ἐνήνοχα, ἐνηνέγμαι
+
+5) Some 4th and 5th principal parts are formed from stems that are difficult to intuit from the first principal part and don't necessarily fall into the rules listed above. Again, these forms may look completely irregular, but they often occur on commonly-seen verbs and must be memorized.
+
+* ὁράω -> ἑώρακα / ἑόρακα, ἑώραμαι / ὦμμαι
+* λαμβάνω -> εἴληφα, εἴλημμαι
+
+In addition to reduplication, fourth principal parts often (thougn not always) exhibit a verb stem that ends in the letter kappa (κ) or an aspirated consonant (like θ, χ, or φ) as a perfect tense marker. Note the examples of κελεύω (κεκέλευ**κ**α), δείκνυμι (δέδει**χ**α), and ἀδικέω (ἠδίκη**κ**α), among many others.
 
 ***
 
@@ -143,22 +150,18 @@ Generate the requested form of the given verb.
 
 [Answer key here](../answer-key#perfect-tense-po1).
 
-1. κελεύω -> 2nd pl. fut. act.
-2. πέμπω -> fut. act. participle, masc. dat. pl.
-3. νομίζω -> fut. mid. infinitive
-4. ἀγγέλλω -> 3rd pl. fut. mid.
-5. λαμβάνω -> 1st pl. fut. mid.
-6. αἱρέω -> fut. mid. participle, fem. acc. pl.
-7. δείκνυμι -> 2nd sg. fut. act.
-8. μείγνυμι -> fut. act. participle, neut. gen. sg.
-9. μανθάνω -> 1st sg. fut. mid.
-10. φέρω -> fut. mid. participle, masc. nom. pl.
+1. κελεύω -> 2nd pl. perf. act.
+2. πέμπω -> perf. act. participle, masc. dat. pl.
+3. νομίζω -> perf. act. infinitive
+4. ἀγγέλλω -> 3rd pl. perf. act.
+5. λαμβάνω -> 1st pl. perf. act.
+6. φεύγω -> perf. act. participle, fem. acc. pl.
 
 ***
 
 ## Perfect Middle/Passive
 
-The **perfect middle/passive** is built on the **5th principal part**, the stem of which you can determine by removing the ending **-μαι**, and like other tenses, the conjugation of the perfect middle/passive is a matter of combining personal endings with a very stem. The endings in question are as follows:
+The **perfect middle/passive** is built on the **5th principal part**, the stem of which you can determine by removing the ending **-μαι**, and like other tenses, the conjugation of the perfect middle/passive is a matter of combining personal endings with that stem. The endings in question are as follows:
 
 | | Singular | Plural |
 | ----- | ----- | ----- |
@@ -166,55 +169,63 @@ The **perfect middle/passive** is built on the **5th principal part**, the stem 
 | 2nd | -σαι | -σθε |
 | 3rd | -ται | -νται |
 
-Note that these endings are exactly the same as athematic middle/passive endings of present tense -μι verbs. That's because the perfect tense counts as a *primary* tense (i.e., not a past tense) and thus it uses primary tense endings.
+Note that these endings are exactly the same as **athematic middle/passive endings of present tense -μι verbs**. That's because the perfect tense counts as a *primary* tense (i.e., not a past tense) and thus it uses primary tense endings.
 
-However, the endings of the perfect middle/passive can affect the end of the 5th principal part stem in various ways, based on the letter that ends the stem.
+However, the endings of the perfect middle/passive (and in particular the consonants that begin them) can affect the end of the 5th principal part stem in various ways, based on the letter that ends the stem. There are a few possible patterns, the full scope of which need not be memorized; it is enough to be able to identify a perfect middle/passive form based on clues like reduplication and its ending based on the chart above to identify person and number.
 
-So, our paradigm verb is κελεύω, which has a 6th principal part in ἐκελεύσθην. When we un-augment it, we are left with **κελευσθ-**. Then, to form the finite forms of the aorist passive, we can add the following endings (which all retain the -η- visible in the 6th principal part, add the characteristic -σ- future tense marker, and then use the future *middle* endings):
-
-| | Singular | Plural |
-| ----- | ----- | ----- |
-| 1st | -ήσομαι | -ησόμεθα |
-| 2nd | -ήσῃ | -ησέσθε |
-| 3rd | -ήσεται | -ήσονται |
-
-resulting in the following future passive forms for κελεύω:
+The most basic form of the perfect/middle passive involves a fifth principal part that ends in a **vowel**; for example, ἀδικέω has a fifth principal part **ἠδίκημαι**, the stem of which is **ἠδικη-**.
 
 | | Singular | Plural |
 | ----- | ----- | ----- |
-| 1st | κελευσθήσομαι | κελευσθησόμεθα |
-| 2nd | κελευσθήσῃ | κελευσθησέσθε |
-| 3rd | κελευσθήσεται | κελευσθήσονται |
+| 1st | ἠδίκημαι | ἠδικήμεθα |
+| 2nd | ἠδίκησαι | ἠδίκησθε |
+| 3rd | ἠδίκηται | ἠδίκηνται |
+
+If a fifth principal part ends in a consonant, however, the consonant can change from form to form based on its interaction with the consonant that begins the personal ending; sometimes, it works in the other direction, wherein the stem consonant affects the consonant of the personal ending. The chart below exhibits some of the possible patterns, and I've bolded the personal endings in each form with the warning that some letters get absorbed into the stem of some forms, while in other forms, the stem's final consonant melds with or gets affected by the consonant of the personal ending.
+
+One other feature is worth pointing out: the **3rd plural** is what is termed a *periphrastic* form, a conjugated verb made up of two separate parts rather than one form. In this case, it is a combination of the **perfect middle/passive participle** in the appropriate **gender, case, and number** to match the subject along with **εἰσί(ν)** (the 3rd person plural form of the verb εἰμί).
+
+| | κελεύω | γράφω | ἄγω | ἀγγέλλω |
+| ----- | ----- | ----- | ----- | ----- |
+| 1st sg. | κεκέλευσ**μαι** | γέγραμ**μαι** | ἦγ**μαι** | ἤγγελ**μαι** |
+| 2nd sg. | κεκέλευ**σαι** | γέγρα**ψαι** | ἦ**ξαι** | ἤγγελ**σαι** |
+| 3rd sg. | κεκέλευσ**ται** | γέγραπ**ται** | ἦκ**ται** | ἤγγελ**ται** |
+| 1st pl. | κεκελεύσ**μεθα** | γεγράμ**μεθα** | ἤγ**μεθα** | ἠγγέλ**μεθα** |
+| 2nd pl. | κεκελεύ**σθε** | γέγραφ**θε** | ἦχ**θε** | ἤγγελ**θε** |
+| 3rd pl. | κεκελευσμένοι εἰσί(ν) | γεγραμμένοι εἰσί(ν) | ἠγμένοι εἰσί(ν) | ἠγγελμένοι εἰσί(ν) |
 
 ### Perf. Mid./Pass. Infinitive and Participle
 
-The future passive infinitive and participle are similarly formed from the un-augmented 6th principal part stem. The endings are a similar combination of tense and voice markers: the -η- of the principal part, the tense marker -σ-, and the same endings that you used for the future middle (-εσθαι for the infinitive or -όμενος, -ομένη, -όμενον for the participle):
+The perfect middle/passive infinitive and participle are also formed from the 5th principal part stem, again using analogous endings from present tense middle/passive -μι verbs:
 
-* future passive infinitive: κελευσθήσεσθαι
-* future passive participle: κελευσθησόμενος, κελευσθησομένη, κελυσθησόμενον
+* infinitive: -σθαι
+* participle: -μένος, -μένη, -μένον
+
+One difference here is that the perfect middle/passive infinitive will be accented persistently on the last vowel of the stem, and perfect middle/passive participle endings exhibit a persistent accent over the first syllable (-μεν-).
+
+As above with the perfect active infinitive and participles, no matter what kind of reduplication the fifth principal part exhibits, you do ***not*** need to change anything about the stem, even if it looks like the lengthened vowel (as in an augment). Reduplication is an essential part of the perfect verb stem and cannot be undone.
+
+So, note the following perfect middle/passive infinitive and participle from ἀδικέω (5th pp. ἠδίκημαι):
+
+* future passive infinitive: ἠδικῆσθαι
+* future passive participle: ἠδικημένος, ἠδικημένη, ἠδικημένον
 
 ***
 
 ### Practice Opportunity 2
 
-All the given forms are aorist passive. For all exercises, identify the **first principal part** of teh verb. Then, if the given verb form is *finite*, identify its **person and number**. If the given form is a *participle*, identify its **gender, case, and number**. If the given form is the *infinitive*, you don't need to do anything.
+All the given forms are perfect middle/passive. For all exercises, identify the **first principal part** of the verb. Then, if the given verb form is *finite*, identify its **person and number**. If the given form is a *participle*, identify its **gender, case, and number**. If the given form is the *infinitive*, you don't need to do anything.
 
-[Answer key here](../answer-key#future-tense-po2).
+Make sure to use clues like reduplication and the form's ending in conjunction with resources like the [verb principal parts list](../../reference/verb-principal-parts). Remember that you can use control + F (on Windows) or command + F (on Mac) within the list to search the page, and you can copy and paste the first few letters of these forms to look for fifth principal parts that match.
 
-1. κελευσθήσεσθε
-2. πεμφθήσεσθαι
-3. γραφήσονται
-4. νομισθησόμεθα
-5. ἀγγελθησομένῳ
-6. ληφθήσεται
-7. ἐνεχθησόμεναν
-8. μιγήθεσθαι
-9. δειχθήσῃ
-10. λυθήσομαι
+[Answer key here](../answer-key#perfect-tense-po2).
 
-***
-
-## Pluperfect and Future Perfect
+1. ἐρρίμμεθα
+2. μεμιγμένοι εἰσίν
+3. δεδηλῶσθαι
+4. δεδιδαγμένῃ
+5. ἑώραται (hint: what verb do the first four letters of this form make you think of?)
+6. εἴληψαι
 
 ***
 
@@ -222,10 +233,32 @@ All the given forms are aorist passive. For all exercises, identify the **first 
 
 Translate the following sentences.
 
-[Answer key here](../answer-key#future-tense-po3).
+[Answer key here](../answer-key#perfect-tense-po3).
 
-1. ὑπὸ τῶν δικαστῶν ὀφθήσομαι.
-2. οἱ μὲν τὸν οἶνον μείξουσιν, οἱ δὲ τὸν κίνδυνον δηλώσουσιν.
-3. ὁ μαθητὴς τιμηθήσεται, ἀγαθὰ ποιήσων.
-4. νομίζω τὴν ἀγαθὴν νικήσειν.
-5. ὁ πολίτης ἀγγέλλει ὅτι τὰ βιβλία ἕξομεν.  
+1. τὰ ὅπλα ὑπὸ τῶν πολιτῶν βέβληται.
+2. οἱ μὲν τὸν οἶνον μεμιγμένοι εἰσίν, οἱ δὲ τὸν κίνδυνον πεφεύγασιν.
+3. οἱ μαθηταὶ τὸν διδάσκαλον τιμῶσιν, ἀγαθὰ πεποιηκότα.
+4. νομίζω τὴν ἀγαθὴν νενικηκέναι.
+5. ὁ πολίτης ἀγγέλλει ὅτι τὰ βιβλία ᾕρηκας.  
+
+***
+
+## Pluperfect and Future Perfect
+
+There are two remaining tenses out of the seven in ancient Greek which are exceedingly rare and which we'll treat only in passing here. Both tenses, the **pluperfect** and the **future perfect**, are related to the perfect in that both indicate a verbal action that has lasting effects into a later period of time.
+
+The **pluperfect** indicates an action that **had occurred** *before* an event of the past, and the effects of the pluperfect action last into that past event. For example:
+
+* The soldiers **had seen** the enemy before they attacked.
+
+The action of seeing is a distant event of the past, as evidenced by the use of the verb form **"had [verb]ed"**, but the effects of the soldiers seeing the enemy persists into the time when they attacked.
+
+The **future perfect** indicates an action that **will have occurred** *before* an event of the future, and the effects of the future perfect action last into that future event. For example:
+
+* The soldiers **will have seen** the enemy before they (will) attack.
+
+The relationship of the action of seeing and the action of attacking is similar here; the effects of the future perfect action of seeing will last into the future action of attacking.
+
+The formation of the pluperfect and future perfect are complicated and worth putting off until a later stage of study. The short version is that the pluperfect is formed using augmented 4th and 5th principal parts and special secondary tense endings; the future perfect is formed using 4th and 5th principal parts with a sigma (the future tense marker) at the end of the stem before primary tense endings.
+
+***

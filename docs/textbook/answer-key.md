@@ -730,3 +730,66 @@ I think that the good woman/person will win.
 
 5. ὁ πολίτης ἀγγέλλει ὅτι τὰ βιβλία ἕξομεν.  
 The citizen announces that we will have the books.
+
+***
+
+### Perfect Tense: PO1
+
+1. κελεύω -> 2nd pl. perf. act.  
+κεκελεύκατε
+
+2. πέμπω -> perf. act. participle, masc. dat. pl.  
+πεπομφόσι(ν)
+
+3. νομίζω -> perf. act. infinitive  
+νενομικέναι
+
+4. ἀγγέλλω -> 3rd pl. perf. act.  
+ἠγγέλκασι(ν)
+
+5. λαμβάνω -> 1st pl. perf. act.  
+εἰλήφαμεν
+
+6. φεύγω -> perf. act. participle, fem. acc. pl.  
+πεφευγυίας
+
+***
+
+### Perfect Tense: PO2
+
+1. ἐρρίμμεθα  
+ῥίπτω => 1st plural
+
+2. μεμιγμένοι εἰσίν  
+μείγνυμι => 3rd plural
+
+3. δεδηλῶσθαι  
+δηλόω => infinitive
+
+4. δεδιδαγμένῃ  
+διδάσκω => fem. dat. sg. (participle)
+
+5. ἑώραται  
+ὁράω => 3rd singular
+
+6. εἴληψαι  
+λαμβάνω => 2nd singular
+
+***
+
+### Perfect Tense: PO3
+
+1. τὰ ὅπλα ὑπὸ τῶν πολιτῶν βέβληται.  
+The weapons have been thrown by the citizens.
+
+2. οἱ μὲν τὸν οἶνον μεμιγμένοι εἰσίν, οἱ δὲ τὸν κίνδυνον πεφεύγασιν.  
+Some have mixed the wine, while others have escaped the danger.
+
+3. οἱ μαθηταὶ τὸν διδάσκαλον τιμῶσιν, ἀγαθὰ πεποιηκότα.  
+The students honor the teacher, because he has done good things.
+
+4. νομίζω τὴν ἀγαθὴν νενικηκέναι.  
+I think that the noble woman has won.
+
+5. ὁ πολίτης ἀγγέλλει ὅτι τὰ βιβλία ᾕρηκας.  
+The citizen announces that you have taken the books.

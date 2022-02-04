@@ -165,6 +165,10 @@ parent: Vocabulary
 * πρότερος, πρότερα, πρότερον - [previous, former, earlier](https://logeion.uchicago.edu/πρότερος)
 * πρῶτος, πρώτη, πρῶτον - [first](https://logeion.uchicago.edu/πρῶτος)
 
+## ρ
+
+* ῥίπτω, ῥίψω, ἔρριψα, ἔρριφα, ἔρριμμαι, ἐρρίφθην / ερρίφην - [to hurl, cast, throw](https://logeion.uchicago.edu/ῥίπτω)
+
 ## σ
 
 * συμφορά, συμφορᾶς, f. - [event, outcome, mishap](https://logeion.uchicago.edu/συμφορά)
@@ -186,6 +190,7 @@ parent: Vocabulary
 ## φ
 
 * φέρω, οἴσω, ἤνεγκον / ἤνεγκα, ἐνήνοχα, ἐνήνεγμαι, ἠνέχθην - [to bring, carry, bear](https://logeion.uchicago.edu/φέρω)
+* φεύγω, φεύξομαι / φευξέομαι, ἔφυγον, πέφευγα, --, -- - [to flee, escape](https://logeion.uchicago.edu/φεύγω)
 * φημί, φήσω, ἔφησα, --, --, -- - [to say](https://logeion.uchicago.edu/φημί)
 
 ## χ
