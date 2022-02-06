@@ -2,7 +2,7 @@
 layout: page
 title: Pronouns
 permalink: /reference/pronouns
-nav_order: 4
+nav_order: 5
 parent: Reference
 ---
 

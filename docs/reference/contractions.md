@@ -2,7 +2,7 @@
 layout: page
 title: Contractions
 permalink: /reference/contractions
-nav_order: 5
+nav_order: 6
 parent: Reference
 ---
 
