@@ -15,9 +15,10 @@ parent: Reference
 1. TOC
 {:toc}
 
-## ω-Verbs
+## Present
 
 ### Present Tense (-ω)
+{: .no_toc }
 
 Paradigm verb: κελεύω
 
@@ -32,22 +33,8 @@ Paradigm verb: κελεύω
 | 2nd dual   | `κελεύετον`      | `κελεύεσθον`      |
 | 3rd dual   | `κελεύετον`        | `κελεύεσθον`    |
 
-### Imperfect Tense (-ω)
-
-| Person and #      | Active | Middle/Passive |
-| ----------- | ----------- | ----------- |
-| 1st sg.    | ἐκέλευ**ον**      | ἐκελευ**όμην**       |
-| 2nd sg.   | ἐκέλευ**ες**        | ἐκελεύ**ου**       |
-| 3rd sg.   | ἐκέλευ**ε(ν)**        | ἐκελεύ**ετο**      |
-| 1st pl.   | ἐκελεύ**ομεν**        | ἐκελευ**όμεθα**      |
-| 2nd pl.   | ἐκελεύ**ετε**        | ἐκελεύ**εσθε**      |
-| 3rd pl.   | ἐκέλευ**ον**        | ἐκελεύ**οντο**      |
-| 2nd dual   | `ἐκελεύετον`        | `ἐκελεύεσθον`      |
-| 3rd dual   | `ἐκελευέτην`        | `ἐκελευέσθην`      |
-
-## μι-Verbs
-
 ### Present Tense (-μι)
+{: .no_toc }
 
 Paradigm verb: δείκνυμι
 
@@ -62,7 +49,26 @@ Paradigm verb: δείκνυμι
 | 2nd dual   | `δείκνυτον`        | `δείκνυσθον`      |
 | 3rd dual   | `δείκνυτον`        | `δείκνυσθον`      |
 
+***
+
+## Imperfect
+
+### Imperfect Tense (-ω)
+{: .no_toc }
+
+| Person and #      | Active | Middle/Passive |
+| ----------- | ----------- | ----------- |
+| 1st sg.    | ἐκέλευ**ον**      | ἐκελευ**όμην**       |
+| 2nd sg.   | ἐκέλευ**ες**        | ἐκελεύ**ου**       |
+| 3rd sg.   | ἐκέλευ**ε(ν)**        | ἐκελεύ**ετο**      |
+| 1st pl.   | ἐκελεύ**ομεν**        | ἐκελευ**όμεθα**      |
+| 2nd pl.   | ἐκελεύ**ετε**        | ἐκελεύ**εσθε**      |
+| 3rd pl.   | ἐκέλευ**ον**        | ἐκελεύ**οντο**      |
+| 2nd dual   | `ἐκελεύετον`        | `ἐκελεύεσθον`      |
+| 3rd dual   | `ἐκελευέτην`        | `ἐκελευέσθην`      |
+
 ### Imperfect Tense (-μι)
+{: .no_toc }
 
 Paradigm verb: δείκνυμι
 
@@ -79,9 +85,7 @@ Paradigm verb: δείκνυμι
 
 ***
 
-## All
-
-### Future
+## Future
 
 Paradigm verb: λύω
 
@@ -96,7 +100,12 @@ Paradigm verb: λύω
 | 2nd dual   | `λύσετον`        | `λύσεσθον`      | `λυθήσεσθον` |
 | 3rd dual   | `λύσετον`        | `λύσεσθον`      | `λυθήσεσθον` |
 
+***
+
+## Aorist
+
 ### First Aorist
+{: .no_toc }
 
 Paradigm verb: κελεύω
 
@@ -112,6 +121,7 @@ Paradigm verb: κελεύω
 | 3rd dual   | `ἐκελευσάτην`        | `ἐκελευσάσθην`      | `ἐκελευσθήτην` |
 
 ### Second Aorist
+{: .no_toc }
 
 Paradigm verb: ἄγω
 
@@ -126,7 +136,12 @@ Paradigm verb: ἄγω
 | 2nd dual   | `ἠγάγετον`        | `ἠγάγεσθον`      | `ἤχθητον` |
 | 3rd dual   | `ἠγαγέτην`        | `ἠγαγέσθην`      | `ἠχθήτην` |
 
-### Perfect
+***
+
+## Perfect
+
+### Perfect Active
+{: .no_toc }
 
 Paradigm verb: λύω
 
@@ -140,6 +155,9 @@ Paradigm verb: λύω
 | 3rd pl.   | λελύκ**ασι(ν)**        |
 | 2nd dual   | `λελύκατον`      |
 | 3rd dual   | `λελύκατον`        |
+
+### Perfect Middle/Passive
+{: .no_toc }
 
 | | λύω<br>(vowel stem) | κελεύω<br>(dental plosive stem) | γράφω<br>(labial plosive stem) | ἄγω<br>(velar plosive stem) | ἀγγέλλω<br>(λ stem) |
 | ----- | ------ | ----- | ----- | ----- | ----- |
@@ -157,6 +175,7 @@ Paradigm verb: λύω
 ## Irregular Verbs
 
 ### εἰμί
+{: .no_toc }
 
 | | Present | Imperfect | Future |
 | ----------- | ----------- | ----------- | ----------- |
@@ -170,6 +189,7 @@ Paradigm verb: λύω
 | 3rd dual | `ἐστόν` | `ἤστην` | `ἔσεσθον` |
 
 ### φημί
+{: .no_toc }
 
 | | Present | Imperfect |
 | ----- | ----- | ----- |
