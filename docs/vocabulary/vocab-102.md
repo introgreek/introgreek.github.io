@@ -22,8 +22,8 @@ parent: Vocabulary
 * τιμάω, τιμήσω, ἐτίμησα, τετίμηκα, τετίμημαι, ἐτιμήθην - [to honor, esteem](https://logeion.uchicago.edu/τιμάω)
 * φεύγω, φεύξομαι / φευξέομαι, ἔφυγον, πέφευγα, --, -- - [to flee, escape](https://logeion.uchicago.edu/φεύγω)
 
+<!--
 
-```
 ## Verbs
 * δίδωμι
 * τίθημι
@@ -46,4 +46,5 @@ parent: Vocabulary
 * πρό (+ gen.) - before; in front of; on behalf of
 * ἀντί (+ gen.) - instead of; in place of; opposite
 * ἀμφί - on both sides of; around
-```
+
+-->

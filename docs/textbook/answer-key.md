@@ -806,3 +806,29 @@ The small books (are) in the hands of the mothers.
 
 3. ὁ παῖς τὸν κακὸν λόγον τοῖς πατράσι δεδήλωκεν.  
 The child has pointed out the bad word to the fathers.
+
+***
+
+### Variable-Stem Nouns: PO2
+
+1. τὰ γέρα τὰ ὑπὸ τῆς θυγατρὸς ποιηθέντα ἐπὶ ταῖς τριήρεσιν ἐνήνεκται.  
+The gifts that were made by the daughter have been carried on the ships.
+
+2. τοῖς ἐκείνων τῶν γενῶν πατράσιν ἐλέγομεν.  
+We were talking to the fathers of those families.
+
+3. ἐδήλωσας τὰς τριήρεις αἳ ὑπὸ τῶν ὅπλων ἐβλήθησαν.  
+You pointed out the ships that were hit by the weapons.
+
+***
+
+### Variable-Stem Nouns: PO3
+
+1. οἱ ἱππεῖς τήνδε τὴν πόλιν ἔφυγον καὶ πρὸς τὰς ναῦς ἦλθον.  
+The cavalrymen fled the city and went towards the ships.
+
+2. οἱ ἵπποι σὺν τῷ βοῒ παρὰ τὴν οἰκίαν ἦσαν.  
+The horses were near the house with the bull.
+
+3. οἱ πολῖται οἱ τῶν μίκρων πολέων τοὺς λίθους ἐπὶ τοὺς πολέμιους ἔρριψαν.  
+The citizens of the small cities threw the stones at the enemies.

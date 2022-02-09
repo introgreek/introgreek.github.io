@@ -112,13 +112,13 @@ Translate the following sentences.
 
 ## Sigma-stem Nouns
 
-Third declension nouns with a genitive singular in **-ους** or **-ως** (note: just -ως and not -εως, which we'll discuss in the next section) actually use the same endings that all third-declension nouns do, even if the -ους or -ως seems to indicate otherwise. That is because these nouns are properly considered **sigma-stems**, meaning that the stem of the noun properly ends in the letter sigma. However, a sigma that occurs between two vowels (a so-called **intervocalic sigma**) tends to disappear, and the clash of the vowels on either side of it will result in a **contraction**, exactly similar to the epsilon- or alpha-contractions that we learned about with verbs.
+Third declension nouns with a genitive singular in **-ους** or **-ως** (note: just -ως and not -εως, which we'll discuss in the next section) actually use the same endings that all third-declension nouns do, even if the -ους or -ως seems to indicate otherwise. That is because these nouns are properly considered **sigma-stems**, meaning that the stem of the noun properly ends in the letter sigma. However, a sigma that occurs between two vowels (a so-called **intervocalic sigma**) tends to disappear, and the clash of the vowels on either side of it will result in a **contraction**, exactly similar to the epsilon- or alpha-contractions that we learned about with verbs. So, make sure to review the [full contractions lists here](../../reference/contractions), in particular the epsilon and alpha contractions.
 
 Take a look at this example:
 
 * γένος, γένους, n. - family, class, kind
 
-The actual stem of this noun is **γενεσ-**, to which are added the regular third declension endings. In the genitive singular, this means that to the stem **γενεσ-** we add the ending **-ος**, which should result in the form **γένεσος**. However, the sigma between the -ε- and the -ο- is intervocalic and thus drops out, leaving us with **γένεος**. Then, the -ε- of the stem and the -ο- of the ending will contract according to the same **epsilon contraction rules** that we already know ([see the full contractions lists here](../../reference/contractions)) into an **-ου-**. Thus, our final form is **γένους**.
+The actual stem of this noun is **γενεσ-**, to which are added the regular third declension endings. In the genitive singular, this means that to the stem **γενεσ-** we add the ending **-ος**, which should result in the form **γένεσος**. However, the sigma between the -ε- and the -ο- is intervocalic and thus drops out, leaving us with **γένεος**. Then, the -ε- of the stem and the -ο- of the ending will contract into an **-ου-**, according to the same **epsilon contraction rules** that we already know. Thus, our final form is **γένους**.
 
 Here is a chart that indicates the contracted forms of the noun γένος along with the uncontracted elements that lead to them:
 
@@ -147,7 +147,7 @@ This same process applies to third declension masculine/feminine nouns with a no
 | Acc. Sg. | τριηρ**ε**(σ)- + -**α** | τριήρ**η** |
 | Nom. Pl. | τριηρ**ε**(σ)- + -**ε**ς | τριήρ**ει**ς |
 | Gen. Pl. | τριηρ**ε**(σ)- + -**ω**ν | τριηρ**ῶ**ν |
-| Dat. Pl. | τριηρ**ε**(σ)- + -**σ**ι(ν) | τριηρεσι(ν) |
+| Dat. Pl. | τριηρ**ε**(σ)- + -**σ**ι(ν) | τριήρεσι(ν) |
 | Acc. Pl. | τριηρ**ε**(σ)- + -**α**ς | τριήρ**ει**ς\* |
 
 \* Note that the contraction in the accusative plural is an exception to our contraction rules; we would expect the ending -ης here to result from the combination of -ε- and -α-, but instead we have an ending that looks similar to the nominative plural: -εις.
@@ -169,6 +169,18 @@ One other noun to be aware of that follows the sigma-stem pattern is γέρας
 
 ***
 
+### Practice Opportunity 2
+
+Translate the following sentences.
+
+[Answer key here](../answer-key#variable-stem-nouns-po2).
+
+1. τὰ γέρα τὰ ὑπὸ τῆς θυγατρὸς ποιηθέντα ἐπὶ ταῖς τριήρεσιν ἐνήνεκται.
+2. τοὺς ἐκείνων τῶν γενῶν πατέρας ὁρῶμεν.
+3. ἐδηλώσαμεν τὰς τριήρεις αἳ ὑπὸ τῶν ὅπλων ἐβλήθησαν.
+
+***
+
 ## True Variable-Stem Nouns
 
 Other third declension nouns exhibit true and unpredictable variability in their stems due to the remnants of vowel changes and noun usage over time. While some of these nouns are extremely common and their variable forms should be memorized (like πόλις in the [Unit Vocabulary](#unit-vocabulary)), others can be dealt with on a case-by-case basis with the help of a paradigm chart.
@@ -183,7 +195,7 @@ Other third declension nouns exhibit true and unpredictable variability in their
 | Acc. | πόλιν\*\* | πόλεις\*\*\* |
 
 \* The ending -εως is the result of a process called quantitative metathesis, the switching around of vowel quantities from long-short to short-long. The true form of the genitive singular uses the stem πολη- with the ending -ος, which should yield ποληος; however, the long η and the short ο swap quantities/lengths to the short ε and the long ω respectively, resulting in the form πόλεως. This is the reason why the accent remains on the first syllable rather than being drawn forward to the -ε-.  
-\*\* Note that a two-syllable third declension noun with a nominative ending in -ις and an accent on its first syllable exhibits this -ν ending in the accusative singular rather than the expected -α ending for the third declension.
+\*\* Note that a two-syllable third declension noun with a nominative ending in -ις and an accent on its first syllable exhibits this -ν ending in the accusative singular rather than the expected -α ending for the third declension.  
 \*\*\* Like τριήρης, the accusative plural of πόλις seems to borrow its form from the nominative plural: πόλεις.
 
 * ναῦς, νέως, f. - ship (stem in ναυ-, νη-, or νε-)
@@ -204,7 +216,7 @@ Other third declension nouns exhibit true and unpredictable variability in their
 | Dat. | βοΐ\* | βουσί(ν) |
 | Acc. | βοῦν\*\* | βοῦς\*\*\* |
 
-\* Note the diaerisis (two dots) above the -ι of the ending. This indicates that this vowel should be pronounced distinctly from the vowel that precedes it; they do not form a single diphthong sound but rather two distinct syllables (νηΐ = nay-ee; βοΐ = bo-ee).
+\* Note the diaerisis (two dots) above the -ι of the ending. This indicates that this vowel should be pronounced distinctly from the vowel that precedes it; they do not form a single diphthong sound but rather two distinct syllables (νηΐ = nay-ee; βοΐ = bo-ee).  
 \*\* Like πόλις, ναῦς and βοῦς will exhibit the -ν ending in the accusative singular: ναῦν and βοῦν respectively.  
 \*\*\* The accusative plural looks exactly like the nominative singular; you will need to use context like an article (ἡ ναῦς versus τὰς ναῦς, ὁ βοῦς versus τοὺς βοῦς) or an adjective (μίκρα ναῦς versus μίκρας ναῦς, μίκρος βοῦς versus μίκρους βοῦς) to differentiate between the two.
 
@@ -218,3 +230,15 @@ Other third declension nouns exhibit true and unpredictable variability in their
 | Acc. | ἱππέᾱ\* | ἱππέᾱς\* |
 
 \* These forms exhibit quantitative metathesis on the stem ἱππη-, hence the long iota in the dat. sg. and long alphas in the accusative forms, whereas normally they are all short.
+
+***
+
+### Practice Opportunity 3
+
+Translate the following sentences.
+
+[Answer key here](../answer-key#variable-stem-nouns-po3).
+
+1. οἱ ἱππεῖς τήνδε τὴν πόλιν ἔφυγον καὶ πρὸς τὰς ναῦς ἦλθον.
+2. οἱ ἵπποι σὺν τῷ βοῒ παρὰ τὴν οἰκίαν ἦσαν.
+3. οἱ πολῖται οἱ τῶν μίκρων πολέων τοὺς λίθους ἐπὶ τοὺς πολέμιους ἔρριψαν. (λίθος, -ου, m. - stone; πολέμιος, -ου, m. - enemy)
