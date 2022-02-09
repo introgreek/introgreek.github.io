@@ -793,3 +793,16 @@ I think that the noble woman has won.
 
 5. ὁ πολίτης ἀγγέλλει ὅτι τὰ βιβλία ᾕρηκας.  
 The citizen announces that you have taken the books.
+
+***
+
+### Variable-Stem Nouns: PO1
+
+1. αἱ θυγατέρες τοὺς ἀγῶνας τοὺς πρώτους ἐνίκων.  
+The daughters were winning the first contests.
+
+2. ἐν τοῖς τῶν μητέρων χερσι τὰ μίκρα βίβλια.  
+The small books (are) in the hands of the mothers.
+
+3. ὁ παῖς τὸν κακὸν λόγον τοῖς πατράσι δεδήλωκεν.  
+The child has pointed out the bad word to the fathers.
