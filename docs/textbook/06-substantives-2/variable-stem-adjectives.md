@@ -23,11 +23,20 @@ grand_parent: Textbook
 ### Three-Termination Consonant Declension Adjectives
 {: .no_toc }
 
-* μέγας
+* μέγας, μεγάλα, μέγα
+* πόλυς
+* ἡδύς, ἡδεῖα, ἡδύ
+* βαρύς, βαρεῖα, βαρύ
+* μέλας, μέλαινα, μέλαν
+* χαρίεις, χαρίεσσα, χαρίεν
 
 ### Two-Termination Consonant Declension Adjectives
 {: .no_toc }
 
-* ἀληθής
+* ἀληθής, ἀληθές
+* εὐτυχής, εὐτυχές
+* σαφής, σαφές
+* ψευδής, ψευδές
+* ἀσθενής, ἀσθενές
 
 ***

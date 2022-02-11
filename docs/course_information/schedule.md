@@ -63,7 +63,8 @@ Perfect Tense Continued
 
 ### Friday, February 11
 {: .no_toc }
-Variable-Stem Nouns
+Variable-Stem Nouns  
+**Today's slideshow:** [link here](https://drive.google.com/file/d/1Li8JgS4oYaypiZ932YXf1D332cAvOPsP/view?usp=sharing)
 
 ***
 
