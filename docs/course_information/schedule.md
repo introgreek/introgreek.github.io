@@ -72,7 +72,8 @@ Variable-Stem Nouns
 
 ### Monday, February 14
 {: .no_toc }
-Variable-Stem Adjectives
+Variable-Stem Adjectives  
+**Today's slideshow:** [link here](https://drive.google.com/file/d/1LnDIcU5zZpf9YySaKbIaBKO2Pdo39D2s/view?usp=sharing)
 
 ### Wednesday, February 16
 {: .no_toc }
