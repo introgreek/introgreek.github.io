@@ -31,6 +31,9 @@ grand_parent: Textbook
 {: .no_toc }
 
 * ἐμός, -ή, -όν - my, mine
+* ἡμέτερος, -α, -η - our, ours
+* σός, -ή, -όν - your, yours (singular)
+* ὑμέτερος, -α, -η - your, yours (plural)
 
 ### Reflexive Pronouns
 {: .no_toc }
@@ -48,7 +51,7 @@ grand_parent: Textbook
 
 ## Pronouns
 
-Last semester, we learned about [pronouns](../nouns/pronouns), words that stand in for a noun called an **antecedent**. The pronoun has to *agree* in **gender and number** with the antecedent, but its case fits the use of the pronoun within its own clause. The different types of pronouns that we encountered last semester include **demonstratives**, which point things out (e.g., ὅδε, ἥδε, τόδε or ἐκεῖνος, ἐκείνη, ἐκεῖνο) and the **relative pronoun** (ὅς, ἥ, ὅ, "who, which, that").
+Last semester, we learned about [pronouns](../nouns/pronouns), words that stand in for a noun called an **antecedent**. The pronoun has to *agree* in **gender and number** with the antecedent, but its **case** fits the use of the pronoun within its own clause. The different types of pronouns that we encountered last semester include **demonstratives**, which point things out (e.g., ὅδε, ἥδε, τόδε or ἐκεῖνος, ἐκείνη, ἐκεῖνο) and the **relative pronoun** (ὅς, ἥ, ὅ, "who, which, that").
 
 This unit introduces three new kinds of pronouns: **personal pronouns**, **reflexive pronouns**, and the **reciprocal pronoun**.
 
@@ -62,7 +65,7 @@ This unit introduces three new kinds of pronouns: **personal pronouns**, **refle
 * The horse carried ***us*** into the road.
 * ***We*** said true things to ***you***.
 
-A personal pronoun, like any other pronoun, will have a **case, gender, and number**. In addition, however, another aspect that a personal pronoun will have is **person**. Person plus number yields the different kinds of personal pronouns, which are declined in the sections to follow.
+A personal pronoun, like any other pronoun, will have a **case, gender, and number**. In addition, however, another aspect that a personal pronoun will have is **person**: 1st, 2nd, or 3rd, with the same meanings as a verb's person. Person plus number yields the different kinds of personal pronouns, which are declined in the sections to follow.
 
 One general item of note: **the nominative forms of these pronouns are used only for emphasis or to disambiguate between different subjects**. This makes intuitive sense, since the **verb** tells us who the subject is; a nominative subject is superfluous and unnecessary in that sense.
 

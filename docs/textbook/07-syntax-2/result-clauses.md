@@ -23,6 +23,16 @@ grand_parent: Textbook
 ### Conjunctions
 {: .no_toc }
 
-* ὥστε
+* ὥστε / ὡς - that, so that, and so, and thus, such that (result clause)
+
+### Adverbs
+{: .no_toc }
+
+* οὕτω(ς) - so, in such a way (signal word for result clause)
+
+### Verbs
+{: .no_toc }
+
+* πείθω
 
 ***
