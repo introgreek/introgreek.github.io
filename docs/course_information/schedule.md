@@ -77,7 +77,8 @@ Variable-Stem Adjectives
 
 ### Wednesday, February 16
 {: .no_toc }
-Personal, Reflexive, and Reciprocal Pronouns
+Personal, Reflexive, and Reciprocal Pronouns  
+**Today's slideshow:** [link here](https://drive.google.com/file/d/1LymhQ67wJYQ_oCwkNtSX0McLDe2vVhzO/view?usp=sharing)
 
 ### Friday, February 18
 {: .no_toc }
