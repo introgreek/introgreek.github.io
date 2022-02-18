@@ -23,27 +23,34 @@ grand_parent: Textbook
 ### Conjunctions
 {: .no_toc }
 
-* ὥστε / ὡς - that, so that, and so, and thus, such that (result clause)
+* ὥστε / ὡς - that, so that, and so, and thus, such that, so as, as to (result clause)
 
 ### Adverbs
 {: .no_toc }
 
-* οὕτω(ς) - so, in such a way (signal word for result clause)
+* οὕτω(ς) - so, in such a way (signal word for result clause; -ς before a word that begins with a vowel)
+
+### Pronouns
+{: .no_toc }
+
+* μηδείς, μηδεμία, μηδέν - no one, nothing (used in circumstances where you would use μή rather than οὐ)
 
 ### Verbs
 {: .no_toc }
 
-* πείθω
+* πείθω, πείσομαι, ἔπεισα, πέπεικα / πέποιθα, πέπεισμαι, ἐπείσθην - to persuade; (middle voice + dative) to obey; (perfect πέποιθα) to trust
+* διαβαίνω, διαβήσομαι, διέβην, διαβέβηκα, διαβέβαμαι, διεβάθην - to cross
 
 ### Nouns
 {: .no_toc }
 
-* ἀγορά
+* ἀγορά, -ᾶς, f. - marketplace
+* ποταμός, -οῦ, m. - river
 
 ### Adjectives
 {: .no_toc }
 
-* καλος
+* καλός, -ή, -όν - good, beautiful, handsome
 
 ***
 
@@ -66,10 +73,45 @@ This unit introduces a new kind of dependent clause: **result clauses**, which i
 
 The coldness of the temperature *results* in the action of putting on a jacket.
 
+Result clauses can also seem like infinitives in English if the subject of the result clause's action matches the subject of the main verb. For example:
+
+* The citizens were so unjust **as to attack the triremes**.
+
+Their injustice resulted in their attacking the triremes, and the soldiers are both the unjust ones and the ones performing the attack. (We can reasonably rephrase the sentence as: The soldiers were so unjust **that they attacked the triremes**.)
+
+There are two kinds of result clause in Greek that are formed in two different ways: **actual result** and **natural result**. The former indicates an outcome that *actually happened*; the latter indicates an outcome that *could naturally happen*, but it doesn't make any assertions as to the outcome actually happening.
+
 ***
 
 ## Actual Result
 
+**Actual result clauses** are dependent clauses introduced by the conjunction **ὥστε** or **ὡς**, which renders the "that", "so that", etc., of the result clause (see the [Unit Vocabulary](#unit-vocabulary) above for the various ways to translate the conjunction).
+
+* ὁ πολίτης οὕτως ἔλεγεν **ὥστε ἡμᾶς ἔπεισεν**. The citizen was speaking in such a way **that he persuaded us**.
+* ὁ διδάσκαλος τὰ ποιήματα οὕτω διδάσκει **ὡς οἱ μαθηταὶ τοὺς λόγους αὐτοῦ γράφουσιν**. The teacher teaches the poems in such a way **that the students write his words down**.
+
+Note that each of these sentences is comprised of two clauses: a main clause and a dependent clause introduced by ὥστε / ὡς. The main clause that leads to a result clause may contain a **signal word** that leads you to expect a result clause; in many cases, it will be the adverb **οὕτω(ς)**, "so" or "in such a way."
+
+To negate an actual result clause, you would use the negation **οὐ** or its associated forms (like **οὐκ**, **οὐχ**, or **οὐδείς**):
+
+* ὁ διδάσκαλος οὕτω πολλὰ ἔλεγεν **ὥστε οὐκ ἠκούσαμεν.** The teacher was saying so many things **that we didn't listen**.
+
+Note also that the use of a **finite verb** in the ὥστε / ὡς clause indicates an *actual* result. In the examples above, the actions of the citizen persuading us, the students writing the teacher's words down, and us not listening actually, verifiably happened. Compare this against the following.
+
 ***
 
 ## Natural Result
+
+**Natural result clauses** are similarly introduced by **ὥστε / ὡς**; however, the clause will not contain a finite verb but an **infinitive**, which can take the same constructions (like an accusative subject or prepositional phrases) that we learned about in [Infinitive Uses](../infs-and-parts/infinitive-uses) last semester.
+
+* ὁ ποταμὸς οὕτω μέγας ἐστὶν **ὥστε μηδένα αὐτὸν διαβαίνειν**. The river is so big **that no one crosses it**.
+
+The use of the *infinitive* here (with the accusative subject μηδένα [the μή form of οὐδείς; more on this below] and the direct object αὐτὸν [which itself refers back to ποταμὸς in the main clause]) indicates that there is no assertion being made about whether the event of no one crossing the river actually happened; it's simply a *natural result*, the kind of thing that would normally occur because of the action of the main clause.
+
+Because the **natural result clause** doesn't make any assertions as to the event's reality or occurrence, it will use the negation **μή** or its associated forms (like **μηδείς**, the μή form of the pronoun οὐδείς that we learned about in the unit on [numerals](../substantives-2/variable-stem-adjectives#one-εἷς-μία-ἕν)). We last saw μή used when [negating infinitives](../infs-and-parts/infinitive-uses#negation), so it makes sense that it can be used in this context as well from a syntactic standpoint. From a conceptual standpoint, it also makes sense: μή is used in non-factual circumstances, so when the result isn't an actual outcome but the kind of thing that could theoretically happen, the negation μή fits the context.
+
+Let's slightly rewrite one of the examples from [the actual result section](#actual-result) to show how the difference between a finite verb and an infinitive makes the difference between actual result and natural result respectively:
+
+* ὁ πολίτης οὕτως λέγει **ὥστε ἡμᾶς ἀκούειν**. The citizen speaks in such a way **that we listen**.
+
+In this rewrite, the result clause doesn't refer to a specific, actual, verifiable instance of us listening when the citizen speaks; it merely indicates that our listening is the expected or natural outcome of the way that the citizen speaks (perhaps he's charismatic enough to make us want to listen, but we're not doing so on a specific occassion).
