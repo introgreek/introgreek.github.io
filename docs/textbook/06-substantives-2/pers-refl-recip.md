@@ -40,7 +40,7 @@ grand_parent: Textbook
 
 * ἐμαυτοῦ, ἡμῶν αὐτῶν - myself, ourselves (1st person)
 * σ(ε)αυτοῦ, ὑμῶν αὐτῶν - yourself, yourselves (2nd person)
-* ἑαυτοῦ / αὑτοῦ, ἑαυτῶν / αὑτῶν (3rd person)
+* ἑαυτοῦ / αὑτοῦ, ἑαυτῶν / αὑτῶν - [themself, themselves](https://logeion.uchicago.edu/ἑαυτοῦ) (3rd person)
 
 ### Reciprocal Pronoun
 {: .no_toc }

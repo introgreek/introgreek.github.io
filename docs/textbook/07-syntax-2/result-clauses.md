@@ -23,34 +23,35 @@ grand_parent: Textbook
 ### Conjunctions
 {: .no_toc }
 
-* ὥστε / ὡς - that, so that, and so, and thus, such that, so as, as to (result clause)
+* ὥστε / ὡς - [that, so that, and so, and thus, such that, so as, as to](https://logeion.uchicago.edu/ὥστε) (result clause)
 
 ### Adverbs
 {: .no_toc }
 
-* οὕτω(ς) - so, in such a way (signal word for result clause; -ς before a word that begins with a vowel)
+* οὕτω(ς) - [so, in such a way, such](https://logeion.uchicago.edu/οὕτως) (signal word for result clause; -ς before a word that begins with a vowel)
 
 ### Pronouns
 {: .no_toc }
 
-* μηδείς, μηδεμία, μηδέν - no one, nothing (used in circumstances where you would use μή rather than οὐ)
+* μηδείς, μηδεμία, μηδέν - [no one, nothing](https://logeion.uchicago.edu/μηδείς) (used in circumstances where you would use μή rather than οὐ)
 
 ### Verbs
 {: .no_toc }
 
-* πείθω, πείσομαι, ἔπεισα, πέπεικα / πέποιθα, πέπεισμαι, ἐπείσθην - to persuade; (middle voice + dative) to obey; (perfect πέποιθα) to trust
-* διαβαίνω, διαβήσομαι, διέβην, διαβέβηκα, διαβέβαμαι, διεβάθην - to cross
+* πείθω, πείσομαι, ἔπεισα, πέπεικα / πέποιθα, πέπεισμαι, ἐπείσθην - [to persuade; (middle voice + dative) to obey, trust, believe](https://logeion.uchicago.edu/πείθω)
+* διαβαίνω, διαβήσομαι, διέβην, διαβέβηκα, διαβέβαμαι, διεβάθην - [to cross](https://logeion.uchicago.edu/διαβαίνω)
 
 ### Nouns
 {: .no_toc }
 
-* ἀγορά, -ᾶς, f. - marketplace
-* ποταμός, -οῦ, m. - river
+* ἀγορά, -ᾶς, f. - [marketplace](https://logeion.uchicago.edu/ἀγορά)
+* ποταμός, -οῦ, m. - [river](https://logeion.uchicago.edu/ποταμός)
 
 ### Adjectives
 {: .no_toc }
 
-* καλός, -ή, -όν - good, beautiful, handsome
+* καλός, -ή, -όν - [good, beautiful, handsome](https://logeion.uchicago.edu/καλός)
+* εὐρύς, εὐρεῖα, εὐρύ - [broad, wide](https://logeion.uchicago.edu/εὐρύς)
 
 ***
 

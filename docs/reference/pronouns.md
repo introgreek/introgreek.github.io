@@ -60,7 +60,50 @@ parent: Reference
 
 ***
 
-## αὐτός, αὐτή, αὐτό
+## Relative Pronoun: ὅς, ἥ, ὅ
+
+| | Masculine | Feminine | Neuter |
+| ----- | ----- | ----- | ----- |
+| Nom. Sg. | ὅς | ἥ | ὅ |
+| Gen. Sg. | οὗ | ἧς | οὗ |
+| Dat. Sg. | ᾧ | ᾗ | ᾧ |
+| Acc. Sg. | ὅν | ἥν | ὅ |
+| Nom. Pl. | οἵ | αἵ | ἅ |
+| Gen. Pl. | ὧν | ὧν | ὧν |
+| Dat. Pl. | οἷς | αἷς | οἷς |
+| Acc. Pl. | οὕς | ἅς | ἅ |
+
+***
+
+## Personal Pronouns
+
+### First Person
+
+| | Regular | Non-Emphatic |
+| ----- | ----- | ----- |
+| Nom. Sg. | ἐγώ | -- |
+| Gen. Sg. | ἐμοῦ | μου |
+| Dat. Sg. | ἐμοί | μοι |
+| Acc. Sg. | ἐμέ | με |
+| Nom. Pl. | ἡμεῖς | -- |
+| Gen. Pl. | ἡμῶν | -- |
+| Dat. Pl. | ἡμῖν | -- |
+| Acc. Pl. | ἡμᾶς | -- |
+
+### Second Person
+
+| | Regular | Non-Emphatic |
+| ----- | ----- | ----- |
+| Nom. Sg. | σύ | -- |
+| Gen. Sg. | σοῦ | σου |
+| Dat. Sg. | σοί | σοι |
+| Acc. Sg. | σέ | σε |
+| Nom. Pl. | ὑμεῖς | -- |
+| Gen. Pl. | ὑμῶν | -- |
+| Dat. Pl. | ὑμῖν | -- |
+| Acc. Pl. | ὑμᾶς | -- |
+
+### Third Person (also Intensive/Emphatic)
 
 | | Masculine | Feminine | Neuter
 | ----- | ----- | ----- | ----- |
@@ -75,15 +118,54 @@ parent: Reference
 
 ***
 
-## Relative Pronoun: ὅς, ἥ, ὅ
+## Reflexive Pronouns
+
+### First Person
+
+| | Masculine | Feminine |
+| ----- | ----- | ----- |
+| Nom. Sg. | -- | -- |
+| Gen. Sg. | ἐμαυτοῦ | ἐμαυτῆς |
+| Dat. Sg. | ἐμαυτῷ | ἐμαυτῇ |
+| Acc. Sg. | ἐμαυτόν | ἐμαυτήν |
+| Nom. Pl. | -- | -- |
+| Gen. Pl. | ἡμῶν αὐτῶν | ἡμῶν αὐτῶν |
+| Dat. Pl. | ἡμῖν αὐτοῖς | ἡμῖν αὐταῖς |
+| Acc. Pl. | ἡμᾶς αὐτούς | ἡμᾶς αὐτάς |
+
+### Second Person
+
+| | Masculine | Feminine |
+| ----- | ----- | ----- |
+| Nom. Sg. | -- | -- |
+| Gen. Sg. | σεαυτοῦ / σαυτοῦ | σεαυτῆς / σαυτῆς |
+| Dat. Sg. | σεαυτῷ / σαυτῷ | σεαυτῇ / σαυτῇ |
+| Acc. Sg. | σεαυτόν / σαυτόν | σεαυτήν / σαυτήν |
+| Nom. Pl. | -- | -- |
+| Gen. Pl. | ὑμῶν αὐτῶν | ὑμῶν αὐτῶν |
+| Dat. Pl. | ὑμῖν αὐτοῖς | ὑμῖν αὐταῖς |
+| Acc. Pl. | ὑμᾶς αὐτούς | ὑμᾶς αὐτάς |
+
+### Third Person
 
 | | Masculine | Feminine | Neuter |
 | ----- | ----- | ----- | ----- |
-| Nom. Sg. | ὅς | ἥ | ὅ |
-| Gen. Sg. | οὗ | ἧς | οὗ |
-| Dat. Sg. | ᾧ | ᾗ | ᾧ |
-| Acc. Sg. | ὅν | ἥν | ὅ |
-| Nom. Pl. | οἵ | αἵ | ἅ |
-| Gen. Pl. | ὧν | ὧν | ὧν |
-| Dat. Pl. | οἷς | αἷς | οἷς |
-| Acc. Pl. | οὕς | ἅς | ἅ |
+| Nom. Sg. | -- | -- | -- |
+| Gen. Sg. | ἑαυτοῦ / αὑτοῦ | ἑαυτῆς / αὑτῆς | ἑαυτοῦ / αὑτοῦ |
+| Dat. Sg. | ἑαυτῷ / αὑτῷ | ἑαυτῇ / αὑτῇ | ἑαυτῷ / αὑτῷ |
+| Acc. Sg. | ἑαυτόν / αὑτόν | ἑαυτήν / αὑτήν | ἑαυτό / αὑτό |
+| Nom. Pl. | -- | -- |
+| Gen. Pl. | ἑαυτῶν / αὑτῶν | ἑαυτῶν / αὑτῶν | ἑαυτῶν / αὑτῶν |
+| Dat. Pl. | ἑαυτοῖς / αὑτοῖς | ἑαυταῖς / αὑταῖς | ἑαυτοῖς / αὑτοῖς |
+| Acc. Pl. | ἑαυτούς / αὑτούς | ἑαυτάς / αὑτάς | ἑαυτά / αὑτά |
+
+***
+
+## Reciprocal Pronoun
+
+| | Masculine | Feminine | Neuter |
+| ----- | ----- | ----- | ----- |
+| Nom. Pl. | -- | -- | -- |
+| Gen. Pl. | ἀλλήλων | ἀλλήλων | ἀλλήλων |
+| Dat. Pl. | ἀλλήλοις | ἀλλήλαις | ἀλλήλοις |
+| Acc. Pl. | ἀλλήλους | ἀλλήλας | ἄλληλα |

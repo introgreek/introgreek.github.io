@@ -20,6 +20,7 @@ parent: Reference
 ## Alpha/Eta Declension (1st Declension)
 
 ### Long-Alpha: συμφορά, συμφορᾶς, f. - "event, outcome, mishap"
+{: .no_toc }
 
 | Case      | Singular |Plural |
 | ----------- | ----------- | ----------- |
@@ -29,6 +30,7 @@ parent: Reference
 | Accusative   | συμφορ**άν**        | συμφορ**άς**      |
 
 ### Long-Eta: δίκη, δίκης, f. - "trial, lawsuit, penalty, custom, right"
+{: .no_toc }
 
 | Case      | Singular |Plural |
 | ----------- | ----------- | ----------- |
@@ -38,6 +40,7 @@ parent: Reference
 | Accusative   | δίκ**ην**        | δίκ**ας**      |
 
 ### Short-Alpha: πεῖρα, πείρας, f. - "attempt"
+{: .no_toc }
 
 | Case      | Singular |Plural |
 | ----------- | ----------- | ----------- |
@@ -47,6 +50,7 @@ parent: Reference
 | Accusative   | πεῖρ**αν**        | πείρ**ας**      |
 
 ### Short-Eta: θάλαττα, θαλάττης, f. - "sea"
+{: .no_toc }
 
 | Case      | Singular |Plural |
 | ----------- | ----------- | ----------- |
@@ -56,6 +60,7 @@ parent: Reference
 | Accusative   | θάλαττ**αν**         | θαλάττ**ας**      |
 
 ### Masculine in -ας: νεανίας, νεανίου, m. - "young man"
+{: .no_toc }
 
 | Case      | Singular |Plural |
 | ----------- | ----------- | ----------- |
@@ -66,6 +71,7 @@ parent: Reference
 | Vocative | νεανί**α**  |  νεανί**αι** |
 
 ### Masculine in -ης: πολίτης, πολίτου, m. - "citizen"
+{: .no_toc }
 
 | Case      | Singular |Plural |
 | ----------- | ----------- | ----------- |
@@ -80,6 +86,7 @@ parent: Reference
 ## Omicron Declension (2nd Declension)
 
 ### Masculine/Feminine: νόμος, νόμου, m. - "law, custom"
+{: .no_toc }
 
 | Case      | Singular |Plural |
 | ----------- | ----------- | ----------- |
@@ -90,6 +97,7 @@ parent: Reference
 | Vocative | νόμ**ε**  |  νόμ**οι** |
 
 ### Neuter: ἔργον, ἔργου, n. - "deed"
+{: .no_toc }
 
 | Case      | Singular |Plural |
 | ----------- | ----------- | ----------- |
@@ -103,6 +111,7 @@ parent: Reference
 ## Consonant Declension (3rd Declension)
 
 ### Labial Plosive (π, β, φ) stems: Κύκλωψ, Κύκλωπος, m. - "Cyclops"
+{: .no_toc }
 
 | Case      | Singular |Plural |
 | ----------- | ----------- | ----------- |
@@ -112,6 +121,7 @@ parent: Reference
 | Accusative   | Κύκλωπ**α**         | Κύκλωπ**ας**     |
 
 ### Velar Plosive (γ, κ, χ) stems: φύλαξ, φύλακος, m. - "guard"
+{: .no_toc }
 
 | Case      | Singular |Plural |
 | ----------- | ----------- | ----------- |
@@ -121,6 +131,7 @@ parent: Reference
 | Accusative   | φύλακ**α**         | φύλακ**ας**     |
 
 ### Dental Plosive (τ, δ, θ), accented 1st syllable: ὄρνις, ὄρνιθος, m./f. - "bird"
+{: .no_toc }
 
 | Case      | Singular |Plural |
 | ----------- | ----------- | ----------- |
@@ -130,6 +141,7 @@ parent: Reference
 | Accusative   | ὄρνι**ν**         | ὄρνιθ**ας**     |
 
 ### Dental Plosive (τ, δ, θ), accented 2nd syllable: ἀσπίς, ἀσπίδος, f. - "shield"
+{: .no_toc }
 
 | Case      | Singular |Plural |
 | ----------- | ----------- | ----------- |
@@ -139,6 +151,7 @@ parent: Reference
 | Accusative   | ἀσπίδ**α**         | ἀσπίδ**ας**     |
 
 ### Dental Plosive (ντ) stem: γέρων, γέροντος, m. - "old man"
+{: .no_toc }
 
 | Case      | Singular |Plural |
 | ----------- | ----------- | ----------- |
@@ -149,6 +162,7 @@ parent: Reference
 | Vocative | γέρον | γέροντ**ες** |
 
 ### Neuter Dental Plosive (τ) stem: ποίημα, ποιήματος, n. - "poem"
+{: .no_toc }
 
 | Case      | Singular |Plural |
 | ----------- | ----------- | ----------- |
@@ -157,7 +171,42 @@ parent: Reference
 | Dative   | ποιήματ**ι**         | ποιήμα**τ** + **σι(ν)** = ποιήμα**σι(ν)**      |
 | Accusative   | ποίημα         | ποιήματ**α**     |
 
+### Rho-Stem: πατήρ, πατρός, m. - "father"
+{: .no_toc }
+
+| Case | Singular | Plural |
+| ----- | ----- | ----- |
+| Nom. | πατήρ | πατέρες |
+| Gen. | πατρός | πατέρων |
+| Dat. | πατρί | πατράσι(ν) |
+| Acc. | πατέρα | πατέρας |
+
+### Sigma-Stem (epsilon): τριήρης, τριήρους, f. - "trireme"
+{: .no_toc }
+
+**stem**: τριηρε(σ)-
+
+| Case | Singular | Plural |
+| ----- | ----- | ----- |
+| Nom. | τριήρης | τριήρεις |
+| Gen. | τριήρους | τριηρῶν |
+| Dat. | τριήρει | τριηρέσι(ν) |
+| Acc. | τριήρη | τριήρεις |
+
+### Sigma-Stem (alpha): γέρας, γέρως, n. - "gift, prize"
+{: .no_toc }
+
+**stem**: τριηρε(σ)-
+
+| Case | Singular | Plural |
+| ----- | ----- | ----- |
+| Nom. | τριήρης | τριήρεις |
+| Gen. | τριήρους | τριηρῶν |
+| Dat. | τριήρει | τριηρέσι(ν) |
+| Acc. | τριήρη | τριήρεις |
+
 ### Variable Stem: πόλις, πόλεως, f. - "city"
+{: .no_toc }
 
 | Case      | Singular |Plural |
 | ----------- | ----------- | ----------- |
@@ -165,3 +214,33 @@ parent: Reference
 | Genitive   | πόλεως       | πόλεων       |
 | Dative   | πόλει         | πόλεσι(ν)      |
 | Accusative   | πόλιν         | πόλεις     |
+
+### Variable Stem: ναῦς, νέως, f. - "ship"
+{: .no_toc }
+
+| | Singular | Plural |
+| ----- | ----- | ----- |
+| Nom. | ναῦς | νῆες |
+| Gen. | νέως | νεῶν |
+| Dat. | νηΐ | ναυσί(ν) |
+| Acc. | ναῦν | ναῦς |
+
+### Variable Stem: βοῦς, βοός, m./f. - "bull, cow"
+{: .no_toc }
+
+| | Singular | Plural |
+| ----- | ----- | ----- |
+| Nom. | βοῦς | βόες |
+| Gen. | βοός | βοῶν |
+| Dat. | βοΐ | βουσί(ν) |
+| Acc. | βοῦν | βοῦς |
+
+### Variable Stem: ἱππεύς, ἱππέως, m. - "cavalryman"
+{: .no_toc }
+
+| | Singular | Plural |
+| ----- | ----- | ----- |
+| Nom. | ἱππεύς | ἱππεῖς or ἱππῆς |
+| Gen. | ἱππέως | ἱππέων |
+| Dat. | ἱππεῖ | ἱππεῦσι(ν) |
+| Acc. | ἱππέᾱ | ἱππέᾱς |
