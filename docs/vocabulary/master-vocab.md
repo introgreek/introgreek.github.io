@@ -187,7 +187,7 @@ parent: Vocabulary
 * πᾶς, πᾶσα, πᾶν (m./n. stem πάντ-) - (sg., w/o article) each, every; (sg., with article) the whole, entire; (pl.) all ([Logeion entry](https://logeion.uchicago.edu/πᾶς))
 * πατήρ, πατρός, m. - [father](https://logeion.uchicago.edu/πατήρ)
 * παύω, παύσω, ἔπαυσα, πέπαυκα, πέπαυμαι, ἐπαύθην (+ part.) - [(act.) to stop (acc.) from (participle)-ing; (mid.) to stop (oneself) (from) (participle)-ing](https://logeion.uchicago.edu/παύω)
-* πείθω, πείσομαι, ἔπεισα, πέπεικα / πέποιθα, πέπεισμαι, ἐπείσθην - [to persuade; (middle voice + dative) to obey; (perfect πέποιθα) to trust](https://logeion.uchicago.edu/πείθω)
+* πείθω, πείσομαι, ἔπεισα, πέπεικα / πέποιθα, πέπεισμαι, ἐπείσθην - [to persuade; (middle voice + dative) to obey, trust, believe](https://logeion.uchicago.edu/πείθω)
 * πέμπω, πέμψω, ἔπεμψα, πέπομφα, πέπεμμαι, ἐπέμφθην - [to send](https://logeion.uchicago.edu/πέμπω)
 * πέντε - [five](https://logeion.uchicago.edu/πέντε) (indeclinable)
 * περί - [around, about](https://logeion.uchicago.edu/περί)
