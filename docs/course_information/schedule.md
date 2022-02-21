@@ -82,7 +82,7 @@ Personal, Reflexive, and Reciprocal Pronouns
 
 ### Friday, February 18
 {: .no_toc }
-Result Clauses
+Personal, Reflexive, and Reciprocal Pronouns continued  
 
 ***
 
@@ -90,11 +90,12 @@ Result Clauses
 
 ### Monday, February 21
 {: .no_toc }
-Comparative and Superlative Adjectives
+Result Clauses  
+**Today's slideshow**: [link here](https://drive.google.com/file/d/1Lyumbl-ghwty3ThePM2HhNd5HO-Nklv-/view?usp=sharing)
 
 ### Wednesday, February 23
 {: .no_toc }
-Comparative and Superlative Adjectives continued
+Comparative and Superlative Adjectives
 
 ### Friday, February 25
 {: .no_toc }
