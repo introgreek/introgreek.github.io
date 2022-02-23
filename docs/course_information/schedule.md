@@ -99,7 +99,7 @@ Comparative and Superlative Adjectives
 
 ### Friday, February 25
 {: .no_toc }
-Interrogative and Indefinite Pronouns
+Comparative and Superlative Adjectives continued
 
 ***
 
@@ -184,7 +184,7 @@ Sequence of Moods and Dependent Uses of the Optative continued
 
 ### Friday, April 8
 {: .no_toc }
-Indirect Questions
+Interrogative and Indefinite Pronouns; Indirect Questions
 
 ***
 
