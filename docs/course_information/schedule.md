@@ -95,7 +95,8 @@ Result Clauses
 
 ### Wednesday, February 23
 {: .no_toc }
-Comparative and Superlative Adjectives
+Comparative and Superlative Adjectives  
+**Today's slideshow**: [link here](https://drive.google.com/file/d/1M6OEVLV9naNa_aa3eBVf4YSvnNKkXEtT/view?usp=sharing)
 
 ### Friday, February 25
 {: .no_toc }
