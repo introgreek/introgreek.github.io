@@ -81,7 +81,7 @@ Comparative adjectives can be formed in two ways:
 
 This set of endings applies to many vowel-declension and consonant-declension adjectives that we know.
 
-In 2-1-2s, the ο or ω is inserted between the adjective stem and the -τερος, -η, -ον endings when the adjective stem ends in a long syllable (i.e., with a diphthong or a long single vowel) or a short syllable, respectively. For example: δίκαιος > δικαιότερος, "more just", since the -αι- at the end of the δικαι- adjective stem is long; μίκρος > μικρότερος, "smaller", since the -ι- in μικρ- is short.
+In 2-1-2s, the ο or ω is inserted between the adjective stem and the -τερος, -η, -ον endings when the adjective stem ends in a long syllable (i.e., with a diphthong or a long single vowel) or a short syllable, respectively. For example: δίκαιος > δικαιότερος, "more just", since the -αι- at the end of the δικαι- adjective stem is long; ἄδικος > ἀδικώτερος, "more unjust", since the -ι- in ἀδικ- is short.
 
 In -ης, -ες adjectives, the -τερος, -α, -ον ending gets attached directly to the sigma stem of the adjective (e.g., ἀληθεσ- > ἀληθέστερος, "truer").
 
@@ -92,7 +92,7 @@ In -υς, -εια, -υ adjectives, the -τερος, -α, -ον ending gets attac
 Note the following examples:
 
 * οἱ δικασταὶ **δικαιότεροι** ἦσαν. The jurors were **more just**.
-* ἐκείνη ἡ ναῦς **μικροτέρα** ἐστίν. That ship is **smaller**.
+* ὁ ἱππεὺς **ἀδικώτερος** ἐστίν. The cavalryman is **more unjust**.
 * ὁ παῖς ἀκήκοεν τοὺς λόγους τοὺς **ἀληθεστέρους**. The child has heard **truer** / **more true** words.
 * ἔχω τὰ τοῦ **σωφρονεστέρου** μαθητοῦ βιβλία. I have the books of the **wiser** student.
 * ὁρῶμεν τὴν **βαρυτέραν** τριήρη. We see the **heavier** ship.
