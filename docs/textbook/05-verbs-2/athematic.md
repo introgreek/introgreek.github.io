@@ -100,6 +100,9 @@ Some general patterns to note:
 
 \* In the 3rd pl. pres. act. of ἵστημι, note that the -ε- of the root and the -α- of the ending contract into -ᾱ-.  
 
+* ὁ πατὴρ τοὺς παῖδας παρὰ τὴν οἰκίαν ἵστησιν. The father makes the children stand near the house.
+* αἱ μητέρες τοὺς παῖδας παρὰ τὴν ναῦν ἱστᾶσιν. The mothers make the children stand near the ship.
+
 ### δίδωμι
 
 * Stem: διδω- / διδο-
@@ -118,6 +121,9 @@ Some general patterns to note:
 | 3rd pl. | διδόασι(ν) | δίδονται | ἐδίδοσαν | ἐδίδοντο |
 
 \* Note that these forms are uncharacteristically built on the short vowel stem and borrow their endings from thematic verbs, including theme vowels that get contracted with the athematic verb stem (ἐδιδο- + -ον = ἐδίδουν; ἐδιδο- + -ες = ἐδίδους; ἐδιδο- + -ε = ἐδίδου).
+
+* πρέπει τὸν μαθητὴν τὸ βιβλίον τῷ διδασκάλῳ δίδοναι. It is fitting for the student to give the book to the teacher.
+* τὸ βιβλίον τὸ ὑπο τοῦ μαθητοῦ διδομένου μέγα ἐστίν. The book that is given by the student is large.
 
 ### τίθημι
 
@@ -138,6 +144,9 @@ Some general patterns to note:
 
 \* As above with δίδωμι, note that these forms are uncharacteristically built on the short vowel stem and borrow their endings from thematic verbs, including theme vowels that get contracted with the athematic verb stem (ἐτιθε- + -ες = ἐτίθεις; ἐτιθε- + -ε = ἐτίθει).
 
+* τὰ ὅπλα ἐπὶ τῇ τριήρει ἐτίθην. I was placing the weapons on the trireme.
+* τὰ ὅπλα ἐπὶ τῇ τριήρει ὑπ' ἐμοῦ ἐτίθετο. The weapons were being placed on the trireme by me.
+
 ### ἵημι
 
 * Stem: ἱη- / ἱε-
@@ -157,6 +166,9 @@ Some general patterns to note:
 
 \* As in ἵστημι, in the 3rd pl. pres. act. of ἵημι, note that the -ε- of the root and the -α- of the ending contract into -ᾱ-.  
 \*\* Note that as in δίδωμι and τίθημι, the 2nd and 3rd sg. imperfect active are built on the short vowel stem and borrow their endings from thematic verbs (ἱε- + -ες = ἵεις; ἱε- + -ε = ἵει).
+
+* τὰ γέρα ἵεις, ὁ ἀνὴρ τὰ ὅπλα ἔλαβεν. While he was sending the gifts, the man took the weapons.
+* κελεύει τοὺς ἱππέας τοὺς ἵππους ἱέναι. He orders the cavalrymen to send the horses.
 
 ***
 
