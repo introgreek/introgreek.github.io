@@ -108,7 +108,7 @@ Some general patterns to note:
 * Stem: διδω- / διδο-
 * present active infinitive: διδόναι
 * present active participle: διδούς, διδοῦσα, διδόν (m./n. stem διδόντ-)
-* present middle/passive infinitive: διδόσθαι
+* present middle/passive infinitive: δίδοσθαι
 * present middle/passive participle: διδόμενος, -η, -ον
 
 | | Present Active | Present Mid./Pass. | Imperfect Active | Imperfect Mid./Pass |
