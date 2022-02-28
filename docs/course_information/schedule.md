@@ -108,7 +108,8 @@ Comparative and Superlative Adjectives continued
 
 ### Monday, February 28
 {: .no_toc }
-Core Four -μι Verbs
+Core Four -μι Verbs  
+**Today's slideshow:** [link here](https://drive.google.com/file/d/1M9NX7wy6tJhNNS2JnsrLxO4_u98nc2KK/view?usp=sharing)
 
 ### Wednesday, March 2
 {: .no_toc }
