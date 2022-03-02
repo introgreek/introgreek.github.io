@@ -25,8 +25,8 @@ grand_parent: Textbook
 * δίδωμι, δώσω, ἔδωκα, δέδωκα, δέδομαι, ἐδόθην - to give, grant, allow
   * ἀποδίδωμι - to give back, to give away; (middle voice) to sell
 * τίθημι, θήσω, ἔθηκα, τέθηκα, τέθειμαι, ἐτέθην - to put, place
-  * ἀνατίθημι - to set up, to dedicate (as an offering)
-  * ἐπιτίθημι - to place upon; (middle voice) to attack (+ dative)
+  * ἀνατίθημι (ἀνά + τίθημι) - to set up, to dedicate (as an offering)
+  * ἐπιτίθημι (ἐπί + τίθημι) - to place upon; (middle voice) to attack (+ dative)
 * ἵημι, ἥσω, -ἧκα, -εἷκα, -εἷμαι, -εἵθην - to hurl, throw, send; (middle voice) to rush, hurry
   * ἀφίημι (ἀπό + ἵημι) - to send away, to release, to set free
   * ἐφίημι (ἐπί + ἵημι) - to send against; (middle voice) to command, order; (middle voice) to aim at, desire (+ genitive)
