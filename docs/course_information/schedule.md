@@ -117,7 +117,8 @@ Core Four -μι Verbs continued
 
 ### Friday, March 4
 {: .no_toc }
-Athematic Aorists
+Athematic Aorists  
+**Today's slideshow**: [link here](https://drive.google.com/file/d/1MPY5RYyg0v_hBXG5ixl-45hkXXGpTqep/view?usp=sharing)
 
 ***
 
