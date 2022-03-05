@@ -224,7 +224,7 @@ Almost any verb in Greek can be turned into a compound verb by adding a preposit
 τίθημι = "to put, place"
 * ἐπί, “on, upon; to, toward, at" + τίθημι = ἐπιτίθημι, "to place upon", "to add to"; (middle voice) "to attack" (+ dative)
 
-In compounded verbs, the preposition will always be a prefix to the core conjugated form of the verb. This means that if the core verb has, e.g., an augment, the preposition will still be attached *in front of / before* the augment, with any appropriate elisions for the end of the preposition (and any appropriate aspirations of letters before a vowel with a rough breathing). In addition, the accent can not recede to any part of the preposition.
+Such verbs are called **compound verbs** or **complex verbs**, compared against verbs without a prefix which are called **simplex verbs**. In compounded verbs, the preposition will always be a prefix to the core conjugated form of the verb. This means that if the core verb has, e.g., an augment, the preposition will still be attached *in front of / before* the augment, with any appropriate elisions for the end of the preposition (and any appropriate aspirations of letters before a vowel with a rough breathing). In addition, the accent can not recede to any part of the preposition.
 
 Here are some examples of compounded verbs:
 
@@ -241,3 +241,5 @@ This means that you must be aware of potential prepositional prefixes on verbs a
 The core meanings of compounded verbs can often be gleaned by combining the core meaning of the verb with the core meaning of the preposition, but common uses of these compound verbs, often in the middle voice, will yield translations that take that core meaning to logical conclusions. For example: κατά means "down" while ἵστημι means "to set up" or "make to stand." When you set something down, you "establish" it; thus, καθίστημι can mean "to establish", as a logical conclusion from "to set (ἵστημι) down (κατά)."
 
 The [Unit Vocabulary](#unit-vocabulary) above indicates some examples of compound verbs and translations that may not be immediately apparent from the core meanings of the verbs and their prepositions.
+
+Note also that if a principal part in a verb's dictionary entry has a dash before it (e.g., βαίνω, -βήσομαι, as we'll see in the unit on [athematic aorists](athematic-aorists)), that means that the principal part in question usually appears in Greek literature as a **complex verb**, rarely as a simplex verb; so, you'll often see that principal part and its various conjugations prefixed with a preposition.
