@@ -25,7 +25,7 @@ grand_parent: Textbook
 
 * βαίνω, -βήσομαι, -ἔβην, βέβηκα, -βέβαμαι, -εβάθην - to walk, step, go
   * ἀναβαίνω (ἀνα + βαίνω) - to walk up; to board a ship; to mount a horse
-  * καταβαίνω (κατά + βαίνω) - to walk down; to climb down from a horse; to go down to the sea
+  * καταβαίνω (κατά + βαίνω) - to walk down; to dismount (a horse); to go down to the sea
 * γιγνώσκω, γνώσομαι, ἔγνων, ἔγνωκα, ἔγνωσμαι, ἐγνώσθην - to recognize, know
 * δύω, -δύσω, -ἔδυν, -δέδυκα, -δέδυμαι, -ἐδύθην - to enter; to put on (clothes); to sink, set
   * καταδύω (κατά + δύω) - to set (often re: the sun); to sink
