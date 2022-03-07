@@ -153,6 +153,19 @@ parent: Reference
 | Dat. Pl. | ἀληθέσι(ν) | ἀληθέσι(ν) |
 | Acc. Pl. | ἀληθεῖς | ἀληθῆ |
 
+### Two-Termination: Comparatives in -(ι)ων, -(ι)ον
+
+| | Masc./Fem. | Neut. |
+| ----- | ----- | ----- |
+| Nom. Sg. | ἀμείνων | ἄμεινον |
+| Gen. Sg. | ἀμείνονος | ἀμείνονος |
+| Dat. Sg. | ἀμείνονι | ἀμείνονι |
+| Acc. Sg. | ἀμείνονα or ἀμείνω | ἄμεινον |
+| Nom. Pl. | ἀμείνονες or ἀμείνους | ἀμείνονα or ἀμείνω |
+| Gen. Pl. | ἀμεινόνων | ἀμεινόνων |
+| Dat. Pl. | ἀμείνοσι(ν) | ἀμείνοσι(ν) |
+| Acc. Pl. | ἀμείνονας or ἀμείνους | ἀμείνονα or ἀμείνω |
+
 ***
 
 ## Numerals
@@ -196,3 +209,19 @@ parent: Reference
 | Gen. Pl. | τεττάρων | τεττάρων |
 | Dat. Pl. | τέτταρσι(ν) | τέτταρσι(ν) |
 | Acc. Pl. | τέτταρας | τέτταρα |
+
+***
+
+## Irregular Comparatives and Superlatives
+
+| Positive | Comparative | Superlative |
+| ----- | ----- | ----- |
+| ἡδύς | ἡδίων | ἥδιστος |
+| ἀγαθός | - ἀμείνων (better, more noble, more excellent)<br>- βελτίων (better, more virtuous)<br>- κρείττων (better, more powerful) | - ἄριστος (best, most excellent)<br>- βέλτιστος (best, most virtuous)<br>- κράτιστος (best, most powerful) |
+| κακός | - κακίων (worse)<br>- χείρων (worse)<br>- ἥττων (weaker, inferior, fewer) | - κάκιστος<br>- χείριστος<br>- ἥκιστος |
+| καλός | καλλίων | κάλλιστος |
+| μέγας | μείζων | μέγιστος |
+| πολύς | πλείων or πλέων | πλεῖστος |
+| μίκρος | - μικρότερος<br>- ἐλάττων | - μικρότατος<br>- ἐλάχιστος |
+| ὀλίγος | ὀλείζων | ὀλίγιστος |
+| ταχύς | θάττων | τάχιστος |
