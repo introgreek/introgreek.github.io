@@ -31,12 +31,17 @@ parent: Vocabulary
 * ἄνθρωπος, ἀνθρώπου, m. - [person, human](https://logeion.uchicago.edu/ἄνθρωπος)
 * ἀνήρ, ἀνδρός, m. - [man, husband](https://logeion.uchicago.edu/ἀνήρ)
 * ἀνά - [up](https://logeion.uchicago.edu/ἀνά)
+* ἀνατίθημι (ἀνά + τίθημι), ἀναθήσω, ἀνέθηκα, ἀνατέθηκα, ἀνατέθειμαι, ἀνετέθην - [to set up, to dedicate (as an offering)](https://logeion.uchicago.edu/ἀνατίθημι)
 * ἀπό (+ gen.) - [away from](https://logeion.uchicago.edu/ἀπό)
+* ἀποδίδωμι, ἀποδώσω, ἀπέδωκα, ἀποδέδωκα, ἀποδέδομαι, ἀπεδόθην - [to give back, to give away; (middle voice) to sell](https://logeion.uchicago.edu/ἀποδίδωμι)
 * ἀποκτείνω, ἀποκτενέω, ἀπέκτεινα, ἀπέκτονα, --, -- - [to kill](https://logeion.uchicago.edu/ἀποκτείνω)
 * ἄρχω, ἄρξω, ἦρξα, ἦρχα, ἦργμαι, ἤρχθην - [to begin (+ part.)](https://logeion.uchicago.edu/ἄρχω)
 * ἀσθενής, ἀσθενές - [weak](https://logeion.uchicago.edu/ἀσθενής)
 * [ἅτε](https://logeion.uchicago.edu/ἅτε) - (used with causal participle)
 * αὐτός, αὐτή, αὐτό - [him, her, it, them](https://logeion.uchicago.edu/αὐτός); (intensive adj./pronoun, *not* reflexive) the very ____; himself, herself, themselves, etc.; (in attributive position) the same
+* ἀφίημι (ἀπό + ἵημι), ἀφήσω, ἀφῆκα, ἀφεῖκα, ἀφεῖμαι, ἀφείθην - [to send away, to release, to set free](https://logeion.uchicago.edu/ἀφίημι)
+* ἀφίστημι (ἀπό + ἵστημι), ἀποστήσω, ἀπέστησα or ἀπέστην, ἀφέστηκα, ἀφέσταμαι, ἀπεστάθην - [(trans.) to cause to revolt; (intrans.) to revolt from (ἀπό + genitive)](https://logeion.uchicago.edu/ἀφίστημι)
+
 
 ## β
 
@@ -69,6 +74,7 @@ parent: Vocabulary
 * διαβαίνω, διαβήσομαι, διέβην, διαβέβηκα, διαβέβαμαι, διεβάθην - [to cross](https://logeion.uchicago.edu/διαβαίνω)
 * διδάσκαλος, διδασκάλου, m. - [teacher](https://logeion.uchicago.edu/διδάσκαλος)
 * διδάσκω, διδάξω, ἐδίδαξα, δεδίδαχα, δεδίδαγμαι, ἐδιδάχθην - [to teach; (with double accusative) to teach (accusative 1) (to) (accusative 2)](https://logeion.uchicago.edu/διδάσκω)
+* δίδωμι, δώσω, ἔδωκα, δέδωκα, δέδομαι, ἐδόθην - [to give, grant, allow](https://logeion.uchicago.edu/δίδωμι)
 * δίκαιος, δικαία, δίκαιον - [just](https://logeion.uchicago.edu/δίκαιος)
 * δικαστής, δικαστοῦ, m. - [juror](https://logeion.uchicago.edu/δικαστής)
 * δίκη, δίκης, f. - [trial, lawsuit, penalty, custom, right](https://logeion.uchicago.edu/δίκη)
@@ -82,6 +88,7 @@ parent: Vocabulary
 * ἐγώ, ἡμεῖς - [I, we](https://logeion.uchicago.edu/ἐγώ) (1st person)
 * ἐθέλω, ἐθελήσω, ἠθέλησα, ἠθέληκα, --, -- - [to want, wish](https://logeion.uchicago.edu/ἐθέλω)
 * εἰμί, ἔσομαι, --, --, --, -- - [to be](https://logeion.uchicago.edu/εἰμί); [3rd singular] it is possible, there is
+* εἶμι - [to go](https://logeion.uchicago.edu/εἶμι)
 * εἰς (+ acc.) - [into](https://logeion.uchicago.edu/εἰς)
 * εἷς, μία, ἕν - [one](https://logeion.uchicago.edu/εἷς)
 * ἐκ (+ gen.) - [out of, from; as a result of](https://logeion.uchicago.edu/ἐκ)
@@ -93,11 +100,14 @@ parent: Vocabulary
 * ἕξ - [six](https://logeion.uchicago.edu/ἕξ) (indeclinable)
 * ἔξεστι(ν) - [it is possible](https://logeion.uchicago.edu/ἔξεστι)
 * ἐπί - [on, upon](https://logeion.uchicago.edu/ἐπί)
+* ἐπιτίθημι (ἐπί + τίθημι), ἐπιθήσω, ἐπέθηκα, ἐπιτέθηκα, ἐπιτέθειμαι, ἐπετέθην - [to place upon; (middle voice) to attack (+ dative)](https://logeion.uchicago.edu/ἐπιτίθημι)
 * ἑπτά - [seven](https://logeion.uchicago.edu/ἑπτά) (indeclinable)
 * ἔρχομαι, ἐλεύσομαι, ἦλθον, ἐλήλυθα, --, -- - [to come, to go](https://logeion.uchicago.edu/ἔρχομαι)
 * ἔργον, ἔργου, n. - [deed](https://logeion.uchicago.edu/ἔργον)
 * εὐρύς, εὐρεῖα, εὐρύ - [broad, wide](https://logeion.uchicago.edu/εὐρύς)
 * εὐτυχής, εὐτυχές - [lucky](https://logeion.uchicago.edu/εὐτυχής)
+* ἐφίημι (ἐπί + ἵημι), ἐφήσω, ἐφῆκα, ἐφεῖκα, ἐφεῖμαι, ἐφείθην - [to send against; (middle voice) to command, order; (middle voice) to aim at, desire (+ genitive)](https://logeion.uchicago.edu/ἐφίημι)
+* ἐφίστημι (ἐπί + ἵστημι), ἐπιστήσω, ἐπέστησα or ἐπέστην, ἐφέστηκα, ἐφέσταμαι, ἐπεστάθην - [(trans.) to set up in charge of; (intrans.) to be in charge of (+ dative)](https://logeion.uchicago.edu/ἐφίστημι)
 * ἔχω, ἕξω / σχήσω, ἔσχον, ἔσχηκα, -ἔσχημαι, ἐσχέθην - [to have, to hold](https://logeion.uchicago.edu/ἔχω)
 
 ## ζ
@@ -118,11 +128,14 @@ parent: Vocabulary
 
 ## ι
 
+* ἵημι, ἥσω, -ἧκα, -εἷκα, -εἷμαι, -εἵθην - [to hurl, throw, send; (middle voice) to rush, hurry](https://logeion.uchicago.edu/ἵημι)
+* ἵστημι, στήσω, ἔστησα or ἔστην, ἕστηκα, ἕσταμαι, ἐστάθην - [(active and 1st aorist transitive) to make stand up, set up, cause to stop; (passive and 2nd aorist intransitive) to stand, be set up, stop](https://logeion.uchicago.edu/ἵστημι)
 * ἱππεύς, ἱππέως, m. - [cavalryman](https://logeion.uchicago.edu/ἱππεύς)
 * ἵππος, ἵππου, m./f. - [horse](https://logeion.uchicago.edu/ἵππος)
 
 ## κ
 
+* καθίστημι (κατά + ἵστημι), καταστήσω, κατέστησα or κατέστην, καθέστηκα, καθέσταμαι, κατεστάθην - [(trans.) to establish; (intrans.) to settle, be established](https://logeion.uchicago.edu/καθίστημι)
 * καί - [and; even, also](https://logeion.uchicago.edu/καί) (καί/τε ... καί/τε - both ... and)
 * [καίπερ](https://logeion.uchicago.edu/καίπερ) - (used with concessive participle)
 * κάκος, κάκη, κάκον - [bad](https://logeion.uchicago.edu/κάκος)
@@ -225,6 +238,7 @@ parent: Vocabulary
 * ταχύς, ταχεῖα, ταχύ - [swift, fast, quick](https://logeion.uchicago.edu/ταχύς)
 * τε - (enclitic, post-positive) [and](https://logeion.uchicago.edu/τε)
 * τέτταρες, τέτταρα - [four](https://logeion.uchicago.edu/τέσσαρες)
+* τίθημι, θήσω, ἔθηκα, τέθηκα, τέθειμαι, ἐτέθην - [to put, place](https://logeion.uchicago.edu/τίθημι)
 * τιμάω, τιμήσω, ἐτίμησα, τετίμηκα, τετίμημαι, ἐτιμήθην - [to honor, esteem](https://logeion.uchicago.edu/τιμάω)
 * τότε - [then, at that time](https://logeion.uchicago.edu/τότε)
 * τρεῖς, τρία - [three](https://logeion.uchicago.edu/τρεῖς)

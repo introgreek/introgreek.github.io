@@ -22,19 +22,19 @@ grand_parent: Textbook
 
 ### Verbs
 {: .no_toc }
-* δίδωμι, δώσω, ἔδωκα, δέδωκα, δέδομαι, ἐδόθην - to give, grant, allow
-  * ἀποδίδωμι - to give back, to give away; (middle voice) to sell
-* τίθημι, θήσω, ἔθηκα, τέθηκα, τέθειμαι, ἐτέθην - to put, place
-  * ἀνατίθημι (ἀνά + τίθημι) - to set up, to dedicate (as an offering)
-  * ἐπιτίθημι (ἐπί + τίθημι) - to place upon; (middle voice) to attack (+ dative)
-* ἵημι, ἥσω, -ἧκα, -εἷκα, -εἷμαι, -εἵθην - to hurl, throw, send; (middle voice) to rush, hurry
-  * ἀφίημι (ἀπό + ἵημι) - to send away, to release, to set free
-  * ἐφίημι (ἐπί + ἵημι) - to send against; (middle voice) to command, order; (middle voice) to aim at, desire (+ genitive)
-* ἵστημι, στήσω, ἔστησα or ἔστην, ἕστηκα, ἕσταμαι, ἐστάθην - (active and 1st aorist transitive) to make stand up, set up, cause to stop; (passive and 2nd aorist intransitive) to stand, be set up, stop
-  * ἀφίστημι (ἀπό + ἵστημι) - (trans.) to cause to revolt; (intrans.) to revolt from (ἀπό + genitive)
-  * ἐφίστημι (ἐπί + ἵστημι) - (trans.) to set up in charge of; (intrans.) to be in charge of (+ dative)
-  * καθίστημι (κατά + ἵστημι) - (trans.) to establish; (intrans.) to settle, be established
-* εἶμι - to go
+* δίδωμι, δώσω, ἔδωκα, δέδωκα, δέδομαι, ἐδόθην - [to give, grant, allow](https://logeion.uchicago.edu/δίδωμι)
+  * ἀποδίδωμι - [to give back, to give away; (middle voice) to sell](https://logeion.uchicago.edu/ἀποδίδωμι)
+* τίθημι, θήσω, ἔθηκα, τέθηκα, τέθειμαι, ἐτέθην - [to put, place](https://logeion.uchicago.edu/τίθημι)
+  * ἀνατίθημι (ἀνά + τίθημι) - [to set up, to dedicate (as an offering)](https://logeion.uchicago.edu/ἀνατίθημι)
+  * ἐπιτίθημι (ἐπί + τίθημι) - [to place upon; (middle voice) to attack (+ dative)](https://logeion.uchicago.edu/ἐπιτίθημι)
+* ἵημι, ἥσω, -ἧκα, -εἷκα, -εἷμαι, -εἵθην - [to hurl, throw, send; (middle voice) to rush, hurry](https://logeion.uchicago.edu/ἵημι)
+  * ἀφίημι (ἀπό + ἵημι) - [to send away, to release, to set free](https://logeion.uchicago.edu/ἀφίημι)
+  * ἐφίημι (ἐπί + ἵημι) - [to send against; (middle voice) to command, order; (middle voice) to aim at, desire (+ genitive)](https://logeion.uchicago.edu/ἐφίημι)
+* ἵστημι, στήσω, ἔστησα or ἔστην, ἕστηκα, ἕσταμαι, ἐστάθην - [(active and 1st aorist transitive) to make stand up, set up, cause to stop; (passive and 2nd aorist intransitive) to stand, be set up, stop](https://logeion.uchicago.edu/ἵστημι)
+  * ἀφίστημι (ἀπό + ἵστημι) - [(trans.) to cause to revolt; (intrans.) to revolt from (ἀπό + genitive)](https://logeion.uchicago.edu/ἀφίστημι)
+  * ἐφίστημι (ἐπί + ἵστημι) - [(trans.) to set up in charge of; (intrans.) to be in charge of (+ dative)](https://logeion.uchicago.edu/ἐφίστημι)
+  * καθίστημι (κατά + ἵστημι) - [(trans.) to establish; (intrans.) to settle, be established](https://logeion.uchicago.edu/καθίστημι)
+* εἶμι - [to go](https://logeion.uchicago.edu/εἶμι)
 
 ***
 
