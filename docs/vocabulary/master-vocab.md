@@ -106,7 +106,7 @@ parent: Vocabulary
 
 ## η
 
-* ἤ - [or](https://logeion.uchicago.edu/ἤ) (ἤ ... ἤ - either ... or)
+* ἤ - [or; than (with comparative)](https://logeion.uchicago.edu/ἤ) (ἤ ... ἤ - either ... or)
 * ἡδύς, ἡδεῖα, ἡδύ - [sweet](https://logeion.uchicago.edu/ἡδύς)
 * ἡμέτερος, -α, -η - [our, ours](https://logeion.uchicago.edu/ἡμέτερος)
 
@@ -142,6 +142,8 @@ parent: Vocabulary
 ## μ
 
 * μαθητής, μαθητοῦ, m. - [student](https://logeion.uchicago.edu/μαθητής)
+* μάλιστα - [most](https://logeion.uchicago.edu/μάλιστα)
+* μᾶλλον - [more](https://logeion.uchicago.edu/μᾶλλον)
 * μανθάνω, μαθήσομαι, ἔμαθον, μεμάθηκα, --, -- - [to learn](https://logeion.uchicago.edu/μανθάνω)
 * μάρτυς, μάρτυρος, m./f. - [witness](https://logeion.uchicago.edu/μάρτυς)
 * μέγας, μεγάλη, μέγα - [big, great](https://logeion.uchicago.edu/μέγας)
@@ -170,6 +172,7 @@ parent: Vocabulary
 * οἰκία, οἰκίας, f. - [home, house](https://logeion.uchicago.edu/οἰκία)
 * οἶνος, οἴνου, m. - [wine](https://logeion.uchicago.edu/οἶνος)
 * ὀκτώ - [eight](https://logeion.uchicago.edu/ὀκτώ) (indeclinable)
+* ὀλίγος, ὀλίγη, ὀλίγον - [little, small](https://logeion.uchicago.edu/ὀλίγος)
 * ὅμως - [nevertheless, still](https://logeion.uchicago.edu/ὅμως)
 * ὅπλον, ὅπλου, n. - [weapon](https://logeion.uchicago.edu/ὅπλον)
 * ὁράω, ὄψομαι, εἶδον, ἑώρακα/ἑόρακα, ἑώραμαι/ὦμμαι, ὤφθην - [to see](https://logeion.uchicago.edu/ὁράω)
@@ -219,6 +222,7 @@ parent: Vocabulary
 
 ## τ
 
+* ταχύς, ταχεῖα, ταχύ - [swift, fast, quick](https://logeion.uchicago.edu/ταχύς)
 * τε - (enclitic, post-positive) [and](https://logeion.uchicago.edu/τε)
 * τέτταρες, τέτταρα - [four](https://logeion.uchicago.edu/τέσσαρες)
 * τιμάω, τιμήσω, ἐτίμησα, τετίμηκα, τετίμημαι, ἐτιμήθην - [to honor, esteem](https://logeion.uchicago.edu/τιμάω)

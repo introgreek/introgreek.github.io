@@ -65,11 +65,13 @@ parent: Vocabulary
 * μέγας, μεγάλη, μέγα - [big, great](https://logeion.uchicago.edu/μέγας)
 * μέλας, μέλαινα, μέλαν (m./n. stem μέλαν-) - [black](https://logeion.uchicago.edu/μέλας)
 * ὀκτώ - [eight](https://logeion.uchicago.edu/ὀκτώ) (indeclinable)
+* ὀλίγος, ὀλίγη, ὀλίγον - [little, small](https://logeion.uchicago.edu/ὀλίγος)
 * πέντε - [five](https://logeion.uchicago.edu/πέντε) (indeclinable)
 * πολύς, πολλή, πολύ - [much (singular); many (plural)](https://logeion.uchicago.edu/πολύς)
 * πρῶτος, -η, -ον - [first](https://logeion.uchicago.edu/πρῶτος)
 * σαφής, σαφές - [clear, distinct](https://logeion.uchicago.edu/σαφής)
 * σός, -ή, -όν - [your, yours (singular)](https://logeion.uchicago.edu/σός)
+* ταχύς, ταχεῖα, ταχύ - [swift, fast, quick](https://logeion.uchicago.edu/ταχύς)
 * τέτταρες, τέτταρα - [four](https://logeion.uchicago.edu/τέσσαρες)
 * τρεῖς, τρία - [three](https://logeion.uchicago.edu/τρεῖς)
 * τρίτος, -η, -ον - [third](https://logeion.uchicago.edu/τρίτος)
@@ -95,6 +97,7 @@ parent: Vocabulary
 ### Conjunctions
 {: .no_toc }
 
+* ἤ - [than (with comparative)](https://logeion.uchicago.edu/ἤ)
 * ὥστε / ὡς - [that, so that, and so, and thus, such that, so as, as to](https://logeion.uchicago.edu/ὥστε) (result clause)
 
 ***
@@ -102,6 +105,8 @@ parent: Vocabulary
 ### Adverbs
 {: .no_toc }
 
+* μᾶλλον - [more](https://logeion.uchicago.edu/μᾶλλον)
+* μάλιστα - [most](https://logeion.uchicago.edu/μάλιστα)
 * οὕτω(ς) - [so, in such a way, such](https://logeion.uchicago.edu/οὕτως) (signal word for result clause; -ς before a word that begins with a vowel)
 
 <!--

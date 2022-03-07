@@ -23,19 +23,19 @@ grand_parent: Textbook
 ### Adjectives
 {: .no_toc }
 
-* ὀλίγος, ὀλίγη, ὀλίγον - little, small
-* ταχύς, ταχεῖα, ταχύ - swift, fast, quick
+* ὀλίγος, ὀλίγη, ὀλίγον - [little, small](https://logeion.uchicago.edu/ὀλίγος)
+* ταχύς, ταχεῖα, ταχύ - [swift, fast, quick](https://logeion.uchicago.edu/ταχύς)
 
 ### Adverbs
 {: .no_toc }
 
-* μᾶλλον - more
-* μάλιστα - most
+* μᾶλλον - [more](https://logeion.uchicago.edu/μᾶλλον)
+* μάλιστα - [most](https://logeion.uchicago.edu/μάλιστα)
 
 ### Conjunctions
 {: .no_toc }
 
-* ἤ - than (with comparative)
+* ἤ - [than (with comparative)](https://logeion.uchicago.edu/ἤ)
 
 ***
 
