@@ -23,14 +23,14 @@ grand_parent: Textbook
 ### Verbs
 {: .no_toc }
 
-* βαίνω, -βήσομαι, -ἔβην, βέβηκα, -βέβαμαι, -εβάθην - to walk, step, go
-  * ἀναβαίνω (ἀνα + βαίνω) - to walk up; to board a ship; to mount a horse
-  * καταβαίνω (κατά + βαίνω) - to walk down; to dismount (a horse); to go down to the sea
-* γιγνώσκω, γνώσομαι, ἔγνων, ἔγνωκα, ἔγνωσμαι, ἐγνώσθην - to recognize, know
-* δύω, -δύσω, -ἔδυν, -δέδυκα, -δέδυμαι, -ἐδύθην - to enter; to put on (clothes); to sink, set
-  * καταδύω (κατά + δύω) - to set (often re: the sun); to sink
-  * ἀποδύω (ἀπό + δύω) - to strip off (someone else's armor or clothes); (middle/passive and intransitive aorist) to undress
-* ἁλίσκομαι, ἁλώσομαι, ἕαλων, ἑάλωκα, --, -- - to be seized, caught
+* βαίνω, -βήσομαι, -ἔβην, βέβηκα, -βέβαμαι, -εβάθην - [to walk, step, go](https://logeion.uchicago.edu/βαίνω)
+  * ἀναβαίνω (ἀνα + βαίνω) - [to walk up; to board a ship; to mount a horse](https://logeion.uchicago.edu/ἀναβαίνω)
+  * καταβαίνω (κατά + βαίνω) - [to walk down; to dismount (a horse); to go down to the sea](https://logeion.uchicago.edu/καταβαίνω)
+* γιγνώσκω, γνώσομαι, ἔγνων, ἔγνωκα, ἔγνωσμαι, ἐγνώσθην - [to recognize, know](https://logeion.uchicago.edu/γιγνώσκω)
+* δύω, -δύσω, -ἔδυν, -δέδυκα, -δέδυμαι, -ἐδύθην - [to enter; to put on (clothes); to sink, set](https://logeion.uchicago.edu/δύω)
+  * καταδύω (κατά + δύω) - [to set (often re: the sun); to sink](https://logeion.uchicago.edu/καταδύω)
+  * ἀποδύω (ἀπό + δύω) - [to strip off (someone else's armor or clothes); (middle/passive and intransitive aorist) to undress](https://logeion.uchicago.edu/ἀποδύω)
+* ἁλίσκομαι, ἁλώσομαι, ἕαλων, ἑάλωκα, --, -- - [to be seized, caught](https://logeion.uchicago.edu/ἁλίσκομαι)
 
 ***
 

@@ -24,6 +24,7 @@ parent: Vocabulary
 * αἱρέω, αἱρήσω, εἷλον, ᾕρηκα, ᾕρημαι, ᾑρέθην - to take, seize
 * ἀκούω, ἀκούσομαι, ἤκουσα, ἀκήκοα, --, ἠκούσθην - “[to hear, listen to](https://logeion.uchicago.edu/ἀκούω) (if object is a person, use genitive; if object is a thing, use accusative)
 * ἀληθής, ἀληθές - [true](https://logeion.uchicago.edu/ἀληθής)
+* ἁλίσκομαι, ἁλώσομαι, ἕαλων, ἑάλωκα, --, -- - [to be seized, caught](https://logeion.uchicago.edu/ἁλίσκομαι)
 * ἀλλά - [but](https://logeion.uchicago.edu/ἀλλά)
 * ἀλλήλων - [one another, each other](https://logeion.uchicago.edu/ἀλλήλων)
 * ἄλλος, ἄλλη, ἄλλο - [another, other](https://logeion.uchicago.edu/ἄλλος); (ἄλλος ... ἄλλος) one ... the other
@@ -31,9 +32,11 @@ parent: Vocabulary
 * ἄνθρωπος, ἀνθρώπου, m. - [person, human](https://logeion.uchicago.edu/ἄνθρωπος)
 * ἀνήρ, ἀνδρός, m. - [man, husband](https://logeion.uchicago.edu/ἀνήρ)
 * ἀνά - [up](https://logeion.uchicago.edu/ἀνά)
+* ἀναβαίνω (ἀνα + βαίνω), ἀναβήσομαι, ἀνέβην, ἀναβέβηκα, ἀναβέβαμαι, ἀνεβάθην - [to walk up; to board a ship; to mount a horse](https://logeion.uchicago.edu/ἀναβαίνω)
 * ἀνατίθημι (ἀνά + τίθημι), ἀναθήσω, ἀνέθηκα, ἀνατέθηκα, ἀνατέθειμαι, ἀνετέθην - [to set up, to dedicate (as an offering)](https://logeion.uchicago.edu/ἀνατίθημι)
 * ἀπό (+ gen.) - [away from](https://logeion.uchicago.edu/ἀπό)
 * ἀποδίδωμι, ἀποδώσω, ἀπέδωκα, ἀποδέδωκα, ἀποδέδομαι, ἀπεδόθην - [to give back, to give away; (middle voice) to sell](https://logeion.uchicago.edu/ἀποδίδωμι)
+* ἀποδύω (ἀπό + δύω), ἀποδύσω, ἀπέδυν, ἀποδέδυκα, ἀποδέδυμαι, ἀπεδύθην - [to strip off (someone else's armor or clothes); (middle/passive and intransitive aorist) to undress](https://logeion.uchicago.edu/ἀποδύω)
 * ἀποκτείνω, ἀποκτενέω, ἀπέκτεινα, ἀπέκτονα, --, -- - [to kill](https://logeion.uchicago.edu/ἀποκτείνω)
 * ἄρχω, ἄρξω, ἦρξα, ἦρχα, ἦργμαι, ἤρχθην - [to begin (+ part.)](https://logeion.uchicago.edu/ἄρχω)
 * ἀσθενής, ἀσθενές - [weak](https://logeion.uchicago.edu/ἀσθενής)
@@ -45,6 +48,7 @@ parent: Vocabulary
 
 ## β
 
+* βαίνω, -βήσομαι, -ἔβην, βέβηκα, -βέβαμαι, -εβάθην - [to walk, step, go](https://logeion.uchicago.edu/βαίνω)
 * βάλλω, βαλέω, ἔβαλον, βέβληκα, βέβλημαι, ἐβλήθην - [to throw, cast, hurl, hit](https://logeion.uchicago.edu/βάλλω)
 * βαρύς, βαρεῖα, βαρύ - [heavy](https://logeion.uchicago.edu/βαρύς)
 * βιβλίον, βιβλίου, n. - [book](https://logeion.uchicago.edu/βιβλίον)
@@ -58,6 +62,7 @@ parent: Vocabulary
 * γένος, γένους, n. - [family, class, kind](https://logeion.uchicago.edu/γένος)
 * γέρας, γέρως, n. - [gift, prize](https://logeion.uchicago.edu/γέρας)
 * γίγνομαι, γενήσομαι, ἐγενόμην, γέγονα, γεγένημαι, ἐγενήθην - [to become, to happen](https://logeion.uchicago.edu/γίγνομαι)
+* γιγνώσκω, γνώσομαι, ἔγνων, ἔγνωκα, ἔγνωσμαι, ἐγνώσθην - [to recognize, know](https://logeion.uchicago.edu/γιγνώσκω)
 * γνώμη, γνώμης, f. - [judgment, opinion](https://logeion.uchicago.edu/γνώμη)
 * γράφω, γράψω, ἔγραψα, γέγραφα, γέγραμμαι, ἐγράφην - [to write](https://logeion.uchicago.edu/γράφω)
 * γυνή, γυναικός, f. - [woman, wife](https://logeion.uchicago.edu/γυνή)
@@ -81,6 +86,7 @@ parent: Vocabulary
 * δοκέω, δοκήσω, ἔδοξα, --, δέδογμαι, -ἐδόχθην - [to think; (3rd sg.) to seem (best)](https://logeion.uchicago.edu/δοκέω)
 * δύναμαι, δυνήσομαι, --, --, δεδύνημαι, ἐδυνήθην - [to be able to, can](https://logeion.uchicago.edu/δύναμαι)
 * δύο - [two](https://logeion.uchicago.edu/δύο)
+* δύω, -δύσω, -ἔδυν, -δέδυκα, -δέδυμαι, -ἐδύθην - [to enter; to put on (clothes); to sink, set](https://logeion.uchicago.edu/δύω)
 
 ## ε
 
@@ -141,6 +147,8 @@ parent: Vocabulary
 * κάκος, κάκη, κάκον - [bad](https://logeion.uchicago.edu/κάκος)
 * καλός, -ή, -όν - [good, beautiful, handsome](https://logeion.uchicago.edu/καλός)
 * κατά - [down](https://logeion.uchicago.edu/κατά)
+* καταβαίνω (κατά + βαίνω), καταβήσομαι, κατέβην, καταβέβηκα, καταβέβαμαι, κατεβάθην - [to walk down; to dismount (a horse); to go down to the sea](https://logeion.uchicago.edu/καταβαίνω)
+* καταδύω (κατά + δύω), καταδύσω, κατέδυν, καταδέδυκα, καταδέδυμαι, κατεδύθην - [to set (often re: the sun); to sink](https://logeion.uchicago.edu/καταδύω)
 * κελεύω, κελεύσω, ἐκέλευσα, κεκέλευκα, κεκέλευσμαι, ἐκελεύσθην - [to order](https://logeion.uchicago.edu/κελεύω)
 * κίνδυνος, κινδύνου, m. - [danger](https://logeion.uchicago.edu/κίνδυνος)
 * κρύπτω, κρύψω, ἔκρυψα, --, κέκρυμμαι, ἐκρύφθην - [to hide, conceal](https://logeion.uchicago.edu/κρύπτω)

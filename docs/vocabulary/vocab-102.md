@@ -12,15 +12,21 @@ parent: Vocabulary
 
 ## Verbs
 
+* ἁλίσκομαι, ἁλώσομαι, ἕαλων, ἑάλωκα, --, -- - [to be seized, caught](https://logeion.uchicago.edu/ἁλίσκομαι)
+* ἀναβαίνω (ἀνα + βαίνω), ἀναβήσομαι, ἀνέβην, ἀναβέβηκα, ἀναβέβαμαι, ἀνεβάθην - [to walk up; to board a ship; to mount a horse](https://logeion.uchicago.edu/ἀναβαίνω)
 * ἀνατίθημι (ἀνά + τίθημι), ἀναθήσω, ἀνέθηκα, ἀνατέθηκα, ἀνατέθειμαι, ἀνετέθην - [to set up, to dedicate (as an offering)](https://logeion.uchicago.edu/ἀνατίθημι)
 * ἀποδίδωμι (ἀπό + δίδωμι), ἀποδώσω, ἀπέδωκα, ἀποδέδωκα, ἀποδέδομαι, ἀπεδόθην - [to give back, to give away; (middle voice) to sell](https://logeion.uchicago.edu/ἀποδίδωμι)
+* ἀποδύω (ἀπό + δύω), ἀποδύσω, ἀπέδυν, ἀποδέδυκα, ἀποδέδυμαι, ἀπεδύθην - [to strip off (someone else's armor or clothes); (middle/passive and intransitive aorist) to undress](https://logeion.uchicago.edu/ἀποδύω)
 * ἀποκτείνω, ἀποκτενέω, ἀπέκτεινα, ἀπέκτονα, --, -- - [to kill](https://logeion.uchicago.edu/ἀποκτείνω)
 * ἀφίημι (ἀπό + ἵημι), ἀφήσω, ἀφῆκα, ἀφεῖκα, ἀφεῖμαι, ἀφείθην - [to send away, to release, to set free](https://logeion.uchicago.edu/ἀφίημι)
 * ἀφίστημι (ἀπό + ἵστημι), ἀποστήσω, ἀπέστησα or ἀπέστην, ἀφέστηκα, ἀφέσταμαι, ἀπεστάθην - [(trans.) to cause to revolt; (intrans.) to revolt from (ἀπό + genitive)](https://logeion.uchicago.edu/ἀφίστημι)
+* βαίνω, -βήσομαι, -ἔβην, βέβηκα, -βέβαμαι, -εβάθην - [to walk, step, go](https://logeion.uchicago.edu/βαίνω)
 * βάλλω, βαλέω, ἔβαλον, βέβληκα, βέβλημαι, ἐβλήθην - [to throw, cast, hurl, hit](https://logeion.uchicago.edu/βάλλω)
+* γιγνώσκω, γνώσομαι, ἔγνων, ἔγνωκα, ἔγνωσμαι, ἐγνώσθην - [to recognize, know](https://logeion.uchicago.edu/γιγνώσκω)
 * δηλόω, δηλώσω, ἐδήλωσα, δεδήλωκα, δεδήλωμαι, ἐδηλώθην - [to make clear, point out](https://logeion.uchicago.edu/δηλόω)
 * διαβαίνω, διαβήσομαι, διέβην, διαβέβηκα, διαβέβαμαι, διεβάθην - [to cross](https://logeion.uchicago.edu/διαβαίνω)
 * δίδωμι, δώσω, ἔδωκα, δέδωκα, δέδομαι, ἐδόθην - [to give, grant, allow](https://logeion.uchicago.edu/δίδωμι)
+* δύω, -δύσω, -ἔδυν, -δέδυκα, -δέδυμαι, -ἐδύθην - [to enter; to put on (clothes); to sink, set](https://logeion.uchicago.edu/δύω)
 * εἶμι - [to go](https://logeion.uchicago.edu/εἶμι)
 * ἐπιτίθημι (ἐπί + τίθημι), ἐπιθήσω, ἐπέθηκα, ἐπιτέθηκα, ἐπιτέθειμαι, ἐπετέθην - [to place upon; (middle voice) to attack (+ dative)](https://logeion.uchicago.edu/ἐπιτίθημι)
 * ἐφίημι (ἐπί + ἵημι), ἐφήσω, ἐφῆκα, ἐφεῖκα, ἐφεῖμαι, ἐφείθην - [to send against; (middle voice) to command, order; (middle voice) to aim at, desire (+ genitive)](https://logeion.uchicago.edu/ἐφίημι)
@@ -29,6 +35,8 @@ parent: Vocabulary
 * ἵημι, ἥσω, -ἧκα, -εἷκα, -εἷμαι, -εἵθην - [to hurl, throw, send; (middle voice) to rush, hurry](https://logeion.uchicago.edu/ἵημι)
 * ἵστημι, στήσω, ἔστησα or ἔστην, ἕστηκα, ἕσταμαι, ἐστάθην - [(active and 1st aorist transitive) to make stand up, set up, cause to stop; (passive and 2nd aorist intransitive) to stand, be set up, stop](https://logeion.uchicago.edu/ἵστημι)
 * καθίστημι (κατά + ἵστημι), καταστήσω, κατέστησα or κατέστην, καθέστηκα, καθέσταμαι, κατεστάθην - [(trans.) to establish; (intrans.) to settle, be established](https://logeion.uchicago.edu/καθίστημι)
+* καταβαίνω (κατά + βαίνω), καταβήσομαι, κατέβην, καταβέβηκα, καταβέβαμαι, κατεβάθην - [to walk down; to dismount (a horse); to go down to the sea](https://logeion.uchicago.edu/καταβαίνω)
+* καταδύω (κατά + δύω), καταδύσω, κατέδυν, καταδέδυκα, καταδέδυμαι, κατεδύθην - [to set (often re: the sun); to sink](https://logeion.uchicago.edu/καταδύω)
 * νικάω, νικήσω, ἐνίκησα, νενίκηκα, νενίκημαι, ἐνικήθην - [to win, conquer, prevail](https://logeion.uchicago.edu/νικάω)
 * ὁράω, ὄψομαι, εἶδον, ἑώρακα/ἑόρακα, ἑώραμαι/ὦμμαι, ὤφθην - [to see](https://logeion.uchicago.edu/ὁράω)
 * πείθω, πείσομαι, ἔπεισα, πέπεικα / πέποιθα, πέπεισμαι, ἐπείσθην - [to persuade; (middle voice + dative) to obey, trust, believe](https://logeion.uchicago.edu/πείθω)
@@ -36,24 +44,6 @@ parent: Vocabulary
 * τίθημι, θήσω, ἔθηκα, τέθηκα, τέθειμαι, ἐτέθην - [to put, place](https://logeion.uchicago.edu/τίθημι)
 * τιμάω, τιμήσω, ἐτίμησα, τετίμηκα, τετίμημαι, ἐτιμήθην - [to honor, esteem](https://logeion.uchicago.edu/τιμάω)
 * φεύγω, φεύξομαι / φευξέομαι, ἔφυγον, πέφευγα, --, -- - [to flee, escape](https://logeion.uchicago.edu/φεύγω)
-
-<!--
-
-* δίδωμι, δώσω, ἔδωκα, δέδωκα, δέδομαι, ἐδόθην - [to give, grant, allow](https://logeion.uchicago.edu/δίδωμι)
-* ἀποδίδωμι, ἀποδώσω, ἀπέδωκα, ἀποδέδωκα, ἀποδέδομαι, ἀπεδόθην - [to give back, to give away; (middle voice) to sell](https://logeion.uchicago.edu/ἀποδίδωμι)
-* τίθημι, θήσω, ἔθηκα, τέθηκα, τέθειμαι, ἐτέθην - [to put, place](https://logeion.uchicago.edu/τίθημι)
-* ἀνατίθημι (ἀνά + τίθημι), ἀναθήσω, ἀνέθηκα, ἀνατέθηκα, ἀνατέθειμαι, ἀνετέθην - [to set up, to dedicate (as an offering)](https://logeion.uchicago.edu/ἀνατίθημι)
-* ἐπιτίθημι (ἐπί + τίθημι), ἐπιθήσω, ἐπέθηκα, ἐπιτέθηκα, ἐπιτέθειμαι, ἐπετέθην - [to place upon; (middle voice) to attack (+ dative)](https://logeion.uchicago.edu/ἐπιτίθημι)
-* ἵημι, ἥσω, -ἧκα, -εἷκα, -εἷμαι, -εἵθην - [to hurl, throw, send; (middle voice) to rush, hurry](https://logeion.uchicago.edu/ἵημι)
-* ἀφίημι (ἀπό + ἵημι), ἀφήσω, ἀφῆκα, ἀφεῖκα, ἀφεῖμαι, ἀφείθην - [to send away, to release, to set free](https://logeion.uchicago.edu/ἀφίημι)
-* ἐφίημι (ἐπί + ἵημι), ἐφήσω, ἐφῆκα, ἐφεῖκα, ἐφεῖμαι, ἐφείθην - [to send against; (middle voice) to command, order; (middle voice) to aim at, desire (+ genitive)](https://logeion.uchicago.edu/ἐφίημι)
-* ἵστημι, στήσω, ἔστησα or ἔστην, ἕστηκα, ἕσταμαι, ἐστάθην - [(active and 1st aorist transitive) to make stand up, set up, cause to stop; (passive and 2nd aorist intransitive) to stand, be set up, stop](https://logeion.uchicago.edu/ἵστημι)
-* ἀφίστημι (ἀπό + ἵστημι), ἀποστήσω, ἀπέστησα or ἀπέστην, ἀφέστηκα, ἀφέσταμαι, ἀπεστάθην - [(trans.) to cause to revolt; (intrans.) to revolt from (ἀπό + genitive)](https://logeion.uchicago.edu/ἀφίστημι)
-* ἐφίστημι (ἐπί + ἵστημι), ἐπιστήσω, ἐπέστησα or ἐπέστην, ἐφέστηκα, ἐφέσταμαι, ἐπεστάθην - [(trans.) to set up in charge of; (intrans.) to be in charge of (+ dative)](https://logeion.uchicago.edu/ἐφίστημι)
-* καθίστημι (κατά + ἵστημι), καταστήσω, κατέστησα or κατέστην, καθέστηκα, καθέσταμαι, κατεστάθην - [(trans.) to establish; (intrans.) to settle, be established](https://logeion.uchicago.edu/καθίστημι)
-* εἶμι - [to go](https://logeion.uchicago.edu/εἶμι)
-
--->
 
 ***
 
@@ -140,16 +130,7 @@ parent: Vocabulary
 * μάλιστα - [most](https://logeion.uchicago.edu/μάλιστα)
 * οὕτω(ς) - [so, in such a way, such](https://logeion.uchicago.edu/οὕτως) (signal word for result clause; -ς before a word that begins with a vowel)
 
-
-
-
 <!--
-
-## Verbs
-* δίδωμι
-* τίθημι
-* ἵστημι
-* ἵημι
 
 ## Nouns
 
