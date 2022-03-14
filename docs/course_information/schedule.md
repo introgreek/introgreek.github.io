@@ -131,7 +131,8 @@ Athematic Aorists
 
 ### Monday, March 14
 {: .no_toc }
-Review
+Elisions and Compounds  
+**Today's slideshow**: [link here](https://drive.google.com/file/d/1OBhRKXJ747lDUK8EVyDFyj-H0DMFOHs-/view?usp=sharing)
 
 ### Wednesday, March 16
 {: .no_toc }
