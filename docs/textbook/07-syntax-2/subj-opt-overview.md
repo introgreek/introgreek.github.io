@@ -33,7 +33,7 @@ The **subjunctive and optative moods** deal with verbal actions that are less de
 * The **subjunctive** means that the speaker considers the action may happen happen or is more hypothetical than the indicative, i.e., the verbal action hasn't yet happened, isn't now happening, or won't happen definitely or verifiably.
 * The **optative** means that the speaker considers the action to be a wish or to be even more hypothetical or less definite than the subjunctive.
 
-Both the subjunctive and the optative occur in the **present, aorist, and (more rarely) perfect tenses**, while the optative alone and very rarely can also occur in the **future tense**.
+Both the subjunctive and the optative occur in the **present, aorist, and (more rarely) perfect tenses**, while the optative alone and very rarely can also occur in the **future tense**. Tenses in the subjunctive and the optative almost always indicate **aspect** rather than absolute time, similar to the way in which tenses in infinitives and participles work. For a review of how aspect works, check out [Verbal Aspect](../infs-and-parts/infinitive-uses#verbal-aspect) in the Infinitive Uses unit.
 
 ***
 
