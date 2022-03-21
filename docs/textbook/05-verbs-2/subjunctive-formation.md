@@ -150,7 +150,7 @@ The **perfect middle/passive subjunctive** is similarly formed periphrastically,
 
 ***
 
-## Contracts and Athematics
+## Contracts, Athematics, and Irregulars
 
 The **contract verbs** will act as expected in the **present subjunctive**: the -ε, -α, or -ο will **contract** with the initial vowel of the ending that attaches to the stem. A full listing of contractions, including those with vowels that we have not yet encountered, can be found [in the Reference section](../../reference/contractions).
 
@@ -193,7 +193,7 @@ Note that because of the way that alpha-contractions work, **the present indicat
 
 \* Note that these forms look exactly like their indicative counterparts and you will again need context to figure out whether the form in question is indicative or subjunctive.
 
-### Athematics
+### Athematics and Irregulars
 
 A new consideration is that the core four -μι verbs and the athematic aorists that we learned about a few units ago will *also* experience contraction in the present and the aorist subjunctive. The contraction schemes fit into the -ε and -ο patterns as follows, with the stem indicated after the appropriate tense. Do note that even if a stem ends in -α, it will still fall into an epsilon-contract pattern.
 
@@ -208,7 +208,7 @@ A new consideration is that the core four -μι verbs and the athematic aorists 
   * γιγνώσκω (aorist: γνο-)
   * ἁλίσκομαι (aorist: ἁλο-)
 
-Here are the paradigms for the present and aorist subjunctive of these verbs.
+Here are the paradigms for the present and aorist subjunctive of these verbs, in addition to some irregular verbs (εἰμί, εἶμι, and φημί) that we've met so far.
 
 #### Present Active Subjunctive
 {: .no_toc }
