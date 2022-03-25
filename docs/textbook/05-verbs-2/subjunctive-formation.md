@@ -226,12 +226,12 @@ Here are the paradigms for the present and aorist subjunctive of these verbs, in
 
 | Pres. Act. Subj. | εἰμί ("be")\* | εἶμι ("go")\*\* | φημί |
 | ----- | ----- | ----- | ----- | ---- |
-| 1st sg. | ὦ | ἰῶ | φῶ |
-| 2nd sg. | ᾖς | ἰῇς | φῇς |
-| 3rd sg. | ᾖ | ἰῇ | φῇ |
-| 1st pl. | ὦμεν | ἰῶμεν | φῶμεν |
-| 2nd pl. | ἦτε | ἰῆτε | φῆτε |
-| 3rd pl. | ὦσι(ν) | ἰῶσι(ν) | φῶσι(ν) |
+| 1st sg. | ὦ | ἴω | φῶ |
+| 2nd sg. | ᾖς | ἴῃς | φῇς |
+| 3rd sg. | ᾖ | ἴῃ | φῇ |
+| 1st pl. | ὦμεν | ἴωμεν | φῶμεν |
+| 2nd pl. | ἦτε | ἴητε | φῆτε |
+| 3rd pl. | ὦσι(ν) | ἴωσι(ν) | φῶσι(ν) |
 
 \* The present active subjunctive of εἶμι look basically like accented subjunctive endings.  
 \*\* The present subjunctive forms of εἶμι differ from the present subjunctive forms of ἵημι only in breathing marks: the former have smooth breathings while the latter have rough breathings.
