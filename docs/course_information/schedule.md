@@ -158,7 +158,7 @@ Subjunctive: Formation
 
 ### Friday, March 25
 {: .no_toc }
-Independent Uses of the Subjunctive: Hortatory, Deliberative, Prohibitive
+Subjunctive: Formation continued
 
 ***
 
@@ -166,7 +166,7 @@ Independent Uses of the Subjunctive: Hortatory, Deliberative, Prohibitive
 
 ### Monday, March 28
 {: .no_toc }
-Dependent Uses of the Subjunctive: Purpose Clauses, Fear Clauses
+Independent Uses of the Subjunctive: Hortatory, Deliberative, Prohibitive; Dependent Uses of the Subjunctive: Purpose Clauses, Fear Clauses
 
 ### Wednesday, March 30
 {: .no_toc }
