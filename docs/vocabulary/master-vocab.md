@@ -157,6 +157,7 @@ parent: Vocabulary
 
 * λαμβάνω, λήψομαι, ἔλαβον, εἴληφα, εἴλημμαι, ἐλήφθην - [to take](https://logeion.uchicago.edu/λαμβάνω)
 * λέγω, ἐρέω, εἶπον, εἴρηκα, --, -- - [to say, to speak](https://logeion.uchicago.edu/λέγω)
+* λείπω, λείψω, ἔλιπον, λέλοιπα, λέλειμμαι, ἐλείφθην - [to leave](https://logeion.uchicago.edu/λείπω)
 * λόγος, λόγου, m. - [word, speech](https://logeion.uchicago.edu/λόγος)
 * λύω, λύσω, ἔλυσα, λέλυκα, λέλυμαι, ἐλύθην - [to free, loosen](https://logeion.uchicago.edu/λύω)
 
@@ -265,6 +266,8 @@ parent: Vocabulary
 * φέρω, οἴσω, ἤνεγκον / ἤνεγκα, ἐνήνοχα, ἐνήνεγμαι, ἠνέχθην - [to bring, carry, bear](https://logeion.uchicago.edu/φέρω)
 * φεύγω, φεύξομαι / φευξέομαι, ἔφυγον, πέφευγα, --, -- - [to flee, escape](https://logeion.uchicago.edu/φεύγω)
 * φημί, φήσω, ἔφησα, --, --, -- - [to say](https://logeion.uchicago.edu/φημί)
+* φιλέω, φιλήσω, ἐφίλησα, πεφίληκα, πεφίλημαι, ἐφιλήθην - [to love; (+ complementary infinitive) to love to (infinitive)](https://logeion.uchicago.edu/φιλέω)
+* φοβέω, φοβήσω, ἐφόβησα, --, πεφόβημαι, ἐφοβήθην - [(active) to frighten, terrify; (middle) to fear, be afraid; (middle + complementary infinitive) to be afraid to (infinitive)](https://logeion.uchicago.edu/φοβέω)
 
 ## χ
 

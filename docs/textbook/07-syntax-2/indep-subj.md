@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Independent Uses of the Subjunctive
-permalink: /textbook/syntax-2/independent-subjunctive
-nav_order: 0
+permalink: /textbook/syntax-2/indep-subj
+nav_order: 2
 parent: 07 - Syntax 2
 grand_parent: Textbook
 ---
@@ -18,6 +18,12 @@ grand_parent: Textbook
 
 ***
 
+## Unit Vocabulary
+
+None
+
+***
+
 ## Independent versus Dependent Clauses
 
 A **clause** is a series of words that can communicate an idea, often centered around a **finite verb**. As we've seen, there are two major kinds of clauses: **independent clauses**, which stand on their own and communicate a complete thought; and **dependent clauses**, which are introduced by a subordinating conjunction or pronoun and require the context of a **main clause** in order to make sense. For example:
@@ -25,7 +31,7 @@ A **clause** is a series of words that can communicate an idea, often centered a
 * independent: He stands near the house.
 * dependent: Because he stands near the house... (we're left wondering what happens as a result of his standing near the house, which can be communicated by a main clause)
 
-This unit explores the ways in which the **subjunctive** can be used in an **independent clause**, i.e., in a sentence that stands alone which is not introduced by a subordinating conjunction or pronoun and which does not require another clause in order for it to make sense. We will explore the **dependent** uses of the subjunctive and the different conjunctions and pronouns that can introduce them in the next unit.
+This unit explores the ways in which the **subjunctive** can be used in **independent clauses**. Dependent clauses that use the subjunctive will be introduced in the next unit.
 
 Recall that the **tenses of subjunctive verbs** indicate **aspect** rather than absolute time, so a present subjunctive and an aorist subjunctive can refer to the same moment in time; the difference is whether the action is continuous or ongoing (present aspect) or instantaneous or completed (aorist aspect).
 
@@ -33,7 +39,13 @@ Also, since the subjunctive deals in the realm of non-factual circumstances, the
 
 ***
 
-## Hortatory
+## Independent Uses
+
+The following uses of the subjunctive are in independent clauses, meaning that these sentences stand on their own and do not need to be introduced by special conjunctions or pronouns.
+
+***
+
+### Hortatory Subjunctive
 
 A **hortatory subjunctive** issues a **first-person** command. Most often, it will be a **first person plural** verb in the subjunctive that **exhorts** the group to do something. For example:
 
@@ -46,7 +58,7 @@ The most straightforward translation for a hortatory subjunctive is **"let us [v
 
 ***
 
-## Prohibitive
+### Prohibitive Subjunctive
 
 A **prohibitive subjunctive** issues a negative command in the **2nd or 3rd person**, using the negation **μή**: **"don't [verb]" or "let [subject] not [verb]."** For example:
 
@@ -61,7 +73,7 @@ The difference between a prohibitive subjunctive and a negative hortatory subjun
 
 ***
 
-## Deliberative
+### Deliberative Subjunctive
 
 A **deliberative subjunctive** expresses a question wherein the speaker is *deliberating* in a course of action: "should...?". As a result, many deliberative subjunctives are in the first person.
 

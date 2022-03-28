@@ -37,6 +37,7 @@ parent: Vocabulary
 * καθίστημι (κατά + ἵστημι), καταστήσω, κατέστησα or κατέστην, καθέστηκα, καθέσταμαι, κατεστάθην - [(trans.) to establish; (intrans.) to settle, be established](https://logeion.uchicago.edu/καθίστημι)
 * καταβαίνω (κατά + βαίνω), καταβήσομαι, κατέβην, καταβέβηκα, καταβέβαμαι, κατεβάθην - [to walk down; to dismount (a horse); to go down to the sea](https://logeion.uchicago.edu/καταβαίνω)
 * καταδύω (κατά + δύω), καταδύσω, κατέδυν, καταδέδυκα, καταδέδυμαι, κατεδύθην - [to set (often re: the sun); to sink](https://logeion.uchicago.edu/καταδύω)
+* λείπω, λείψω, ἔλιπον, λέλοιπα, λέλειμμαι, ἐλείφθην - [to leave](https://logeion.uchicago.edu/λείπω)
 * νικάω, νικήσω, ἐνίκησα, νενίκηκα, νενίκημαι, ἐνικήθην - [to win, conquer, prevail](https://logeion.uchicago.edu/νικάω)
 * ὁράω, ὄψομαι, εἶδον, ἑώρακα/ἑόρακα, ἑώραμαι/ὦμμαι, ὤφθην - [to see](https://logeion.uchicago.edu/ὁράω)
 * πείθω, πείσομαι, ἔπεισα, πέπεικα / πέποιθα, πέπεισμαι, ἐπείσθην - [to persuade; (middle voice + dative) to obey, trust, believe](https://logeion.uchicago.edu/πείθω)
@@ -44,6 +45,8 @@ parent: Vocabulary
 * τίθημι, θήσω, ἔθηκα, τέθηκα, τέθειμαι, ἐτέθην - [to put, place](https://logeion.uchicago.edu/τίθημι)
 * τιμάω, τιμήσω, ἐτίμησα, τετίμηκα, τετίμημαι, ἐτιμήθην - [to honor, esteem](https://logeion.uchicago.edu/τιμάω)
 * φεύγω, φεύξομαι / φευξέομαι, ἔφυγον, πέφευγα, --, -- - [to flee, escape](https://logeion.uchicago.edu/φεύγω)
+* φιλέω, φιλήσω, ἐφίλησα, πεφίληκα, πεφίλημαι, ἐφιλήθην - [to love; (+ complementary infinitive) to love to (infinitive)](https://logeion.uchicago.edu/φιλέω)
+* φοβέω, φοβήσω, ἐφόβησα, --, πεφόβημαι, ἐφοβήθην - [(active) to frighten, terrify; (middle) to fear, be afraid; (middle + complementary infinitive) to be afraid to (infinitive)](https://logeion.uchicago.edu/φοβέω)
 
 ***
 

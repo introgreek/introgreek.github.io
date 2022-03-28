@@ -2,7 +2,7 @@
 layout: page
 title: Subjunctive and Optative Overview
 permalink: /textbook/syntax-2/subj-opt-overview
-nav_order: 0
+nav_order: 1
 parent: 07 - Syntax 2
 grand_parent: Textbook
 ---
