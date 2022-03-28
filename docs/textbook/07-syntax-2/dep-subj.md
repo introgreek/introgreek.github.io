@@ -88,14 +88,10 @@ Note that in the last example, **μή** serves as a full conjunction in its own
 
 It's worth noting that one of the conjunction options, ὡς, has been used in three other contexts before: [indirect statements](subordination/indirect-statement#ὅτι--ὡς), [result clauses](result-clauses), and [superlative adjectives/adverbs](../substantives-2/comp-and-superl#superlative-with-ὡς--ὅτι). The key to telling ὡς clauses apart is in the context of what precedes and follows the ὡς.
 
-For example:
-* if the main verb is a head verb (to say, to speak, to think, to know, etc.) and the ὡς clause contains an indicative verb, it's probably an indirect statement.
-* If there is a οὕτως in the main clause and the ὡς clause contains an indicative verb, it's probably an actual result clause.
-* If a superlative adjective or adverb immediately follows the ὡς, it's a superlative use.
-* If the ὡς has a subjunctive verb after it, then it's probably a purpose clasue.
+For example, if the main verb is a head verb (to say, to speak, to think, to know, etc.) and the ὡς clause contains an indicative verb, it's probably an **indirect statement**. If there is a οὕτως in the main clause and the ὡς clause contains an indicative verb, it's probably an **actual result clause**. If a superlative adjective or adverb immediately follows the ὡς, it's a **superlative use**. If the ὡς has a subjunctive verb after it, then it's probably a **purpose clause**.
 
 * ὁ παῖς ἀγγέλλει **ὡς** ὑμᾶς εἴδομεν. The child announces that we saw you all. (indirect statement)
-* ἀπὸ τῆς νέως οὕτως ἤλθετε **ὡς** ὑμᾶς εἴδομεν. You all came from the ship in such a way that we saw you all. (result clause)
+* ἀπὸ τῆς νέως οὕτως ἤλθετε **ὡς** ὑμᾶς εἴδομεν. You all came from the ship in such a way that we saw you all. (actual result clause)
 * **ὡς** τάχιστα ἤλθετε. You all came as quickly as possible. (superlative)
 * ἐρχόμεθα εἰς τὴν πόλιν **ὡς** ὑμᾶς ἴδωμεν. We are going into the city in order to see you all. (purpose clause)
 
