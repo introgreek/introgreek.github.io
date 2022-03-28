@@ -166,15 +166,16 @@ Subjunctive: Formation continued
 
 ### Monday, March 28
 {: .no_toc }
-Independent Uses of the Subjunctive: Hortatory, Deliberative, Prohibitive; Dependent Uses of the Subjunctive: Purpose Clauses, Fear Clauses
+Independent Uses of the Subjunctive: Hortatory, Deliberative, Prohibitive  
+**Today's slideshow**: [link here](https://drive.google.com/file/d/1OsEdSHCSWJh2_oi6N8CeYk_o2Oym5RSa/view?usp=sharing)
 
 ### Wednesday, March 30
 {: .no_toc }
-Optative: Formation
+Dependent Uses of the Subjunctive: Purpose Clauses, Fear Clauses
 
 ### Friday, April 1
 {: .no_toc }
-Independent Uses of the Optative: Potential, Wishes
+Optative: Formation
 
 ***
 
@@ -182,11 +183,11 @@ Independent Uses of the Optative: Potential, Wishes
 
 ### Monday, April 4
 {: .no_toc }
-Sequence of Moods and Dependent Uses of the Optative
+Independent Uses of the Optative: Potential, Wishes
 
 ### Wednesday, April 6
 {: .no_toc }
-Sequence of Moods and Dependent Uses of the Optative continued
+Sequence of Moods and Dependent Uses of the Optative
 
 ### Friday, April 8
 {: .no_toc }
