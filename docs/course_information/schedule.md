@@ -171,7 +171,8 @@ Independent Uses of the Subjunctive: Hortatory, Deliberative, Prohibitive
 
 ### Wednesday, March 30
 {: .no_toc }
-Dependent Uses of the Subjunctive: Purpose Clauses, Fear Clauses
+Dependent Uses of the Subjunctive: Purpose Clauses, Fear Clauses  
+**Today's slideshow**: [link here](https://drive.google.com/file/d/1P-PNHBPUrgK8F3yiH3CyLCy3rF8UYPT7/view?usp=sharing)
 
 ### Friday, April 1
 {: .no_toc }
