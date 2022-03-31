@@ -43,7 +43,7 @@ The optative endings that a particular verb form will use again depend wholly on
 
 Each of the following items groups together tense/voice/stem type combinations that will share the same endings or conjugation patterns:
 
-1. (non-contract) present [-ω and regular -μι]; (non-contract) future; strong/2nd aorist active/middle
+1. (non-contract) present [-ω and regular -μι]; strong/2nd aorist active/middle; εἶμι; aor. of δύω; (non-contract) future
 2. weak/1st aorist active/middle
 3. aorist passive
 4. core 4 -μι verbs, athematic aorists, εἰμί
@@ -54,6 +54,8 @@ Each of the following items groups together tense/voice/stem type combinations t
 
 * (non-contract) present [-ω and regular -μι]
 * strong/2nd aorist active/middle
+* εἶμι
+* aor. of δύω
 * (non-contract) future [rare]
 
 This group of verbs exhibits a regular set of endings that get attached to the appropriate stem for tense and voice (1st pp for present; 2nd pp for future active/middle; unaugmented 6th pp with -ησ- for future passive; unaugmented 3rd pp for aorist active/middle).
@@ -99,3 +101,97 @@ Here is a sample paradigm of the verb ἄγω in each of the possible tense/voic
 | 1st pl. | ἄξοιμεν | ἀξοίμεθα | ἀχθησοίμεθα |
 | 2nd pl. | ἄξοιτε | ἄξοισθε | ἀχθήσοισθε |
 | 3rd pl. | ἄξοιεν | ἄξοιντο | ἀχθήσοιντο |
+
+### Group 2
+
+* weak/1st aorist active/middle
+
+The optative endings for the 1st aorist active and middle look similar to those of Group 1, but with the characteristic α as a theme vowel and some alternatives in certain persons and numbers.
+
+| | Active | Middle |
+| ----- | ----- | ----- |
+| 1st sg. | -αιμι | -αίμην |
+| 2nd sg. | -αις / -ειας | -αιο |
+| 3rd sg. | -αι / -ειε(ν) | -αιτο |
+| 1st pl. | -αιμεν | -αίμεθα |
+| 2nd pl. | -αιτε | -αισθε |
+| 3rd pl. | -αιεν / -ειαν | -αιντο |
+
+Here is a sample paradigm of the verb λύω in the aorist active and middle optative.
+
+* λύω ... ἔλυσα - to free, to loosen
+
+| | Active | Middle |
+| ----- | ----- | ----- |
+| 1st sg. | λύσαιμι | λυσαίμην |
+| 2nd sg. | λύσαις / λύσειας | λύσαιο |
+| 3rd sg. | λύσαι / λύσειε(ν) | λύσαιτο |
+| 1st pl. | λύσαιμεν | λυσαίμεθα |
+| 2nd pl. | λύσαιτε | λύσαισθε |
+| 3rd pl. | λύσαιεν / λύσειαν | λύσαιντο |
+
+### Group 3
+
+* aorist passive
+
+The optative of the aorist passive uses the same downgraded epsilon stem as the aorist passive subjunctive (unaugmented 6th principal part with -ε at the end of the stem in place of the -ην ending) before attaching the following endings:
+
+| | Aor. Pass. Opt. |
+| ----- | ----- |
+| 1st sg. | -ίην |
+| 2nd sg. | -ίης |
+| 3rd sg. | -ίη |
+| 1st pl. | -ίημεν / -ῖμεν |
+| 2nd pl. | -ίητε / -ῖτε |
+| 3rd pl. | -ίησαν / -ῖεν |
+
+Here is a sample paradigm of the verb βάλλω in the aorist active and middle optative.
+
+* βάλλω ... ἐβλήθην - to throw
+
+| | Aor. Pass. Opt. |
+| ----- | ----- |
+| 1st sg. | βληθείην |
+| 2nd sg. | βληθείης |
+| 3rd sg. | βληθείη |
+| 1st pl. | βληθείημεν / βληθεῖμεν |
+| 2nd pl. | βληθείητε / βληθεῖτε |
+| 3rd pl. | βληθείησαν / βληθεῖεν |
+
+### Group 4
+
+* core 4 -μι verbs (present and aorist)
+* athematic aorists
+* εἰμί
+
+Each of these verb groups will use similar endings to those in Group 2 but apply them to the **active** forms; there will also be separate endings for the middle/passive forms. All forms will use their short vowel stems in the appropriate tense, while the present optative of εἰμί in particular is built on the stem ἐ- and uses the active endings in this group.
+
+| | Active | Middle/Passive |
+| ----- | ----- | ----- |
+| 1st sg. | -ίην | -ίμην |
+| 2nd sg. | -ίης | -ιο |
+| 3rd sg. | -ίη | -ιτο |
+| 1st pl. | -ῖμεν | -ίμεθα |
+| 2nd pl. | -ῖτε | -ισθε |
+| 3rd pl. | -ῖεν | -ιντο |
+
+The plural endings of the aorist active optative in the core 4 -μι verbs and the athematic aorists of γιγνώσκω, βαίνω, and ἁλίσκομαι may also exhibit the -ιη- stem:
+
+| | Aor. Act. Opt. |
+| ----- | ----- |
+| 1st sg. | -ίην |
+| 2nd sg. | -ίης |
+| 3rd sg. | -ίη |
+| 1st pl. | -ῖμεν / **-ίημεν** |
+| 2nd pl. | -ῖτε / **-ίητε** |
+| 3rd pl. | -ῖεν / **-ίησαν** |
+
+Thus, here are the possible optative forms for these verbs:
+
+| Pres. Act. Opt. | δίδωμι | τίθημι | ἵημι | ἵστημι |
+| ----- | ----- | ----- | ----- | ---- |
+| 1st sg. | διδοίην | τιθείην | ἱείην | ἱσταίην |
+| 2nd sg. | διδοίης | τιθείης | ἱείης | ἱσταίης |
+| 3rd sg. | διδοίη | τιθείη | ἱείη | ἱσταίη |
+| 1st pl. | διδοίημεν / διδοῖμεν | τιθείημεν / τιθεῖμεν | ἱείημεν / ἱεῖμεν | ἱσταίημεν / ἱσταῖμεν |
+| 2nd pl. | διδοίητε / διδοῖτε | τιθείητε / τιθεῖτε | ἱείητε / ἱεῖτε | ἱσταίητε / ἱσταῖτε |
