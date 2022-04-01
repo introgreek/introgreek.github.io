@@ -122,6 +122,8 @@ parent: Vocabulary
 {: .no_toc }
 
 * ἤ - [than (with comparative)](https://logeion.uchicago.edu/ἤ)
+* ἵνα - [(+ subj.) (so / in order) that; (in order) to](https://logeion.uchicago.edu/ἵνα)
+* ὅπως - [(+ subj.) (so / in order) that; (in order) to](https://logeion.uchicago.edu/ὅπως)
 * ὥστε / ὡς - [that, so that, and so, and thus, such that, so as, as to](https://logeion.uchicago.edu/ὥστε) (result clause)
 
 ***

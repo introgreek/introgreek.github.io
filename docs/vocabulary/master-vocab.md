@@ -135,6 +135,7 @@ parent: Vocabulary
 ## ι
 
 * ἵημι, ἥσω, -ἧκα, -εἷκα, -εἷμαι, -εἵθην - [to hurl, throw, send; (middle voice) to rush, hurry](https://logeion.uchicago.edu/ἵημι)
+* ἵνα - [(+ subj.) (so / in order) that; (in order) to](https://logeion.uchicago.edu/ἵνα)
 * ἵστημι, στήσω, ἔστησα or ἔστην, ἕστηκα, ἕσταμαι, ἐστάθην - [(active and 1st aorist transitive) to make stand up, set up, cause to stop; (passive and 2nd aorist intransitive) to stand, be set up, stop](https://logeion.uchicago.edu/ἵστημι)
 * ἱππεύς, ἱππέως, m. - [cavalryman](https://logeion.uchicago.edu/ἱππεύς)
 * ἵππος, ἵππου, m./f. - [horse](https://logeion.uchicago.edu/ἵππος)
@@ -173,7 +174,7 @@ parent: Vocabulary
 * μέλας, μέλαινα, μέλαν (m./n. stem μέλαν-) - [black](https://logeion.uchicago.edu/μέλας)
 * [μέν ... δέ](https://logeion.uchicago.edu/μέν) (... δέ ...) - [denotes elements of a list]
 * μετά - [after (+ acc.); with (+ gen.)](https://logeion.uchicago.edu/μετά)
-* μή - [not](https://logeion.uchicago.edu/μή)
+* μή - [not](https://logeion.uchicago.edu/μή); (+ subj.) (introduces negative purpose clause or positive fear clause)
 * μηδείς, μηδεμία, μηδέν - [no one, nothing](https://logeion.uchicago.edu/μηδείς) (used in circumstances where you would use μή rather than οὐ)
 * μήτηρ, μητρός, f. - [mother](https://logeion.uchicago.edu/μήτηρ)
 * μίκρος, μίκρα, μίκρον - [small](https://logeion.uchicago.edu/μίκρος)
@@ -197,6 +198,7 @@ parent: Vocabulary
 * ὀλίγος, ὀλίγη, ὀλίγον - [little, small](https://logeion.uchicago.edu/ὀλίγος)
 * ὅμως - [nevertheless, still](https://logeion.uchicago.edu/ὅμως)
 * ὅπλον, ὅπλου, n. - [weapon](https://logeion.uchicago.edu/ὅπλον)
+* ὅπως - [(+ subj.) (so / in order) that; (in order) to](https://logeion.uchicago.edu/ὅπως)
 * ὁράω, ὄψομαι, εἶδον, ἑώρακα/ἑόρακα, ἑώραμαι/ὦμμαι, ὤφθην - [to see](https://logeion.uchicago.edu/ὁράω)
 * ὅς, ἥ, ὅ - [who(m), which, that](https://logeion.uchicago.edu/ὅς) (relative pronoun)
 * οὐ (οὐκ before smooth breathing, οὐχ before rough breathing) - [not, no](https://logeion.uchicago.edu/οὐ)
@@ -283,5 +285,5 @@ parent: Vocabulary
 
 ## ω
 
-* [ὡς](https://logeion.uchicago.edu/ὡς) - (used with causal participle)
-* ὥστε / ὡς - [that, so that, and so, and thus, such that, so as, as to](https://logeion.uchicago.edu/ὥστε) (result clause)
+* [ὡς](https://logeion.uchicago.edu/ὡς) - (used with causal participle); (+ indic. verb) (introduces actual result clause); (+ infinitive) (introduces natural result clause); (preceded by head verb, + indirect statement) (used in indirect statement); (+ superlative adjective or adverb) as [adjective/adverb] as possible; (+ subj. verb) (purpose clause) (so / in order) that; (in order) to
+* ὥστε - [that, so that, and so, and thus, such that, so as, as to](https://logeion.uchicago.edu/ὥστε) (+ indic. verb = actual result clause; + infinitive = natural result clause)
