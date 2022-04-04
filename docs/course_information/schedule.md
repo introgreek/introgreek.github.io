@@ -176,7 +176,7 @@ Dependent Uses of the Subjunctive: Purpose Clauses, Fear Clauses
 
 ### Friday, April 1
 {: .no_toc }
-Optative: Formation
+Dep. Uses of Subj. continued
 
 ***
 
@@ -184,15 +184,18 @@ Optative: Formation
 
 ### Monday, April 4
 {: .no_toc }
-Independent Uses of the Optative: Potential, Wishes
+Optative Formation  
+**Today's slideshow**: [link here](https://drive.google.com/file/d/1P0ZJ12BbHoeTsSvCz5hYp-JwJvfHouaa/view?usp=sharing)
 
 ### Wednesday, April 6
 {: .no_toc }
-Sequence of Moods and Dependent Uses of the Optative
+Optative Formation continued
 
 ### Friday, April 8
 {: .no_toc }
-Interrogative and Indefinite Pronouns; Indirect Questions
+Independent Uses of the Optative: Potential, Wishes  
+Sequence of Moods and Dependent Uses of the Optative  
+Interrogative and Indefinite Pronouns; Indirect Questions  
 
 ***
 
