@@ -61,7 +61,7 @@ As indicated above, we can use an optative verb in the following types of depend
 * fear clauses
 * indirect statements with ὅτι / ὡς
 
-Of these, the first two expect a subjunctive verb in the dependent clause, while the third expects an indicative verb. In all three cases, however, if the main verb is in a past tense, then the verb within the dependent clause can an **optative of the same tense and voice as the original verb**.
+Of these, the first two expect a subjunctive verb in the dependent clause, while the third expects an indicative verb. In all three cases, however, if the main verb is in a past tense, then the verb within the dependent clause can be an **optative of the same tense and voice as the original verb**.
 
 For example:
 
@@ -84,8 +84,8 @@ If the main verb φοβεῖται is transformed into a secondary tense, we can
 * ὁ διδάσκαλος **ἐφοβεῖτο** μὴ οἱ μαθηταὶ τὰ βιβλία οὐκ **φέρωσιν**. The teacher **was afraid** that the students might not bring their books.
 * ὁ διδάσκαλος **ἐφοβεῖτο** μὴ οἱ μαθηταὶ τὰ βιβλία οὐκ **φέροιεν**. The teacher **was afraid** that the students might not bring their books.
 
-The last type of substitution, with **indirect statements using ὅτι / ὡς** in secondary sequence, involves similar potential transformations, keeping in mind that transforming an **indicative** into an **optative** may involve extra steps, like unaugmenting a stem.
+The last type of substitution, with **indirect statements using ὅτι / ὡς** in secondary sequence, involves similar transformations, keeping in mind that transforming an **indicative** into an **optative** may involve extra steps, like unaugmenting a stem.
 
 * ὁ πολίτης **ἀγγέλλει** ὅτι ἡ ναῦς πολλοὺς ἵππους **ἤνεγκεν**. The citizen **announces** that the ship carried many horses.
 * ὁ πολίτης **ἤγγειλεν** ὅτι ἡ ναῦς πολλοὺς ἵππους **ἤνεγκεν**. The citizen **announced** that the ship carried many horses.
-* * ὁ πολίτης **ἤγγειλεν** ὅτι ἡ ναῦς πολλοὺς ἵππους **ἐνέγκοι**. The citizen **announced** that the ship carried many horses.
+* ὁ πολίτης **ἤγγειλεν** ὅτι ἡ ναῦς πολλοὺς ἵππους **ἐνέγκοι**. The citizen **announced** that the ship carried many horses.
