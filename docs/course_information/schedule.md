@@ -194,8 +194,7 @@ Optative Formation continued
 ### Friday, April 8
 {: .no_toc }
 Independent Uses of the Optative: Potential, Wishes  
-Sequence of Moods and Dependent Uses of the Optative  
-Interrogative and Indefinite Pronouns; Indirect Questions  
+**Today's slideshow**: [link here](https://drive.google.com/file/d/1PE9L3al4arTonhAe8O4R7gU24yqu1CxE/view?usp=sharing)
 
 ***
 
@@ -203,11 +202,11 @@ Interrogative and Indefinite Pronouns; Indirect Questions
 
 ### Monday, April 11
 {: .no_toc }
-Conditions, Part 1
+Sequence of Moods and Dependent Uses of the Optative  
 
 ### Wednesday, April 13
 {: .no_toc }
-Conditions, Part 2
+NO CLASS
 
 ***
 
@@ -220,11 +219,11 @@ Conditions, Part 2
 
 ### Wednesday, April 20
 {: .no_toc }
-Imperative Mood
+Interrogative and Indefinite Pronouns; Indirect Questions  
 
 ### Friday, April 22
 {: .no_toc }
-Verbal Compounds
+Conditions, Part 1
 
 ***
 
@@ -232,7 +231,7 @@ Verbal Compounds
 
 ### Monday, April 25
 {: .no_toc }
-Substantive Odds and Ends
+Conditions, Part 2
 
 ### Wednesday, April 27
 {: .no_toc }
