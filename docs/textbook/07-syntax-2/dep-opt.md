@@ -28,6 +28,11 @@ grand_parent: Textbook
 * στρατός, -οῦ, m. - army
 * στρατηγός, -οῦ, m. - general
 
+### Adjectives
+{: .no_toc }
+
+* πολέμιος, -α, -ον - hostile, enemy
+
 ### Verbs
 {: .no_toc }
 
