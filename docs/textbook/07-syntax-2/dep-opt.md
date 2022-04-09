@@ -27,6 +27,7 @@ grand_parent: Textbook
 * ναύτης, -ου, m. - sailor
 * στρατός, -οῦ, m. - army
 * στρατηγός, -οῦ, m. - general
+* γρᾶμμα, γράμματος, n. - letter (as in alphabetic character), letter (as in piece of writing)
 
 ### Adjectives
 {: .no_toc }
