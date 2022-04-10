@@ -90,3 +90,9 @@ The last type of substitution, with **indirect statements using ὅτι / ὡς*
 * ὁ πολίτης **ἀγγέλλει** ὅτι ἡ ναῦς πολλοὺς ἵππους **ἤνεγκεν**. The citizen **announces** that the ship carried many horses.
 * ὁ πολίτης **ἤγγειλεν** ὅτι ἡ ναῦς πολλοὺς ἵππους **ἤνεγκεν**. The citizen **announced** that the ship carried many horses.
 * ὁ πολίτης **ἤγγειλεν** ὅτι ἡ ναῦς πολλοὺς ἵππους **ἐνέγκοι**. The citizen **announced** that the ship carried many horses.
+
+It is in **indirect statements in secondary sequence** that we see the rare **future optative** being used. This occurs if the direct version of the statement would have used a future tense verb. For example:
+
+* ὁ στρατὸς καταβήσεται (3rd sg. fut. mid. ind. of καταβαίνω). The army will march down to the sea.
+* ὁ πολίτης μανθάνει **ὅτι ὁ στρατὸς καταβήσεται**. The citizen learns that the army will march down to the sea.
+* ὁ πολίτης **ἔμαθεν** ὅτι ὁ στρατὸς **καταβήσοιτο** The citizen learned that the army would march down to the sea.
