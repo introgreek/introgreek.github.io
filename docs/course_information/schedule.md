@@ -203,6 +203,7 @@ Independent Uses of the Optative: Potential, Wishes
 ### Monday, April 11
 {: .no_toc }
 Sequence of Moods and Dependent Uses of the Optative  
+**Today's slideshow**: [link here](https://drive.google.com/file/d/1PNemhK0T-P7bB9HIUtu4qxm8mXRwhJ_d/view?usp=sharing)
 
 ### Wednesday, April 13
 {: .no_toc }
