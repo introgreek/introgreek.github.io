@@ -29,6 +29,7 @@ parent: Vocabulary
 * δύω, -δύσω, -ἔδυν, -δέδυκα, -δέδυμαι, -ἐδύθην - [to enter; to put on (clothes); to sink, set](https://logeion.uchicago.edu/δύω)
 * εἶμι - [to go](https://logeion.uchicago.edu/εἶμι)
 * ἐπιτίθημι (ἐπί + τίθημι), ἐπιθήσω, ἐπέθηκα, ἐπιτέθηκα, ἐπιτέθειμαι, ἐπετέθην - [to place upon; (middle voice) to attack (+ dative)](https://logeion.uchicago.edu/ἐπιτίθημι)
+* ἐρωτάω, ἐρωτήσω, ἠρώτησα, ἠρώτηκα, ἠρώτημαι, ἠρωτήθην - [to ask](https://logeion.uchicago.edu/ἐρωτάω)
 * ἐφίημι (ἐπί + ἵημι), ἐφήσω, ἐφῆκα, ἐφεῖκα, ἐφεῖμαι, ἐφείθην - [to send against; (middle voice) to command, order; (middle voice) to aim at, desire (+ genitive)](https://logeion.uchicago.edu/ἐφίημι)
 * ἐφίστημι (ἐπί + ἵστημι), ἐπιστήσω, ἐπέστησα or ἐπέστην, ἐφέστηκα, ἐφέσταμαι, ἐπεστάθην - [(trans.) to set up in charge of; (intrans.) to be in charge of (+ dative)](https://logeion.uchicago.edu/ἐφίστημι)
 * ζηλόω, ζηλώσω, ἐζήλωσα, ἐζήλωκα, ἐζήλωμαι, ἐζηλώθην - [to rival, emulate, praise](https://logeion.uchicago.edu/ζηλόω)
@@ -112,9 +113,12 @@ parent: Vocabulary
 * ἐγώ, ἡμεῖς - [I, we](https://logeion.uchicago.edu/ἐγώ) (1st person)
 * ἐμαυτοῦ, ἡμῶν αὐτῶν - [myself, ourselves](https://logeion.uchicago.edu/ἐμαυτοῦ) (1st person)
 * μηδείς, μηδεμία, μηδέν - [no one, nothing](https://logeion.uchicago.edu/μηδείς) (used in circumstances where you would use μή rather than οὐ)
+* ὅστις, ἥτις, ὅ τι - [(as indirect interrogative) who, which, what; (as indefinite relative) whoever, whichever, whatever](https://logeion.uchicago.edu/ὅστις)
 * οὐδείς, οὐδεμία, οὐδέν - [(pronoun) no one (masculine/feminine), nothing (neuter); (adjective) no, none](https://logeion.uchicago.edu/οὐδείς)
 * σ(ε)αυτοῦ, ὑμῶν αὐτῶν - [yourself, yourselves](https://logeion.uchicago.edu/σεαυτοῦ) (2nd person)
 * σύ, ὑμεῖς - [you, y'all](https://logeion.uchicago.edu/σύ) (2nd person)
+* τίς, τί - [what? why?](https://logeion.uchicago.edu/τίς)
+* τις, τι (enclitic) - [some, any](https://logeion.uchicago.edu/τις)
 
 ***
 
@@ -134,6 +138,12 @@ parent: Vocabulary
 * μᾶλλον - [more](https://logeion.uchicago.edu/μᾶλλον)
 * μάλιστα - [most](https://logeion.uchicago.edu/μάλιστα)
 * οὕτω(ς) - [so, in such a way, such](https://logeion.uchicago.edu/οὕτως) (signal word for result clause; -ς before a word that begins with a vowel)
+* πότε - [when](https://logeion.uchicago.edu/πότε)
+* ποτε - [at some time](https://logeion.uchicago.edu/ποτε)
+* ποῦ - [where](https://logeion.uchicago.edu/ποῦ)
+* που - [in some place](https://logeion.uchicago.edu/που)
+* πῶς - [how](https://logeion.uchicago.edu/πῶς)
+* πως - [in some way](https://logeion.uchicago.edu/πως)
 
 <!--
 
