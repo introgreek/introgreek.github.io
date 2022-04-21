@@ -225,7 +225,7 @@ Interrogative and Indefinite Pronouns; Indirect Questions
 
 ### Friday, April 22
 {: .no_toc }
-Conditions, Part 1
+Indirect Questions continued
 
 ***
 
@@ -233,7 +233,7 @@ Conditions, Part 1
 
 ### Monday, April 25
 {: .no_toc }
-Conditions, Part 2
+Conditions, Part 1
 
 ### Wednesday, April 27
 {: .no_toc }
@@ -241,7 +241,7 @@ NO CLASSES (Academic Conference)
 
 ### Friday, April 29
 {: .no_toc }
-Practice
+Conditions, Part 2
 
 ***
 
@@ -249,15 +249,15 @@ Practice
 
 ### Monday, May 2
 {: .no_toc }
-Practice
+Conditions, Part 3
 
 ### Wednesday, May 4
 {: .no_toc }
-Practice
+Odds and Ends
 
 ### Friday, May 6
 {: .no_toc }
-Practice
+Odds and Ends
 
 ***
 
