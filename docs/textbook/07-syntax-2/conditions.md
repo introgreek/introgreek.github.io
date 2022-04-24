@@ -185,6 +185,8 @@ In summary, here are the six types of conditions and their appropriate conjuncti
 
 ## Alternative Conditions
 
+The same rules and classifications listed above may also apply to complex sentences with dependent clauses introduced by other words besides εἰ.
+
 ### Relative Conditions
 
 ### Temporal Conditions
