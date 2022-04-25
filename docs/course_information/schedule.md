@@ -233,7 +233,8 @@ Indirect Questions continued
 
 ### Monday, April 25
 {: .no_toc }
-Conditions, Part 1
+Conditions, Part 1  
+**Today's slideshow**: [link here](https://drive.google.com/file/d/1Pvr2Yi3u4G5g9BX6tpsmu16Nik6Gt3CG/view?usp=sharing)
 
 ### Wednesday, April 27
 {: .no_toc }
