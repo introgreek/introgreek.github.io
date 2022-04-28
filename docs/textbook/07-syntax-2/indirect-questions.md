@@ -116,7 +116,6 @@ The direct question will generally simply be tacked onto the end of the main cla
 * ποῦ ἔρχῃ; Where are you going?
 * ὁ διδάσκαλος ἐρωτᾷ **ποῦ ἔρχῃ**. The teacher is asking **where you are going**.
 * ὁ διδάσκαλος ἐρωτᾷ **ποῦ ἔρχεται**. The teacher is asking **where she is going**.
-
 * τί ὁ πολίτης ταῦτα εἶπεν; Why did the citizen say these things?
 * ἔμαθον **τί ὁ πολίτης ταῦτα εἶπεν**. I learned **why the citizens said these things**.
 
@@ -125,6 +124,11 @@ For the first case referenced above, **indirect questions** are governed by the 
 * τί ὁ πολίτης ταῦτα εἶπεν; Why did the citizen say these things?
 * ἔμαθον τί ὁ πολίτης ταῦτα **εἶπεν**. I learned why the citizens said these things.
 * ἔμαθον τί ὁ πολίτης ταῦτα **εἴποι**. I learned why the citizen said these things.
+
+Note that indirect questions introduced by one of the interrogative adverbs (ποῦ, πότε, πῶς) may substitute that adverb for an **indirect** form by prefixing the adverb with ὁ- (e.g., ὅπου, ὅποτε, ὅπως).
+
+* ὁ διδάσκαλος ἐρωτᾷ **ὅπου ἔρχεται**. The teacher is asking **where she is going**.
+* ὁ πολίτης ἠρώτησεν **ὅποτε αἱ νῆες ἔλθοιεν**. The citizen asked **when the ships had come**.
 
 ### Indirect Interrogative / Indefinite Relative
 

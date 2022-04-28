@@ -185,8 +185,35 @@ In summary, here are the six types of conditions and their appropriate conjuncti
 
 ## Alternative Conditions
 
-The same rules and classifications listed above may also apply to complex sentences with dependent clauses introduced by other words besides εἰ.
+The same rules and classifications listed above may also apply to complex sentences with dependent clauses introduced by other words besides εἰ. These sentences form alternative conditions, in the sense that the same rules about verb tense and mood and the particle ἄν apply, but the "protasis" gets replaced by a **relative clause** (introduced by a special version of the relative pronoun called the *indefinite relative*) or a **temporal clause** (i.e., a time clause introduced by "when" or "whenever").
 
 ### Relative Conditions
 
+**Relative conditions** replace the εἰ of a condition with the pronoun **ὅστις, ἥτις, ὅ τι**, in the appropriate gender, number, and case for the pronoun's antecedent and its function within the dependent clause. We saw this pronoun when discussing [indirect questions](indirect-questions#indirect-interrogative--indefinite-relative) as an **indirect interrogative**, a replacement for the direct interrogative τίς; τί; in an indirect question. This same pronoun doubles as an **indefinite relative pronoun** which in the context of a relative condition means "whoever", "whichever", or "whatever", especially when paired with the particle ἄν.
+
+Again, these alternative conditions follow the same rules regarding verb tenses and moods in the "protasis" and "apodosis" as well as the placement of the particle ἄν. Thus, we can substitute many of the conditions we learned about above with this relative clause, introduced by the indefinite relative. For example:
+
+* ὅστις ἂν τὴν θάλατταν ἴδῃ εὐτυχής ἐστιν. Whoever sees the sea is lucky.
+
+In this example, the dependent clause **ὅστις ἂν τὴν θάλατταν ἴδῃ** begins with the indefinite relative, includes the particle ἄν, and has a verb in the subjunctive mood (ἴδῃ). The indefinite relative ὅστις is masculine nominative singular, indicating that it refers to a person (by virtue of being masculine as opposed to neuter) and that it is the subject (by virtue of being nominative). This dependent clause hangs on the main clause **εὐτυχής ἐστιν**, which contains the present indicative verb ἐστίν. Thus, this sentence is formed according to the rules of the **present general** condition.
+
+In keeping with the core of the sentence as a condition, you may optionally turn it into one if you maintain the indefiniteness of the pronoun. For example: "*If anyone* sees the sea, *he* is lucky."
+
+* ὅ τι ἂν εἴπῃς ἀκουσθήσεται. Whatever you say will be heard. (If you say anything, it will be heard.)
+
+This relative condition follows the rules of the **future more vivid**, with the indefinite relative ὅ τι (neuter accusative singular) replacing εἰ in the protasis and functioning as the dependent clause's direct object, and with a future indicative verb ἀκουσθήσεται in the apodosis.
+
+* οἵτινες ἀπὸ τῆς ὁδοῦ ἐρχοίμεθα εἰς τὴν οἰκίαν ἀγάγοιμεν ἄν. Whoever should come from the road, we would lead into the house. (If any people should come from the road, we would lead them into the house. *OR* We would lead whoever should come from the road into the house. *OR* any other combination that maintains the integrity of dependent and main clause boundaries and the type of condition)
+
+This relative condition follows the rules of the **future less vivid**, with the optative in both clauses and ἄν in the apodosis. Note how the protasis serves as a sort of object for the verb in the main clause: who would we lead into the house? Whoever should come from the road.
+
+We may also use the **indirect adverbs** that we learned about with [indirect questions](indirect-questions#indirect-questions), like ὅπου, ὅποτε, and ὅπως, in the same way as an indefinite relative and with a similar indefinite translation of "ever":
+
+* ὅπου ἂν ἔλθῃς, πολλὰ ὄψῃ. Wherever you (will) go, you will see many things.
+
 ### Temporal Conditions
+
+We can also create **temporal conditions** by using a time conjunction like **ὅτε** ("when") or **ἐπεί / ἐπειδή** ("when", "after", "since") rather than εἰ or ὅστις. If the protasis uses ἄν, it will often combine with these conjunctions to form **ὅταν**, **ἐπήν**, and **ἐπειδάν** respectively.
+
+* ὅταν ὁ ἵππος ἔλθῃ, ἀπὸ τῆς ὁδοῦ ἄξεις. Whenever the horse comes, you will lead (the horse) away from the road. (If the horse ever comes, you will lead [the horse] away from the road.)(future more vivid)
+* ἀκούω ἐπειδὰν ὁ παῖς λέγει. I listen whenever the child speaks. (I listen if the child ever speaks.) (present general)
