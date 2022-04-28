@@ -197,15 +197,17 @@ Again, these alternative conditions follow the same rules regarding verb tenses 
 
 In this example, the dependent clause **ὅστις ἂν τὴν θάλατταν ἴδῃ** begins with the indefinite relative, includes the particle ἄν, and has a verb in the subjunctive mood (ἴδῃ). The indefinite relative ὅστις is masculine nominative singular, indicating that it refers to a person (by virtue of being masculine as opposed to neuter) and that it is the subject (by virtue of being nominative). This dependent clause hangs on the main clause **εὐτυχής ἐστιν**, which contains the present indicative verb ἐστίν. Thus, this sentence is formed according to the rules of the **present general** condition.
 
+The ὅστις clause also serves as the *de facto* subject of the main clause: Who is lucky? *Whoever sees the sea* or *the one who sees the sea*. Because the relative clause refers to a noun of some sort, that noun can function within the context of the full main clause in whatever way nouns normally do (as subjects, objects, etc.). More examples of this below.
+
 In keeping with the core of the sentence as a condition, you may optionally turn it into one if you maintain the indefiniteness of the pronoun. For example: "*If anyone* sees the sea, *he* is lucky."
 
 * ὅ τι ἂν εἴπῃς ἀκουσθήσεται. Whatever you say will be heard. (If you say anything, it will be heard.)
 
-This relative condition follows the rules of the **future more vivid**, with the indefinite relative ὅ τι (neuter accusative singular) replacing εἰ in the protasis and functioning as the dependent clause's direct object, and with a future indicative verb ἀκουσθήσεται in the apodosis.
+This relative condition follows the rules of the **future more vivid**, with the indefinite relative ὅ τι (neuter accusative singular) replacing εἰ in the protasis and functioning as the dependent clause's direct object, and with a future indicative verb ἀκουσθήσεται in the apodosis. Note how the relative clause here serves as the subject of the future passive main verb.
 
 * οἵτινες ἀπὸ τῆς ὁδοῦ ἐρχοίμεθα εἰς τὴν οἰκίαν ἀγάγοιμεν ἄν. Whoever should come from the road, we would lead into the house. (If any people should come from the road, we would lead them into the house. *OR* We would lead whoever should come from the road into the house. *OR* any other combination that maintains the integrity of dependent and main clause boundaries and the type of condition)
 
-This relative condition follows the rules of the **future less vivid**, with the optative in both clauses and ἄν in the apodosis. Note how the protasis serves as a sort of object for the verb in the main clause: who would we lead into the house? Whoever should come from the road.
+This relative condition follows the rules of the **future less vivid**, with the optative in both clauses and ἄν in the apodosis. Note how the protasis serves as an object for the verb in the main clause: who would we lead into the house? Whoever should come from the road.
 
 We may also use the **indirect adverbs** that we learned about with [indirect questions](indirect-questions#indirect-questions), like ὅπου, ὅποτε, and ὅπως, in the same way as an indefinite relative and with a similar indefinite translation of "ever":
 
