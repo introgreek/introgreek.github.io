@@ -254,7 +254,7 @@ Conditions, Part 3
 
 ### Wednesday, May 4
 {: .no_toc }
-Odds and Ends
+Imperative Mood
 
 ### Friday, May 6
 {: .no_toc }
