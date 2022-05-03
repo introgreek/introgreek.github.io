@@ -74,9 +74,9 @@ The 3rd person plural present active imperative looks just like the present acti
 
 Contract verbs will use the same endings, but combine the theme vowel of the ending with the stem vowel (ε, α, or ο) according to the [regular rules](../../reference/contractions).
 
-* ποιούτω ἀγαθὰ ὁ παῖς. Let the child do good things!
-* τὴν θάλατταν ὅρα. Look at the sea!
-* τοὺς λόγους δηλοῦτε. Make your words clear.
+* ποιείτω ἀγαθὰ ὁ παῖς. Let the child do good things! (ποιε- + -ετω)
+* τὴν θάλατταν ὅρα. Look at the sea! (ὁρα- + -ε)
+* τοὺς λόγους δηλοῦτε. Make your words clear. (δηλο- + -ετε)
 
 ### -μι Verbs
 {: .no_toc }
