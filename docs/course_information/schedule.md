@@ -254,11 +254,12 @@ Conditions, Part 3
 
 ### Wednesday, May 4
 {: .no_toc }
-Imperative Mood
+Imperative Mood  
+**Today's slideshow**: [link here](https://drive.google.com/file/d/1RVFaMvRK72nS7fzmWr0twIYBC4S829Yr/view?usp=sharing)
 
 ### Friday, May 6
 {: .no_toc }
-Odds and Ends
+Imperative Mood continued
 
 ***
 
