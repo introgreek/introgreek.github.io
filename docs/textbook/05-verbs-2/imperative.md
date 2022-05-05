@@ -170,14 +170,14 @@ Athematic aorists use their short vowel stems and largely the same endings as [a
 * ἄφετε (ἀπό + -ἑ- + -τε) τοὺς ἱππέας. Send the cavalrymen away!
 * οἱ μαθηταὶ παρὰ τὴν ὁδὸν τὰ βιβλία θέσθων. Let the students place the books next to the road.
 
-The intransitive aorist of ἵστημι (ἔστην), γιγνώσκω, and βαίνω have only aorist active imperatives, and they will mostly use their long vowel stems (στη-, γνω-, and βη- respectively) with some unique endings possible (e.g., -θι for 2nd sg.). In addition, the 3rd pl. alone will use the short vowel stem (στα-, γνο-, and βα- respectively).
+The intransitive aorist of ἵστημι (ἔστην), γιγνώσκω, βαίνω, and δύω have only aorist active imperatives, and they will mostly use their long vowel stems (στη-, γνω-, βη-, and δῡ- respectively) with some unique endings possible (e.g., -θι for 2nd sg.). In addition, the 3rd pl. alone will use the short vowel stem (στα-, γνο-, βα-, and δῠ- respectively).
 
-| | ἵστημι (intr.) | γιγνώσκω | βαίνω |
-| ----- | ----- | ----- | ----- |
-| 2nd sg. | στῆθι or -στα | γνῶθι | βῆθι or -βα |
-| 3rd sg. | στήτω | γνώτω | βήτω |
-| 2nd pl. | στῆτε | γνῶτε | βῆτε |
-| 3rd pl. | στάντων | γνόντων | βάντων |
+| | ἵστημι (intr.) | γιγνώσκω | βαίνω | δύω |
+| ----- | ----- | ----- | ----- | ----- |
+| 2nd sg. | στῆθι or -στα | γνῶθι | βῆθι or -βα | δῦθι |
+| 3rd sg. | στήτω | γνώτω | βήτω | δύτω |
+| 2nd pl. | στῆτε | γνῶτε | βῆτε | δῦτε |
+| 3rd pl. | στάντων | γνόντων | βάντων | δύντων |
 
 ### Aorist Passive
 
