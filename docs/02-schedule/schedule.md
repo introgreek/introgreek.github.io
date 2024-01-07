@@ -734,7 +734,7 @@ Indirect Statement
 {: .no_toc }
 * [Homework 34](../homework/homework#homework-34-due-m-422)
 * Quiz 9
-* Article Reflection 3
+* Coin Analysis Project
 
 ***
 
