@@ -37,7 +37,37 @@ Use this website (especially the [Course Info](../course_info/course-info), [Pol
 
 ## Practice Homework 2 (Due M 1/22)
 
-TBD
+### Part 1
+
+Try pronouncing the following words. Do not worry about the accents besides the breathing marks above the letters for now.
+
+(Obviously, this part of your homework cannot be submitted via Blackboard -- use the recording below to check your pronunciation.)
+
+1. φωνή
+2. φωνῇ
+3. ἡδεῖα
+4. Ζεύς
+5. ἄνθρωπος
+6. ἄνθρωποι
+7. ψυχῶν
+8. λαμβάνουσιν
+9. ἔλαβον
+10. ὑπό
+
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1115708260&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/dlibatique" title="DLibatique" target="_blank" style="color: #cccccc; text-decoration: none;">DLibatique</a> · <a href="https://soundcloud.com/dlibatique/alphabets-and-accents-practice-opportunity-1" title="Alphabets and Accents - Practice Opportunity 1" target="_blank" style="color: #cccccc; text-decoration: none;">Alphabets and Accents - Practice Opportunity 1</a></div>
+
+### Part 2
+
+Add an appropriate accent (an acute, a circumflex, or a grave) on the following words given the guidelines in parentheses.
+
+1. δεικνυασι (recessive accent)
+2. πολιτης (persistent accent on penult, long iota, long ultima)
+3. πολιται (persistent accent on penult, long iota, short ultima)
+4. κελευει (recessive accent)
+5. first word in ὁδος στενή (persistent accent on ultima)
+6. first word in στενη γε (persistent accent on ultima, γε is enclitic)
+7. θαλαττα (persistent accent on antepenult, short final alpha)
+8. θαλατταις (persistent accent on antepenult **BUT** long ultima)
 
 [Answer key here](answer-key#practice-homework-2-due-m-122).
 

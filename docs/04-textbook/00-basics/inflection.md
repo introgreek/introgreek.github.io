@@ -54,10 +54,10 @@ There are two major kinds of inflection in Greek: **conjugation** and **declensi
 
 ### Conjugation
 
-**Conjugation** is the act of changing the endings of a **verb** to reflect different aspects of that verb, like who performs the action, when the action occurs, and whether the subject performs or receives the verb's action. When we **conjugate** a verb, we apply various endings to different forms of a verbal stem to reflect those aspects. More on this in Module 1.
+**Conjugation** is the act of changing the endings of a **verb** to reflect different aspects of that verb, like who performs the action, when the action occurs, and whether the subject performs or receives the verb's action. When we **conjugate** a verb, we apply various endings to different forms of a verbal stem to reflect those aspects.
 
 ### Declension
 
 **Declension** is the act of changing the endings of a **noun** to indicate how many of the noun there are and what function the noun serves in the sentence (e.g., subject, direct object, possessor, etc.). When we **decline** a noun, it means that we change its endings to reflect those aspects of the noun.
 
-**Declension** also refers to the act of changing the endings of an **adjective** such that it matches the noun that it describes in gender, case, and number or of a **pronoun** such that it matches the noun that it's replacing in gender, case, and number. More on this in Module 2.
+**Declension** also refers to the act of changing the endings of an **adjective** such that it matches the noun that it describes in gender, case, and number or of a **pronoun** such that it matches the noun that it's replacing in gender, case, and number.

@@ -74,7 +74,7 @@ Note that there are groups of consonants that are related by virtue of where the
 * λ (l) and ρ (rh), unlike the plosives, do not restrict or close the vocal pathway. (These are called *liquids*.)
 * μ (m) and ν (n) resonate with air coming through the nose. (These are called *nasals*.)  
 
-It will be useful to keep these groups in mind, especially when we begin talking about sound combinations in later modules.
+It will be useful to keep these groups in mind, especially when we begin talking about sound combinations in later chapters.
 
 ### Aspiration
 {: .no_toc }
@@ -113,26 +113,7 @@ If a Greek word begins with a single vowel or a diphthong, there will be a **bre
 
 ### Iota subscript
 {: .no_toc }
-Occasionally, you will see a small mark underneath α, η, or ω (ᾳ, ῃ, ῳ). These marks are called *iota subscripts* and technically form diphthongs with the vowel that they occur underneath. Note: the iota does *not* affect pronunciation of the core vowel, but it is essential to note where the subscript appears, since its appearance can make a word function in a completely different way within a sentence. For example, there is a major difference between the words οἰκία and οἰκίᾳ, as you'll learn in the modules to come.
-
-***
-
-### Practice Opportunity 1
-
-Try pronouncing the following words. Do not worry about the accents besides the breathing marks above the letters for now.
-
-[Answer key here](../answer-key#alphabet-and-accents-po1).
-
-1. φωνή
-2. φωνῇ
-3. ἡδεῖα
-4. Ζεύς
-5. ἄνθρωπος
-6. ἄνθρωποι
-7. ψυχῶν
-8. λαμβάνουσιν
-9. ἔλαβον
-10. ὑπό
+Occasionally, you will see a small mark underneath α, η, or ω (ᾳ, ῃ, ῳ). These marks are called *iota subscripts* and technically form diphthongs with the vowel that they occur underneath. Note: the iota does *not* affect pronunciation of the core vowel, but it is essential to note where the subscript appears, since its appearance can make a word function in a completely different way within a sentence. For example, there is a major difference between the words οἰκία and οἰκίᾳ, as you'll learn in the chapters to come.
 
 ***
 
@@ -149,7 +130,7 @@ According to our best guesses, these accent marks indicated the way that one's p
 
 ### Accent Positions and Enclitics
 
-Accents can, however, help us disambiguate between different forms of words, so it can be important to know what they look like and where they can fall within a word. So, note the following general rules (though exceptions abound and will be noted in the coming modules):
+Accents can, however, help us disambiguate between different forms of words, so it can be important to know what they look like and where they can fall within a word. So, note the following general rules (though exceptions abound and will be noted in the coming chapters):
 
 * An accent can only ever fall on one of the last three syllables of a word:
   * the final syllable (the **ultima**, from Latin *ultimus*, "last")
@@ -181,25 +162,8 @@ Accents may or may not occupy different positions in the same word across its di
   * If a word is accented with an acute on the antepenult and its ultima is long (either a long vowel or a diphthong), the accent will be pulled to the penult. So, note for example the position of the accent in Κύκλωπος versus its position in Κυκλώπων.
   * If a word is accented with an acute on a long penult (either a long vowel or a diphthong) but its ultima is short (either a short vowel or the final diphthong -οι or -αι), then that acute will transform into a circumflex. So, note for example the acute on πείρᾳ but the circumflex on πεῖραι.
 
-* An accent is **recessive** if it wants to occupy the antepenult in a word with three or more syllables or the penult in a two-syllable word. This is the case for most **verbal** forms, though there will be exceptions that we'll note in the modules to follow.
+* An accent is **recessive** if it wants to occupy the antepenult in a word with three or more syllables or the penult in a two-syllable word. This is the case for most **verbal** forms, though there will be exceptions that we'll note in the chapters to follow.
   * The same two rules of moving accents listed above under persistent accents apply to recessive accents too.
-
-***
-
-### Practice Opportunity 2
-
-Add an appropriate accent (an acute, a circumflex, or a grave) on the following words given the guidelines in parentheses.
-
-[Answer key here](../answer-key#alphabet-and-accents-po2).
-
-1. δεικνυασι (recessive accent)
-2. πολιτης (persistent accent on penult, long iota, long ultima)
-3. πολιται (persistent accent on penult, long iota, short ultima)
-4. κελευει (recessive accent)
-5. first word in ὁδος στενή (persistent accent on ultima)
-6. first word in στενη γε (persistent accent on ultima, γε is enclitic)
-7. θαλαττα (persistent accent on antepenult, short final alpha)
-8. θαλατταις (persistent accent on antepenult **BUT** long ultima)
 
 ***
 
@@ -218,7 +182,7 @@ Note that the Greek question mark looks like (but does not function like) the En
 
 ## BONUS: Typing Greek
 
-Because of the breathing and accent systems, typing ancient Greek is not necessarily as easy as typing English. If you would prefer to type up assignments rather than handwrite, though, a great resource at the intro level is [typegreek.com](http://www.typegreek.com). Using this entry box and the site's [alphabet key](http://www.typegreek.com/alphabet.key/), you should be able to type what you want in Latin letters and punctuation marks, and then you can copy and paste the transformed text into your document or submission box on Canvas.
+Because of the breathing and accent systems, typing ancient Greek is not necessarily as easy as typing English. If you would prefer to type up assignments rather than handwrite, though, a great resource at the intro level is [typegreek.com](http://www.typegreek.com). Using this entry box and the site's [alphabet key](http://www.typegreek.com/alphabet.key/), you should be able to type what you want in Latin letters and punctuation marks, and then you can copy and paste the transformed text into your document or submission box on Blackboard.
 
 If you intend to progress in ancient Greek beyond the intro level, I would recommend learning about ancient Greek keyboards that you can use on your computer to type ancient Greek directly, rather than needing to go to typegreek.com and copying and pasting. The specific keyboard(s) that you can use, however, will depend on whether you're using a Mac or a Windows computer:
 * For Mac users, I would recommend looking into [Sophokeys Polytonic Greek](https://www.benjaminblonder.org/sophokeys/).
