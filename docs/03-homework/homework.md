@@ -38,6 +38,7 @@ Use this website (especially the [Course Info](../course_info/course-info), [Pol
 ## Practice Homework 2 (Due M 1/22)
 
 ### Part 1
+{: .no_toc }
 
 Try pronouncing the following words. Do not worry about the accents besides the breathing marks above the letters for now.
 
@@ -57,6 +58,7 @@ Try pronouncing the following words. Do not worry about the accents besides the 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1115708260&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/dlibatique" title="DLibatique" target="_blank" style="color: #cccccc; text-decoration: none;">DLibatique</a> · <a href="https://soundcloud.com/dlibatique/alphabets-and-accents-practice-opportunity-1" title="Alphabets and Accents - Practice Opportunity 1" target="_blank" style="color: #cccccc; text-decoration: none;">Alphabets and Accents - Practice Opportunity 1</a></div>
 
 ### Part 2
+{: .no_toc }
 
 Add an appropriate accent (an acute, a circumflex, or a grave) on the following words given the guidelines in parentheses.
 
@@ -75,7 +77,42 @@ Add an appropriate accent (an acute, a circumflex, or a grave) on the following 
 
 ## Homework 1 (Due W 1/24)
 
-TBD
+### Part 1
+{: .no_toc }
+
+In each of the following English sentences, identify the **subject and the finite/conjugated verb** and then indicate whether the verb is:
+* singular or plural
+* aorist, present, or future tense 
+* active, passive, or middle voice
+
+For example:
+
+* He went to the store.
+    * "He went" - singular - aorist - active
+* They (plural) were sent to bed.
+    * "They (plural) were sent" - plural - aorist - passive
+
+1. She will arrive tomorrow.
+2. They (singular) ordered French fries.
+3. They (plural) ordered French fries for themselves.
+4. He is reading the books.
+5. The documents were shown.
+
+### Part 2
+{: .no_toc }
+
+Each of the following prompts gives you the first principal part of a verb that you can find in the [list of principal parts](../reference/verb-principal-parts). Indicate whether the verb is an **-ω** or **-μι** verb, and then write out its **third principal part**.
+
+1. βάλλω
+2. κρύπτω
+3. μείγνυμι
+4. πέμπω
+5. φεύγω
+6. δείκνυμι
+7. γίγνομαι
+8. βλέπω
+9. ἀδικέω
+10. ἔρχομαι
 
 [Answer key here](answer-key#homework-1-due-w-124).
 

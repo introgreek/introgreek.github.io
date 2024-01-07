@@ -76,7 +76,57 @@ This is an answer key for all the homework assignments. I encourage you to compl
 
 ## Homework 1 (Due W 1/24)
 
-TBD
+### Part 1
+{: .no_toc }
+
+1. She will arrive tomorrow.  
+"she will arrive" - singular - future - active
+
+2. They (singular) ordered French fries.  
+"they ordered" - singular - aorist - active
+
+3. They (plural) ordered French fries for themselves.  
+"they ordered" - plural - aorist - middle
+
+4. He is reading the books.  
+"he is reading" - singular - present - active
+
+5. The documents were shown.  
+"the documents were shown" - plural - aorist - passive
+
+### Part 2
+{: .no_toc }
+
+1. βάλλω  
+-ω - ἔβαλον
+
+2. κρύπτω  
+-ω - ἔκρυψα
+
+3. μείγνυμι  
+-μι - ἔμειξα
+
+4. πέμπω  
+-ω - ἔπεμψα
+
+5. φεύγω  
+-ω - ἔφυγον
+
+6. δείκνυμι  
+-μι - ἔδειξα
+
+7. γίγνομαι  
+-ω - ἐγενόμην  
+**NOTE**: Remember that an -ω verb has either -ω *or* -ομαι at the end of its first principal part.
+
+8. βλέπω  
+-ω - ἔβλεψα
+
+9. ἀδικέω  
+-ω - ἠδίκησα
+
+10. ἔρχομαι  
+-ω - ἦλθον
 
 ***
 
