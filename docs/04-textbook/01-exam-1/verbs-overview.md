@@ -116,6 +116,19 @@ The dictionary entry of a verb also indicates a group to which it belongs that d
 
 There are further finer distinctions that we will draw as the semester wears on, but this is the general rule.
 
+### Principal Parts and Memorization
+
+Many verbs have six principal parts, and while it is generally a good idea to memorize them all when you encounter new verbs, that is a lot to keep in mind. So, our goal in this textbook will be to keep the amount of vocabulary at a manageable level for retention and memorization and to suggest some strategies for memorizing piecemeal, rather than all in one fell swoop.
+
+To that end, for all of this semester, we will be working primarily with three of the six principal parts of verbs: **1, 3, and 6**. Please memorize those three principal parts and the definition of a verb as you come across new ones. We will format verb entries in the textbook (but not in the isolated vocabulary lists or reference charts) in such a way as to remind you what you should pay attention to: **bolded** principal parts should be memorized, while you can de-prioritize `coded` principal parts. So:
+
+* **δείκνυμι**, `δείξω`, **ἔδειξα**, `δέδειχα`, `δέδειγμαι`, **ἐδείχθην**, "[to show](https://logeion.uchicago.edu/δείκνυμι)"
+* **κελεύω**, `κελεύσω`, **ἐκέλευσα**, `κεκέλευκα`, `κεκέλευσμαι`, **ἐκελεύσθην**, "[to order](https://logeion.uchicago.edu/κελεύω)"
+
+We will use these two verbs primarily in the coming chatpers to demonstrate different verb forms and translations, so commit to memory the bolded forms above.
+
+We will also use the **bolded** versus `coded` scheme in other contexts as well, so be attuned to that -- **bold** encourages memorization, while `code` is merely for your information.
+
 ***
 
 ## Compounds

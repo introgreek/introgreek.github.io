@@ -120,7 +120,31 @@ Each of the following prompts gives you the first principal part of a verb that 
 
 ## Homework 2 (Due R 1/25)
 
-TBD
+### Part 1
+{: .no_toc }
+Using the verb dictionary entries in the [Week 2 Vocabulary](../vocabulary/week-02-vocabulary), identify the **person, number, tense, and voice** of each of the following verbs, and then give a **sample translation** of each verb. For example:
+
+ἐκέλευσεν.  
+* **3rd person singular aorist active, "she ordered"**
+
+1. ἐκέλευσαν (first principal part: κελεύω)
+2. ἐδείξατο (first principal part: δείκνυμι)
+3. ἔβλεψε (first principal part: βλέπω)
+4. ἠδικήσαντο (first principal part: ἀδικέω)
+5. ἔμειξεν (first principal part: μείγνυμι)
+
+### Part 2
+{: .no_toc }
+Using the verb dictionary entries in the [Week 2 Vocabulary](../vocabulary/week-02-vocabulary), translate the English phrase into one Greek verb (accent marks do not matter). For example:
+
+they sent  
+* **ἔπεμψαν**
+
+1. he hid for himself
+2. they (plural) showed
+3. she wronged herself
+4. they (plural) made
+5. he wrote
 
 [Answer key here](answer-key#homework-2-due-r-125).
 
@@ -128,7 +152,31 @@ TBD
 
 ## Homework 3 (Due M 1/29)  
 
-TBD
+### Part 1
+{: .no_toc }
+Using the verb dictionary entries in the [Week 2 Vocabulary](../vocabulary/week-02-vocabulary), identify the **person, number, tense, and voice** of each of the following verbs, and then give a **sample translation** of each verb. For example:
+
+ἤγαγον (first principal part: ἄγω)  
+* **3rd person plural aorist active, "they led"**
+
+1. ἦλθεν (first principal part: ἔρχομαι)
+2. εἴχοντο (first principal part: ἔχω)
+3. εἷλον (first principal part: αἱρέω)
+4. εἶπεν (first principal part: λέγω)
+5. ἠγάγετο (first principal part: ἄγω)
+
+### Part 2
+{: .no_toc }
+Using the verb dictionary entries in the [Week 2 Vocabulary](../vocabulary/week-02-vocabulary), translate the English phrase into one Greek verb (accent marks do not matter). For example:
+
+she said  
+* **εἶπεν**
+
+1. they (plural) came
+2. they (plural) said for themselves
+3. she led
+4. it had
+5. he took for himself
 
 [Answer key here](answer-key#homework-3-due-m-129).
 
@@ -136,7 +184,32 @@ TBD
 
 ## Homework 4 (Due W 1/31)
 
-TBD
+### Part 1
+{: .no_toc }
+Using the verb dictionary entries in the [Week 2 Vocabulary](../vocabulary/week-02-vocabulary) and [Week 3 Vocabulary](../vocabulary/week-03-vocabulary), identify the **person, number, tense, and voice** of each of the following verbs, and then give a **sample translation** of each verb. For example:
+
+ἐδείχθησαν (first principal part: δείκνυμι)  
+* **3rd person plural aorist passive, "they were shown"**
+
+1. ἐκελεύσθη (first principal part: κελεύω)
+2. ἐγενήθησαν (first principal part: γίγνομαι)  
+3. ἤχθη (first principal part: ἄγω)
+4. ἔγραψαν (first principal part: γράφω)  
+5. ἐγράφησαν (first principal part: γράφω)
+
+### Part 2
+{: .no_toc }
+Using the verb dictionary entries in the [Week 2 Vocabulary](../vocabulary/week-02-vocabulary) and [Week 3 Vocabulary](../vocabulary/week-03-vocabulary), translate the English phrase into one Greek verb (accent marks do not matter). For example:
+
+it was mixed  
+* **ἐμίγη**
+
+1. it was hidden
+2. it hid itself
+3. he hid
+4. they showed themselves
+5. they were shown
+6. they showed
 
 [Answer key here](answer-key#homework-4-due-w-131).
 
@@ -144,7 +217,18 @@ TBD
 
 ## Homework 5 (Due R 2/1)
 
-TBD
+For each of the following nominative singular nouns, look up their dictionary entries in the [Complete Vocabulary](../vocabulary/complete-vocabulary) and indicate the noun's **gender** and **declension**.
+
+1. ποίημα
+2. ἄνθρωπος
+3. δικαστής
+4. ἔργον
+5. γνώμη
+6. παῖς
+7. συμφορά
+8. μαρτύς
+9. ἀνήρ
+10. θεός
 
 [Answer key here](answer-key#homework-5-due-r-21).
 
@@ -152,7 +236,30 @@ TBD
 
 ## Homework 6 (Due M 2/5)
 
-TBD
+### Part 1
+{: .no_toc }
+**Parse** each of the following nouns; that is, indicate each noun's **gender, case, and number**. Make sure to use the dictionary entries in the [Week 3 Vocabulary](../vocabulary/week-03-vocabulary) and the supplied articles.
+
+1. τῶν ἀνθρώπων
+2. αἱ γυναικές
+3. τῆς συμφορᾶς
+4. τὰ ἔργα
+5. ἡ θάλαττα
+6. ὁ ἀνήρ
+7. τοῦ ποιήματος
+8. τῶν γνωμῶν
+9. τοῦ δικαστοῦ
+10. τῆς γυναικός
+
+### Part 2
+{: .no_toc }
+Translate each of the following sentences.
+
+1. οἱ ἄνθρωποι ἦλθον.
+2. οἱ λόγοι οἱ τοῦ ποιήματος ἐγράφησαν.
+3. αἱ τῶν δικαστῶν γνῶμαι ἐδείχθησαν.
+4. τὰ ἔργα ἐποιήθη.
+5. ἡ θάλαττα ἐβλέφθη.
 
 [Answer key here](answer-key#homework-6-due-m-25).
 

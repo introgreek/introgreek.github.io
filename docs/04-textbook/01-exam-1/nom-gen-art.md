@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Nominative, Genitive, and Article
-permalink: /textbook/nouns/nom-gen-art
-nav_order: 1
-parent: 02 - Substantives and Adjectives
+permalink: /textbook/exam-1/nom-gen-art
+nav_order: 5
+parent: 01 - Exam 1
 grand_parent: Textbook
 ---
 
@@ -18,51 +18,34 @@ grand_parent: Textbook
 
 ***
 
-## Unit Vocabulary
-
-### First Declension
-{: .no_toc }
-
-* γνώμη, γνώμης, f. - "[judgment, opinion](https://logeion.uchicago.edu/γνώμη)"
-* δικαστής, δικαστοῦ, m. - "[juror](https://logeion.uchicago.edu/δικαστής)"
-* θάλαττα, θάλαττης, f. - "[sea](https://logeion.uchicago.edu/θάλασσα)" (short feminine)
-* συμφορά, συμφορᾶς, f. - "[event, outcome, mishap](https://logeion.uchicago.edu/συμφορά)" (long feminine)
-
-### Second Declension
-{: .no_toc }
-
-* ἄνθρωπος, ἀνθρώπου, m. - "[person, human](https://logeion.uchicago.edu/ἄνθρωπος)"
-* ἔργον, ἔργου, n. - "[deed](https://logeion.uchicago.edu/ἔργον)"
-
-### Third Declension
-{: .no_toc }
-
-* ἀνήρ, ἀνδρός, m. - "[man, husband](https://logeion.uchicago.edu/ἀνήρ)"
-* γυνή, γυναικός, f. - "[woman, wife](https://logeion.uchicago.edu/γυνή)"
-
-### Other
-{: .no_toc }
-
-* ὁ, ἡ, τό - "the" (definite article, pronoun)
-
-***
-
 ## Case Uses: Nominative and Genitive
 
 As indicated [in the nouns overview](nouns-overview), the **case** of a noun indicates its function within a sentence, and the case is indicated by the ending on the noun. The function of the specific case is called a **use**, so we can speak about, e.g., the "uses" of the nominative or the "uses" of the accusative.
 
 The noun's dictionary entry gives you two forms of the noun (nominative singular and genitive singular), so let's explore what each case can do. First up: the nominative.
 
-(Note that the following discussion of case uses will use Greek that you won't necessarily understand until making it through the endings and article sections of the unit; make sure to return to these Greek examples after reading through the rest of the unit to ensure that you understand how these nouns are being used.)
+(Note that the following discussion of case uses will use Greek that you won't necessarily understand until making it through the endings and article sections of the chapter; make sure to return to these Greek examples after reading through the rest of the unit to ensure that you understand how these nouns are being used.)
 
 ### Nominative
 {: .no_toc }
 The **nominative** is named after the Latin noun *nomen*, or "name." Thus, the nominative is the "naming" case of a noun and gives us the first part of the dictionary entry, which we use to alphabetize our dictionaries.
 
 There are two **uses** of the nominative, but we'll focus on one for this unit (and learn the second in a later unit):
-* **subject**. The nominative case of the noun can make it function as the *subject* of a verb, either the actor of an active verb (e.g., "**The army** *marches* to the sea") or the receiver of the action of a middle/passive verb (e.g., "**The army** *is seen* by the citizens").
+* **subject**. The nominative case of the noun can make it function as the *subject* of a verb, either the actor of an active/middle verb (e.g., "**The army** *marches* to the sea") or the receiver of the action of a passive verb (e.g., "**The army** *is seen* by the citizens").
 
-One important note about nominative subjects. **According to the principle of subject-verb agreement, the subject of a verb must agree with the verb in** ***number***. That means that if your verb is singular, its subject must be singular. If your verb is plural, its subject must be plural.
+One important note about nominative subjects. **According to the principle of subject-verb agreement, the subject of a verb must agree with the verb in** ***number***. That means that if your verb is singular, its subject must be singular. If your verb is plural, its subject must be plural. This is the same as in English; note the following examples:
+
+* The boy kicks the ball.
+* The boys kick the ball.
+
+In the first sentence, there is one boy that serves as the subject; hence, the verb that the boy performs, "kicks", is *singular* in number. In the second sentence, multiple boys form a plural subject, which means that the verb "kick" is plural in number. The sentence sounds incorrect if we have something like:
+
+* The boy kick the ball.
+
+Thus, we need to ensure that if we have a nominative subject in the sentence, its number (singular or plural) should be the same as that of the verb. For example:
+
+* ὁ ἄνθρωπος ἦλθεν. The person came. (nominative singular subject; singular verb ending -εν)
+* οἱ ἄνθρωποι ἦλθον. The people came. (nominative plural subject; singular verb ending -ον)
 
 There is **one exception**: **neuter plural subjects** will take a **singular verb** due to an idiosyncracy of the Greek language. So note the following:
 
@@ -78,12 +61,17 @@ There are quite a few **uses** of the genitive, but we'll focus on only one for 
   * ἡ γνώμη **τοῦ ἀνδρός**, "The opinion **of the man**" or "the **man's** opinion"
   * τὰ ἔργα **τῆς γυναικός**, "The deeds **of the woman**" or "the **woman's** deeds"
 
-Note that we can also write the phrases above in the following way, sandwiching the genitive phrase between the article (on which see below) and the noun without any change in meaning:
+Note that we can also sandwich the genitive phrase between an article (on which see below) and a noun without any change in meaning:
 
 * ἡ τοῦ ἀνδρὸς γνώμη
 * τὰ τῆς γυναικὸς ἔργα
 
-This places the genitive phrase in what is called the *attributive position*, which we'll learn about in a later unit.
+We can also place the genitive phrase after a repetition of the original noun's article:
+
+* ἡ γνώμη ἡ τοῦ ἀνδρὸς 
+* τὰ ἔργα τὰ τῆς γυναικὸς 
+
+Either of these options places the genitive phrase in what is called the *attributive position*, which we'll learn about in a later unit. The translation of the phrase in all three versions is the same: "the opinion of the man" or "the deeds of the woman."
 
 ***
 
@@ -96,7 +84,7 @@ To decline a noun, we follow the same general set of rules regardless of what de
 1. Get the **noun stem** by chopping off the **genitive singular ending** from the second part of the dictionary entry.
 2. Apply the appropriate **ending** for case and number, based on its declension.
 
-The different endings below reflect the same core aspects of a noun (gender, case, and number), and the differences can be analogized to the differences between first aorist and second aorist endings on verbs -- different endings indicate the same aspects.
+The different endings below reflect the same core aspects of a noun (gender, case, and number), and the differences can be analogized to the differences between first aorist and second aorist endings on verbs -- different endings indicate the same aspects. Because of this, there can be a lot of endings (perhaps even too many) to keep in mind, let alone memorize. We will discuss strategies for determining the case and number of a noun without too much stress, including one primary strategy at the end of this chapter (by using the noun's article).
 
 ***
 
@@ -184,21 +172,6 @@ The third declension exhibits the most variety by far in terms of what can appea
 
 ***
 
-## Practice Opportunity 1
-
-**Parse** each of the following nouns; that is, indicate each noun's **gender, case, and number**. Make sure to use the dictionary entries in the [unit vocabulary](#unit-vocabulary) above.
-
-[Answer key here](../answer-key#nominative-genitive-and-the-article-po1).
-
-1. ἀνθρώπων
-2. γυναικές
-3. συμφορᾶς
-4. ἔργα
-5. θάλαττα
-6. ἀνήρ
-
-***
-
 ## The Definite Article: ὁ, ἡ, τό
 
 In Greek, the **definite article** is used with a noun to indicate that we're talking about a specific noun. Its translation defaults to the English "the", but it can also be used to indicate possession (e.g., ἡ γνώμη = "the opinion" or "my/your/their [etc.] opinion") or stand alone as a pronoun (on which we'll learn more in the unit on pronouns).
@@ -227,16 +200,17 @@ However, the articles help disambiguate here. ὁ can only be used with a mascul
 
 Same logic applies to ἔργ**α** and θάλαττ**α**. Though the endings look the same, the articles point us to the correct gender and number: τά must be neuter and plural, while ἡ must be feminine and singular.
 
-***
+### Attributive Position
 
-## Practice Opportunity 2
+A quick repetition of the idea mentioned above: a genitive phrase that indicates possession of another noun can be put in one of three places:
 
-Translate each of the following sentences.
+* after the article-noun that is being possessed
+* in between the article and the noun that is being possessed
+* after a repetition of the article from the article-noun that is being possessed
 
-[Answer key here](../answer-key#nominative-genitive-and-the-article-po2).
+Thus, the phrase "the book of the woman" can be written in one of three ways:
+* τὸ βιβλίον τῆς γυναικός
+* τὸ τῆς γυναικὸς βιβλίον
+* το βιβλίον τὸ τῆς γυναικὸς
 
-1. ὁ τῆς γυναικὸς ἀνὴρ ἐκελεύσθη.
-2. αἱ γνῶμαι τῶν δικαστῶν δείκνυνται.
-3. οἱ ἄνθρωποι πρὸς τὴν θάλατταν\* ἤγοντο. (πρὸς τὴν θάλατταν = "to the sea")
-4. τὰ ἔργα ποιεῖται.
-5. αἱ συμφοραὶ ἐγένοντο.
+We'll learn more about the different things that we can do with attributive position in a later unit.

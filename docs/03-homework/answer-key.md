@@ -132,31 +132,214 @@ This is an answer key for all the homework assignments. I encourage you to compl
 
 ## Homework 2 (Due R 1/25)
 
-TBD
+### Part 1
+{: .no_toc }
+
+1. ἐκέλευσαν  
+3rd plural aorist active, "they ordered"
+
+2. ἐδείξατο  
+3rd singular aorist middle, "he showed for himself"
+
+3. ἔβλεψε  
+3rd singular aorist active, "she saw"
+
+4. ἠδικήσαντο  
+3rd plural aorist middle, "they wronged themselves"
+
+5. ἔμειξεν  
+3rd singular aorist active, "he mixed"
+
+### Part 2
+{: .no_toc }
+
+1. he hid for himself  
+ἐκρύψατο
+
+2. they (plural) showed  
+ἔδειξαν
+
+3. she wronged herself  
+ἠδικήσατο
+
+4. they (plural) made  
+ἐποίησαν
+
+5. he wrote  
+ἔγραψεν
 
 ***
 
 ## Homework 3 (Due M 1/29)
 
-TBD
+### Part 1
+{: .no_toc }
+
+1. ἦλθεν (first principal part: ἔρχομαι)  
+3rd singular aorist active, "he came"
+
+2. εἴχοντο (first principal part: ἔχω)  
+3rd plural aorist middle, "they had for themselves"
+
+3. εἷλον (first principal part: αἱρέω)  
+3rd plural aorist active, "they took"
+
+4. εἶπεν (first principal part: λέγω)  
+3rd singular aorist active, "she said"
+
+5. ἠγάγετο (first principal part: ἄγω)  
+3rd singular aorist middle, "he led himself"
+
+### Part 2
+{: .no_toc }
+
+1. they (plural) came  
+ἦλθον
+
+2. they (plural) said for themselves  
+εἴποντο
+
+3. she led  
+ἤγαγεν
+
+4. it had  
+εἶχεν 
+
+5. he took for himself  
+εἵλετο
 
 ***
 
 ## Homework 4 (Due W 1/31)
 
-TBD
+### Part 1
+{: .no_toc }
+
+1. ἐκελεύσθη (first principal part: κελεύω)  
+3rd singular aorist passive, "he was ordered"
+
+2. ἐγενήθησαν (first principal part: γίγνομαι)  
+3rd plural aorist passive (deponent), "they became"
+
+3. ἤχθη (first principal part: ἄγω)  
+3rd singular aorist passive, "it was led"
+
+4. ἔγραψαν (first principal part: γράφω)  
+3rd plural aorist active, "they wrote"
+
+5. ἐγράφησαν (first principal part: γράφω)  
+3rd plural aorist passive, "they were written"
+
+### Part 2
+{: .no_toc }
+
+1. it was hidden  
+ἐκρύφθη
+
+2. it hid itself  
+ἐκρύψατο
+
+3. he hid  
+ἔκρυψεν
+
+4. they showed themselves  
+ἐδείξαντο
+
+5. they were shown  
+ἐδείχθησαν 
+
+6. they showed  
+ἔδειξαν
 
 ***
 
 ## Homework 5 (Due R 2/1)
 
-TBD
+1. ποίημα  
+neuter - 3rd (consonant)
+
+2. ἄνθρωπος  
+masculine - 2nd (omicron)
+
+3. δικαστής  
+masculine - 1st (alpha/eta)
+
+4. ἔργον  
+neuter - 2nd (omicron)
+
+5. γνώμη  
+feminine - 1st (alpha/eta)
+
+6. παῖς  
+masculine/feminine - 3rd (consonant)
+
+7. συμφορά  
+feminine - 1st (alpha/eta)
+
+8. μαρτύς  
+masculine/feminine - 3rd (consonant)
+
+9. ἀνήρ  
+masculine - 3rd (consonant)
+
+10. θεός  
+masculine - 2nd (omicron)
 
 ***
 
 ## Homework 6 (Due M 2/5)
 
-TBD
+### Part 1
+{: .no_toc }
+
+1. τῶν ἀνθρώπων  
+masculine genitive plural
+
+2. αἱ γυναικές  
+feminine nominative plural
+
+3. τῆς συμφορᾶς  
+feminine genitive singular
+
+4. τὰ ἔργα  
+neuter nominative plural
+
+5. ἡ θάλαττα  
+feminine nominative singular
+
+6. ὁ ἀνήρ  
+masculine nominative singular
+
+7. τοῦ ποιήματος  
+neuter genitive singular
+
+8. τῶν γνωμῶν  
+feminine genitive plural
+
+9. τοῦ δικαστοῦ  
+masculine genitive singular
+
+10. τῆς γυναικός  
+feminine genitive singular
+
+### Part 2
+{: .no_toc }
+
+1. οἱ ἄνθρωποι ἦλθον.  
+The people came.
+
+2. οἱ λόγοι οἱ τοῦ ποιήματος ἐγράφησαν.  
+The words of the poem were written.  
+NOTE: Remember that the repetition of the article οἱ serves only to link the genitive phase τοῦ ποιήματος to the noun that it attaches to, οἱ λόγοι -- there is no need to repeat "the" in translation.
+
+3. αἱ τῶν δικαστῶν γνῶμαι ἐδείχθησαν.  
+The opinions of the jurors were shown.
+
+4. τὰ ἔργα ἐποιήθη.  
+The deeds were done.
+
+5. ἡ θάλαττα ἐβλέφθη.  
+The sea was seen.
 
 ***
 
