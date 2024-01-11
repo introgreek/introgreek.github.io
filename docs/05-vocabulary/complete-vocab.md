@@ -21,7 +21,7 @@ parent: Vocabulary
 * ἀδικέω, ἀδικήσω, ἠδίκησα, ἠδίκηκα, ἠδίκημαι, ἠδικήθην - [to do wrong, injure](https://logeion.uchicago.edu/ἀδικέω)
 * ἄδικος, ἄδικον - [unjust](https://logeion.uchicago.edu/ἄδικος)
 * ἀθάνατος, ἀθάνατον - [undying, immortal](https://logeion.uchicago.edu/ἀθάνατος)
-* αἱρέω, αἱρήσω, εἷλον, ᾕρηκα, ᾕρημαι, ᾑρέθην - to take, seize
+* αἱρέω, αἱρήσω, εἷλον, ᾕρηκα, ᾕρημαι, ᾑρέθην - [to take, seize](https://logeion.uchicago.edu/αἱρέω)
 * ἀκούω, ἀκούσομαι, ἤκουσα, ἀκήκοα, --, ἠκούσθην - “[to hear, listen to](https://logeion.uchicago.edu/ἀκούω) (if object is a person, use genitive; if object is a thing, use accusative)
 * ἀληθής, ἀληθές - [true](https://logeion.uchicago.edu/ἀληθής)
 * ἁλίσκομαι, ἁλώσομαι, ἕαλων, ἑάλωκα, --, -- - [to be seized, caught](https://logeion.uchicago.edu/ἁλίσκομαι)
@@ -131,6 +131,7 @@ parent: Vocabulary
 
 * θάλαττα, θάλαττης, f. - [sea](https://logeion.uchicago.edu/θάλασσα)
 * θάνατος, θανάτου, m. - [death](https://logeion.uchicago.edu/θάνατος)
+* θεός, θεοῦ, m./f. - [god](https://logeion.uchicago.edu/θεός)
 * θυγάτηρ, θυγατρός, f. - [daughter](https://logeion.uchicago.edu/θυγατήρ)
 
 ## ι
@@ -190,6 +191,7 @@ parent: Vocabulary
 
 ## o
 
+* ὁ, ἡ, τό - [(definite article) the](https://logeion.uchicago.edu/ὁ)
 * ὅδε, ἥδε, τόδε - [this, these, the following](https://logeion.uchicago.edu/ὅδε)
 * ὁδός, ὁδοῦ, f. - [road](https://logeion.uchicago.edu/ὁδός)
 * [οἷα](https://logeion.uchicago.edu/οἷος) - (used with causal participle)

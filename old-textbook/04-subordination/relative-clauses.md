@@ -1,10 +1,5 @@
 ---
-layout: page
-title: Relative Clauses
-permalink: /textbook/subordination/relative-clauses
-nav_order: 0
-parent: 04 - Subordination
-grand_parent: Textbook
+
 ---
 
 # Relative Clauses

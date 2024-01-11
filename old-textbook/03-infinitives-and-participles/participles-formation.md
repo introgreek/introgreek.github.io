@@ -1,10 +1,5 @@
 ---
-layout: page
-title: Participle Formation
-permalink: /textbook/infs-and-parts/participle-formation
-nav_order: 2
-parent: 03 - Infinitives and Participles
-grand_parent: Textbook
+
 ---
 
 # Participle Formation

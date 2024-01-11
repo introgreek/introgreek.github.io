@@ -1,10 +1,5 @@
 ---
-layout: page
-title: Pronouns
-permalink: /textbook/nouns/pronouns
-nav_order: 6
-parent: 02 - Substantives and Adjectives
-grand_parent: Textbook
+
 ---
 
 # Pronouns and Pronominal Adjectives

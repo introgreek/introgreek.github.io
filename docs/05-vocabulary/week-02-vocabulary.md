@@ -1,35 +1,38 @@
 ---
 layout: page
-title: Module 1
-permalink: /vocabulary/01
+title: Week 2 Vocabulary
+permalink: /vocabulary/week-02-vocabulary
 nav_order: 1
 parent: Vocabulary
 ---
 
-# Module 1 Vocabulary
-
-***
+# Week 2 Vocabulary
 
 ## Verbs
 
 * ἄγω, ἄξω, ἤγαγον, ἦχα, ἦγμαι, ἤχθην - [to lead](https://logeion.uchicago.edu/ἄγω)
+
 * ἀδικέω, ἀδικήσω, ἠδίκησα, ἠδίκηκα, ἠδίκημαι, ἠδικήθην - [to do wrong, injure](https://logeion.uchicago.edu/ἀδικέω)
-* γίγνομαι, γενήσομαι, ἐγενόμην, γέγονα, γεγένημαι, ἐγενήθην - [to become, to happen](https://logeion.uchicago.edu/γίγνομαι)
+
+* αἱρέω, αἱρήσω, εἷλον, ᾕρηκα, ᾕρημαι, ᾑρέθην - [to take, seize](https://logeion.uchicago.edu/αἱρέω)
+
+* βλέπω, βλέψομαι, ἔβλεψα, βέβλεφα, βέβλεμμαι, ἐβλέφθην - “[to see](https://logeion.uchicago.edu/βλέπω)”
+
+* γράφω, γράψω, ἔγραψα, γέγραφα, γέγραμμαι, ἐγράφην - [to write](https://logeion.uchicago.edu/γράφω)
+
 * δείκνυμι, δείξω, ἔδειξα, δέδειχα, δέδειγμαι, ἐδείχθην - [to show](https://logeion.uchicago.edu/δείκνυμι)
-* δοκέω, δοκήσω, ἔδοξα, --, δέδογμαι, -ἐδόχθην - [to think; (3rd sg.) to seem (best)](https://logeion.uchicago.edu/δοκέω)
+
 * ἔρχομαι, ἐλεύσομαι, ἦλθον, ἐλήλυθα, --, -- - [to come, to go](https://logeion.uchicago.edu/ἔρχομαι)
+
 * ἔχω, ἕξω / σχήσω, ἔσχον, ἔσχηκα, -ἔσχημαι, ἐσχέθην - [to have, to hold](https://logeion.uchicago.edu/ἔχω)
+
 * κελεύω, κελεύσω, ἐκέλευσα, κεκέλευκα, κεκέλευσμαι, ἐκελεύσθην - [to order](https://logeion.uchicago.edu/κελεύω)
+
+* κρύπτω, κρύψω, ἔκρυψα, --, κέκρυμμαι, ἐκρύφθην - [to hide, conceal](https://logeion.uchicago.edu/κρύπτω)
+
 * λέγω, ἐρέω, εἶπον, εἴρηκα, --, -- - [to say, to speak](https://logeion.uchicago.edu/λέγω)
+
+* μείγνυμι, μείξω, ἔμειξα, μέμιχα, μέμιγμαι, ἐμίγην - [to mix](https://logeion.uchicago.edu/μείγνυμι)
+
 * ποιέω, ποιήσω, ἐποίησα, πεποίηκα, πεποίημαι, ἐποιήθην - [to make, do](https://logeion.uchicago.edu/ποιέω)
 
-## Conjunctions and Particles
-
-* ἀλλά - [but](https://logeion.uchicago.edu/ἀλλά)
-* γάρ - (post-positive) [for, because](https://logeion.uchicago.edu/γάρ)
-* δέ - (post-positive) [and, but](https://logeion.uchicago.edu/δέ)
-* ἤ - [or](https://logeion.uchicago.edu/ἤ) (ἤ ... ἤ - either ... or)
-* καί - [and; even, also](https://logeion.uchicago.edu/καί) (καί/τε ... καί/τε - both ... and)
-* [μέν ... δέ](https://logeion.uchicago.edu/μέν) (... δέ ...) - [denotes elements of a list]
-* οὖν - (post-positive) [therefore, then](https://logeion.uchicago.edu/οὖν)
-* τε - (enclitic, post-positive) [and](https://logeion.uchicago.edu/τε)

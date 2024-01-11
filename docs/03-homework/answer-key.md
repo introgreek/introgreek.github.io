@@ -43,10 +43,12 @@ This is an answer key for all the homework assignments. I encourage you to compl
 ## Practice Homework 2 (Due M 1/22)
 
 ### Part 1
+{: .no_toc }
 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1115708260&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/dlibatique" title="DLibatique" target="_blank" style="color: #cccccc; text-decoration: none;">DLibatique</a> · <a href="https://soundcloud.com/dlibatique/alphabets-and-accents-practice-opportunity-1" title="Alphabets and Accents - Practice Opportunity 1" target="_blank" style="color: #cccccc; text-decoration: none;">Alphabets and Accents - Practice Opportunity 1</a></div>
 
 ### Part 2
+{: .no_toc }
 
 1. δεικνυασι (recessive accent)  
 δεικνύασι
@@ -345,31 +347,143 @@ The sea was seen.
 
 ## Homework 7 (Due W 2/7)
 
-TBD
+### Part 1
+{: .no_toc }
+
+1. The sailor sent the money to his family. (3)  
+* sailor: subject, nominative
+* money: direct object, accusative
+* family: indirect object, dative
+
+2. The students heard the teacher's words. (3)  
+* students: subject, nominative
+* teacher's: possessor, genitive
+* words: direct object, accusative
+
+3. The children gave the parent the book. (3)  
+* children: subject, nominative
+* parent: indirect object, dative
+* book: direct object, accusative
+
+4. The home of the family was being built. (2)  
+* home: subject, nominative
+* family: possessor, genitive
+
+### Part 2
+{: .no_toc }
+
+1. οἱ παῖδες τοὺς πολίτας ἠγάγοντο.  
+* direct object: (τοὺς) πολίτας
+* The children led the citizens.
+
+2. ἡ γυνὴ τοὺς λόγους τῷ ἀνδρὶ εἶπεν.  
+* direct object: (τοὺς) λόγους
+* indirect object: (τῷ) ἀνδρὶ
+* The woman said the words to the man.
+
+3. αἱ γυναικὲς τὸ πρᾶγμα ἐποίησαν.  
+* direct object: (τὸ) πρᾶγμα
+* The women did the deed.
+
+4. τὸ πρᾶγμα ἐποιήθη.  
+* The deed was done.
+
+5. ὁ ἄνθρωπος τοῖς μάρτυρσιν τὸν κίνδυνον ἔδειξεν.  
+* direct object: (τὸν) κίνδυνον
+* indirect object: (τοῖς) μάρτυρσιν
+* The man showed the witnesses the danger. (or) The man showed the danger to the witnesses.
+
+6. οἱ ἀνδρὲς τὰ χρήματα τοῖς παισὶν ἔσχον.  
+* direct object: (τὰ) χρήματα
+* indirect object: (τοῖς) παισὶν
+* The men held the money for the children.
 
 ***
 
 ## Homework 8 (Due R 2/8)
 
-TBD
+**NOTE**: Word order can be highly variable in Greek sentences; what's important is that you keep your articles and nouns together.
+
+1. The child saw both the money and the sea.  
+ὁ παῖς καὶ τὰ χρήματα καὶ τὴν θάλατταν ἔβλεψεν.
+
+2. The juror wrote his opinion, but it was hidden.  
+ὁ δικαστὴς τὴν γνώμην ἔγραψεν, ἀλλὰ ἐκρύφθη.
+
+3. One woman took the child, but the other woman saw the danger. (Use a μέν-δέ construction here.)  
+ἡ μὲν τὸν/τὴν παῖδα εἶλεν, ἡ δὲ τὸν κίνδυνον ἔβλεψεν.
 
 ***
 
 ## Homework 9 (Due M 2/12)
 
-TBD
+### Part 1
+{: .no_toc }
+
+1. βλέπω  
+βλέπουσιν - they see
+
+2. μείγνυμι  
+μειγνύασιν - they mix
+
+3. γράφω  
+γράφουσιν - they write
+
+4. λέγω  
+λέγουσιν - they say
+
+5. ἄγω  
+ἄγουσιν - they lead
+
+### Part 2
+{: .no_toc }
+
+1. ὁ ἀνὴρ καὶ τὸν οἶνον καὶ τὴν θάλατταν βλέπει.  
+The man sees both the wine and the sea.
+
+2. ὁ παῖς τοὺς τοῦ δικαστοῦ λόγους γράφει.  
+The child writes the words of the juror.
+
+3. ἡ μὲν τὸ βίβλιον ἔχει, ἡ δὲ τὸν ποταμὸν τῷ πολίτῃ δείκνυσιν.  
+One woman has the book, but the other woman shows the river to the citizen.
 
 ***
 
 ## Homework 10 (Due W 2/14)
 
-TBD
+1. The dangers are being shown to the citizens.  
+οἱ κίνδυνοι τοῖς πολίταις δείκνυνται.
+
+2. The children are coming.  
+οἱ παῖδες ἔρχονται.
+
+3. The opinion of the juror is being written.  
+ἡ τοῦ δικαστοῦ γνώμη γράφεται. or ἡ γνώμη ἡ τοῦ δικαστοῦ γράφεται.
+
+4. The words are being spoken for the man.  
+οἱ λόγοι τῷ ἀνδρὶ λέγονται.
+
+5. The wine is being mixed.  
+ὁ οἶνος μείγνυται.
 
 ***
 
 ## Homework 11 (Due R 2/15)
 
-TBD
+1. ἀδικέω - 3rd singular middle/passive  
+ἀδικεῖται - he is wronged
+
+2. δοκέω - 3rd plural active  
+δοκοῦσιν - they think
+
+3. ἀδικέω - 3rd plural middle/passive  
+ἀδικοῦνται - they are wronged
+
+4. ποιέω - 3rd singular active  
+ποιεῖ - she makes
+
+5. δοκέω - 3rd singular middle/passive  
+δοκεῖται - it is thought
 
 ***
 

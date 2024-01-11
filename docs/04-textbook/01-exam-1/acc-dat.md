@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Accusative, Dative
-permalink: /textbook/nouns/acc-dat
-nav_order: 2
-parent: 02 - Substantives and Adjectives
+title: Accusative and Dative
+permalink: /textbook/exam-1/acc-dat
+nav_order: 6
+parent: 01 - Exam 1
 grand_parent: Textbook
 ---
 
@@ -15,29 +15,6 @@ grand_parent: Textbook
 
 1. TOC
 {:toc}
-
-***
-
-## Unit Vocabulary
-
-### First Declension
-{: .no_toc }
-
-* δίκη, δίκης, f. - "[trial, lawsuit, penalty, custom, right](https://logeion.uchicago.edu/δίκη)"
-* πολίτης, πολίτου, m. - "[citizen](https://logeion.uchicago.edu/πολίτης)"
-
-### Second Declension
-{: .no_toc }
-
-* λόγος, λόγου, m. - "[word, account, reason](https://logeion.uchicago.edu/λόγος)"
-* κίνδυνος, κινδύνου, m. - "[danger](https://logeion.uchicago.edu/κίνδυνος)"
-
-### Third Declension
-{: .no_toc }
-
-* μάρτυς, μάρτυρος, m./f. - "[witness](https://logeion.uchicago.edu/μάρτυς)"
-* παῖς, παῖδος, m./f. - "[child](https://logeion.uchicago.edu/παῖς)"
-* πρᾶγμα, πράγματος, n. - "[deed](https://logeion.uchicago.edu/πρᾶγμα)"
 
 ***
 
@@ -53,10 +30,10 @@ Like the genitive, the **accusative** has many uses, but we'll focus on one for 
 
 Note the qualification: accusative direct objects receive the action of *active* or *middle* verbs. Compare this against passive verbs, the action of which gets performed upon a *subject*:
 
-* λέγουσι **τοὺς λόγους** (masculine accusative plural). "They say **the words**."
-  * The verb λέγουσι ("they say") is 3rd pl. present active. "Words" is a **direct object** of the active/middle verb and thus is in the **accusative** case (τοὺς λόγους).
-* **οἱ λόγοι** (masculine nominative plural) λέγονται. "**The words** *are spoken*."
-  * The verb λέγονται is 3rd pl. present passive. "Words" in this sentence is the **subject** of the passive verb and thus would be in the **nominative** case.
+* ἔβλεψαν **τὸν κίνδυνον** (masculine accusative singular). "They saw **the danger**."
+  * The verb ἔβλεψαν ("they saw") is 3rd pl. aorist active. "The danger" is a **direct object** of the active verb and thus is in the **accusative** case (τὸν κίνδυνον).
+* **ὁ κίνδυνος** (masculine nominative singular) ἐβλέφθη. "**The danger** *was seen*."
+  * The verb ἐβλέφθη is 3rd sg. aorist passive. "The danger" in this sentence is the **subject** of the passive verb and is thus in the **nominative** case.
 
 ### Dative
 
@@ -65,34 +42,23 @@ Like the accusative and the genitive, the **dative** has many uses, but we'll fo
 
 **He gives the rose** ***to his wife.***
 
-In this example sentence, the action of "giving" is performed directly upon "the rose" -- that is the noun that is being given, and thus "rose" would be a **direct object** and in the **accusative** case. However, "the wife" benefits from the action of giving, but she herself is not the noun being given. So, "the wife" would be an **indirect object** and in the **dative** case.
+In this example sentence, the action of "giving" is performed directly upon "the rose" -- that is the noun that is being given, and thus "rose" is a **direct object** and in the **accusative** case. However, "the wife" benefits from the action of giving, but she herself is not the noun being given. So, "the wife" would be an **indirect object** and in the **dative** case.
 
-**She says the words** ***to the witness.***
+**She said the words** ***to the witness.***
 
 In this sentence, there's a similar relationship between the verb "says" and the indirect object "witness" -- the witness isn't directly being spoken (that function belongs to "words", which is the direct object and thus would be in the accusative case), but the witness is indirectly affected by that action -- hence, indirect object and dative case.
 
-In such cases, it's often best to translate the dative using the prepositions "to" or "for." These prepositions are essentially built into the core function of the dative -- you do not need any explicit prepositions in Greek to get this idea across. Note the second sentence in Greek:
+In such cases, it's often best to translate the dative using the preposition "to" or "for." These prepositions are essentially built into the core function of the dative -- you do not need any explicit prepositions in Greek to get this idea across. Note how the second sentence looks in Greek:
 
-λέγει *τοὺς λόγους* **τῷ μάρτυρι**. She says *the words* **to the witness**.
+εἶπε *τοὺς λόγους* **τῷ μάρτυρι**. She said *the words* **to the witness**.
+
+In the Greek, the dative article-noun pair τῷ μάρτυρι translates in English to "**to** the witness" -- we don't need an explicit preposition in the Greek to indicate "to".
 
 English can also place indirect objects *before* direct objects without the use of "to" or "for." Note this rearrangement of the first example sentence above:
 
 * He gives his wife the rose. (original: He gives the rose to his wife.)
 
 "Wife" is *still* not directly receiving the action of "giving"; it's the rose that's being given. So, despite the sentence's rearrangement, the same functions for each noun apply: "wife" is the indirect object, and "rose" is the direct object. Be wary of word order in English; to figure out what is a direct object and what is an indirect object, ask yourself the question "what receives the action of the verb?" Your answer to that question is the direct object. You can also ask "who benefits from" or "who gets affected by the action of the verb without directly receiving the action?" Your answer to that question is the indirect object.
-
-***
-
-## Practice Opportunity 1
-
-Each of the following sentences is followed by a number that indicates how many nouns there are in the sentence. Identify each noun and the case that reflects its function in the sentence most accurately.
-
-[Answer key here](../answer-key#accusative-and-dative-po1).
-
-1. The sailor sent the money to his family. (3)
-2. The students heard the teacher's words. (3)
-3. The children gave the parent the book. (3)
-4. The home of the family was being built. (2)
 
 ***
 
@@ -143,11 +109,11 @@ The following charts will indicate the dative and accusative endings by declensi
 
 \*\* Note that any **neuter** noun, pronoun, or adjective will have **the same form/ending** in the **nominative and accusative within the same number.** This means that a neuter noun will have the same form for nominative singular and accusative singular, and then the same form for nominative plural and accusative plural.
 
-So, take for example the noun πρᾶγμα in the [Unit Vocabulary](#unit-vocabulary) above. Its neuter nominative singular form is πρᾶγμα, which means that its accusative singular form will *also* be πρᾶγμα -- we do not decline the noun into the accusative singular by chopping -ος off the genitive form and adding an ending. Similarly, the nominative **and** accusative plural form of the noun is πράγματα.
+So, take for example the noun πρᾶγμα in the [Week 3 Vocabulary](../../vocabulary/week-03-vocabulary) above. Its neuter nominative singular form is πρᾶγμα, which means that its accusative singular form will *also* be πρᾶγμα -- we do not decline the noun into the accusative singular by chopping -ος off the genitive form and adding an ending. Similarly, the nominative **and** accusative plural form of the noun is πράγματα.
 
 Context will often help guide you towards figuring out whether a neuter noun is nominative or accusative. Take, for example, this sentence:
 
-* ὁ παῖς ποιεῖ τὰ πράγματα.
+* ὁ παῖς τὰ πράγματα ἐποίησεν.
 
 τὰ πράγματα can be either nominative or accusative. However, note the presence of an explicit nominative noun that cannot be any other case in the sentence: ὁ παῖς. Thus, by process of elimination, we can rule out nominative and parse τὰ πράγματα as an accusative direct object:
 
@@ -157,30 +123,16 @@ Context will often help guide you towards figuring out whether a neuter noun is 
 
 Note that almost all the endings across the three declensions begin with a vowel. The one exception is the **dative plural ending of the third declension**: -σι(ν). The sigma that begins the ending often comes into conflict with a noun stem that ends in a consonant, and it often transforms the noun stem in interesting ways.
 
-For example, note the noun παῖς, παιδός, in the [Unit Vocabulary](#unit-vocabulary). The noun stem is παιδ-, but the δ of the stem and the σ of the dative plural ending conflict (the formation παιδσιν would have sounded odd to the Greeks). The sibillance (the hissing quality) of the σ carries more weight than the δ, so in the conflict, σ wins out, the δ disappears, and the dative plural form of παῖς becomes παισίν.
+For example, note the noun παῖς, παιδός, in the [Week 4 Vocabulary](../../vocabulary/week-04-vocabulary). The noun stem is παιδ-, but the δ of the stem and the σ of the dative plural ending conflict (the formation παιδσιν would have sounded odd to the Greeks). The sibillance (the hissing quality) of the σ carries more weight than the δ, so in the conflict, σ wins out, the δ disappears, and the dative plural form of παῖς becomes παισίν.
 
-Note another example, though, in γυνή, γυναικός, from [the last unit's vocabulary](nom-gen-art#unit-vocabulary). The noun stem is γυναικ-, and the combination of stem plus dative plural ending would result in the form γυναικσιν. The κσ sound, however, actually constitutes a letter in the Greek alphabet: ξ. Thus, the dative plural of γυνή is γυναιξί(ν).
+Note another example, though, in γυνή, γυναικός, from [the Week 3 Vocabulary](../../vocabulary/week-03-vocabulary). The noun stem is γυναικ-, and the combination of stem plus dative plural ending would result in the form γυναικσιν. The κσ sound, however, actually constitutes a letter in the Greek alphabet: ξ. Thus, the dative plural of γυνή is γυναιξί(ν).
 
-You can look at the [master noun paradigm charts](../../reference/nouns) to see other examples of the 3rd declension dative plural ending in action, but here are some general rules:
+You can look at the [complete noun paradigm charts](../../reference/nouns) to see other examples of the 3rd declension dative plural ending in action, but here are some general rules:
 * If the noun stem ends in a velar plosive (γ, κ, χ), that stem consonant will contract with the -σ- of the dative plural ending to form the letter ξ.
 * If the noun stem ends with a labial plosive (β, π, φ), that stem consonant will contract with the -σ- of the dative plural ending to form the letter ψ.
 * If the noun stem ends with a rho, it will remain, and the -σι(ν) ending will simply get attached to that stem. For example, μάρτυς, μάρτυρος, has a noun stem of μαρτυρ-; thus, its dative plural form is μάρτυρσι(ν).
 * The -σ- of the dative plural ending will sometimes knock out weaker dental consonants like δ, τ, or θ or combinations like ντ.
 * Sometimes, such a knocking-out will result in a lengthening of the vowel left over at the end of the stem (for example, γέρων, γέροντος, has the stem γεροντ-; the -σ- of the ending knocks out the -ντ-, and the remaining ο (γερο-) lengthens into -ου-, and the final dative plural form becomes γέρουσι(ν)).
-
-***
-
-## Practice Opportunity 2
-
-Each of the following sentences contains a **direct object**, and some sentences contain an **indirect object**. Identify each direct object and, if present, indirect object, and translate the sentence.
-
-[Answer key here](../answer-key#accusative-and-dative-po2).
-
-1. οἱ παῖδες τοὺς πολίτας ἠγάγοντο.
-2. ἡ γυνὴ τοὺς λόγους τῷ ἀνδρὶ ἔλεγεν.
-3. τὸ πραγμα ἐποίουν.
-4. ὁ ἄνθρωπος τοῖς μάρτυρσιν τὸν κίνδυνον ἔδειξεν.
-5. οἱ ἀνδρὲς τὰ χρήματα τοῖς παισὶν εἶχον. (τὰ χρήματα > χρῆμα, χρήματος, n. - "thing; [plural] money, goods, property")
 
 ***
 
@@ -190,7 +142,7 @@ Recall from the unit on [alphabets and accents](../basics/alphabet-and-accents#p
 
 The accent's position is most clearly seen in the **genitive singular** form of the noun. Wherever the accent falls in that form is where it tends to stay in the noun's other inflections, but the accent is still subject to the same rules of length, movement, and transformation described in the accents unit.
 
-For example, let's take the noun γνώμη, γνώμης, from the [last unit's vocabulary](nom-gen-art#unit-vocabulary). The accent falls on the penult in the genitive singular form, so throughout the noun's inflections, that's where it will want to stay:
+For example, let's take the noun γνώμη, γνώμης, from the [Week 3 Vocabulary](../../vocabulary/week-03-vocabulary). The accent falls on the penult in the genitive singular form, so throughout the noun's inflections, that's where it will want to stay:
 
 | | Singular | Plural |
 | ----- | ----- | ----- |

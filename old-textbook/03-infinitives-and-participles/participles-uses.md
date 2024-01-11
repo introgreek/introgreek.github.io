@@ -1,10 +1,5 @@
 ---
-layout: page
-title: Participle Uses
-permalink: /textbook/infs-and-parts/participle-uses
-nav_order: 3
-parent: 03 - Infinitives and Participles
-grand_parent: Textbook
+
 ---
 
 # Participle Uses

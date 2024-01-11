@@ -1,10 +1,5 @@
 ---
-layout: page
-title: Imperfect
-permalink: /textbook/verbs/imperfect
-nav_order: 5
-parent: 01 - Verbs
-grand_parent: Textbook
+
 ---
 
 # Imperfect

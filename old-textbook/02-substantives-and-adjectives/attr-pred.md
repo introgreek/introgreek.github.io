@@ -1,10 +1,5 @@
 ---
-layout: page
-title: Attributive and Predicative Position
-permalink: /textbook/nouns/attr-pred
-nav_order: 5
-parent: 02 - Substantives and Adjectives
-grand_parent: Textbook
+
 ---
 
 # Attributive and Predicative Position

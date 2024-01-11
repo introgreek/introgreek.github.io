@@ -1,10 +1,5 @@
 ---
-layout: page
-title: 04 - Subordination
-permalink: /textbook/subordination
-nav_order: 4
-parent: Textbook
-has_children: true
+
 ---
 
 # Subordination

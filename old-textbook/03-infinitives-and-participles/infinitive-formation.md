@@ -1,10 +1,5 @@
 ---
-layout: page
-title: Infinitive Formation
-permalink: /textbook/infs-and-parts/infinitive-formation
-nav_order: 0
-parent: 03 - Infinitives and Participles
-grand_parent: Textbook
+
 ---
 
 # Infinitive Formation

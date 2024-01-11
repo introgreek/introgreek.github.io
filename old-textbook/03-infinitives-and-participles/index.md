@@ -1,10 +1,5 @@
 ---
-layout: page
-title: 03 - Infinitives and Participles
-permalink: /textbook/infs-and-parts
-nav_order: 3
-parent: Textbook
-has_children: true
+
 ---
 
 # Infinitives and Participles

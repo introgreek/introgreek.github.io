@@ -267,7 +267,32 @@ Translate each of the following sentences.
 
 ## Homework 7 (Due W 2/7)
 
-TBD
+### Part 1
+{: .no_toc }
+
+Each of the following sentences is followed by a number that indicates how many nouns there are in the sentence. Identify each noun, its function in the sentence (subject, possessor, direct object, or indirect object), and the Greek noun case that reflects that function. For example:
+
+The father carried the girl's book. (3)  
+* father: subject, nominative
+* girl's: possessor, genitive
+* book: direct object, accusative
+
+1. The sailor sent the money to his family. (3)
+2. The students heard the teacher's words. (3)
+3. The children gave the parent the book. (3)
+4. The home of the family was being built. (2)
+
+### Part 2
+{: .no_toc }
+
+Each of the following sentences contains a **direct object**, and some sentences contain an **indirect object**. Identify each direct object and, if present, indirect object, and translate the sentence.
+
+1. οἱ παῖδες τοὺς πολίτας ἠγάγοντο.
+2. ἡ γυνὴ τοὺς λόγους τῷ ἀνδρὶ εἶπεν.
+3. αἱ γυναικὲς τὸ πρᾶγμα ἐποίησαν.
+4. τὸ πρᾶγμα ἐποιήθη.
+5. ὁ ἄνθρωπος τοῖς μάρτυρσιν τὸν κίνδυνον ἔδειξεν.
+6. οἱ ἀνδρὲς τὰ χρήματα τοῖς παισὶν ἔσχον.
 
 [Answer key here](answer-key#homework-7-due-w-27).
 
@@ -275,7 +300,11 @@ TBD
 
 ## Homework 8 (Due R 2/8)
 
-TBD
+Use the Weeks 1 through 4 Vocabulary lists and paradigm charts to render each English sentence into Greek. Accents do not matter.
+
+1. The child saw both the money and the sea.
+2. The juror wrote his opinion, but it was hidden.
+3. One woman took the child, but the other woman saw the danger. (Use a μέν-δέ construction here.)
 
 [Answer key here](answer-key#homework-8-due-r-28).
 
@@ -283,7 +312,25 @@ TBD
 
 ## Homework 9 (Due M 2/12)
 
-TBD
+### Part 1
+{: .no_toc }
+
+Conjugate each of the following verbs into the **3rd person plural present active**, and then give a **sample translation** of the form that you created.
+
+1. βλέπω
+2. μείγνυμι
+3. γράφω
+4. λέγω
+5. ἄγω
+
+### Part 2
+{: .no_toc }
+
+Translate the following sentences into English.
+
+1. ὁ ἀνὴρ καὶ τὸν οἶνον καὶ τὴν θάλατταν βλέπει.
+2. ὁ παῖς τοὺς τοῦ δικαστοῦ λόγους γράφει.
+3. ἡ μὲν τὸ βίβλιον ἔχει, ἡ δὲ τὸν ποταμὸν τῷ πολίτῃ δείκνυσιν. 
 
 [Answer key here](answer-key#homework-9-due-m-212).
 
@@ -291,7 +338,13 @@ TBD
 
 ## Homework 10 (Due W 2/14)
 
-TBD
+Render the following English sentences into Greek. Accents do not matter.
+
+1. The dangers are being shown to the citizens.
+2. The children are coming.
+3. The opinion of the juror is being written.
+4. The words are being spoken for the man.
+5. The wine is being mixed.
 
 [Answer key here](answer-key#homework-10-due-w-214).
 
@@ -299,7 +352,13 @@ TBD
 
 ## Homework 11 (Due R 2/15)
 
-TBD
+Conjugate the given verb into the **present tense in the indicated person, number, and voice,** and then give a **sample translation** of the form that you just created.
+
+1. ἀδικέω - 3rd singular middle/passive
+2. δοκέω - 3rd plural active
+3. ἀδικέω - 3rd plural middle/passive
+4. ποιέω - 3rd singular active
+5. δοκέω - 3rd singular middle/passive
 
 [Answer key here](answer-key#homework-11-due-r-215).
 

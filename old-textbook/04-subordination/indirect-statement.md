@@ -1,10 +1,5 @@
 ---
-layout: page
-title: Indirect Statement
-permalink: /textbook/subordination/indirect-statement
-nav_order: 1
-parent: 04 - Subordination
-grand_parent: Textbook
+
 ---
 
 # Indirect Statement

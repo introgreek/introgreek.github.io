@@ -1,10 +1,5 @@
 ---
-layout: page
-title: Infinitive Uses
-permalink: /textbook/infs-and-parts/infinitive-uses
-nav_order: 1
-parent: 03 - Infinitives and Participles
-grand_parent: Textbook
+
 ---
 
 # Infinitive Uses

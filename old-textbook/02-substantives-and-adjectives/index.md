@@ -1,10 +1,5 @@
 ---
-layout: page
-title: 02 - Substantives and Adjectives
-permalink: /textbook/subst-and-adjs
-nav_order: 2
-parent: Textbook
-has_children: true
+
 ---
 
 # Substantives and Adjectives

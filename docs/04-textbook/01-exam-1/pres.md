@@ -1,13 +1,13 @@
 ---
 layout: page
-title: Present
-permalink: /textbook/verbs/present
-nav_order: 4
-parent: 01 - Verbs
+title: Present Tense
+permalink: /textbook/exam-1/present
+nav_order: 8
+parent: 01 - Exam 1
 grand_parent: Textbook
 ---
 
-# Present
+# Present Tense
 {: .no_toc }
 
 ## Table of contents
@@ -18,29 +18,23 @@ grand_parent: Textbook
 
 ***
 
-## Unit Vocabulary
-
-Please refresh yourself on the principal parts for the verbs contained in the units on [first aorist](first-aorist#principal-parts-and-memorization) and [second aorist](second-aorist#unit-vocabulary), especially each verb's first principal part, as we will use them all in this and the coming units.
-
-***
-
 ## The First Principal Part
 
-We have spent a lot of time until now with the third and sixth principal parts in learning about the aorist tense, the tense of instantaneous or completed actions in the past, in all voices. We will move now to the other principal part that you've been asked to memorize for new verbs, the **first principal part**, which we will use to build the forms of two tenses, the **present**, which we'll learn about in this unit, and the **imperfect**, which we'll learn about in the next unit.
+We have spent a lot of time until now with the third and sixth principal parts in learning about the aorist tense, the tense of instantaneous or completed actions in the past, in all voices. We will move now to the other principal part that you've been asked to memorize for new verbs, the **first principal part**, which we will use to build the forms of the **present tense**.
 
 ***
 
 ## Present Tense
 
-The **present** tense, as discussed [in the verb overview](overview#verb-aspects), indicates an action that is occurring right now. While the translation of the aorist is pretty narrowly defined (as the simple past tense of a verb, often its "-ed" form) to differentiate it from the imperfect, there are a few different ways in which we can translate the present tense. Here are a few examples:
+The **present** tense, as discussed [in the verb overview](overview#verb-aspects), indicates an action that is occurring right now. While the translation of the aorist is pretty narrowly defined (as the simple past tense of a verb, often its "-ed" form), there are a few different ways in which we can translate the present tense. Here are a few examples:
 
 * "They order" (simple present)
 * "They are ordering" (progressive present)
 * "They do order" (emphatic present)
 
-These are all present tense versions of the same verb, "to order", in the 3rd plural; each version refers to an action that is happening now. The variations simply cover different types of action:
+These are all present tense versions of the same verb, "to order", in the 3rd person plural; each version refers to an action that is happening now. The variations simply cover different types of action:
 * the simple present, like the aorist, implies an instantaneous action;
-* the progressive present indicates an action that is in the process of happening, like the imperfect;
+* the progressive present indicates an action that is in the process of happening;
 * and the emphatic present, as the name implies, emphasizes an action and is also used in questions (e.g., "do they order?").
 
 Context will often help guide you towards one of these translations more strongly than the others.
@@ -67,7 +61,7 @@ As with the aorist, the conjugation of the present is a matter of combining a ve
 
 Here are the steps to conjugate a verb in the present active.
 1. Get the verb's **present stem** by taking -ω or -μι off the first principal part.
-2. Apply the appropriate **personal endings**, depending on whether the verb is -ω or -μι.
+2. Apply the appropriate **personal ending**, depending on whether the verb is -ω or -μι.
 3. Apply a **recessive accent** based on the rules laid out [in the unit on accents](../basics/alphabet-and-accents#accents).
 
 #### Present Active Endings (-ω)
@@ -111,25 +105,13 @@ The verbal aspects that we took into consideration when learning about the aoris
 
 ***
 
-#### Practice Opportunity 1
-
-Translate the following sentences into English, using the verbs that you've learned previously and the [example nouns listed in the verb overview](http://localhost:4000/textbook/verbs/overview#example-nouns).
-
-[Answer key here](../answer-key#present-po1).
-
-1. ὁ πολίτης κελεύει τοὺς ἀνθρώπους.
-2. ὁ ἄνθρωπος τὴν πόλιν δείκνυσιν.
-3. οἱ πολῖται λέγουσιν.
-
-***
-
 ### Present Middle/Passive
 
-As mentioned above, we use the first principal part to form the middle and passive voices of the present tense as well. Unlike the aorist, **the present uses the same endings for both the middle and the passive**, so you will need to use the rest of the sentence and context clues to determine which voice of the verb you're dealing with. For example, the presence of an accusative direct object (which you'll learn about in module 2) with a middle/passive verb probably indicates that it's middle, since a passive verb cannot take an accusative direct object. For now, it's enough to know that one form is used for both middle and passive.
+As mentioned above, we use the first principal part to form the middle and passive voices of the present tense as well. Unlike the aorist, **the present uses the same endings for both the middle and the passive**, so you will need to use the rest of the sentence and context clues to determine which voice of the verb you're dealing with. For example, the presence of an accusative direct object with a middle/passive verb probably indicates that it's **middle**, since a passive verb *cannot* take an accusative direct object.
 
 Here are the steps to conjugate a verb in the present middle/passive.
 1. Get the verb's **present stem** by taking -ω or -μι off the first principal part.
-2. Apply the appropriate **personal endings**, depending on whether the verb is -ω or -μι.
+2. Apply the appropriate **personal ending**, depending on whether the verb is -ω or -μι.
 3. Apply a **recessive accent** based on the rules laid out [in the unit on accents](../basics/alphabet-and-accents#accents).
 
 Hopefully these steps sound familiar by this point. The only difference are the endings used in step 2:
@@ -189,21 +171,8 @@ The same goes for a form like δείκνυνται:
 
 #### A Note about Deponents
 
-Recall from the unit on [second aorists](second-aorist#deponent-verbs) that a **deponent verb** is a verb that is **middle/passive in form but active in meaning**. This distinction applies to any of the tenses, including the present tense. A deponent present tense is indicated by a first principal part that ends in **-ομαι** (for -ω verbs) or **-μαι** (without the thematic vowel, for -μι verbs).
+Recall from the unit on [the aorist passive](aorist-passive#deponent-verbs) that a **deponent verb** is a verb that is **middle or passive in form but active in meaning**. This distinction applies to any of the tenses, including the present tense. A deponent present tense is indicated by a first principal part that ends in **-ομαι** (for -ω verbs) or **-μαι** (without the thematic vowel, for -μι verbs).
 
 Of the verbs that you know so far, two are deponent in the first principal part: **γίγνομαι** ("to happen, to become") and **ἔρχομαι** ("to come, to go"). Both of these forms have the theme vowel ο before the -μαι, so we classify these verbs as belonging to the -ω conjugation.
 
-The conjugation of these verbs on their first principal parts, then, will use only middle/passive endings (i.e., γίγνεται, γίγνονται; ἔρχεται, ἔρχονται) but be translated actively (e.g., "he becomes", "they come").
-
-#### Practice Opportunity 2
-
-Translate the following sentences into English, using the verbs that you've learned previously and the [example nouns listed in the verb overview](http://localhost:4000/textbook/verbs/overview#example-nouns).
-
-[Answer key here](../answer-key#present-po2).
-
-1. οἱ πολῖται τὴν πόλιν ἄγονται.
-2. ὁ πολίτης ἔρχεται.
-3. ὁ ἄνθρωπος τὰ χρήματα ἔχεται.
-4. οἱ ἄνθρωποι γίγνονται οἱ πολῖται.\*
-
-\* Note that both nouns in this sentence are in the nominative case because the verb ἐγένοντο links them together; they refer to the same entity, so they are in the same case. We’ll learn more about this in module 2.
+The conjugation of these verbs on their first principal parts, then, will use only middle/passive endings (i.e., γίγνεται, γίγνονται; ἔρχεται, ἔρχονται) but be translated actively (e.g., "it happens", "they come").
