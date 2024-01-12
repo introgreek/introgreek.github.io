@@ -2,7 +2,7 @@
 layout: page
 title: Infinitives and Participles
 permalink: /reference/infinitives-and-participles
-nav_order: 2
+nav_order: 5
 parent: Reference
 ---
 

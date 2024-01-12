@@ -143,8 +143,8 @@ This is an answer key for all the homework assignments. I encourage you to compl
 2. ἐδείξατο  
 3rd singular aorist middle, "he showed for himself"
 
-3. ἔβλεψε  
-3rd singular aorist active, "she saw"
+3. ἤνεγκε  
+3rd singular aorist active, "she carried"
 
 4. ἠδικήσαντο  
 3rd plural aorist middle, "they wronged themselves"
@@ -198,8 +198,8 @@ This is an answer key for all the homework assignments. I encourage you to compl
 1. they (plural) came  
 ἦλθον
 
-2. they (plural) said for themselves  
-εἴποντο
+2. they (plural) carried for themselves  
+ἠνέγκοντο or ἠνέγκαντο
 
 3. she led  
 ἤγαγεν
@@ -231,6 +231,9 @@ This is an answer key for all the homework assignments. I encourage you to compl
 
 5. ἐγράφησαν (first principal part: γράφω)  
 3rd plural aorist passive, "they were written"
+
+6. ἠνέχθη (first principal part: φέρω)  
+3rd singular aorist passive, "it was carried"
 
 ### Part 2
 {: .no_toc }
@@ -318,7 +321,7 @@ neuter genitive singular
 8. τῶν γνωμῶν  
 feminine genitive plural
 
-9. τοῦ δικαστοῦ  
+9. τοῦ κόρου  
 masculine genitive singular
 
 10. τῆς γυναικός  
@@ -340,8 +343,8 @@ The opinions of the jurors were shown.
 4. τὰ ἔργα ἐποιήθη.  
 The deeds were done.
 
-5. ἡ θάλαττα ἐβλέφθη.  
-The sea was seen.
+5. ἡ κόρη ἐβλέφθη.  
+The girl was seen.
 
 ***
 
@@ -376,22 +379,22 @@ The sea was seen.
 * direct object: (τοὺς) πολίτας
 * The children led the citizens.
 
-2. ἡ γυνὴ τοὺς λόγους τῷ ἀνδρὶ εἶπεν.  
-* direct object: (τοὺς) λόγους
+2. ἡ γυνὴ τὰ βίβλια τῷ ἀνδρὶ ἤνεγκεν. 
+* direct object: (τὰ) βίβλια
 * indirect object: (τῷ) ἀνδρὶ
-* The woman said the words to the man.
+* The woman carried the books for the man.
 
-3. αἱ γυναικὲς τὸ πρᾶγμα ἐποίησαν.  
+3. αἱ κόραι τὸ πρᾶγμα ἐποίησαν.  
 * direct object: (τὸ) πρᾶγμα
-* The women did the deed.
+* The girls did the deed.
 
 4. τὸ πρᾶγμα ἐποιήθη.  
 * The deed was done.
 
-5. ὁ ἄνθρωπος τοῖς μάρτυρσιν τὸν κίνδυνον ἔδειξεν.  
+5. ὁ κόρος τοῖς μάρτυρσιν τὸν κίνδυνον ἔδειξεν.  
 * direct object: (τὸν) κίνδυνον
 * indirect object: (τοῖς) μάρτυρσιν
-* The man showed the witnesses the danger. (or) The man showed the danger to the witnesses.
+* The boy showed the witnesses the danger. (or) The boy showed the danger to the witnesses.
 
 6. οἱ ἀνδρὲς τὰ χρήματα τοῖς παισὶν ἔσχον.  
 * direct object: (τὰ) χρήματα
@@ -441,8 +444,8 @@ The sea was seen.
 1. ὁ ἀνὴρ καὶ τὸν οἶνον καὶ τὴν θάλατταν βλέπει.  
 The man sees both the wine and the sea.
 
-2. ὁ παῖς τοὺς τοῦ δικαστοῦ λόγους γράφει.  
-The child writes the words of the juror.
+2. ὁ παῖς τοὺς τοῦ κόρου λόγους γράφει.  
+The child writes the words of the boy.
 
 3. ἡ μὲν τὸ βίβλιον ἔχει, ἡ δὲ τὸν ποταμὸν τῷ πολίτῃ δείκνυσιν.  
 One woman has the book, but the other woman shows the river to the citizen.
@@ -470,20 +473,35 @@ One woman has the book, but the other woman shows the river to the citizen.
 
 ## Homework 11 (Due R 2/15)
 
+### Part 1
+{: .no_toc }
+
 1. ἀδικέω - 3rd singular middle/passive  
 ἀδικεῖται - he is wronged
 
 2. δοκέω - 3rd plural active  
 δοκοῦσιν - they think
 
-3. ἀδικέω - 3rd plural middle/passive  
-ἀδικοῦνται - they are wronged
+3. μισέω - 3rd plural middle/passive  
+μισοῦνται - they are hated
 
 4. ποιέω - 3rd singular active  
 ποιεῖ - she makes
 
-5. δοκέω - 3rd singular middle/passive  
-δοκεῖται - it is thought
+5. αἱρέω - 3rd singular middle/passive  
+αἱρεῖται - it is taken
+
+### Part 2
+{: .no_toc }
+
+1. ὁ ἀνὴρ τὴν γυναικὰ φιλεῖ.  
+The man loves the woman.
+
+2. αἱ κόραι τοὺς κόρους βοηθοῦσιν.  
+The girls help the boys.
+
+3. τὰ βίβλια ζητεῖται.  
+The books are being looked for. 
 
 ***
 

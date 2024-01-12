@@ -2,7 +2,7 @@
 layout: page
 title: Week 3 Vocabulary
 permalink: /vocabulary/week-03-vocabulary
-nav_order: 2
+nav_order: 3
 parent: Vocabulary
 ---
 
@@ -31,6 +31,10 @@ parent: Vocabulary
 * θάλαττα, θάλαττης, f. - [sea](https://logeion.uchicago.edu/θάλασσα)
 
 * θεός, θεοῦ, m./f. - [god](https://logeion.uchicago.edu/θεός)
+
+* κόρη, κόρης, f. - [girl](https://logeion.uchicago.edu/κόρη)
+
+* κόρος, κόρου, m. - [boy](https://logeion.uchicago.edu/κόρος)
 
 * λόγος, λόγου, m. - [word, speech](https://logeion.uchicago.edu/λόγος)
 

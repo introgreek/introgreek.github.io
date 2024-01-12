@@ -2,7 +2,7 @@
 layout: page
 title: Week 2 Vocabulary
 permalink: /vocabulary/week-02-vocabulary
-nav_order: 1
+nav_order: 2
 parent: Vocabulary
 ---
 
@@ -36,3 +36,4 @@ parent: Vocabulary
 
 * ποιέω, ποιήσω, ἐποίησα, πεποίηκα, πεποίημαι, ἐποιήθην - [to make, do](https://logeion.uchicago.edu/ποιέω)
 
+* φέρω, οἴσω, ἤνεγκον / ἤνεγκα, ἐνήνοχα, ἐνήνεγμαι, ἠνέχθην - [to bring, carry, bear](https://logeion.uchicago.edu/φέρω)

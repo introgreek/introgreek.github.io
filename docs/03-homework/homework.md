@@ -129,7 +129,7 @@ Using the verb dictionary entries in the [Week 2 Vocabulary](../vocabulary/week-
 
 1. ἐκέλευσαν (first principal part: κελεύω)
 2. ἐδείξατο (first principal part: δείκνυμι)
-3. ἔβλεψε (first principal part: βλέπω)
+3. ἤνεγκε (first principal part: φέρω)
 4. ἠδικήσαντο (first principal part: ἀδικέω)
 5. ἔμειξεν (first principal part: μείγνυμι)
 
@@ -173,7 +173,7 @@ she said
 * **εἶπεν**
 
 1. they (plural) came
-2. they (plural) said for themselves
+2. they (plural) carried for themselves
 3. she led
 4. it had
 5. he took for himself
@@ -196,6 +196,7 @@ Using the verb dictionary entries in the [Week 2 Vocabulary](../vocabulary/week-
 3. ἤχθη (first principal part: ἄγω)
 4. ἔγραψαν (first principal part: γράφω)  
 5. ἐγράφησαν (first principal part: γράφω)
+6. ἠνέχθη (first principal part: φέρω)
 
 ### Part 2
 {: .no_toc }
@@ -248,7 +249,7 @@ For each of the following nominative singular nouns, look up their dictionary en
 6. ὁ ἀνήρ
 7. τοῦ ποιήματος
 8. τῶν γνωμῶν
-9. τοῦ δικαστοῦ
+9. τοῦ κόρου
 10. τῆς γυναικός
 
 ### Part 2
@@ -259,7 +260,7 @@ Translate each of the following sentences.
 2. οἱ λόγοι οἱ τοῦ ποιήματος ἐγράφησαν.
 3. αἱ τῶν δικαστῶν γνῶμαι ἐδείχθησαν.
 4. τὰ ἔργα ἐποιήθη.
-5. ἡ θάλαττα ἐβλέφθη.
+5. ἡ κόρη ἐβλέφθη.
 
 [Answer key here](answer-key#homework-6-due-m-25).
 
@@ -288,10 +289,10 @@ The father carried the girl's book. (3)
 Each of the following sentences contains a **direct object**, and some sentences contain an **indirect object**. Identify each direct object and, if present, indirect object, and translate the sentence.
 
 1. οἱ παῖδες τοὺς πολίτας ἠγάγοντο.
-2. ἡ γυνὴ τοὺς λόγους τῷ ἀνδρὶ εἶπεν.
-3. αἱ γυναικὲς τὸ πρᾶγμα ἐποίησαν.
+2. ἡ γυνὴ τὰ βίβλια τῷ ἀνδρὶ ἤνεγκεν.
+3. αἱ κόραι τὸ πρᾶγμα ἐποίησαν.
 4. τὸ πρᾶγμα ἐποιήθη.
-5. ὁ ἄνθρωπος τοῖς μάρτυρσιν τὸν κίνδυνον ἔδειξεν.
+5. ὁ κόρος τοῖς μάρτυρσιν τὸν κίνδυνον ἔδειξεν.
 6. οἱ ἀνδρὲς τὰ χρήματα τοῖς παισὶν ἔσχον.
 
 [Answer key here](answer-key#homework-7-due-w-27).
@@ -329,7 +330,7 @@ Conjugate each of the following verbs into the **3rd person plural present activ
 Translate the following sentences into English.
 
 1. ὁ ἀνὴρ καὶ τὸν οἶνον καὶ τὴν θάλατταν βλέπει.
-2. ὁ παῖς τοὺς τοῦ δικαστοῦ λόγους γράφει.
+2. ὁ παῖς τοὺς τοῦ κόρου λόγους γράφει.
 3. ἡ μὲν τὸ βίβλιον ἔχει, ἡ δὲ τὸν ποταμὸν τῷ πολίτῃ δείκνυσιν. 
 
 [Answer key here](answer-key#homework-9-due-m-212).
@@ -352,13 +353,25 @@ Render the following English sentences into Greek. Accents do not matter.
 
 ## Homework 11 (Due R 2/15)
 
+### Part 1
+{: .no_toc }
+
 Conjugate the given verb into the **present tense in the indicated person, number, and voice,** and then give a **sample translation** of the form that you just created.
 
 1. ἀδικέω - 3rd singular middle/passive
 2. δοκέω - 3rd plural active
-3. ἀδικέω - 3rd plural middle/passive
+3. μισέω - 3rd plural middle/passive
 4. ποιέω - 3rd singular active
-5. δοκέω - 3rd singular middle/passive
+5. αἱρέω - 3rd singular middle/passive
+
+### Part 2
+{: .no_toc }
+
+Translate the following sentences into English.
+
+1. ὁ ἀνὴρ τὴν γυναικὰ φιλεῖ.
+2. αἱ κόραι τοὺς κόρους βοηθοῦσιν.
+3. τὰ βίβλια ζητεῖται.
 
 [Answer key here](answer-key#homework-11-due-r-215).
 

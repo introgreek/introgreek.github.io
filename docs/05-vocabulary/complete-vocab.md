@@ -53,6 +53,7 @@ parent: Vocabulary
 * βαρύς, βαρεῖα, βαρύ - [heavy](https://logeion.uchicago.edu/βαρύς)
 * βιβλίον, βιβλίου, n. - [book](https://logeion.uchicago.edu/βιβλίον)
 * βλέπω, βλέψομαι, ἔβλεψα, βέβλεφα, βέβλεμμαι, ἐβλέφθην - “[to see](https://logeion.uchicago.edu/βλέπω)”
+* βοηθέω, βοηθήσω, ἐβοήθησα, βεβοήθηκα, βεβοήθημαι, ἐβοηθήθην - [to help, aid](https://logeion.uchicago.edu/βοηθέω)
 * βουλή, βουλῆς, f. - [will, plan, advice](https://logeion.uchicago.edu/βουλή)
 * βοῦς, βοός, m./f. - [bull, cow](https://logeion.uchicago.edu/βοῦς)
 
@@ -120,6 +121,7 @@ parent: Vocabulary
 ## ζ
 
 * ζηλόω, ζηλώσω, ἐζήλωσα, ἐζήλωκα, ἐζήλωμαι, ἐζηλώθην - [to rival, emulate, praise](https://logeion.uchicago.edu/ζηλόω)
+* ζητέω, ζητήσω, ἐζήτησα, ἐζήτηκα, ἐζήτημαι, ἐζητήθην - [to look for, seek](https://logeion.uchicago.edu/ζητέω)
 
 ## η
 
@@ -154,6 +156,8 @@ parent: Vocabulary
 * καταδύω (κατά + δύω), καταδύσω, κατέδυν, καταδέδυκα, καταδέδυμαι, κατεδύθην - [to set (often re: the sun); to sink](https://logeion.uchicago.edu/καταδύω)
 * κελεύω, κελεύσω, ἐκέλευσα, κεκέλευκα, κεκέλευσμαι, ἐκελεύσθην - [to order](https://logeion.uchicago.edu/κελεύω)
 * κίνδυνος, κινδύνου, m. - [danger](https://logeion.uchicago.edu/κίνδυνος)
+* κόρη, κόρης, f. - [girl](https://logeion.uchicago.edu/κόρη)
+* κόρος, κόρου, m. - [boy](https://logeion.uchicago.edu/κόρος)
 * κρύπτω, κρύψω, ἔκρυψα, --, κέκρυμμαι, ἐκρύφθην - [to hide, conceal](https://logeion.uchicago.edu/κρύπτω)
 
 ## λ
@@ -180,6 +184,8 @@ parent: Vocabulary
 * μηδείς, μηδεμία, μηδέν - [no one, nothing](https://logeion.uchicago.edu/μηδείς) (used in circumstances where you would use μή rather than οὐ)
 * μήτηρ, μητρός, f. - [mother](https://logeion.uchicago.edu/μήτηρ)
 * μίκρος, μίκρα, μίκρον - [small](https://logeion.uchicago.edu/μίκρος)
+* μισέω, μισήσω, ἐμίσησα, μεμίσηκα, μεμίσημαι, ἐμισήθην - [to hate](https://logeion.uchicago.edu/μισέω)
+
 
 ## ν
 
@@ -280,7 +286,7 @@ parent: Vocabulary
 * φέρω, οἴσω, ἤνεγκον / ἤνεγκα, ἐνήνοχα, ἐνήνεγμαι, ἠνέχθην - [to bring, carry, bear](https://logeion.uchicago.edu/φέρω)
 * φεύγω, φεύξομαι / φευξέομαι, ἔφυγον, πέφευγα, --, -- - [to flee, escape](https://logeion.uchicago.edu/φεύγω)
 * φημί, φήσω, ἔφησα, --, --, -- - [to say](https://logeion.uchicago.edu/φημί)
-* φιλέω, φιλήσω, ἐφίλησα, πεφίληκα, πεφίλημαι, ἐφιλήθην - [to love; (+ complementary infinitive) to love to (infinitive)](https://logeion.uchicago.edu/φιλέω)
+* φιλέω, φιλήσω, ἐφίλησα, πεφίληκα, πεφίλημαι, ἐφιλήθην - [to love, kiss; (+ complementary infinitive) to love to (infinitive)](https://logeion.uchicago.edu/φιλέω)
 * φοβέω, φοβήσω, ἐφόβησα, --, πεφόβημαι, ἐφοβήθην - [(active) to frighten, terrify; (middle) to fear, be afraid; (middle + complementary infinitive) to be afraid to (infinitive)](https://logeion.uchicago.edu/φοβέω)
 
 ## χ

@@ -1,14 +1,14 @@
 ---
 layout: page
-title: Verb Principal Parts
-permalink: /reference/verb-principal-parts
-nav_order: 0
-parent: Reference
+title: Verb Principal Parts List
+permalink: /vocabulary/verb-principal-parts
+nav_order: 1
+parent: Vocabulary
 ---
 
 # Verb Principal Parts
 
-The following chart lists the principal parts for verbs for a quick and easy reference. For full definitions, see the [master vocabulary list](../vocabulary/master).
+The following chart lists the principal parts for verbs for a quick and easy reference. For full definitions, see the [Complete Vocabulary list](complete).
 
 ***
 
@@ -32,6 +32,7 @@ The following chart lists the principal parts for verbs for a quick and easy ref
 | βαίνω | -βήσομαι | -ἔβην | βέβηκα | -βέβαμαι | -ἐβάθην |
 | βάλλω | βαλέω | ἔβαλον | βέβληκα | βέβλημαι | ἐβλήθην |
 | βλέπω | βλέψομαι | ἔβλεψα | βέβλεφα | βέβλεμμαι | ἐβλέφθην |
+| βοηθέω | βοηθήσω | ἐβοήθησα | βεβοήθηκα | βεβοήθημαι | ἐβοηθήθην |
 | γίγνομαι | γενήσομαι | ἐγενόμην | γέγονα | γεγένημαι | ἐγενήθην |
 | γιγνώσκω | γνώσομαι | ἔγνων | ἔγνωκα | ἔγνωσμαι | ἐγνώσθην |
 | γράφω | γράψω | ἔγραψα | γέγραφα | γέγραμμαι | ἐγράφην |
@@ -51,6 +52,7 @@ The following chart lists the principal parts for verbs for a quick and easy ref
 | ἐφίστημι<br>(impf. ἐφιστη- / ἐφιστα-) | ἐπιστήσω | ἐπέστησα / ἐπέστην | ἐφέστηκα | ἐφέσταμαι | ἐπεστάθην |
 | ἔχω<br>(impf. εἰχ-) | ἕξω / σχήσω | ἔσχον | ἔσχηκα | -ἔσχημαι | ἐσχέθην |
 | ζηλόω | ζηλώσω | ἐζήλωσα | ἐζήλωκα | ἐζήλωμαι | ἐζηλώθην |
+| ζητέω | ζητήσω | ἐζήτησα | ἐζήτηκα | ἐζήτημαι | ἐζητήθην |
 | ἵημι<br>(impf. ἱη- / ἱε-) | ἥσω | -ἧκα<br>(stem -ἑ-) | -εἷκα | -εἷμαι | -εἵθην |
 | ἵστημι<br>(impf. ἱστη- / ἱστα-) | στήσω | ἔστησα / ἔστην | ἕστηκα | ἕσταμαι | ἐστάθην |
 | καθίστημι<br>(impf. καθίστη- / καθιστα-) | καταστήσω | κατεστήσα / κατέστην | καθέστηκα | καθέσταμαι | καθεστάθην |
@@ -63,6 +65,7 @@ The following chart lists the principal parts for verbs for a quick and easy ref
 | λύω | λύσω | ἔλυσα | λέλυκα | λέλυμαι | ἐλύθην |
 | μανθάνω | μαθήσομαι | ἔμαθον | μεμάθηκα | -- | -- |
 | μείγνυμι | μείξω | ἔμειξα | μέμιχα | μέμιγμαι | ἐμίγην |
+| μισέω | μισήσω | ἐμίσησα | μεμίσηκα | μεμίσημαι | ἐμισήθην |
 | νικάω | νικήσω | ἐνίκησα | νενίκηκα | νενίκημαι | ἐνικήθην |
 | νομίζω | νομιέω | ἐνόμισα | νενόμικα | νενόμισμαι | ἐνομίσθην |
 | ὁράω<br>(impf. ἑωρα-)| ὄψομαι | εἶδον<br>(stem ἰδ-) | ἑώρακα / ἑόρακα | ἑώραμαι / ὦμμαι | ὤφθην |  
@@ -75,3 +78,4 @@ The following chart lists the principal parts for verbs for a quick and easy ref
 | φέρω | οἴσω | ἤνεγκον / ἤνεγκα<br>(stem ἐνεγκ-)| ἐνήνοχα | ἐνήνεγμαι | ἠνέχθην<br>(stem ἐνεχθ-) |
 | φεύγω | φεύξομαι / φευξέομαι | ἔφυγον | πέφευγα | -- | -- |
 | φημί | φήσω | ἔφησα | -- | -- | -- |
+| φιλέω | φιλήσω | ἐφίλησα | πεφίληκα | πεφίλημαι | ἐφιλήθην |

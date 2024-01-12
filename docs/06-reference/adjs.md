@@ -2,7 +2,7 @@
 layout: page
 title: Adjectives
 permalink: /reference/adjectives
-nav_order: 4
+nav_order: 3
 parent: Reference
 ---
 
