@@ -29,8 +29,8 @@ Syllabus Day
 
 #### HW due by start of next class
 {: .no_toc }
-* Read the sections in [Course Info](../course_info) (including the Course Information, Policies, and Grading pages linked at the bottom or side) thoroughly (or use the [Google Doc](#) version).
-* Complete the [Student Information Form](#). [Link TBD]
+* Read the sections in [Course Info](../course_info) (including the Course Information, Policies, and Grading pages linked at the bottom or side) thoroughly (or use the [Google Doc](https://docs.google.com/document/d/135wVK8K9Mr6RA9HPohA1RQFsiGG8P01S37LE-kFHNxI/edit?usp=sharing) version).
+* Complete the [Student Information Form](https://docs.google.com/forms/d/e/1FAIpQLScS_NGwi-DSztwdaX2DibsjIvRyBvVUsZhxPXADGBsutT4HVg/viewform?usp=sf_link).
 * (OPTIONAL) [Practice Homework 1](../homework/homework#practice-homework-1-due-r-118) (submit on Blackboard).
 
 ***
@@ -42,7 +42,8 @@ Basics: Alphabet, Accents, and Inflection (Conjugation and Declension)
 #### Resources and Readings
 {: .no_toc }
 * [Slideshow - R 1/18](#) [Link TBD]
-* [###](../textbook/basics/verbs-overview)
+* [Alphabet and Accents](../textbook/basics/alphabet-and-accents)
+* [Inflection](../textbook/basics/inflection)
 
 #### HW due by start of next class
 {: .no_toc }
@@ -62,12 +63,12 @@ Basics: Alphabet, Accents, and Inflection (Conjugation and Declension)
 
 ### Monday, January 22
 {: .no_toc }
-Verb Overview
+Verbs Overview
 
 #### Resources and Readings
 {: .no_toc }
 * [Slideshow - M 1/22](#) [Link TBD]
-* [###](../textbook/substantives/verbs-overview)
+* [Verbs Overview](textbook/exam-1/verbs-overview)
 
 #### HW due by start of next class
 {: .no_toc }
@@ -83,7 +84,7 @@ First Aorist - Active and Middle
 #### Resources and Readings
 {: .no_toc }
 * [Slideshow - W 1/24](#) [Link TBD]
-* [###](../textbook/substantives/perfect-active)
+* [First Aorist](../textbook/exam-1/first-aorist)
 
 #### HW due by start of next class
 {: .no_toc }
@@ -99,7 +100,7 @@ Second Aorist - Active and Middle
 #### Resources and Readings
 {: .no_toc }
 * [Slideshow - R 1/25](#) [Link TBD]
-* [###](../textbook/substantives/nouns-overview)
+* [Second Aorist](../textbook/exam-1/second-aorist)
 
 #### HW due by start of next class
 {: .no_toc }
@@ -126,7 +127,7 @@ Aorist Passive
 #### Resources and Readings
 {: .no_toc }
 * [Slideshow - M 1/29](#) [Link TBD]
-* [###](../textbook/substantives/noun-endings)
+* [Aorist Passive](../textbook/exam-1/aorist-passive)
 
 #### HW due by start of next class
 {: .no_toc }
@@ -142,7 +143,7 @@ Nouns Overview
 #### Resources and Readings
 {: .no_toc }
 * [Slideshow - W 1/31](#) [Link TBD]
-* [###](../textbook/substantives/cases-and-uses)
+* [Nouns Overview](../textbook/exam-1/nouns-overview)
 
 #### HW due by start of next class
 {: .no_toc }
@@ -158,7 +159,7 @@ Nominative, Genitive, and the Article
 #### Resources and Readings
 {: .no_toc }
 * [Slideshow - R 2/1](#) [Link TBD]
-* [###](../textbook/substantives/cases-and-uses)
+* [Nominative, Genitive, and the Article](../textbook/exam-1/nom-gen-art)
 
 #### HW due by start of next class
 {: .no_toc }
@@ -186,7 +187,7 @@ Accusative and Dative
 #### Resources and Readings
 {: .no_toc }
 * [Slideshow - M 2/5](#) [Link TBD]
-* [###](../textbook/substantives/2-1-2-adjectives)
+* [Accusative and Dative](../textbook/exam-1/acc-dat)
 
 #### HW due by start of next class
 {: .no_toc }
@@ -202,7 +203,7 @@ Clauses and Coordination
 #### Resources and Readings
 {: .no_toc }
 * [Slideshow - W 2/7](#) [Link TBD]
-* [###](../textbook/substantives/3rd-declension-adjectives)
+* [Clauses and Coordination](../textbook/exam-1/clauses)
 
 #### HW due by start of next class
 {: .no_toc }
@@ -218,7 +219,7 @@ Present Tense - -ω Verbs
 #### Resources and Readings
 {: .no_toc }
 * [Slideshow - R 2/8](#) [Link TBD]
-* [###](../textbook/substantives/linking-sentences)
+* [Present Tense](../textbook/exam-1/present)
 
 #### HW due by start of next class
 {: .no_toc }
@@ -245,7 +246,7 @@ Present Tense - -μι Verbs
 #### Resources and Readings
 {: .no_toc }
 * [Slideshow - M 2/12](#) [Link TBD]
-* [###](../textbook/substantives/personal-and-reflexive-pronouns)
+* [Present Tense](../textbook/exam-1/present)
 
 #### HW due by start of next class
 {: .no_toc }
@@ -261,7 +262,7 @@ Epsilon Contracts
 #### Resources and Readings
 {: .no_toc }
 * [Slideshow - W 2/14](#) [Link TBD]
-* [###](../textbook/substantives/demonstratives-and-intensives)
+* [Epsilon Contracts](../textbook/exam-1/epsilon-contracts)
 
 #### HW due by start of next class
 {: .no_toc }
@@ -271,13 +272,12 @@ Epsilon Contracts
 
 ### Thursday, February 15
 {: .no_toc }
-Future Tense
+Review / Catch Up
 * In class: Check-in 11
 
 #### Resources and Readings
 {: .no_toc }
 * [Slideshow - R 2/15](#) [Link TBD]
-* [###](../textbook/substantives/prepositions-and-expressions-of-space-and-time)
 
 #### HW due by start of next class
 {: .no_toc }
