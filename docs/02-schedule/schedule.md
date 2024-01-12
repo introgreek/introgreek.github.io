@@ -56,7 +56,7 @@ Basics: Alphabet, Accents, and Inflection (Conjugation and Declension)
 {: .no_toc }
 
 * [Week 2 Vocabulary](../vocabulary/week-02-vocabulary)
-* [Week 2 Paradigms](../paradigms/week-02-paradigms)
+* [Week 2 Paradigms](../reference/week-02-paradigms)
 
 ***
 
@@ -114,7 +114,7 @@ Second Aorist - Active and Middle
 {: .no_toc }
 
 * [Week 3 Vocabulary](../vocabulary/week-03-vocabulary)
-* [Week 3 Paradigms](../paradigms/week-03-paradigms)
+* [Week 3 Paradigms](../reference/week-03-paradigms)
 
 ***
 
@@ -174,7 +174,7 @@ Nominative, Genitive, and the Article
 {: .no_toc }
 
 * [Week 4 Vocabulary](../vocabulary/week-04-vocabulary)
-* [Week 4 Paradigms](../paradigms/week-04-paradigms)
+* [Week 4 Paradigms](../reference/week-04-paradigms)
 
 ***
 
@@ -233,7 +233,7 @@ Present Tense - -ω Verbs
 {: .no_toc }
 
 * [Week 5 Vocabulary](../vocabulary/week-05-vocabulary)
-* [Week 5 Paradigms](../paradigms/week-05-paradigms)
+* [Week 5 Paradigms](../reference/week-05-paradigms)
 
 ***
 
@@ -292,7 +292,7 @@ Future Tense
 {: .no_toc }
 
 * [Week 6 Vocabulary](../vocabulary/week-06-vocabulary)
-* [Week 6 Paradigms](../paradigms/week-06-paradigms)
+* [Week 6 Paradigms](../reference/week-06-paradigms)
 * **NOTE**: Our Monday class this week meets on Tuesday.
 
 ***
@@ -353,7 +353,7 @@ Vowel Declension Adjectives, continued
 {: .no_toc }
 
 * [Week 7 Vocabulary](../vocabulary/week-07-vocabulary)
-* [Week 7 Paradigms](../paradigms/week-07-paradigms)
+* [Week 7 Paradigms](../reference/week-07-paradigms)
 
 ***
 
@@ -417,7 +417,7 @@ Attributive and Predicative Position
 {: .no_toc }
 
 * [Week 8 Vocabulary](../vocabulary/week-08-vocabulary)
-* [Week 8 Paradigms](../paradigms/week-08-paradigms)
+* [Week 8 Paradigms](../reference/week-08-paradigms)
 
 ***
 
@@ -477,7 +477,7 @@ Core Four -μι Verbs - Future Tense
 {: .no_toc }
 
 * [Week 9 Vocabulary](../vocabulary/week-09-vocabulary)
-* [Week 9 Paradigms](../paradigms/week-09-paradigms)
+* [Week 9 Paradigms](../reference/week-09-paradigms)
 
 ***
 
@@ -536,7 +536,7 @@ Relative Clauses continued
 {: .no_toc }
 
 * [Week 10 Vocabulary](../vocabulary/week-10-vocabulary)
-* [Week 10 Paradigms](../paradigms/week-10-paradigms)
+* [Week 10 Paradigms](../reference/week-10-paradigms)
 
 ***
 
@@ -583,7 +583,7 @@ Review / Catch Up
 {: .no_toc }
 
 * [Week 11 Vocabulary](../vocabulary/week-11-vocabulary)
-* [Week 11 Paradigms](../paradigms/week-11-paradigms)
+* [Week 11 Paradigms](../reference/week-11-paradigms)
 
 ***
 
@@ -625,7 +625,7 @@ Infinitive Uses
 {: .no_toc }
 
 * [Week 12 Vocabulary](../vocabulary/week-12-vocabulary)
-* [Week 12 Paradigms](../paradigms/week-12-paradigms)
+* [Week 12 Paradigms](../reference/week-12-paradigms)
 
 ***
 
@@ -684,7 +684,7 @@ Participle Formation: Aorist
 {: .no_toc }
 
 * [Week 13 Vocabulary](../vocabulary/week-13-vocabulary)
-* [Week 13 Paradigms](../paradigms/week-13-paradigms)
+* [Week 13 Paradigms](../reference/week-13-paradigms)
 
 ***
 
@@ -744,7 +744,7 @@ Indirect Statement
 {: .no_toc }
 
 * [Week 14 Vocabulary](../vocabulary/week-14-vocabulary)
-* [Week 14 Paradigms](../paradigms/week-14-paradigms)
+* [Week 14 Paradigms](../reference/week-14-paradigms)
 
 ***
 
