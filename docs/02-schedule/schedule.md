@@ -455,7 +455,7 @@ Core Four -μι Verbs - Present Tense
 
 ### Thursday, March 14
 {: .no_toc }
-Core Four -μι Verbs - Future Tense
+Core Four -μι Verbs - Aorist Tense
 * In class: Check-in 20
 
 #### Resources and Readings
@@ -467,7 +467,6 @@ Core Four -μι Verbs - Future Tense
 {: .no_toc }
 * [Homework 21](../homework/homework#homework-21-due-m-318)
 * Quiz 6
-* Twitch Stream Project
 
 ***
 
@@ -483,7 +482,7 @@ Core Four -μι Verbs - Future Tense
 
 ### Monday, March 18
 {: .no_toc }
-Core Four -μι Verbs - Aorist Tense
+Core Four -μι Verbs, continued
 * In class: Check-in 21
 
 #### Resources and Readings
@@ -527,6 +526,7 @@ Relative Clauses continued
 {: .no_toc }
 * [Homework 24](../homework/homework#homework-24-due-m-325)
 * Quiz 7
+* Twitch Stream Project
 
 ***
 
