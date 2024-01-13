@@ -126,6 +126,8 @@ GEM
     jekyll-github-metadata (2.13.0)
       jekyll (>= 3.4, < 5.0)
       octokit (~> 4.0, != 4.4.0)
+    jekyll-include-cache (0.2.1)
+      jekyll (>= 3.7, < 5.0)
     jekyll-mentions (1.5.1)
       html-pipeline (~> 2.3)
       jekyll (>= 3.7, < 5.0)
@@ -197,10 +199,11 @@ GEM
       gemoji (~> 3.0)
       html-pipeline (~> 2.2)
       jekyll (>= 3.0, < 5.0)
-    just-the-docs (0.3.3)
+    just-the-docs (0.7.0)
       jekyll (>= 3.8.5)
-      jekyll-seo-tag (~> 2.0)
-      rake (>= 12.3.1, < 13.1.0)
+      jekyll-include-cache
+      jekyll-seo-tag (>= 2.0)
+      rake (>= 12.3.1)
     kramdown (1.17.0)
     liquid (4.0.3)
     listen (3.8.0)
@@ -227,7 +230,7 @@ GEM
       forwardable-extended (~> 2.6)
     public_suffix (3.1.1)
     racc (1.7.3)
-    rake (13.0.6)
+    rake (13.1.0)
     rb-fsevent (0.11.2)
     rb-inotify (0.10.1)
       ffi (~> 1.0)
@@ -270,7 +273,7 @@ PLATFORMS
 DEPENDENCIES
   github-pages (~> 206)
   jekyll (= 3.8.7)
-  just-the-docs (~> 0.3.3)
+  just-the-docs
   webrick
 
 BUNDLED WITH
