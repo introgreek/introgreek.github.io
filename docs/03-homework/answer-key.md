@@ -50,6 +50,41 @@ This is an answer key for all the homework assignments. I encourage you to compl
 ### Part 2
 {: .no_toc }
 
+1. eblepsen  
+ἔβλεψεν
+
+2. harpazō  
+ἁρπάζω  
+NOTE: This word needs a rough breathing (i.e., the comma with the bulge to the left) over the first alpha to indicate the "h" sound at the beginning of the word.
+
+3. edeixanto  
+ἐδείξαντο
+
+4. edeikhthē  
+ἐδείχθη
+
+5. poiēmata  
+ποιήματα
+
+6. hodōi (treat the last -i as an iota subscript)  
+ὁδῷ  
+NOTE: This word needs a rough breathing (i.e., the comma with the bulge to the left) over the first omicron to indicate the "h" sound at the beginning of the word.
+
+7. gnōmēi (treat the last -i as an iota subscript)  
+γνώμῃ
+
+8. graphetai  
+γράφεται
+
+9. adikēsas  
+ἀδικήσας
+
+10. Akhilleus  
+Ἀχιλλεύς
+
+### Part 3 (Optional)
+{: .no_toc }
+
 1. δεικνυασι (recessive accent)  
 δεικνύασι
 
@@ -375,9 +410,9 @@ The girl was seen.
 ### Part 2
 {: .no_toc }
 
-1. οἱ παῖδες τοὺς πολίτας ἠγάγοντο.  
-* direct object: (τοὺς) πολίτας
-* The children led the citizens.
+1. οἱ παῖδες τοὺς ἵππους ἠγάγοντο.
+* direct object: (τοὺς) ἵππους
+* The children led the horses.
 
 2. ἡ γυνὴ τὰ βίβλια τῷ ἀνδρὶ ἤνεγκεν. 
 * direct object: (τὰ) βίβλια
@@ -391,10 +426,10 @@ The girl was seen.
 4. τὸ πρᾶγμα ἐποιήθη.  
 * The deed was done.
 
-5. ὁ κόρος τοῖς μάρτυρσιν τὸν κίνδυνον ἔδειξεν.  
-* direct object: (τὸν) κίνδυνον
+5. ὁ κόρος τοῖς μάρτυρσιν τὴν ὁδὸν ἔδειξεν. 
+* direct object: (τὴν) ὁδὸν
 * indirect object: (τοῖς) μάρτυρσιν
-* The boy showed the witnesses the danger. (or) The boy showed the danger to the witnesses.
+* The boy showed the witnesses the road. (or) The boy showed the road to the witnesses.
 
 6. οἱ ἀνδρὲς τὰ χρήματα τοῖς παισὶν ἔσχον.  
 * direct object: (τὰ) χρήματα
@@ -441,11 +476,11 @@ The girl was seen.
 ### Part 2
 {: .no_toc }
 
-1. ὁ ἀνὴρ καὶ τὸν οἶνον καὶ τὴν θάλατταν βλέπει.  
-The man sees both the wine and the sea.
+1. ὁ ἀνὴρ καὶ τὸν οἶνον καὶ τὴν ὁδὸν βλέπει.
+The man sees both the wine and the road.
 
-2. ὁ παῖς τοὺς τοῦ κόρου λόγους γράφει.  
-The child writes the words of the boy.
+2. ὁ παῖς τοὺς τοῦ ποιήματος λόγους γράφει.  
+The child writes the words of the poem.
 
 3. ἡ μὲν τὸ βίβλιον ἔχει, ἡ δὲ τὸν ποταμὸν τῷ πολίτῃ δείκνυσιν.  
 One woman has the book, but the other woman shows the river to the citizen.
@@ -501,7 +536,7 @@ The man loves the woman.
 The girls help the boys.
 
 3. τὰ βίβλια ζητεῖται.  
-The books are being looked for. 
+The books are being looked for. (if ζητεῖται = passive voice) *or* She looks for the books. (if ζητεῖται = middle voice)
 
 ***
 

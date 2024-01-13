@@ -60,6 +60,22 @@ Try pronouncing the following words. Do not worry about the accents besides the 
 ### Part 2
 {: .no_toc }
 
+Write out the following words in the Greek alphabet. Make sure to include rough or smooth breathing marks, but other accents (like the acute, grave, or circumflex) are not necessary. Keep in mind that a mark over a vowel (e.g., ē) means that you should consider it the long version of that vowel (i.e., ē = η and ō = ω; without the long mark, e = ε [epsilon] and o = ο [omicron]).
+
+1. eblepsen
+2. harpazō
+3. edeixanto
+4. edeikhthē
+5. poiēmata
+6. hodōi (treat the last -i as an iota subscript)
+7. gnōmēi (treat the last -i as an iota subscript)
+8. graphetai
+9. adikēsas
+10. Akhilleus
+
+### Part 3 (Optional)
+{: .no_toc }
+
 Add an appropriate accent (an acute, a circumflex, or a grave) on the following words given the guidelines in parentheses.
 
 1. δεικνυασι (recessive accent)
@@ -288,11 +304,11 @@ The father carried the girl's book. (3)
 
 Each of the following sentences contains a **direct object**, and some sentences contain an **indirect object**. Identify each direct object and, if present, indirect object, and translate the sentence.
 
-1. οἱ παῖδες τοὺς πολίτας ἠγάγοντο.
+1. οἱ παῖδες τοὺς ἵππους ἠγάγοντο.
 2. ἡ γυνὴ τὰ βίβλια τῷ ἀνδρὶ ἤνεγκεν.
 3. αἱ κόραι τὸ πρᾶγμα ἐποίησαν.
 4. τὸ πρᾶγμα ἐποιήθη.
-5. ὁ κόρος τοῖς μάρτυρσιν τὸν κίνδυνον ἔδειξεν.
+5. ὁ κόρος τοῖς μάρτυρσιν τὴν ὁδὸν ἔδειξεν.
 6. οἱ ἀνδρὲς τὰ χρήματα τοῖς παισὶν ἔσχον.
 
 [Answer key here](answer-key#homework-7-due-w-27).
@@ -329,8 +345,8 @@ Conjugate each of the following verbs into the **3rd person plural present activ
 
 Translate the following sentences into English.
 
-1. ὁ ἀνὴρ καὶ τὸν οἶνον καὶ τὴν θάλατταν βλέπει.
-2. ὁ παῖς τοὺς τοῦ κόρου λόγους γράφει.
+1. ὁ ἀνὴρ καὶ τὸν οἶνον καὶ τὴν ὁδὸν βλέπει.
+2. ὁ παῖς τοὺς τοῦ ποιήματος λόγους γράφει.
 3. ἡ μὲν τὸ βίβλιον ἔχει, ἡ δὲ τὸν ποταμὸν τῷ πολίτῃ δείκνυσιν. 
 
 [Answer key here](answer-key#homework-9-due-m-212).

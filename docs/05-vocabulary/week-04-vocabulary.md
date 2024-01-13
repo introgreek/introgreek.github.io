@@ -18,6 +18,8 @@ parent: Vocabulary
 
 * μάρτυς, μάρτυρος, m./f. - [witness](https://logeion.uchicago.edu/μάρτυς)
 
+* ὁδός, ὁδοῦ, f. - [road](https://logeion.uchicago.edu/ὁδός)
+
 * οἶνος, οἴνου, m. - [wine](https://logeion.uchicago.edu/οἶνος)
 
 * παῖς, παῖδος, m./f. - [child](https://logeion.uchicago.edu/παῖς)
