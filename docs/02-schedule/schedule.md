@@ -526,7 +526,7 @@ Relative Clauses continued
 {: .no_toc }
 * [Homework 24](../homework/homework#homework-24-due-m-325)
 * Quiz 7
-* Twitch Stream Project
+* Coin Analysis Project
 
 ***
 
@@ -734,7 +734,7 @@ Indirect Statement
 {: .no_toc }
 * [Homework 34](../homework/homework#homework-34-due-m-422)
 * Quiz 9
-* Coin Analysis Project
+* Percy Jackson Project
 
 ***
 
