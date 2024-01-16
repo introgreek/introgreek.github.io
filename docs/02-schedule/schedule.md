@@ -678,6 +678,7 @@ Participle Formation: Aorist
 {: .no_toc }
 * [Homework 31](../homework/homework#homework-31-due-m-415)
 * Quiz 8
+* Giovanni Verri Project
 
 ***
 

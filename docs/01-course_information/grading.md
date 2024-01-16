@@ -23,11 +23,11 @@ Grading in this course will be slightly unorthodox. Every student will begin the
 
 Because there will be a number of pathways to get to the minimum point total for an A (950 points), **every assignment is optional**. This includes **everything**: homework, daily check-ins, weekly quizzes, exams, and written responses. As such, **if you don’t submit an assignment by its indicated due date, I will simply assume that you have opted not to complete it and I won’t chase you down for it**. If you intend to complete an assignment but anticipate difficulty in meeting its deadline, **please be proactive and contact me before it’s due**. I am flexible with granting extensions, especially in the current pandemic atmosphere, but I can’t grant an extension that isn’t asked for! I reserve the right to deduct points from or not give credit for any assignment submitted late without prior notification or discussion.
 
-All assignments combined will add up to a possible maximum of 1000 points throughout the semester; any extra credit opportunity points will be added to the pool but they are not necessary to get to an A. The following list indicates the point ranges for semester-end grade levels:
+All assignments combined will add up to a possible maximum of 1010 points throughout the semester; any extra credit opportunity points will be added to the pool but they are not necessary to get to an A. The following list indicates the point ranges for semester-end grade levels:
 
 |  Grade    | Minimum  | Maximum  |
 |:---|:---|:---|
-| **A**  | 950 | 1000 |
+| **A**  | 950 | 1010 |
 |  **A-** | 875 | 949 |
 | **B+**  | 800 | 874 |
 | **B**  | 750 | 799 |
