@@ -24,7 +24,7 @@ This is an answer key for all the homework assignments. I encourage you to compl
 ## Practice Homework 1 (Due R 1/18)
 
 1. When are my (Prof. Libatique's) student hours, and where are they held? (See the Course Info and Policies pages).  
-**TBD**
+**Tuesday 9-11am via Zoom (and you need to sign up beforehand using the link on Blackboard); Wednesday 11am-12pm in person (in Donnarumma 124) or by appointment.**
 
 2. What defines an "unexcused absence"? (See Policies.)  
 **An absence from class after which you have not communicated with me (Prof. Libatique) about it up to 24 hours after the absence, except in cases of emergency**
@@ -33,7 +33,7 @@ This is an answer key for all the homework assignments. I encourage you to compl
 **950.**
 
 4. True or false: you are allowed to use Google Translate to complete your assignments. (See Grading.)  
-**False!** (I'm looking to see you working through the process of figuring out how a Latin sentence works; not only does using Google Translate mean that you're not fulfilling that course objective, but also Google Translate is often wrong in terms of vocabulary and syntax!)
+**False!** (I'm looking to see you working through the process of figuring out how a Greek sentence works; not only does using Google Translate mean that you're not fulfilling that course objective, but also Google Translate is often wrong in terms of vocabulary and syntax!)
 
 5. True or false: you can find the answers to all homework assignments on this website. (Hint: see [Answer Key](answer-key)).  
 **True!** (The homework assignments are much more about getting practice with the concepts [and they are only graded on completeness, not correctness], so it's in your best interest to complete the homework assignments using your notes, slideshows, and brains first and then check your work against the answer key, rather than just copying and pasting the answers.)
