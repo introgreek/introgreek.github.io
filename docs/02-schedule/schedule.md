@@ -25,10 +25,11 @@ Syllabus Day
 
 #### Resources and Readings
 {: .no_toc }
-* [Slideshow - W 1/17](#) [Link TBD]
+* [Slideshow - W 1/17](https://docs.google.com/presentation/d/13qUOUjvXOR_gzTb2YQN4jt4SThpgmq0khJKssAaJhZw/edit?usp=sharing)
 
 #### HW due by start of next class
 {: .no_toc }
+* Memorize and practice with the [Greek alphabet](../textbook/basics/alphabet-and-accents)
 * Read the sections in [Course Info](../course_info) (including the Course Information, Policies, and Grading pages linked at the bottom or side) thoroughly (or use the [Google Doc](https://docs.google.com/document/d/135wVK8K9Mr6RA9HPohA1RQFsiGG8P01S37LE-kFHNxI/edit?usp=sharing) version).
 * Complete the [Student Information Form](https://docs.google.com/forms/d/e/1FAIpQLScS_NGwi-DSztwdaX2DibsjIvRyBvVUsZhxPXADGBsutT4HVg/viewform?usp=sf_link).
 * (OPTIONAL) [Practice Homework 1](../homework/homework#practice-homework-1-due-r-118) (submit on Blackboard).
@@ -47,6 +48,8 @@ Basics: Alphabet, Accents, and Inflection (Conjugation and Declension)
 
 #### HW due by start of next class
 {: .no_toc }
+* Continue memorizing and practicing with the [Greek alphabet](/textbook/basics/alphabet-and-accents) (CLOSED BOOK PRACTICE CHECK-IN IN CLASS ON MONDAY!)
+* Complete the [Student Information Form](https://docs.google.com/forms/d/e/1FAIpQLScS_NGwi-DSztwdaX2DibsjIvRyBvVUsZhxPXADGBsutT4HVg/viewform?usp=sf_link).
 * (OPTIONAL) [Practice Homework 2](../homework/homework#practice-homework-2-due-m-122) (submit on Blackboard).
 
 ***
