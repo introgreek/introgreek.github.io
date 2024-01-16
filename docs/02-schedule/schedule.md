@@ -42,7 +42,7 @@ Basics: Alphabet, Accents, and Inflection (Conjugation and Declension)
 
 #### Resources and Readings
 {: .no_toc }
-* [Slideshow - R 1/18](#) [Link TBD]
+* [Slideshow - R 1/18](https://docs.google.com/presentation/d/1XfSkePijqfn4f_Afooty9zBgW-1J2q8FjhS23fcQcsg/edit?usp=sharing)
 * [Alphabet and Accents](../textbook/basics/alphabet-and-accents)
 * [Inflection](../textbook/basics/inflection)
 
