@@ -71,7 +71,7 @@ Write out the following words in the Greek alphabet. Make sure to include rough 
 7. gnōmēi (treat the last -i as an iota subscript)
 8. graphetai
 9. adikēsas
-10. Akhilleus
+10. ēnekhthē
 
 ### Part 3 (Optional)
 {: .no_toc }

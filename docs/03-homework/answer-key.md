@@ -79,8 +79,8 @@ NOTE: This word needs a rough breathing (i.e., the comma with the bulge to the l
 9. adikēsas  
 ἀδικήσας
 
-10. Akhilleus  
-Ἀχιλλεύς
+10. ēnekhthē  
+ἠνέχθη
 
 ### Part 3 (Optional)
 {: .no_toc }
