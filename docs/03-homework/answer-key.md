@@ -116,8 +116,8 @@ NOTE: This word needs a rough breathing (i.e., the comma with the bulge to the l
 ### Part 1
 {: .no_toc }
 
-1. She will arrive tomorrow.  
-"she will arrive" - singular - future - active
+1. She arrives tomorrow.  
+"she arrives" - singular - present - active
 
 2. They (singular) ordered French fries.  
 "they ordered" - singular - aorist - active

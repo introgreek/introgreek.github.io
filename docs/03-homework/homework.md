@@ -98,7 +98,7 @@ Add an appropriate accent (an acute, a circumflex, or a grave) on the following 
 
 In each of the following English sentences, identify the **subject and the finite/conjugated verb** and then indicate whether the verb is:
 * singular or plural
-* aorist, present, or future tense 
+* aorist or present tense 
 * active, passive, or middle voice
 
 For example:
@@ -108,7 +108,7 @@ For example:
 * They (plural) were sent to bed.
     * "They (plural) were sent" - plural - aorist - passive
 
-1. She will arrive tomorrow.
+1. She arrives tomorrow.
 2. They (singular) ordered French fries.
 3. They (plural) ordered French fries for themselves.
 4. He is reading the books.
