@@ -117,7 +117,7 @@ For example:
 ### Part 2
 {: .no_toc }
 
-Each of the following prompts gives you the first principal part of a verb that you can find in the [list of principal parts](../reference/verb-principal-parts). Indicate whether the verb is an **-ω** or **-μι** verb, and then write out its **third principal part**.
+Each of the following prompts gives you the first principal part of a verb that you can find in the [list of principal parts](../vocabulary/verb-principal-parts). Indicate whether the verb is an **-ω** or **-μι** verb, and then write out its **third principal part**.
 
 1. βάλλω
 2. κρύπτω
