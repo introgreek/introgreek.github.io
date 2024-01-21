@@ -70,7 +70,7 @@ Verbs Overview
 
 #### Resources and Readings
 {: .no_toc }
-* [Slideshow - M 1/22](#) [Link TBD]
+* [Slideshow - M 1/22](https://docs.google.com/presentation/d/1jqvemccPJjw-90u9Ql51qUlM3eG-b7Q8skoBCPNwpZo/edit?usp=sharing)
 * [Verbs Overview](textbook/exam-1/verbs-overview)
 
 #### HW due by start of next class
@@ -86,7 +86,7 @@ First Aorist - Active and Middle
 
 #### Resources and Readings
 {: .no_toc }
-* [Slideshow - W 1/24](#) [Link TBD]
+* [Slideshow - W 1/24](https://docs.google.com/presentation/d/15n0_Kj5VEBhyhkS4VSD_AmR4fcpCE9uUQzDEqEUpR5A/edit?usp=sharing)
 * [First Aorist](../textbook/exam-1/first-aorist)
 
 #### HW due by start of next class
@@ -102,13 +102,13 @@ Second Aorist - Active and Middle
 
 #### Resources and Readings
 {: .no_toc }
-* [Slideshow - R 1/25](#) [Link TBD]
+* [Slideshow - R 1/25](https://docs.google.com/presentation/d/1zhG32ELeqLQfN1GaicP5oNK6JJsGLbhUfC7cqZgsreU/edit?usp=sharing)
 * [Second Aorist](../textbook/exam-1/second-aorist)
 
 #### HW due by start of next class
 {: .no_toc }
 * [Homework 3](../homework/homework#homework-3-due-m-129) (on Blackboard)
-* Quiz 1 (on Blackboard)
+* Quiz 1 (distributed in class)
 
 ***
 

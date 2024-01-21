@@ -17,15 +17,22 @@ If you are looking for the 2021-2022 version of the textbook that was used in GR
 
 ## Next Deadlines
 
-### Due Thursday January 18 at 12:30pm
-
-* Memorize and practice with the [Greek alphabet](/textbook/basics/alphabet-and-accents)
-* Read the sections in [Course Info](/course_info) (including the Course Information, Policies, and Grading pages linked at the bottom or side) thoroughly (or use the [Google Doc](https://docs.google.com/document/d/135wVK8K9Mr6RA9HPohA1RQFsiGG8P01S37LE-kFHNxI/edit?usp=sharing) version).
-* Complete the [Student Information Form](https://docs.google.com/forms/d/e/1FAIpQLScS_NGwi-DSztwdaX2DibsjIvRyBvVUsZhxPXADGBsutT4HVg/viewform?usp=sf_link).
-* (OPTIONAL) [Practice Homework 1](/homework/homework#practice-homework-1-due-r-118) (submit on Blackboard).
-
 ### Due Monday January 22 at 12:30pm
 
 * Continue memorizing and practicing with the [Greek alphabet](/textbook/basics/alphabet-and-accents) (CLOSED BOOK PRACTICE CHECK-IN IN CLASS ON MONDAY!)
 * Complete the [Student Information Form](https://docs.google.com/forms/d/e/1FAIpQLScS_NGwi-DSztwdaX2DibsjIvRyBvVUsZhxPXADGBsutT4HVg/viewform?usp=sf_link).
 * (OPTIONAL) [Practice Homework 2](/homework/homework#practice-homework-2-due-m-122) (submit on Blackboard).
+
+### Due Wednesday January 24 at 12pm
+
+* Complete the [Student Information Form](https://docs.google.com/forms/d/e/1FAIpQLScS_NGwi-DSztwdaX2DibsjIvRyBvVUsZhxPXADGBsutT4HVg/viewform?usp=sf_link) if you haven't already.
+* [Homework 1](/homework/homework#homework-1-due-w-124) (submit on Blackboard).
+
+### Due Thursday January 25 at 12:30pm
+
+* [Homework 2](/homework/homework#homework-2-due-r-125) (submit on Blackboard).
+
+### Due Monday January 29 at 12:30pm
+
+* [Homework 3](/homework/homework#homework-3-due-m-129) (on Blackboard)
+* Quiz 1 (distributed in class)
