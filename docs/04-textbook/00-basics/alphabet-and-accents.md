@@ -28,32 +28,32 @@ See this video by Prof. Katie DeBoer on how each of the letters is pronounced, a
 
 The 24 letters of the Greek alphabet are as follows:
 
-| Letter      | Lowercase | Uppercase | Pronunciation |
-| ----------- | ----------- | ----------- | ----------- |
-| alpha      | α       | Α | *ah* as in "f**a**ther" |
-| beta   | β        | Β | *b* as in "**b**oat" |
-| gamma | γ | Γ | hard *g* as in "**g**oat" |
-| delta | δ | Δ | *d* as in "**d**og" |
-| epsilon | ε | Ε | *eh* as in "**e**lephant" |
-| zeta | ζ | Ζ | *zd* as in "wi**sd**om" or *dz* as in "be**ds**" |
-| eta | η | Η | *ay* as in "f**a**te" |
-| theta | θ | Θ | aspirated *t* as in "**t**able" (unlike the t in "a**t**" or "ho**t**") |
-| iota | ι | Ι | (short) *ih* as in "h**i**m" or (long) *ee* as in "st**ee**l" |
-| kappa | κ | Κ | *k* as in "**c**ould" |
-| lambda | λ | Λ | *l* as in "**l**and" |
-| mu | μ | Μ | *m* as in "**m**ouse" |
-| nu | ν | Ν | *n* as in "**n**ail" |
-| xi | ξ | Ξ | *ks* as in "e**cs**tacy" or "a**x**le" |
-| omicron | ο | Ο | (short) *aw* as in "c**ou**gh" |
-| pi | π | Π | *p* as in "**p**uppy" |
-| rho | ρ | Ρ | *rh* as in "**rh**ododendron" |
-| sigma | σ (inside word)<br>ς (at word end) | Σ | *s* as in "**s**illy" |
-| tau | τ | Τ | *t* as in "i**t**" |
-| upsilon | υ | Υ | (short) *uh* as in "**u**nder" or (long) *ooh* as in "tr**u**th" |
-| phi | φ | Φ | aspirated *p* as in "she**ph**erd" |
-| chi | χ | Χ | aspirated *k* as in "**ch**aracter" |
-| psi | ψ | Ψ | *ps* as in "u**ps**ide" |
-| omega | ω | Ω | *oh* as in "b**oa**t" |
+| Letter      | Lowercase | Uppercase | Transliteration | Pronunciation |
+| ----------- | ----------- | ----------- | ----------- | ----------- |
+| alpha      | α       | Α | a | *ah* as in "f**a**ther" |
+| beta   | β        | Β | b | *b* as in "**b**oat" |
+| gamma | γ | Γ | g | hard *g* as in "**g**oat" |
+| delta | δ | Δ | d | *d* as in "**d**og" |
+| epsilon | ε | Ε | e | *eh* as in "**e**lephant" |
+| zeta | ζ | Ζ | z | *zd* as in "wi**sd**om" or *dz* as in "be**ds**" |
+| eta | η | Η | ē | *ay* as in "f**a**te" |
+| theta | θ | Θ | th | aspirated *t* as in "**t**able" (unlike the t in "a**t**" or "ho**t**") |
+| iota | ι | Ι | i | (short) *ih* as in "h**i**m" or (long) *ee* as in "st**ee**l" |
+| kappa | κ | Κ | k | *k* as in "**c**ould" |
+| lambda | λ | Λ | l | *l* as in "**l**and" |
+| mu | μ | Μ | m | *m* as in "**m**ouse" |
+| nu | ν | Ν | n | *n* as in "**n**ail" |
+| xi | ξ | Ξ | x *or* ks | *ks* as in "e**cs**tacy" or "a**x**le" |
+| omicron | ο | Ο | o | (short) *aw* as in "c**ou**gh" |
+| pi | π | Π | p | *p* as in "**p**uppy" |
+| rho | ρ | Ρ | rh | *rh* as in "**rh**ododendron" |
+| sigma | σ (inside word)<br>ς (at word end) | Σ | s | *s* as in "**s**illy" |
+| tau | τ | Τ | t | *t* as in "i**t**" |
+| upsilon | υ | Υ | u *or* y | (short) *uh* as in "**u**nder" or (long) *ooh* as in "tr**u**th" |
+| phi | φ | Φ | ph | aspirated *p* as in "she**ph**erd" |
+| chi | χ | Χ | kh | aspirated *k* as in "**ch**aracter" |
+| psi | ψ | Ψ | ps | *ps* as in "u**ps**ide" |
+| omega | ω | Ω | ō | *oh* as in "b**oa**t" |
 
 And here is a video from Carleton College Classics that shows how to draw each of these characters. The video should begin at 3:19, where the demonstrations of writing each letter begin, but you can optionally watch the first part of the video for some context on the Greek alphabet.
 
