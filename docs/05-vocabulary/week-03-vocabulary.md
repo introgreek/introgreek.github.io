@@ -10,7 +10,11 @@ parent: Vocabulary
 
 ## Verbs
 
+* ἁρπάζω, ἁρπάσομαι, ἥρπασα, ἥρπακα, ἥρπασμαι, ἡρπάσθην - [to snatch, to seize](https://logeion.uchicago.edu/ἁρπάζω)
+
 * γίγνομαι, γενήσομαι, ἐγενόμην, γέγονα, γεγένημαι, ἐγενήθην - [to become, to happen](https://logeion.uchicago.edu/γίγνομαι)
+
+* πέμπω, πέμψω, ἔπεμψα, πέπομφα, πέπεμμαι, ἐπέμφθην - [to send](https://logeion.uchicago.edu/πέμπω)
 
 ## Nouns
 
@@ -23,6 +27,8 @@ parent: Vocabulary
 * γνώμη, γνώμης, f. - [judgment, opinion](https://logeion.uchicago.edu/γνώμη)
 
 * γυνή, γυναικός, f. - [woman, wife](https://logeion.uchicago.edu/γυνή)
+
+* διδάσκαλος, διδασκάλου, m. - [teacher](https://logeion.uchicago.edu/διδάσκαλος)
 
 * δικαστής, δικαστοῦ, m. - [juror](https://logeion.uchicago.edu/δικαστής)
 
@@ -37,6 +43,8 @@ parent: Vocabulary
 * κόρος, κόρου, m. - [boy](https://logeion.uchicago.edu/κόρος)
 
 * λόγος, λόγου, m. - [word, speech](https://logeion.uchicago.edu/λόγος)
+
+* μαθητής, μαθητοῦ, m. - [student](https://logeion.uchicago.edu/μαθητής)
 
 * ποίημα, ποιήματος, n. - [poem](https://logeion.uchicago.edu/ποίημα)
 

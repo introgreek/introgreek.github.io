@@ -38,6 +38,7 @@ parent: Vocabulary
 * ἀποδίδωμι, ἀποδώσω, ἀπέδωκα, ἀποδέδωκα, ἀποδέδομαι, ἀπεδόθην - [to give back, to give away; (middle voice) to sell](https://logeion.uchicago.edu/ἀποδίδωμι)
 * ἀποδύω (ἀπό + δύω), ἀποδύσω, ἀπέδυν, ἀποδέδυκα, ἀποδέδυμαι, ἀπεδύθην - [to strip off (someone else's armor or clothes); (middle/passive and intransitive aorist) to undress](https://logeion.uchicago.edu/ἀποδύω)
 * ἀποκτείνω, ἀποκτενέω, ἀπέκτεινα, ἀπέκτονα, --, -- - [to kill](https://logeion.uchicago.edu/ἀποκτείνω)
+* ἁρπάζω, ἁρπάσομαι, ἥρπασα, ἥρπακα, ἥρπασμαι, ἡρπάσθην - [to snatch, to seize](https://logeion.uchicago.edu/ἁρπάζω)
 * ἄρχω, ἄρξω, ἦρξα, ἦρχα, ἦργμαι, ἤρχθην - [to begin (+ part.)](https://logeion.uchicago.edu/ἄρχω)
 * ἀσθενής, ἀσθενές - [weak](https://logeion.uchicago.edu/ἀσθενής)
 * [ἅτε](https://logeion.uchicago.edu/ἅτε) - (used with causal participle)

@@ -270,6 +270,12 @@ NOTE: This word needs a rough breathing (i.e., the comma with the bulge to the l
 6. ἠνέχθη (first principal part: φέρω)  
 3rd singular aorist passive, "it was carried"
 
+7. ἡρπάσθη (first principal part: ἁρπάζω)  
+3rd singular aorist passive, "it was snatched"
+
+8. ἐπέμφθησαν (first principal part: πέμπω)  
+3rd plural aorist passive, "they were sent"
+
 ### Part 2
 {: .no_toc }
 
@@ -431,10 +437,9 @@ The girl was seen.
 * indirect object: (τοῖς) μάρτυρσιν
 * The boy showed the witnesses the road. (or) The boy showed the road to the witnesses.
 
-6. οἱ ἀνδρὲς τὰ χρήματα τοῖς παισὶν ἔσχον.  
+6. οἱ ἀνδρὲς τὰ χρήματα ἔπεμψαν.
 * direct object: (τὰ) χρήματα
-* indirect object: (τοῖς) παισὶν
-* The men held the money for the children.
+* The men sent the money.
 
 ***
 
@@ -445,8 +450,8 @@ The girl was seen.
 1. The child saw both the money and the sea.  
 ὁ παῖς καὶ τὰ χρήματα καὶ τὴν θάλατταν ἔβλεψεν.
 
-2. The juror wrote his opinion, but it was hidden.  
-ὁ δικαστὴς τὴν γνώμην ἔγραψεν, ἀλλὰ ἐκρύφθη.
+2. The student wrote his opinion, but it was hidden.  
+ὁ μαθητὴς τὴν γνώμην ἔγραψεν, ἀλλὰ ἐκρύφθη.
 
 3. One woman took the child, but the other woman saw the danger. (Use a μέν-δέ construction here.)  
 ἡ μὲν τὸν/τὴν παῖδα εἶλεν, ἡ δὲ τὸν κίνδυνον ἔβλεψεν.
@@ -470,8 +475,8 @@ The girl was seen.
 4. λέγω  
 λέγουσιν - they say
 
-5. ἄγω  
-ἄγουσιν - they lead
+5. ἁρπάζω  
+ἁρπάζουσιν - they snatch
 
 ### Part 2
 {: .no_toc }
@@ -492,8 +497,8 @@ One woman has the book, but the other woman shows the river to the citizen.
 1. The dangers are being shown to the citizens.  
 οἱ κίνδυνοι τοῖς πολίταις δείκνυνται.
 
-2. The children are coming.  
-οἱ παῖδες ἔρχονται.
+2. The teachers are coming.  
+οἱ διδάσκαλοι ἔρχονται.
 
 3. The opinion of the juror is being written.  
 ἡ τοῦ δικαστοῦ γνώμη γράφεται. or ἡ γνώμη ἡ τοῦ δικαστοῦ γράφεται.

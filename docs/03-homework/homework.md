@@ -213,6 +213,8 @@ Using the verb dictionary entries in the [Week 2 Vocabulary](../vocabulary/week-
 4. ἔγραψαν (first principal part: γράφω)  
 5. ἐγράφησαν (first principal part: γράφω)
 6. ἠνέχθη (first principal part: φέρω)
+7. ἡρπάσθη (first principal part: ἁρπάζω)
+8. ἐπέμφθησαν (first principal part: πέμπω)
 
 ### Part 2
 {: .no_toc }
@@ -309,7 +311,7 @@ Each of the following sentences contains a **direct object**, and some sentences
 3. αἱ κόραι τὸ πρᾶγμα ἐποίησαν.
 4. τὸ πρᾶγμα ἐποιήθη.
 5. ὁ κόρος τοῖς μάρτυρσιν τὴν ὁδὸν ἔδειξεν.
-6. οἱ ἀνδρὲς τὰ χρήματα τοῖς παισὶν ἔσχον.
+6. οἱ ἀνδρὲς τὰ χρήματα ἔπεμψαν.
 
 [Answer key here](answer-key#homework-7-due-w-27).
 
@@ -320,7 +322,7 @@ Each of the following sentences contains a **direct object**, and some sentences
 Use the Weeks 1 through 4 Vocabulary lists and paradigm charts to render each English sentence into Greek. Accents do not matter.
 
 1. The child saw both the money and the sea.
-2. The juror wrote his opinion, but it was hidden.
+2. The student wrote his opinion, but it was hidden.
 3. One woman took the child, but the other woman saw the danger. (Use a μέν-δέ construction here.)
 
 [Answer key here](answer-key#homework-8-due-r-28).
@@ -338,7 +340,7 @@ Conjugate each of the following verbs into the **3rd person plural present activ
 2. μείγνυμι
 3. γράφω
 4. λέγω
-5. ἄγω
+5. ἁρπάζω
 
 ### Part 2
 {: .no_toc }
@@ -358,7 +360,7 @@ Translate the following sentences into English.
 Render the following English sentences into Greek. Accents do not matter.
 
 1. The dangers are being shown to the citizens.
-2. The children are coming.
+2. The teachers are coming.
 3. The opinion of the juror is being written.
 4. The words are being spoken for the man.
 5. The wine is being mixed.
