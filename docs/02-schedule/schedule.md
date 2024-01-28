@@ -161,7 +161,7 @@ Nominative, Genitive, and the Article
 
 #### Resources and Readings
 {: .no_toc }
-* [Slideshow - R 2/1](#) [Link TBD]
+* [Slideshow - R 2/1](https://docs.google.com/presentation/d/1y85Ych0esximS70ZSfhRG0HCAZJ8oCZaEqeTCG5v5VM/edit?usp=sharing)
 * [Nominative, Genitive, and the Article](../textbook/exam-1/nom-gen-art)
 
 #### HW due by start of next class
