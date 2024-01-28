@@ -240,7 +240,7 @@ NOTE: This word needs a rough breathing (i.e., the comma with the bulge to the l
 ἤγαγεν
 
 4. it had  
-εἶχεν 
+ἔσχεν 
 
 5. he took for himself  
 εἵλετο
