@@ -17,22 +17,12 @@ If you are looking for the 2021-2022 version of the textbook that was used in GR
 
 ## Next Deadlines
 
-### Due Monday January 22 at 12:30pm
-
-* Continue memorizing and practicing with the [Greek alphabet](/textbook/basics/alphabet-and-accents) (CLOSED BOOK PRACTICE CHECK-IN IN CLASS ON MONDAY!)
-* Complete the [Student Information Form](https://docs.google.com/forms/d/e/1FAIpQLScS_NGwi-DSztwdaX2DibsjIvRyBvVUsZhxPXADGBsutT4HVg/viewform?usp=sf_link).
-* (OPTIONAL) [Practice Homework 2](/homework/homework#practice-homework-2-due-m-122) (submit on Blackboard).
-
-### Due Wednesday January 24 at 12pm
-
-* Complete the [Student Information Form](https://docs.google.com/forms/d/e/1FAIpQLScS_NGwi-DSztwdaX2DibsjIvRyBvVUsZhxPXADGBsutT4HVg/viewform?usp=sf_link) if you haven't already.
-* [Homework 1](/homework/homework#homework-1-due-w-124) (submit on Blackboard).
-
-### Due Thursday January 25 at 12:30pm
-
-* [Homework 2](/homework/homework#homework-2-due-r-125) (submit on Blackboard).
-
 ### Due Monday January 29 at 12:30pm
 
 * [Homework 3](/homework/homework#homework-3-due-m-129) (on Blackboard)
 * Quiz 1 (distributed in class)
+
+### Due Wednesday January 31 at 12pm
+
+* [Homework 4](/homework/homework#homework-4-due-w-131)
+* Begin looking at Article Reflection 1 (on Blackboard)

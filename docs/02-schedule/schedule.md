@@ -129,7 +129,7 @@ Aorist Passive
 
 #### Resources and Readings
 {: .no_toc }
-* [Slideshow - M 1/29](#) [Link TBD]
+* [Slideshow - M 1/29](https://docs.google.com/presentation/d/14g5gH2JUoMiIUro3s6c0C6g0Ib815lDjldmVjOTon04/edit?usp=sharing)
 * [Aorist Passive](../textbook/exam-1/aorist-passive)
 
 #### HW due by start of next class
@@ -167,7 +167,7 @@ Nominative, Genitive, and the Article
 #### HW due by start of next class
 {: .no_toc }
 * [Homework 6](../homework/homework#homework-6-due-m-25)
-* Quiz 2 (on Blackboard)
+* Quiz 2 (distributed in class)
 * Article Reflection 1 (on Blackboard)
 
 ***
