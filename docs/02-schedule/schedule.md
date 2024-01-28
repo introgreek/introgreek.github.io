@@ -145,7 +145,7 @@ Nouns Overview
 
 #### Resources and Readings
 {: .no_toc }
-* [Slideshow - W 1/31](#) [Link TBD]
+* [Slideshow - W 1/31](https://docs.google.com/presentation/d/1Vso78b1rAiNymDq8rBthyMtJeKdtWrhiHBk2Xw3YWpI/edit?usp=sharing)
 * [Nouns Overview](../textbook/exam-1/nouns-overview)
 
 #### HW due by start of next class
