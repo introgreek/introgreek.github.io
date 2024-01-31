@@ -547,13 +547,50 @@ The books are being looked for. (if ζητεῖται = passive voice) *or* She 
 
 ## Homework 12 (Due T 2/20)
 
-TBD
+Answers vary.
 
 ***
 
 ## Homework 13 (Due W 2/21)
 
-TBD
+### Part 1
+{: .no_toc }
+
+1. ἡ δίκη ἐγένετο παρὰ τὴν θάλατταν.  
+The trial happened near the sea.
+
+2. οἱ ἀνδρὲς σὺν ταῖς γυναιξὶν ἦλθον.  
+The men came with the women.
+
+3. ἀνὰ τὸ ὄρος ὁ μάρτυς ἄγεται. (ὄρος, ὄρους, n. - mountain)  
+The witness is (being) led up (to) the mountain.
+
+3. ἀνὰ τῆς θαλάττης ὁ μάρτυς ἄγεται.  
+The witness is (being) led up from the sea.
+
+5. ἐν κινδύνῳ εἰσίν. (εἰσίν = "they are")  
+They are in danger.
+
+### Part 2
+{: .no_toc }
+
+* ὁ ἀνὴρ τὸν παῖδα ἄγει. > ὁ παῖς ὑπὸ τοῦ ἀνδρὸς ἄγεται.
+* The man leads the child. > The child is led by the man.
+
+1. ἡ γυνὴ τοὺς λόγους ἔγραψεν.  
+* οἱ λόγοι ὑπὸ τῆς γυναικὸς ἐγράφησαν.
+* Original sentence: The woman wrote the words.
+* Passive sentence: The words were written by the woman.
+
+2. οἱ ἀνδρὲς ἠδικήσαντο τοὺς πολίτας.  
+* οἱ πολῖται ὑπὸ τῶν ἀνδρῶν ἠδικήθησαν.
+* Original sentence: The men wronged the citizens.
+* Passive sentence: The citizens were wronged by the men.
+
+3. τὰ ἔργα οἱ ἄνθρωποι ποιοῦσιν.  
+* τὰ ἔργα ὑπὸ τῶν ἀνθρώπων ποιεῖται. (Remember that a neuter plural subject takes a singular verb.)
+* Original sentence: The people are doing the deeds.
+* Passive sentence: The deeds are (being) done by the people.
 
 ***
 

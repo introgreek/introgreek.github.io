@@ -397,7 +397,7 @@ Translate the following sentences into English.
 
 ## Homework 12 (Due T 2/20)
 
-TBD
+Take stock of what you've learned about in this class so far. What's been the most intuitive part of learning ancient Greek? What's been the most difficult? For the difficult tasks, what are some resources that you can use to practice?
 
 [Answer key here](answer-key#homework-12-due-t-220).
 
@@ -405,7 +405,28 @@ TBD
 
 ## Homework 13 (Due W 2/21)
 
-TBD
+### Part 1
+{: .no_toc }
+
+Translate the following sentences.
+
+1. ἡ δίκη ἐγένετο παρὰ τὴν θάλατταν.
+2. οἱ ἀνδρὲς σὺν ταῖς γυναιξὶν ἦλθον.
+3. ἀνὰ τὸ ὄρος ὁ μάρτυς ἄγεται. (ὄρος, ὄρους, n. - mountain)
+3. ἀνὰ τῆς θαλάττης ὁ μάρτυς ἄγεται.
+5. ἐν κινδύνῳ εἰσίν. (εἰσίν = "they are")
+
+### Part 2
+{: .no_toc }
+
+Each of the following sentences contains a nominative subject, an active or middle verb, and an accusative direct object. Rewrite each sentence using a **passive verb**, and change the cases of the nouns and articles (and use any extra prepositions necessary) to reflect the same idea as the original sentence. Then, translate both sentences. For example:
+
+* ὁ ἀνὴρ τὸν παῖδα ἄγει. > ὁ παῖς ὑπὸ τοῦ ἀνδρὸς ἄγεται.
+* The man leads the child. > The child is led by the man.
+
+1. ἡ γυνὴ τοὺς λόγους ἔγραψεν.
+2. οἱ ἀνδρὲς ἠδικήσαντο τοὺς πολίτας.
+3. τὰ ἔργα οἱ ἄνθρωποι ποιοῦσιν.
 
 [Answer key here](answer-key#homework-13-due-w-221).
 
@@ -413,7 +434,14 @@ TBD
 
 ## Homework 14 (Due R 2/22)
 
-TBD
+Identify the **declension and sub-group** of the given adjective, and then make it match the given noun form. For example:
+
+* καλός, καλή, καλόν - beautiful, handsome -> πολίτας
+    * vowel declension three-termination (2-1-2) -> καλούς
+
+1. δίκαιος, δικαία, δίκαιον - just -> δικασταῖς
+2. ἀδύνατος, ἀδύνατον - impossible -> συμφορᾷ
+4. ἐχθρός, ἐχθρά, ἐχθρόν - hated, hostile -> ἄνδρες 
 
 [Answer key here](answer-key#homework-14-due-r-222).
 
@@ -429,7 +457,13 @@ TBD
 
 ## Homework 16 (Due W 2/28)
 
-TBD
+Identify the **declension and sub-group** of the given adjective, and then make it match the given noun form. For example:
+
+* καλός, καλή, καλόν - beautiful, handsome -> πολίτας
+    * vowel declension three-termination (2-1-2) -> καλούς
+
+3. μέλας, μέλαινα, μέλαν (m./n. stem μέλαν-) - black -> βιβλίου (βιβλίον, βιβλίου, n. - book)
+5. ἀμείνων, ἀμεῖνον (stem ἀμεινον-) - better -> δίκαι  
 
 [Answer key here](answer-key#homework-16-due-w-228).
 
@@ -437,7 +471,13 @@ TBD
 
 ## Homework 17 (Due R 2/29)
 
-TBD
+Translate the following sentences.
+
+1. οἱ πρότεροι δικασταὶ ἀπὸ τῆς δίκης σὺν τοῖς ὑστάτοις ἄγονται.
+2. ὁ παῖς τὰ μίκρα πράγματα ἐποίησεν, ἀλλ' οὐ πάντα. (ἀλλ' > ἀλλά; οὐ = "not")
+3. ἡ σώφρων ὑπὸ τῶν ἀγαθῶν ἐφιλήθη. (φιλέω ... ἐφίλησα ... ἐφιλήθην - to love)
+4. οἱ ἀγαθοὶ ἔσχον τὰς ἀδικοὺς γνώμας.
+5. ὁ πρῶτος τὰ κάκα παρὰ τὴν οἰκίαν ἐποίησεν. (οἰκία, οἰκίας, f. - house)
 
 [Answer key here](answer-key#homework-17-due-r-229).
 
@@ -445,7 +485,16 @@ TBD
 
 ## Homework 18 (Due M 3/11)
 
-TBD
+Each of the following sentences contains one of the four types of modifiers (adjective, prepositional phrase, genitive noun, or adverb). Identify the modifier, indicate which of the four it is, identify whether it's in attributive or predicative position, and then translate the sentence.
+
+[Answer key here](../answer-key#attributive-and-predicative-position-po1).
+
+1. ὁ ἀνὴρ ἔγραψεν τῇ παρὰ τὴν οἰκίαν γυναικὶ τὰ ποιήματα.
+2. τὸν διδάσκαλον τὸν τῶν παίδων οἱ πολῖται ἔβλεψαν.
+3. οἱ λόγοι κάκοι.
+4. οἱ ἄνθρωποι οἱ τότε τὸ πρᾶγμα ἐποιήσαντο.
+5. ἐπὶ τῷ ἵππῳ ὁ ἀνήρ.
+6. ὁ παῖς ἀκούει τοῦ σώφρονος μαθητοῦ. (Note: look at the dictionary entry for ἀκούω to see what to make of the genitive in this sentence.)
 
 [Answer key here](answer-key#homework-18-due-m-311).
 
@@ -453,7 +502,37 @@ TBD
 
 ## Homework 19 (Due W 3/13)
 
-TBD
+### Part 1
+{: .no_toc }
+
+Translate the following sentences. Keep in mind that there will be multiple "correct" ways to translate each sentence, and the answer key offers just one possibility per sentence.
+
+1. ὁ μὲν τοὺς δικαστὰς ἠδίκησεν, ὁ δὲ ἀγαθὰ ἐποιήσεν.
+2. αἱ μὲν εἶλον τὰ μίκρα βιβλία, αἱ δὲ ἔγραψαν τὰ ποιήματα.
+3. ἡ παῖς τοῦ σώφρονος ἀκούει· ὁ δὲ κάκον λόγον εἶπεν.
+
+### Part 2
+{: .no_toc }
+
+Make the given demonstrative match the given article-noun pair.
+
+1. ὅδε -> τῷ δικαστῇ
+2. οὗτος -> αἱ ἵπποι
+3. ἐκεῖνος -> τὸ ποιήμα
+4. ὅδε -> τὰς οἰκίας
+5. οὗτος -> τοῖς πράγμασιν
+6. ἐκεῖνος -> τῇ ὁδῷ
+
+### Part 3
+{: .no_toc }
+
+Translate each of the following sentences with an appropriately-declined and appropriately-placed form of αὐτός.
+
+1. The citizens saw him in the house.
+2. He said the same words.
+3. They themselves came from the sea.
+4. He showed the book to the man himself.
+5. Their horses (lit., "the horses of them") were led into the road.
 
 [Answer key here](answer-key#homework-19-due-w-313).
 
