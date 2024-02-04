@@ -53,3 +53,9 @@ parent: Vocabulary
 * οὖν - (post-positive) [therefore, then](https://logeion.uchicago.edu/οὖν)
 
 * τε - (enclitic, post-positive) [and](https://logeion.uchicago.edu/τε)
+
+***
+
+## Adverbs
+
+* οὐ (οὐκ before smooth breathing, οὐχ before rough breathing) - [not, no](https://logeion.uchicago.edu/οὐ)

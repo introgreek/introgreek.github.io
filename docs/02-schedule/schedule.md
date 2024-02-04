@@ -205,7 +205,7 @@ Clauses and Coordination
 
 #### Resources and Readings
 {: .no_toc }
-* [Slideshow - W 2/7](#) [Link TBD]
+* [Slideshow - W 2/7](https://docs.google.com/presentation/d/1P7rCBLJ3FQxGrTt1f1-XI9XsXxh6Y9Kbh0qiwywDgCo/edit?usp=sharing)
 * [Clauses and Coordination](../textbook/exam-1/clauses)
 
 #### HW due by start of next class
