@@ -64,5 +64,4 @@ parent: Vocabulary
 {: .no_toc }
 
 * νῦν - now
-* οὐ (οὐκ before smooth breathing, οὐχ before rough breathing) - not, no
 * τότε - then, at that time
