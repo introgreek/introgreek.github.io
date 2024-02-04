@@ -221,7 +221,7 @@ Present Tense - -ω Verbs
 
 #### Resources and Readings
 {: .no_toc }
-* [Slideshow - R 2/8](#) [Link TBD]
+* [Slideshow - R 2/8](https://docs.google.com/presentation/d/1MaBBubsdZlaLKusmSM1tmy6DrbNcavjYqCw1A4AhEW8/edit?usp=sharing)
 * [Present Tense](../textbook/exam-1/present)
 
 #### HW due by start of next class
