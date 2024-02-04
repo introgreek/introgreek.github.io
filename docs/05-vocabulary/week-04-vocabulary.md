@@ -22,6 +22,8 @@ parent: Vocabulary
 
 * οἶνος, οἴνου, m. - [wine](https://logeion.uchicago.edu/οἶνος)
 
+* ὄνομα, ὀνόματος, n. - [name](https://logeion.uchicago.edu/ὄνομα)
+
 * παῖς, παῖδος, m./f. - [child](https://logeion.uchicago.edu/παῖς)
 
 * πολίτης, πολίτου, m. - [citizen](https://logeion.uchicago.edu/πολίτης)

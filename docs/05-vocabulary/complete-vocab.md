@@ -207,6 +207,7 @@ parent: Vocabulary
 * ὀκτώ - [eight](https://logeion.uchicago.edu/ὀκτώ) (indeclinable)
 * ὀλίγος, ὀλίγη, ὀλίγον - [little, small](https://logeion.uchicago.edu/ὀλίγος)
 * ὅμως - [nevertheless, still](https://logeion.uchicago.edu/ὅμως)
+* ὄνομα, ὀνόματος, n. - [name](https://logeion.uchicago.edu/ὄνομα)
 * ὅπλον, ὅπλου, n. - [weapon](https://logeion.uchicago.edu/ὅπλον)
 * ὅπως - [(+ subj.) (so / in order) that; (in order) to](https://logeion.uchicago.edu/ὅπως)
 * ὁράω, ὄψομαι, εἶδον, ἑώρακα/ἑόρακα, ἑώραμαι/ὦμμαι, ὤφθην - [to see](https://logeion.uchicago.edu/ὁράω)
