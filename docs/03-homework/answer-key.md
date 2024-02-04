@@ -429,13 +429,13 @@ The girl was seen.
 * direct object: (τὸ) πρᾶγμα
 * The girls did the deed.
 
-4. τὸ πρᾶγμα ἐποιήθη.  
-* The deed was done.
+4. τὸ τοῦ μάρτυρος ὄνομα ἐγράφη.  
+* The name of the witness was written.
 
 5. ὁ κόρος τοῖς μάρτυρσιν τὴν ὁδὸν ἔδειξεν. 
 * direct object: (τὴν) ὁδὸν
-* indirect object: (τοῖς) μάρτυρσιν
-* The boy showed the witnesses the road. (or) The boy showed the road to the witnesses.
+* indirect object: (τοῖς) ἵπποις
+* The boy showed the horses the road. (or) The boy showed the road to the horses.
 
 6. οἱ ἀνδρὲς τὰ χρήματα ἔπεμψαν.
 * direct object: (τὰ) χρήματα

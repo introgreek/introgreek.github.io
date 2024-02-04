@@ -189,7 +189,7 @@ Accusative and Dative
 
 #### Resources and Readings
 {: .no_toc }
-* [Slideshow - M 2/5](#) [Link TBD]
+* [Slideshow - M 2/5](https://docs.google.com/presentation/d/1Borcjd3sQOPioYhmaSFsj6UzgAhtgL8WS5uEcXmYxdk/edit?usp=sharing)
 * [Accusative and Dative](../textbook/exam-1/acc-dat)
 
 #### HW due by start of next class
