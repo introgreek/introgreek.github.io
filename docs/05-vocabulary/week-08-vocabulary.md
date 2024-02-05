@@ -39,5 +39,3 @@ parent: Vocabulary
   * ἀφίστημι (ἀπό + ἵστημι) - [(trans.) to cause to revolt; (intrans.) to revolt from (ἀπό + genitive)](https://logeion.uchicago.edu/ἀφίστημι)
   * ἐφίστημι (ἐπί + ἵστημι) - [(trans.) to set up in charge of; (intrans.) to be in charge of (+ dative)](https://logeion.uchicago.edu/ἐφίστημι)
   * καθίστημι (κατά + ἵστημι) - [(trans.) to establish; (intrans.) to settle, be established](https://logeion.uchicago.edu/καθίστημι)
-  
-* εἶμι - [to go](https://logeion.uchicago.edu/εἶμι)

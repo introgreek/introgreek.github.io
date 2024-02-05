@@ -172,6 +172,7 @@ parent: Vocabulary
 ## μ
 
 * μαθητής, μαθητοῦ, m. - [student](https://logeion.uchicago.edu/μαθητής)
+* μακρός, μακρά, μακρόν - [long](https://logeion.uchicago.edu/μακρός)
 * μάλιστα - [most](https://logeion.uchicago.edu/μάλιστα)
 * μᾶλλον - [more](https://logeion.uchicago.edu/μᾶλλον)
 * μανθάνω, μαθήσομαι, ἔμαθον, μεμάθηκα, --, -- - [to learn](https://logeion.uchicago.edu/μανθάνω)
