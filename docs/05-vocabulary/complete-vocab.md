@@ -20,6 +20,7 @@ parent: Vocabulary
 * ἀγών, ἀγῶνος, m. - [contest](https://logeion.uchicago.edu/ἀγών)
 * ἀδικέω, ἀδικήσω, ἠδίκησα, ἠδίκηκα, ἠδίκημαι, ἠδικήθην - [to do wrong, injure](https://logeion.uchicago.edu/ἀδικέω)
 * ἄδικος, ἄδικον - [unjust](https://logeion.uchicago.edu/ἄδικος)
+* ἀδύνατος, ἀδύνατον - [impossible](https://logeion.uchicago.edu/ἀδύνατος)
 * ἀθάνατος, ἀθάνατον - [undying, immortal](https://logeion.uchicago.edu/ἀθάνατος)
 * αἱρέω, αἱρήσω, εἷλον, ᾕρηκα, ᾕρημαι, ᾑρέθην - [to take, seize](https://logeion.uchicago.edu/αἱρέω)
 * ἀκούω, ἀκούσομαι, ἤκουσα, ἀκήκοα, --, ἠκούσθην - “[to hear, listen to](https://logeion.uchicago.edu/ἀκούω) (if object is a person, use genitive; if object is a thing, use accusative)
@@ -117,6 +118,7 @@ parent: Vocabulary
 * εὐτυχής, εὐτυχές - [lucky](https://logeion.uchicago.edu/εὐτυχής)
 * ἐφίημι (ἐπί + ἵημι), ἐφήσω, ἐφῆκα, ἐφεῖκα, ἐφεῖμαι, ἐφείθην - [to send against; (middle voice) to command, order; (middle voice) to aim at, desire (+ genitive)](https://logeion.uchicago.edu/ἐφίημι)
 * ἐφίστημι (ἐπί + ἵστημι), ἐπιστήσω, ἐπέστησα or ἐπέστην, ἐφέστηκα, ἐφέσταμαι, ἐπεστάθην - [(trans.) to set up in charge of; (intrans.) to be in charge of (+ dative)](https://logeion.uchicago.edu/ἐφίστημι)
+* ἐχθρός, ἐχθρά, ἐχθρόν - [hated, hostile](https://logeion.uchicago.edu/ἐχθρός)
 * ἔχω, ἕξω / σχήσω, ἔσχον, ἔσχηκα, -ἔσχημαι, ἐσχέθην - [to have, to hold](https://logeion.uchicago.edu/ἔχω)
 
 ## ζ

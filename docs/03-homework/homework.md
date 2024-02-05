@@ -434,14 +434,21 @@ Each of the following sentences contains a nominative subject, an active or midd
 
 ## Homework 14 (Due R 2/22)
 
-Identify the **declension and sub-group** of the given adjective, and then make it match the given noun form. For example:
+Each of the following prompts gives you the masculine nominative singular (first principal part) of an adjective in the [Week 6 Vocabulary](../vocabulary/week-06-vocabulary). Identify the **declension and sub-group** of the given adjective, and then make it match the given noun form. For example:
 
-* καλός, καλή, καλόν - beautiful, handsome -> πολίτας
+* καλός -> πολίτας
     * vowel declension three-termination (2-1-2) -> καλούς
 
-1. δίκαιος, δικαία, δίκαιον - just -> δικασταῖς
-2. ἀδύνατος, ἀδύνατον - impossible -> συμφορᾷ
-4. ἐχθρός, ἐχθρά, ἐχθρόν - hated, hostile -> ἄνδρες 
+1. δίκαιος -> τοῖς μαθηταῖς
+2. ἀδύνατος -> τῇ συμφορᾷ
+3. ἐχθρός -> οἱ ἀνδρές 
+4. μακρός -> τὴν ὁδόν
+5. ἄδικος -> τῶν δικαστῶν
+6. ὕστατος -> τὸ ποίημα
+7. ἄλλος -> τῆς γυναικός
+8. ἀθάνατος -> τοὺς θέους
+9. μίκρος -> τὰ βιβλία
+10. ἀγαθός -> ἡ γνώμη
 
 [Answer key here](answer-key#homework-14-due-r-222).
 
@@ -449,7 +456,13 @@ Identify the **declension and sub-group** of the given adjective, and then make 
 
 ## Homework 15 (Due M 2/26)
 
-TBD
+Translate the following sentences into English.
+
+1. οἱ διδάσκαλοι οἱ καλοὶ ὑπὸ τῶν κάκων μαθητῶν ἠδικήθησαν.
+2. ὁ κόρος τοὺς ἵππους τοὺς μίκρους κατὰ τὴν μακρὰν ὁδὸν ἤγαγεν.
+3. ἡ δικαία γυνὴ τῷ ἀνδρὶ τὰ χρήματα δείκνυσιν.
+4. ὁ πατὴρ ἐν τῷ μίκρῳ βιβλίῳ τοὺς πρώτους λόγους τοὺς τοῦ παῖδος γράφει. (πατήρ, πατέρος, m. - father)
+5. οἱ δικασταὶ οἱ πρότεροι τοῖς ὑστάτοις (δικασταῖς) εἶπον.
 
 [Answer key here](answer-key#homework-15-due-m-226).
 
@@ -457,13 +470,21 @@ TBD
 
 ## Homework 16 (Due W 2/28)
 
-Identify the **declension and sub-group** of the given adjective, and then make it match the given noun form. For example:
+Each of the following prompts gives you the masculine nominative singular (first principal part) of an adjective in the [Week 7 Vocabulary](../vocabulary/week-07-vocabulary). Identify the **declension and sub-group** of the given adjective, and then make it match the given noun form. For example:
 
-* καλός, καλή, καλόν - beautiful, handsome -> πολίτας
-    * vowel declension three-termination (2-1-2) -> καλούς
+* πολύς -> πολίτας
+    * consonant declension three-termination (2-1-2) [irregular] -> πόλλους
 
-3. μέλας, μέλαινα, μέλαν (m./n. stem μέλαν-) - black -> βιβλίου (βιβλίον, βιβλίου, n. - book)
-5. ἀμείνων, ἀμεῖνον (stem ἀμεινον-) - better -> δίκαι  
+1. πᾶς -> τοῖς μαθηταῖς
+2. σώφρων -> τὸν ἀνδρά
+3. χαρίεις -> τὸ ποίημα
+4. σώφρων -> τῆς γυναικός
+5. μέγας -> τοὺς θέους
+6. πολύς -> τὰ βιβλία
+7. πᾶς -> ἡ γνώμη 
+8. πᾶς -> τὸ ὄνομα
+9. μέγας -> τῶν οἰκιῶν
+10. μέλας -> τῷ ὅπλῳ
 
 [Answer key here](answer-key#homework-16-due-w-228).
 
@@ -474,10 +495,10 @@ Identify the **declension and sub-group** of the given adjective, and then make 
 Translate the following sentences.
 
 1. οἱ πρότεροι δικασταὶ ἀπὸ τῆς δίκης σὺν τοῖς ὑστάτοις ἄγονται.
-2. ὁ παῖς τὰ μίκρα πράγματα ἐποίησεν, ἀλλ' οὐ πάντα. (ἀλλ' > ἀλλά; οὐ = "not")
-3. ἡ σώφρων ὑπὸ τῶν ἀγαθῶν ἐφιλήθη. (φιλέω ... ἐφίλησα ... ἐφιλήθην - to love)
+2. ὁ παῖς τὰ μίκρα πράγματα ἐποίησεν, ἀλλ' οὐ πάντα.
+3. ἡ σώφρων ὑπὸ τῶν ἀγαθῶν ἐφιλήθη.
 4. οἱ ἀγαθοὶ ἔσχον τὰς ἀδικοὺς γνώμας.
-5. ὁ πρῶτος τὰ κάκα παρὰ τὴν οἰκίαν ἐποίησεν. (οἰκία, οἰκίας, f. - house)
+5. ὁ πρῶτος τὰ κάκα παρὰ τὴν οἰκίαν ἐποίησεν.
 
 [Answer key here](answer-key#homework-17-due-r-229).
 

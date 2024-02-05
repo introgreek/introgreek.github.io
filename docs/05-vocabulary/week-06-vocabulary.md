@@ -39,6 +39,7 @@ parent: Vocabulary
 * ἀγαθός, ἀγαθή, ἀγαθόν - [noble, good](https://logeion.uchicago.edu/ἀγαθός)
 * ἄλλος, ἄλλη, ἄλλο - [another, other](https://logeion.uchicago.edu/ἄλλος); (ἄλλος ... ἄλλος) one ... the other
 * δίκαιος, δικαία, δίκαιον - [just](https://logeion.uchicago.edu/δίκαιος)
+* ἐχθρός, ἐχθρά, ἐχθρόν - [hated, hostile](https://logeion.uchicago.edu/ἐχθρός)
 * κάκος, κάκη, κάκον - [bad](https://logeion.uchicago.edu/κάκος)
 * καλός, καλή, καλόν - [good, beautiful, handsome](https://logeion.uchicago.edu/καλός)
 * μακρός, μακρά, μακρόν - [long](https://logeion.uchicago.edu/μακρός)
@@ -49,7 +50,8 @@ parent: Vocabulary
 
 #### Two-Termination
 {: .no_toc }
-* ἄδικος, ἄδικον - [unjust](https://logeion.uchicago.edu/)
-* ἀθάνατος, ἀθάνατον - [undying, immortal](https://logeion.uchicago.edu/)
+* ἄδικος, ἄδικον - [unjust](https://logeion.uchicago.edu/ἄδικος)
+* ἀδύνατος, ἀδύνατον - [impossible](https://logeion.uchicago.edu/ἀδύνατος)
+* ἀθάνατος, ἀθάνατον - [undying, immortal](https://logeion.uchicago.edu/ἀθάνατος)
 
 
