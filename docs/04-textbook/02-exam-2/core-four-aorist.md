@@ -20,7 +20,7 @@ grand_parent: Textbook
 
 ## Athematic Aorists
 
-The core four -μι verbs that we learned about [in the previous unit](core-four-present) exhibit a third principal part that conjugates in the aorist active and middle in part with **athematic conjugation patterns**. Despite the fact that their third principal parts end in -α, we cannot simply classify the verb as [first aorist](../exam-1/first-aorist) or [second aorist](../exam-2/second-aorist) and apply the appropriate endings; we have to take special stem changes and athematic endings into account for some forms of the aorist active and middle.
+The core four -μι verbs that we learned about [in the previous unit](core-four-present) exhibit a third principal part that conjugates in the aorist active and middle in part with **athematic conjugation patterns**. Despite the fact that their third principal parts end in -α, we cannot simply classify the verb as [first aorist](../exam-1/first-aorist) or [second aorist](../exam-2/second-aorist) and apply the appropriate endings; we have to take special stem changes and athematic endings into account for some forms of the aorist active and middle. The **aorist passive** of these verbs is completely regular and formed according to the rules we already know; we only have to worry about this for forms built on the **3rd principal part**.
 
 A quick reminder of the **secondary tense endings for athematic verbs**, with the ones that we'll use most often in **bold**:
 
@@ -75,7 +75,7 @@ These three verbs will conjugate like a **first aorist** in the **aorist active 
 | 3rd sg. | **ἔδοτο** | **ἔθετο** | **-εἷτο** |
 | 1st pl. | ἐδόμεθα | ἐθέμεθα | -εἵμεθα |
 | 2nd pl. | ἔδοσθε | ἔθεσθε | -εἷσθε |
-| 3rd pl. | ἔδο**ντο | **ἔθεντο** | **-εἷντο** |
+| 3rd pl. | **ἔδοντο** | **ἔθεντο** | **-εἷντο** |
 
 \* The 2nd sg. aor. mid. of δίδωμι and τίθημι both drop their intervocalic sigmas and contract the remaining vowels to form the diphthong -ου: ἔδοσο > ἔδοο > ἔδου; ἔθεσο > ἔθεο > ἔθου.
 

@@ -92,10 +92,6 @@ In a sentence with a **passive** verb, however, the subject *receives* the actio
 
 * ὁ μάρτυς εἰς τὴν οἰκίαν ἄγεται. The witness is being led into the house.
 
-We're left wondering, though -- who is doing the leading? Who is performing that verb's action? A **genitive of agent** construction helps answer that question, even though it is not technically necessary for the sentence to make sense. So, **ὑπὸ τῶν πολιτῶν** ("by the citizens") gives us that answer.ßß
-
-***
-
-## Practice Opportunity 2
+We're left wondering, though -- who is doing the leading? Who is performing that verb's action? A **genitive of agent** construction helps answer that question, even though it is not technically necessary for the sentence to make sense. So, **ὑπὸ τῶν πολιτῶν** ("by the citizens") gives us that answer.
 
 
