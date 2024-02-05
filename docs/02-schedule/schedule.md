@@ -308,7 +308,7 @@ Prepositions
 #### Resources and Readings
 {: .no_toc }
 * [Slideshow - T 2/20](#) [Link TBD]
-* [###](../textbook/verbs/perfect-passive-and-ablative-of-agent)
+* [Prepositions](../textbook/exam-2/prepositions)
 
 #### HW due by start of next class
 {: .no_toc }
@@ -324,7 +324,7 @@ Vowel Declension Adjectives
 #### Resources and Readings
 {: .no_toc }
 * [Slideshow - W 2/21](#) [Link TBD]
-* [###](../textbook/verbs/imperfect-tense)
+* [Adjectives](../textbook/exam-2/adjectives)
 
 #### HW due by start of next class
 {: .no_toc }
@@ -341,7 +341,7 @@ Vowel Declension Adjectives, continued
 #### Resources and Readings
 {: .no_toc }
 * [Slideshow - R 2/22](#) [Link TBD]
-* [###](../textbook/verbs/i-stems-4th-and-5th)
+* [Adjectives](../textbook/exam-2/adjectives)
 
 #### HW due by start of next class
 {: .no_toc }
@@ -368,7 +368,7 @@ Consonant Declension Adjectives
 #### Resources and Readings
 {: .no_toc }
 * [Slideshow - M 2/26](#) [Link TBD]
-* [###](../textbook/verbs/present-tense)
+* [Adjectives](../textbook/exam-2/adjectives)
 
 #### HW due by start of next class
 {: .no_toc }
@@ -384,7 +384,7 @@ Consonant Declension Adjectives, continued
 #### Resources and Readings
 {: .no_toc }
 * [Slideshow - W 2/28](#) [Link TBD]
-* [###](../textbook/verbs/future-tense)
+* [Adjectives](../textbook/exam-2/adjectives)
 
 #### HW due by start of next class
 {: .no_toc }
@@ -400,7 +400,7 @@ Attributive and Predicative Position
 #### Resources and Readings
 {: .no_toc }
 * [Slideshow - R 2/29](#) [Link TBD]
-* [###](../textbook/verbs/future-tense)
+* [Attributive and Predicative Position](../textbook/exam-2/attr-pred)
 
 #### HW due by start of next class
 {: .no_toc }
@@ -432,7 +432,7 @@ Pronouns
 #### Resources and Readings
 {: .no_toc }
 * [Slideshow - M 3/11](#) [Link TBD]
-* [###](../textbook/verbs/infinitives)
+* [Pronouns](../textbook/exam-2/pronouns)
 
 #### HW due by start of next class
 {: .no_toc }
@@ -448,7 +448,7 @@ Core Four -μι Verbs - Present Tense
 #### Resources and Readings
 {: .no_toc }
 * [Slideshow - W 3/13](#) [Link TBD]
-* [###](../textbook/verbs/indirect-statement)
+* [Core Four -μι Verbs - Present Tense](../textbook/exam-2/core-four-present)
 
 #### HW due by start of next class
 {: .no_toc }
@@ -464,7 +464,7 @@ Core Four -μι Verbs - Aorist Tense
 #### Resources and Readings
 {: .no_toc }
 * [Slideshow - R 3/18](#) [Link TBD]
-* [###](../textbook/verbs/indirect-statement)
+* [Core Four -μι Verbs - Aorist Tense](../textbook/exam-2/core-four-aorist)
 
 #### HW due by start of next class
 {: .no_toc }
@@ -491,7 +491,6 @@ Core Four -μι Verbs, continued
 #### Resources and Readings
 {: .no_toc }
 * [Slideshow - M 3/18](#) [Link TBD]
-* [###](../textbook/verbs/relative-clauses)
 
 #### HW due by start of next class
 {: .no_toc }
@@ -507,7 +506,7 @@ Dependent Clauses and Relative Clauses
 #### Resources and Readings
 {: .no_toc }
 * [Slideshow - W 3/20](#) [Link TBD]
-* [###](../textbook/verbs/relative-clauses)
+* [Relative Clauses](../textbook/exam-2/relative-clauses)
 
 #### HW due by start of next class
 {: .no_toc }
@@ -523,7 +522,7 @@ Relative Clauses continued
 #### Resources and Readings
 {: .no_toc }
 * [Slideshow - R 3/21](#) [Link TBD]
-* [###](../textbook/verbs/irregular-verbs)
+* [Relative Clauses](../textbook/exam-2/relative-clauses)
 
 #### HW due by start of next class
 {: .no_toc }
@@ -551,7 +550,6 @@ Review / Catch Up
 #### Resources and Readings
 {: .no_toc }
 * [Slideshow - M 3/25](#) [Link TBD]
-* [###](../textbook/verbs/irregular-verbs)
 
 #### HW due by start of next class
 {: .no_toc }
@@ -567,7 +565,6 @@ Review / Catch Up
 #### Resources and Readings
 {: .no_toc }
 * [Slideshow - W 3/27](#) [Link TBD]
-* [###](../textbook/verbs/pluperfect-and-future-perfect)
 
 #### HW due by start of next class
 {: .no_toc }
