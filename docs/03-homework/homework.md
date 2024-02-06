@@ -319,17 +319,51 @@ Each of the following sentences contains a **direct object**, and some sentences
 
 ## Homework 8 (Due R 2/8)
 
-Use the Weeks 1 through 4 Vocabulary lists and paradigm charts to render each English sentence into Greek. Accents do not matter.
+### Part 1
+{: .no_toc }
 
-1. The child saw both the money and the sea.
-2. The student wrote his opinion, but it was hidden.
-3. One woman took the child, but the other woman saw the danger. (Use a μέν-δέ construction here.)
+Each of the following prompts gives you the first principal part of a noun and a case-number combination. Use the [Week 3 Vocabulary](../vocabulary/week-03-vocabulary), [Week 4 Vocabulary](../vocabulary/week-04-vocabulary), and the [noun reference charts](../reference/nouns) to decline the noun into the case-number combination along with its definite article. For example:
+
+ὁδός -> accusative plural
+* **τὰς ὁδούς**
+
+1. γυνή -> dative singular
+2. θάλαττα -> dative singular
+3. διδάσκαλος -> dative singular
+4. ἵππος -> accusative plural
+5. πολίτης -> genitive plural
+6. χρῆμα -> accusative singular
+7. παῖς -> nominative plural
+8. κίνδυνος -> dative plural
+9. συμφορά -> accusative plural
+10. γνώμη -> nominative plural
+
+### Part 2
+{: .no_toc }
+
+Translate the following sentences from English into Greek.
+
+1. The teacher snatched the book of the student.
+2. The citizen spoke to the jurors.
+3. The woman wrote the poem for the child.
 
 [Answer key here](answer-key#homework-8-due-r-28).
 
 ***
 
 ## Homework 9 (Due M 2/12)
+
+Use the Weeks 1 through 4 Vocabulary lists and paradigm charts to render each English sentence into Greek. Accents do not matter.
+
+1. The child saw both the money and the sea.
+2. The student wrote his opinion, but it was hidden.
+3. One woman took the child, but the other woman saw the danger. (Use a μέν-δέ construction here.)
+
+[Answer key here](answer-key#homework-9-due-m-212).
+
+***
+
+## Homework 10 (Due W 2/14)
 
 ### Part 1
 {: .no_toc }
@@ -351,11 +385,7 @@ Translate the following sentences into English.
 2. ὁ παῖς τοὺς τοῦ ποιήματος λόγους γράφει.
 3. ἡ μὲν τὸ βίβλιον ἔχει, ἡ δὲ τὸν ποταμὸν τῷ πολίτῃ δείκνυσιν. 
 
-[Answer key here](answer-key#homework-9-due-m-212).
-
-***
-
-## Homework 10 (Due W 2/14)
+### Part 3
 
 Render the following English sentences into Greek. Accents do not matter.
 
@@ -397,7 +427,7 @@ Translate the following sentences into English.
 
 ## Homework 12 (Due T 2/20)
 
-TBD
+TBD.
 
 [Answer key here](answer-key#homework-12-due-t-220).
 
