@@ -341,7 +341,7 @@ Each of the following prompts gives you the first principal part of a noun and a
 ### Part 2
 {: .no_toc }
 
-Translate the following sentences from English into Greek.
+Translate the following sentences from English into Greek. Make sure to include rough breathings and iota subscripts; all other accents are optional.
 
 1. The teacher snatched the book of the student.
 2. The citizen spoke to the jurors.
@@ -355,7 +355,7 @@ Translate the following sentences from English into Greek.
 
 ## Homework 9 (Due M 2/12)
 
-Use the Weeks 1 through 4 Vocabulary lists and paradigm charts to render each English sentence into Greek. Accents do not matter.
+Use the Weeks 1 through 4 Vocabulary lists and paradigm charts to render each English sentence into Greek. Make sure to include rough breathings and iota subscripts; all other accents are optional.
 
 1. The child saw both the money and the sea.
 2. The student wrote his opinion, but it was hidden.
