@@ -445,6 +445,62 @@ The girl was seen.
 
 ## Homework 8 (Due R 2/8)
 
+### Part 1
+{: .no_toc }
+
+1. γυνή -> dative singular  
+τῇ γυναικί
+
+2. θάλαττα -> dative singular  
+τῇ θαλάττῃ
+
+3. διδάσκαλος -> dative singular  
+τῷ διδασκάλῳ
+
+4. ἵππος -> accusative plural  
+τοὺς / τὰς ἵππους
+
+5. πολίτης -> genitive plural  
+τῶν πολιτῶν
+
+6. χρῆμα -> accusative singular  
+τὸ χρῆμα
+
+7. παῖς -> nominative plural  
+οἱ / αἱ παῖδες
+
+
+8. κίνδυνος -> dative plural  
+τοῖς κινδύνοις 
+
+9. συμφορά -> accusative plural  
+τὰς συμφοράς
+
+10. γνώμη -> nominative plural  
+αἱ γνῶμαι
+
+### Part 2
+{: .no_toc }
+
+1. The teacher snatched the book of the student.  
+ὁ διδάσκαλος τὸ βιβλίον τὸ τοῦ μαθητοῦ ἥρπασεν. or ὁ διδάσκαλος τὸ τοῦ μαθητοῦ βιβλίον ἥρπασεν.
+
+2. The citizens spoke to the jurors.  
+οἱ πολῖται τοῖς δικασταῖς εἶπεν.
+
+3. The woman wrote the poem for the child.  
+ἡ γυνὴ τὸ ποίημα τῷ / τῇ παιδὶ ἔγραψεν.
+
+4. The girl led the boy's horses.  
+ἡ κόρη τοὺς τοῦ κόρου ἵππους ἤγαγεν.
+
+5. The witness wrote the opinions for himself.  
+ὁ μάρτυς τὰς γνώμας ἐγράψατο.
+
+***
+
+## Homework 9 (Due M 2/12)
+
 **NOTE**: Word order can be highly variable in Greek sentences; what's important is that you keep your articles and nouns together.
 
 1. The child saw both the money and the sea.  
@@ -458,7 +514,7 @@ The girl was seen.
 
 ***
 
-## Homework 9 (Due M 2/12)
+## Homework 10 (Due W 2/14)
 
 ### Part 1
 {: .no_toc }
@@ -490,9 +546,8 @@ The child writes the words of the poem.
 3. ἡ μὲν τὸ βίβλιον ἔχει, ἡ δὲ τὸν ποταμὸν τῷ πολίτῃ δείκνυσιν.  
 One woman has the book, but the other woman shows the river to the citizen.
 
-***
-
-## Homework 10 (Due W 2/14)
+### Part 3
+{: .no_toc }
 
 1. The dangers are being shown to the citizens.  
 οἱ κίνδυνοι τοῖς πολίταις δείκνυνται.

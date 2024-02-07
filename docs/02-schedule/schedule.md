@@ -200,13 +200,12 @@ Accusative and Dative
 
 ### Wednesday, February 7
 {: .no_toc }
-Clauses and Coordination
+Nouns, continued
 * In class: Check-in 7
 
 #### Resources and Readings
 {: .no_toc }
-* [Slideshow - W 2/7](https://docs.google.com/presentation/d/1P7rCBLJ3FQxGrTt1f1-XI9XsXxh6Y9Kbh0qiwywDgCo/edit?usp=sharing)
-* [Clauses and Coordination](../textbook/exam-1/clauses)
+* [Slideshow - W 2/7](https://docs.google.com/presentation/d/1Borcjd3sQOPioYhmaSFsj6UzgAhtgL8WS5uEcXmYxdk/edit?usp=sharing)
 
 #### HW due by start of next class
 {: .no_toc }
@@ -216,13 +215,13 @@ Clauses and Coordination
 
 ### Thursday, February 8
 {: .no_toc }
-Present Tense - -ω Verbs
+Clauses and Coordination
 * In class: Check-in 8
 
 #### Resources and Readings
 {: .no_toc }
-* [Slideshow - R 2/8](https://docs.google.com/presentation/d/1MaBBubsdZlaLKusmSM1tmy6DrbNcavjYqCw1A4AhEW8/edit?usp=sharing)
-* [Present Tense](../textbook/exam-1/present)
+* [Slideshow - R 2/8](https://docs.google.com/presentation/d/1P7rCBLJ3FQxGrTt1f1-XI9XsXxh6Y9Kbh0qiwywDgCo/edit?usp=drive_link)
+* [Clauses and Coordination](../textbook/exam-1/clauses)
 
 #### HW due by start of next class
 {: .no_toc }
@@ -243,12 +242,12 @@ Present Tense - -ω Verbs
 
 ### Monday, February 12
 {: .no_toc }
-Present Tense - -μι Verbs
+Present Tense
 * In class: Check-in 9
 
 #### Resources and Readings
 {: .no_toc }
-* [Slideshow - M 2/12](#) [Link TBD]
+* [Slideshow - M 2/12](https://docs.google.com/presentation/d/1MaBBubsdZlaLKusmSM1tmy6DrbNcavjYqCw1A4AhEW8/edit?usp=sharing)
 * [Present Tense](../textbook/exam-1/present)
 
 #### HW due by start of next class
