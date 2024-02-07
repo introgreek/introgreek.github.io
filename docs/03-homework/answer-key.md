@@ -491,6 +491,12 @@ The girl was seen.
 3. The woman wrote the poem for the child.  
 ἡ γυνὴ τὸ ποίημα τῷ / τῇ παιδὶ ἔγραψεν.
 
+4. The girl led the boy's horses.  
+ἡ κόρη τοὺς τοῦ κόρου ἵππους ἤγαγεν.
+
+5. The witness wrote the opinions for himself.  
+ὁ μάρτυς τὰς γνώμας ἐγράψατο.
+
 ***
 
 ## Homework 9 (Due M 2/12)

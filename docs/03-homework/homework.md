@@ -346,6 +346,8 @@ Translate the following sentences from English into Greek.
 1. The teacher snatched the book of the student.
 2. The citizen spoke to the jurors.
 3. The woman wrote the poem for the child.
+4. The girl led the boy's horses.
+5. The witness wrote the opinions for himself.
 
 [Answer key here](answer-key#homework-8-due-r-28).
 
@@ -386,6 +388,7 @@ Translate the following sentences into English.
 3. ἡ μὲν τὸ βίβλιον ἔχει, ἡ δὲ τὸν ποταμὸν τῷ πολίτῃ δείκνυσιν. 
 
 ### Part 3
+{: .no_toc }
 
 Render the following English sentences into Greek. Accents do not matter.
 
