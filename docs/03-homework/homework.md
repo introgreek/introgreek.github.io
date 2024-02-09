@@ -393,10 +393,10 @@ Translate the following sentences into English.
 Render the following English sentences into Greek. Accents do not matter.
 
 1. The dangers are being shown to the citizens.
-2. The teachers are coming.
+2. The teachers are not coming.
 3. The opinion of the juror is being written.
 4. The words are being spoken for the man.
-5. The wine is being mixed.
+5. The wine is not being mixed.
 
 [Answer key here](answer-key#homework-10-due-w-214).
 
@@ -421,7 +421,7 @@ Conjugate the given verb into the **present tense in the indicated person, numbe
 Translate the following sentences into English.
 
 1. ὁ ἀνὴρ τὴν γυναικὰ φιλεῖ.
-2. αἱ κόραι τοὺς κόρους βοηθοῦσιν.
+2. αἱ κόραι τοὺς κόρους οὐ βοηθοῦσιν.
 3. τὰ βίβλια ζητεῖται.
 
 [Answer key here](answer-key#homework-11-due-r-215).
@@ -445,7 +445,7 @@ Translate the following sentences.
 
 1. ἡ δίκη ἐγένετο παρὰ τὴν θάλατταν.
 2. οἱ ἀνδρὲς σὺν ταῖς γυναιξὶν ἦλθον.
-3. ἀνὰ τὸ ὄρος ὁ μάρτυς ἄγεται. (ὄρος, ὄρους, n. - mountain)
+3. ἀνὰ τὸ ὄρος ὁ μάρτυς ἄγεται. (ὄρος, ὄρους [ὄρεος], n. - mountain)
 3. ἀνὰ τῆς θαλάττης ὁ μάρτυς ἄγεται.
 5. ἐν κινδύνῳ εἰσίν. (εἰσίν = "they are")
 
@@ -469,7 +469,7 @@ Each of the following sentences contains a nominative subject, an active or midd
 
 Each of the following prompts gives you the masculine nominative singular (first principal part) of an adjective in the [Week 6 Vocabulary](../vocabulary/week-06-vocabulary). Identify the **declension and sub-group** of the given adjective, and then make it match the given noun form. For example:
 
-* καλός -> πολίτας
+* καλός -> τοὺς πολίτας
     * vowel declension three-termination (2-1-2) -> καλούς
 
 1. δίκαιος -> τοῖς μαθηταῖς
@@ -493,7 +493,7 @@ Translate the following sentences into English.
 
 1. οἱ διδάσκαλοι οἱ καλοὶ ὑπὸ τῶν κάκων μαθητῶν ἠδικήθησαν.
 2. ὁ κόρος τοὺς ἵππους τοὺς μίκρους κατὰ τὴν μακρὰν ὁδὸν ἤγαγεν.
-3. ἡ δικαία γυνὴ τῷ ἀνδρὶ τὰ χρήματα δείκνυσιν.
+3. ἡ δικαία γυνὴ τῷ ἀνδρὶ τὰ χρήματα οὐ δείκνυσιν.
 4. ὁ πατὴρ ἐν τῷ μίκρῳ βιβλίῳ τοὺς πρώτους λόγους τοὺς τοῦ παῖδος γράφει. (πατήρ, πατέρος, m. - father)
 5. οἱ δικασταὶ οἱ πρότεροι τοῖς ὑστάτοις (δικασταῖς) εἶπον.
 
@@ -505,7 +505,7 @@ Translate the following sentences into English.
 
 Each of the following prompts gives you the masculine nominative singular (first principal part) of an adjective in the [Week 7 Vocabulary](../vocabulary/week-07-vocabulary). Identify the **declension and sub-group** of the given adjective, and then make it match the given noun form. For example:
 
-* πολύς -> πολίτας
+* πολύς -> τοὺς πολίτας
     * consonant declension three-termination (2-1-2) [irregular] -> πόλλους
 
 1. πᾶς -> τοῖς μαθηταῖς
@@ -514,7 +514,7 @@ Each of the following prompts gives you the masculine nominative singular (first
 4. σώφρων -> τῆς γυναικός
 5. μέγας -> τοὺς θέους
 6. πολύς -> τὰ βιβλία
-7. πᾶς -> ἡ γνώμη 
+7. πᾶς -> τῇ γνώμῃ 
 8. πᾶς -> τὸ ὄνομα
 9. μέγας -> τῶν οἰκιῶν
 10. μέλας -> τῷ ὅπλῳ
@@ -527,11 +527,11 @@ Each of the following prompts gives you the masculine nominative singular (first
 
 Translate the following sentences.
 
-1. οἱ πρότεροι δικασταὶ ἀπὸ τῆς δίκης σὺν τοῖς ὑστάτοις ἄγονται.
+1. οἱ σώφρονες δικασταὶ ἀπὸ τῆς δίκης ὑπὸ τῶν παίδων ἄγονται.
 2. ὁ παῖς τὰ μίκρα πράγματα ἐποίησεν, ἀλλ' οὐ πάντα.
-3. ἡ σώφρων ὑπὸ τῶν ἀγαθῶν ἐφιλήθη.
+3. ἡ χαρίεσσα ὑπὸ τῶν ἀγαθῶν ἐφιλήθη.
 4. οἱ ἀγαθοὶ ἔσχον τὰς ἀδικοὺς γνώμας.
-5. ὁ πρῶτος τὰ κάκα παρὰ τὴν οἰκίαν ἐποίησεν.
+5. ὁ ἀνὴρ πολλὰ παρὰ τὴν οἰκίαν ἐποίησεν.
 
 [Answer key here](answer-key#homework-17-due-r-229).
 
@@ -539,16 +539,17 @@ Translate the following sentences.
 
 ## Homework 18 (Due M 3/11)
 
-Each of the following sentences contains one of the four types of modifiers (adjective, prepositional phrase, genitive noun, or adverb). Identify the modifier, indicate which of the four it is, identify whether it's in attributive or predicative position, and then translate the sentence.
+Each of the following sentences contains one of the four types of modifiers (adjective, prepositional phrase, genitive noun, or adverb). Identify the modifier, indicate which of the four it is, identify whether it's in attributive or predicative position, and then translate the sentence. For example:
 
-[Answer key here](../answer-key#attributive-and-predicative-position-po1).
+κάκοι οἱ λόγοι.  
+* κάκοι - adjective - predicative position
+* The words are evil.
 
 1. ὁ ἀνὴρ ἔγραψεν τῇ παρὰ τὴν οἰκίαν γυναικὶ τὰ ποιήματα.
 2. τὸν διδάσκαλον τὸν τῶν παίδων οἱ πολῖται ἔβλεψαν.
-3. οἱ λόγοι κάκοι.
-4. οἱ ἄνθρωποι οἱ τότε τὸ πρᾶγμα ἐποιήσαντο.
-5. ἐπὶ τῷ ἵππῳ ὁ ἀνήρ.
-6. ὁ παῖς ἀκούει τοῦ σώφρονος μαθητοῦ. (Note: look at the dictionary entry for ἀκούω to see what to make of the genitive in this sentence.)
+3. οἱ ἄνθρωποι οἱ τότε τὸ πρᾶγμα ἐποιήσαντο.
+4. ἐπὶ τῷ ἵππῳ ὁ ἀνήρ.
+5. ὁ παῖς ἀκούει τοῦ σώφρονος μαθητοῦ. (Note: look at the dictionary entry for ἀκούω to see what to make of the genitive in this sentence.)
 
 [Answer key here](answer-key#homework-18-due-m-311).
 
@@ -563,7 +564,7 @@ Translate the following sentences. Keep in mind that there will be multiple "cor
 
 1. ὁ μὲν τοὺς δικαστὰς ἠδίκησεν, ὁ δὲ ἀγαθὰ ἐποιήσεν.
 2. αἱ μὲν εἶλον τὰ μίκρα βιβλία, αἱ δὲ ἔγραψαν τὰ ποιήματα.
-3. ἡ παῖς τοῦ σώφρονος ἀκούει· ὁ δὲ κάκον λόγον εἶπεν.
+3. ἡ μὲν τοῦ σώφρονος ἀκούει· ὁ δὲ κάκον λόγον εἶπεν.
 
 ### Part 2
 {: .no_toc }
@@ -594,7 +595,13 @@ Translate each of the following sentences with an appropriately-declined and app
 
 ## Homework 20 (Due R 3/14)
 
-TBD
+Translate the following sentences.
+
+1. οἱ μαθηταὶ τὸ βιβλίον τὸ μέγα τῷ διδασκάλῳ διδόασιν.
+2. οἱ δικασταὶ εἰς τὴν δίκην ἵενται.
+3. ὁ μίκρος κόρος τὸν ἵππον ἐν τῇ ὁδῷ ἵστησιν.
+4. τὰ χρήματα ἐν τῇ οἰκίᾳ ὑπὸ τοῦ σώφρονος τίθεται.
+5. ἡ ἀγαθὴ τὸν οἶνον τῇ παιδὶ δίδωσιν. 
 
 [Answer key here](answer-key#homework-20-due-r-314).
 
@@ -602,7 +609,16 @@ TBD
 
 ## Homework 21 (Due M 3/18)
 
-TBD
+Translate the following sentences.
+
+1. οἱ μαθηταὶ τὸ βιβλίον τὸ μέγα τῷ διδασκάλῳ ἔδοντο.
+2. ὁ ἀνὴρ τοὺς δικαστὰς ἀπὸ τῆς δίκης ἀφῆκεν.
+3. οἱ κόροι τοὺς ἵππους ἐν τῇ ὁδῷ ἔστησαν.
+4. οἱ κόροι ἐν τῇ ὁδῷ ἔστησαν.
+5. αἱ σώρφρονες τὰ χρήματα ἐν τῇ οἰκίᾳ ἔθεσαν.
+6. ἡ ἀγαθὴ τὸν οἶνον τῇ παιδὶ ἔδωκεν. 
+7. ὁ παῖς ἐπὶ τῇ ἵππῳ ἐτέθη.
+8. τὸ ποίημα τῇ γυναικὶ ἐδόθη.
 
 [Answer key here](answer-key#homework-21-due-m-318).
 
@@ -610,7 +626,7 @@ TBD
 
 ## Homework 22 (Due W 3/20)
 
-TBD
+core 4 mi verbs - general
 
 [Answer key here](answer-key#homework-22-due-w-320).
 
@@ -618,7 +634,7 @@ TBD
 
 ## Homework 23 (Due R 3/21)
 
-TBD
+dependent and relative clauses
 
 [Answer key here](answer-key#homework-23-due-r-321).
 
@@ -626,7 +642,7 @@ TBD
 
 ## Homework 24 (Due M 3/25)
 
-TBD
+relative clauses continued
 
 [Answer key here](answer-key#homework-24-due-m-325).
 
@@ -634,7 +650,7 @@ TBD
 
 ## Homework 25 (Due W 3/27)
 
-TBD
+catch up
 
 [Answer key here](answer-key#homework-25-due-w-327).
 
@@ -642,7 +658,7 @@ TBD
 
 ## Homework 26 (Due W 4/3)
 
-TBD
+catch up
 
 [Answer key here](answer-key#homework-26-due-w-43).
 

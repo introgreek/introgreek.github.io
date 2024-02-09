@@ -552,8 +552,8 @@ One woman has the book, but the other woman shows the river to the citizen.
 1. The dangers are being shown to the citizens.  
 οἱ κίνδυνοι τοῖς πολίταις δείκνυνται.
 
-2. The teachers are coming.  
-οἱ διδάσκαλοι ἔρχονται.
+2. The teachers are not coming.  
+οἱ διδάσκαλοι οὐκ ἔρχονται.
 
 3. The opinion of the juror is being written.  
 ἡ τοῦ δικαστοῦ γνώμη γράφεται. or ἡ γνώμη ἡ τοῦ δικαστοῦ γράφεται.
@@ -561,8 +561,8 @@ One woman has the book, but the other woman shows the river to the citizen.
 4. The words are being spoken for the man.  
 οἱ λόγοι τῷ ἀνδρὶ λέγονται.
 
-5. The wine is being mixed.  
-ὁ οἶνος μείγνυται.
+5. The wine is not being mixed.  
+ὁ οἶνος οὐ μείγνυται.
 
 ***
 
@@ -592,17 +592,17 @@ One woman has the book, but the other woman shows the river to the citizen.
 1. ὁ ἀνὴρ τὴν γυναικὰ φιλεῖ.  
 The man loves the woman.
 
-2. αἱ κόραι τοὺς κόρους βοηθοῦσιν.  
-The girls help the boys.
+2. αἱ κόραι τοὺς κόρους οὐ βοηθοῦσιν.  
+The girls do not help the boys.
 
 3. τὰ βίβλια ζητεῖται.  
-The books are being looked for. (if ζητεῖται = passive voice) *or* She looks for the books. (if ζητεῖται = middle voice)
+The books are being looked for. (if ζητεῖται = passive voice) *or* She looks for the books for herself. (if ζητεῖται = middle voice)
 
 ***
 
 ## Homework 12 (Due T 2/20)
 
-Answers vary.
+Answers will vary.
 
 ***
 
@@ -617,7 +617,7 @@ The trial happened near the sea.
 2. οἱ ἀνδρὲς σὺν ταῖς γυναιξὶν ἦλθον.  
 The men came with the women.
 
-3. ἀνὰ τὸ ὄρος ὁ μάρτυς ἄγεται. (ὄρος, ὄρους, n. - mountain)  
+3. ἀνὰ τὸ ὄρος ὁ μάρτυς ἄγεται. (ὄρος, ὄρους [ὄρεος], n. - mountain)  
 The witness is (being) led up (to) the mountain.
 
 3. ἀνὰ τῆς θαλάττης ὁ μάρτυς ἄγεται.  
@@ -651,49 +651,235 @@ They are in danger.
 
 ## Homework 14 (Due R 2/22)
 
-TBD
+1. δίκαιος -> τοῖς μαθηταῖς  
+vowel-declension three-termination (2-1-2) -> δικαίοις
+
+2. ἀδύνατος -> τῇ συμφορᾷ  
+vowel-declension two-termination -> ἀδυνάτῳ
+
+3. ἐχθρός -> οἱ ἀνδρές  
+vowel-declension three-termination (2-1-2) -> ἐχθροί
+
+4. μακρός -> τὴν ὁδόν  
+vowel-declension three-termination (2-1-2) -> μακράν
+
+5. ἄδικος -> τῶν δικαστῶν  
+vowel-declension two-termination -> ἀδίκων
+
+6. ὕστατος -> τὸ ποίημα  
+vowel-declension three-termination (2-1-2) -> ὕστατον
+
+7. ἄλλος -> τῆς γυναικός  
+vowel-declension three-termination (2-1-2) -> ἄλλης
+
+8. ἀθάνατος -> τοὺς θέους  
+vowel-declension two-termination -> ἀθανάτους
+
+9. μίκρος -> τὰ βιβλία  
+vowel-declension three-termination (2-1-2) -> μίκρα
+
+10. ἀγαθός -> ἡ γνώμη  
+vowel-declension three-termination (2-1-2) -> ἀγαθή
 
 ***
 
 ## Homework 15 (Due M 2/26)
 
-TBD
+1. οἱ διδάσκαλοι οἱ καλοὶ ὑπὸ τῶν κάκων μαθητῶν ἠδικήθησαν.  
+The good teachers were wronged by the evil students.
+
+2. ὁ κόρος τοὺς ἵππους τοὺς μίκρους κατὰ τὴν μακρὰν ὁδὸν ἤγαγεν.  
+The boy led the small horses down the long road.
+
+3. ἡ δικαία γυνὴ τῷ ἀνδρὶ τὰ χρήματα οὐ δείκνυσιν.  
+The just woman does not show the money to the man.
+
+4. ὁ πατὴρ ἐν τῷ μίκρῳ βιβλίῳ τοὺς πρώτους λόγους τοὺς τοῦ παῖδος γράφει. (πατήρ, πατέρος, m. - father)  
+The father writes the first words of his child in the small book.
+
+5. οἱ δικασταὶ οἱ πρότεροι τοῖς ὑστάτοις (δικασταῖς) εἶπον.  
+The former jurors spoke to the last (jurors).
 
 ***
 
 ## Homework 16 (Due W 2/28)
 
-TBD
+1. πᾶς -> τοῖς μαθηταῖς  
+consonant declension three-termination (3-1-3) -> πᾶσι
+
+2. σώφρων -> τὸν ἀνδρά  
+consonant declension two-termination -> σώφρονα
+
+3. χαρίεις -> τὸ ποίημα  
+consonant declension three-termination (3-1-3) -> χαρίεν
+
+4. σώφρων -> τῆς γυναικός  
+consonant declension two-termination -> σώφρονος
+
+5. μέγας -> τοὺς θέους  
+consonant declension three-termination (irregular) -> μεγάλους
+
+6. πολύς -> τὰ βιβλία  
+consonant declension three-termination (irregular) -> πολλά
+
+7. πᾶς -> τῇ γνώμῃ  
+consonant declension three-termination (3-1-3) -> πάσῃ
+ 
+8. πᾶς -> τὸ ὄνομα  
+consonant declension three-termination (3-1-3) -> πᾶν
+
+9. μέγας -> τῶν οἰκιῶν  
+consonant declension three-termination (irregular) -> μεγάλων
+
+10. μέλας -> τῷ ὅπλῳ  
+consonant declension three-termination (3-1-3) -> μέλανι
 
 ***
 
 ## Homework 17 (Due R 2/29)
 
-TBD
+1. οἱ σώφρονες δικασταὶ ἀπὸ τῆς δίκης ὑπὸ τῶν παίδων ἄγονται.  
+The wise jurors are being led away from the trial by the children.
+
+2. ὁ παῖς τὰ μίκρα πράγματα ἐποίησεν, ἀλλ' οὐ πάντα.  
+The child did the small deeds, but not all (of them).
+
+3. ἡ χαρίεσσα ὑπὸ τῶν ἀγαθῶν ἐφιλήθη.  
+The graceful woman was loved by the noble people.
+
+4. οἱ ἀγαθοὶ ἔσχον τὰς ἀδικοὺς γνώμας.  
+The noble people held the unjust opinions.
+
+5. ὁ ἀνὴρ πολλὰ παρὰ τὴν οἰκίαν ἐποίησεν.  
+The man did many things near the house.
 
 ***
 
 ## Homework 18 (Due M 3/11)
 
-TBD
+1. ὁ ἀνὴρ ἔγραψεν τῇ παρὰ τὴν οἰκίαν γυναικὶ τὰ ποιήματα.  
+* παρὰ τὴν οἰκίαν - prepositional phrase - attributive
+* The man wrote the poems for the woman near the house.
+
+2. τὸν διδάσκαλον τὸν τῶν παίδων οἱ πολῖται ἔβλεψαν.  
+* τῶν παίδων - genitive noun - attributive
+* The citizens saw the children's teacher.
+
+3. οἱ ἄνθρωποι οἱ τότε τὸ πρᾶγμα ἐποιήσαντο.  
+* τότε - adverb - attributive
+* The people at that time did the deed for themselves.
+
+4. ἐπὶ τῷ ἵππῳ ὁ ἀνήρ.  
+* ἐπὶ τῷ ἵππῳ - prepositional phrase - predicative
+* The man is on the horse.
+
+5. ὁ παῖς ἀκούει τοῦ σώφρονος μαθητοῦ. (Note: look at the dictionary entry for ἀκούω to see what to make of the genitive in this sentence.)  
+* σώφρονος - adjective - attributive
+* The child listens to the wise student.
 
 ***
 
 ## Homework 19 (Due W 3/13)
 
-TBD
+### Part 1
+{: .no_toc }
+
+1. ὁ μὲν τοὺς δικαστὰς ἠδίκησεν, ὁ δὲ ἀγαθὰ ἐποιήσεν.  
+One man wronged the jurors, but the other man did noble things.
+
+2. αἱ μὲν εἶλον τὰ μίκρα βιβλία, αἱ δὲ ἔγραψαν τὰ ποιήματα.  
+These women took the small books, but those women wrote the poems.
+
+3. ἡ μὲν τοῦ σώφρονος ἀκούει· ὁ δὲ κάκον λόγον εἶπεν.  
+She listens to the wise person, but he said a bad word.
+
+### Part 2
+{: .no_toc }
+
+1. ὅδε -> τῷ δικαστῇ  
+τῷδε
+
+2. οὗτος -> αἱ ἵπποι  
+αὗται
+
+3. ἐκεῖνος -> τὸ ποιήμα  
+ἐκεῖνο
+
+4. ὅδε -> τὰς οἰκίας  
+τάσδε
+
+5. οὗτος -> τοῖς πράγμασιν  
+τούτοις
+
+6. ἐκεῖνος -> τῇ ὁδῷ  
+ἐκείνῃ
+
+### Part 3
+{: .no_toc }
+
+Translate each of the following sentences with an appropriately-declined and appropriately-placed form of αὐτός.
+
+1. The citizens saw him in the house.  
+οἱ πολῖται αὐτὸν ἐν τῇ οἰκίᾳ ἔβλεψαν.
+
+2. He said the same words.  
+τοὺς αὐτοὺς λόγους εἶπεν.
+
+3. They themselves came from the sea.  
+αὐτοὶ ἀπὸ τῆς θαλάττης ἦλθον.
+
+4. He showed the book to the teacher himself.  
+τὸ βιβλίον αὐτῷ τῷ διδασκάλῳ ἔδειξεν.
+
+5. Their horses (lit., "the horses of them") were led into the road.  
+οἱ ἵπποι αὐτῶν εἰς τὴν ὁδὸν ἤχθησαν.
 
 ***
 
 ## Homework 20 (Due R 3/14)
 
-TBD
+1. οἱ μαθηταὶ τὸ βιβλίον τὸ μέγα τῷ διδασκάλῳ διδόασιν.  
+The students give the large book to the teacher.
+
+2. οἱ δικασταὶ εἰς τὴν δίκην ἵενται.  
+The jurors are sent into the trial.
+
+3. ὁ μίκρος κόρος τὸν ἵππον ἐν τῇ ὁδῷ ἵστησιν.  
+The small boy makes the horse stand in the road.
+
+4. τὰ χρήματα ἐν τῇ οἰκίᾳ ὑπὸ τοῦ σώφρονος τίθεται.  
+The money is placed in the house by the wise person.
+
+5. ἡ ἀγαθὴ τὸν οἶνον τῇ παιδὶ δίδωσιν.  
+The noble woman gives the wine to the child.
 
 ***
 
 ## Homework 21 (Due W 3/18)
 
-TBD
+1. οἱ μαθηταὶ τὸ βιβλίον τὸ μέγα τῷ διδασκάλῳ ἔδοντο.  
+The students gave the large book to the teacher.
+
+2. ὁ ἀνὴρ τοὺς δικαστὰς ἀπὸ τῆς δίκης ἀφῆκεν.  
+The man sent the jurors away from the trial.
+
+3. οἱ κόροι τοὺς ἵππους ἐν τῇ ὁδῷ ἔστησαν.  
+The boys made the horses stand in the road.
+
+4. οἱ κόροι ἐν τῇ ὁδῷ ἔστησαν.  
+The boys stood in the road.
+
+5. αἱ σώρφρονες τὰ χρήματα ἐν τῇ οἰκίᾳ ἔθεσαν.  
+The wise women placed the money in the house.
+
+6. ἡ ἀγαθὴ τὸν οἶνον τῇ παιδὶ ἔδωκεν.  
+The noble woman gave the wine to the child.
+
+7. ὁ παῖς ἐπὶ τῇ ἵππῳ ἐτέθη.  
+The child was placed on the horse.
+
+8. τὸ ποίημα τῇ γυναικὶ ἐδόθη.  
+The poem was given to the woman.
 
 ***
 

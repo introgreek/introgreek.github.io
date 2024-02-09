@@ -328,7 +328,6 @@ Vowel Declension Adjectives
 #### HW due by start of next class
 {: .no_toc }
 * [Homework 14](../homework/homework#homework-14-due-r-222)
-* Quiz 4
 
 ***
 
