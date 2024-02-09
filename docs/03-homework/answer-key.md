@@ -866,8 +866,8 @@ The man sent the jurors away from the trial.
 3. οἱ κόροι τοὺς ἵππους ἐν τῇ ὁδῷ ἔστησαν.  
 The boys made the horses stand in the road.
 
-4. οἱ κόροι ἐν τῇ ὁδῷ ἔστησαν.  
-The boys stood in the road.
+4. αἱ κόραι ἐν τῇ ὁδῷ ἔστησαν.  
+The girls stood in the road.
 
 5. αἱ σώρφρονες τὰ χρήματα ἐν τῇ οἰκίᾳ ἔθεσαν.  
 The wise women placed the money in the house.
