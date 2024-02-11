@@ -393,10 +393,10 @@ Translate the following sentences into English.
 Render the following English sentences into Greek. Accents do not matter.
 
 1. The dangers are being shown to the citizens.
-2. The teachers are coming.
+2. The teachers are not coming.
 3. The opinion of the juror is being written.
 4. The words are being spoken for the man.
-5. The wine is being mixed.
+5. The wine is not being mixed.
 
 [Answer key here](answer-key#homework-10-due-w-214).
 
@@ -421,7 +421,7 @@ Conjugate the given verb into the **present tense in the indicated person, numbe
 Translate the following sentences into English.
 
 1. ὁ ἀνὴρ τὴν γυναικὰ φιλεῖ.
-2. αἱ κόραι τοὺς κόρους βοηθοῦσιν.
+2. αἱ κόραι τοὺς κόρους οὐ βοηθοῦσιν.
 3. τὰ βίβλια ζητεῖται.
 
 [Answer key here](answer-key#homework-11-due-r-215).
@@ -430,7 +430,7 @@ Translate the following sentences into English.
 
 ## Homework 12 (Due T 2/20)
 
-TBD.
+Take stock of what you've learned about in this class so far. What's been the most intuitive part of learning ancient Greek? What's been the most difficult? For the difficult tasks, what are some resources that you can use to practice?
 
 [Answer key here](answer-key#homework-12-due-t-220).
 
@@ -438,7 +438,28 @@ TBD.
 
 ## Homework 13 (Due W 2/21)
 
-TBD
+### Part 1
+{: .no_toc }
+
+Translate the following sentences.
+
+1. ἡ δίκη ἐγένετο παρὰ τὴν θάλατταν.
+2. οἱ ἀνδρὲς σὺν ταῖς γυναιξὶν ἦλθον.
+3. ἀνὰ τὸ ὄρος ὁ μάρτυς ἄγεται. (ὄρος, ὄρους [ὄρεος], n. - mountain)
+3. ἀνὰ τῆς θαλάττης ὁ μάρτυς ἄγεται.
+5. ἐν κινδύνῳ εἰσίν. (εἰσίν = "they are")
+
+### Part 2
+{: .no_toc }
+
+Each of the following sentences contains a nominative subject, an active or middle verb, and an accusative direct object. Rewrite each sentence using a **passive verb**, and change the cases of the nouns and articles (and use any extra prepositions necessary) to reflect the same idea as the original sentence. Then, translate both sentences. For example:
+
+* ὁ ἀνὴρ τὸν παῖδα ἄγει. > ὁ παῖς ὑπὸ τοῦ ἀνδρὸς ἄγεται.
+* The man leads the child. > The child is led by the man.
+
+1. ἡ γυνὴ τοὺς λόγους ἔγραψεν.
+2. οἱ ἀνδρὲς ἠδικήσαντο τοὺς πολίτας.
+3. τὰ ἔργα οἱ ἄνθρωποι ποιοῦσιν.
 
 [Answer key here](answer-key#homework-13-due-w-221).
 
@@ -446,7 +467,21 @@ TBD
 
 ## Homework 14 (Due R 2/22)
 
-TBD
+Each of the following prompts gives you the masculine nominative singular (first principal part) of an adjective in the [Week 6 Vocabulary](../vocabulary/week-06-vocabulary). Identify the **declension and sub-group** of the given adjective, and then make it match the given noun form. For example:
+
+* καλός -> τοὺς πολίτας
+    * vowel declension three-termination (2-1-2) -> καλούς
+
+1. δίκαιος -> τοῖς μαθηταῖς
+2. ἀδύνατος -> τῇ συμφορᾷ
+3. ἐχθρός -> οἱ ἀνδρές 
+4. μακρός -> τὴν ὁδόν
+5. ἄδικος -> τῶν δικαστῶν
+6. ὕστατος -> τὸ ποίημα
+7. ἄλλος -> τῆς γυναικός
+8. ἀθάνατος -> τοὺς θέους
+9. μίκρος -> τὰ βιβλία
+10. ἀγαθός -> ἡ γνώμη
 
 [Answer key here](answer-key#homework-14-due-r-222).
 
@@ -454,7 +489,13 @@ TBD
 
 ## Homework 15 (Due M 2/26)
 
-TBD
+Translate the following sentences into English.
+
+1. οἱ διδάσκαλοι οἱ καλοὶ ὑπὸ τῶν κάκων μαθητῶν ἠδικήθησαν.
+2. ὁ κόρος τοὺς ἵππους τοὺς μίκρους κατὰ τὴν μακρὰν ὁδὸν ἤγαγεν.
+3. ἡ δικαία γυνὴ τῷ ἀνδρὶ τὰ χρήματα οὐ δείκνυσιν.
+4. ὁ πατὴρ ἐν τῷ μίκρῳ βιβλίῳ τοὺς πρώτους λόγους τοὺς τοῦ παῖδος γράφει. (πατήρ, πατέρος, m. - father)
+5. οἱ δικασταὶ οἱ πρότεροι τοῖς ὑστάτοις (δικασταῖς) εἶπον.
 
 [Answer key here](answer-key#homework-15-due-m-226).
 
@@ -462,7 +503,21 @@ TBD
 
 ## Homework 16 (Due W 2/28)
 
-TBD
+Each of the following prompts gives you the masculine nominative singular (first principal part) of an adjective in the [Week 7 Vocabulary](../vocabulary/week-07-vocabulary). Identify the **declension and sub-group** of the given adjective, and then make it match the given noun form. For example:
+
+* πολύς -> τοὺς πολίτας
+    * consonant declension three-termination (2-1-2) [irregular] -> πόλλους
+
+1. πᾶς -> τοῖς μαθηταῖς
+2. σώφρων -> τὸν ἀνδρά
+3. χαρίεις -> τὸ ποίημα
+4. σώφρων -> τῆς γυναικός
+5. μέγας -> τοὺς θέους
+6. πολύς -> τὰ βιβλία
+7. πᾶς -> τῇ γνώμῃ 
+8. πᾶς -> τὸ ὄνομα
+9. μέγας -> τῶν οἰκιῶν
+10. μέλας -> τῷ ὅπλῳ
 
 [Answer key here](answer-key#homework-16-due-w-228).
 
@@ -470,7 +525,13 @@ TBD
 
 ## Homework 17 (Due R 2/29)
 
-TBD
+Translate the following sentences.
+
+1. οἱ σώφρονες δικασταὶ ἀπὸ τῆς δίκης ὑπὸ τῶν παίδων ἄγονται.
+2. ὁ παῖς τὰ μίκρα πράγματα ἐποίησεν, ἀλλ' οὐ πάντα.
+3. ἡ χαρίεσσα ὑπὸ τῶν ἀγαθῶν ἐφιλήθη.
+4. οἱ ἀγαθοὶ ἔσχον τὰς ἀδικοὺς γνώμας.
+5. ὁ ἀνὴρ πολλὰ παρὰ τὴν οἰκίαν ἐποίησεν.
 
 [Answer key here](answer-key#homework-17-due-r-229).
 
@@ -478,7 +539,17 @@ TBD
 
 ## Homework 18 (Due M 3/11)
 
-TBD
+Each of the following sentences contains one of the four types of modifiers (adjective, prepositional phrase, genitive noun, or adverb). Identify the modifier, indicate which of the four it is, identify whether it's in attributive or predicative position, and then translate the sentence. For example:
+
+κάκοι οἱ λόγοι.  
+* κάκοι - adjective - predicative position
+* The words are evil.
+
+1. ὁ ἀνὴρ ἔγραψεν τῇ παρὰ τὴν οἰκίαν γυναικὶ τὰ ποιήματα.
+2. τὸν διδάσκαλον τὸν τῶν παίδων οἱ πολῖται ἔβλεψαν.
+3. οἱ ἄνθρωποι οἱ τότε τὸ πρᾶγμα ἐποιήσαντο.
+4. ἐπὶ τῷ ἵππῳ ὁ ἀνήρ.
+5. ὁ παῖς ἀκούει τοῦ σώφρονος μαθητοῦ. (Note: look at the dictionary entry for ἀκούω to see what to make of the genitive in this sentence.)
 
 [Answer key here](answer-key#homework-18-due-m-311).
 
@@ -486,7 +557,37 @@ TBD
 
 ## Homework 19 (Due W 3/13)
 
-TBD
+### Part 1
+{: .no_toc }
+
+Translate the following sentences. Keep in mind that there will be multiple "correct" ways to translate each sentence, and the answer key offers just one possibility per sentence.
+
+1. ὁ μὲν τοὺς δικαστὰς ἠδίκησεν, ὁ δὲ ἀγαθὰ ἐποιήσεν.
+2. αἱ μὲν εἶλον τὰ μίκρα βιβλία, αἱ δὲ ἔγραψαν τὰ ποιήματα.
+3. ἡ μὲν τοῦ σώφρονος ἀκούει· ὁ δὲ κάκον λόγον εἶπεν.
+
+### Part 2
+{: .no_toc }
+
+Make the given demonstrative match the given article-noun pair.
+
+1. ὅδε -> τῷ δικαστῇ
+2. οὗτος -> αἱ ἵπποι
+3. ἐκεῖνος -> τὸ ποιήμα
+4. ὅδε -> τὰς οἰκίας
+5. οὗτος -> τοῖς πράγμασιν
+6. ἐκεῖνος -> τῇ ὁδῷ
+
+### Part 3
+{: .no_toc }
+
+Translate each of the following sentences with an appropriately-declined and appropriately-placed form of αὐτός.
+
+1. The citizens saw him in the house.
+2. He said the same words; therefore, the woman was happy.
+3. They themselves came from the sea.
+4. He showed the book to the man himself.
+5. Their horses (lit., "the horses of them") were led into the road.
 
 [Answer key here](answer-key#homework-19-due-w-313).
 
@@ -494,7 +595,13 @@ TBD
 
 ## Homework 20 (Due R 3/14)
 
-TBD
+Translate the following sentences.
+
+1. οἱ μαθηταὶ τὸ βιβλίον τὸ μέγα τῷ διδασκάλῳ διδόασιν.
+2. οἱ δικασταὶ εἰς τὴν δίκην ἵενται.
+3. ὁ μίκρος κόρος τὸν ἵππον ἐν τῇ ὁδῷ ἵστησιν.
+4. τὰ χρήματα ἐν τῇ οἰκίᾳ ὑπὸ τοῦ σώφρονος τίθεται.
+5. ἡ ἀγαθὴ τὸν οἶνον τῇ παιδὶ δίδωσιν. 
 
 [Answer key here](answer-key#homework-20-due-r-314).
 
@@ -502,7 +609,16 @@ TBD
 
 ## Homework 21 (Due M 3/18)
 
-TBD
+Translate the following sentences.
+
+1. οἱ μαθηταὶ τὸ βιβλίον τὸ μέγα τῷ διδασκάλῳ ἔδοντο.
+2. ὁ ἀνὴρ ἐκείνους τοὺς δικαστὰς ἀπὸ τῆς δίκης ἀφῆκεν.
+3. οἱ κόροι τοὺς ἵππους ἐν τῇ ὁδῷ ἔστησαν.
+4. αἱ κόραι ἐν τῇ ὁδῷ ἔστησαν.
+5. αἱ σώρφρονες τὰ χρήματα ἐν τῇδε τῇ οἰκίᾳ ἔθεσαν.
+6. ἡ ἀγαθὴ τὸν οἶνον ταύτῃ τῇ παιδὶ ἔδωκεν. 
+7. ὁ παῖς ἐπὶ τῇ ἵππῳ ἐτέθη.
+8. τὸ ποίημα τῇ γυναικὶ ἐδόθη.
 
 [Answer key here](answer-key#homework-21-due-m-318).
 
@@ -510,7 +626,13 @@ TBD
 
 ## Homework 22 (Due W 3/20)
 
-TBD
+Translate the following sentences into Greek, using the compound verbs in the [Week 8 Vocabulary](../vocabulary/week-08-vocabulary).
+
+1. One man brought the books into the house, while the other man sold them to the woman.
+2. The good people settled in the house near the road.
+3. The soldier is attacking the enemies (lit., "the hostile people").
+4. The general sent the army away into the road; for he saw the danger.
+5. The holy people are setting up the statues in the temple.
 
 [Answer key here](answer-key#homework-22-due-w-320).
 
@@ -518,7 +640,17 @@ TBD
 
 ## Homework 23 (Due R 3/21)
 
-TBD
+Identify all the words that belong to the relative clause in each of the following sentences, and indicate its antecedent; then translate each sentence. For example:
+
+οἱ στρατιῶται οἳ ἐν τῇ ὁδῷ ἦσαν ἀπὸ τῆς θαλάττης ἦλθον.
+* relative clause: οἳ ἐν τῇ ὁδῷ ἦσαν
+* antecedent: στρατιῶται
+* translation: The soldiers who were in the road came from the sea.
+
+1. ὁ στρατηγὸς τοὺς πολίτας οἷς εἶπεν ἐφίλησεν.
+2. ἡ μεγάλη οἰκία ἐν ᾗ οἱ σώφρονες κατέστησαν παρὰ τὴν ὁδὸν ἦν.
+3. ὁ διδάσκαλος οὗ τὸ βιβλίον οἱ μαθηταὶ ἔσχον αὐτοῖς ἔδωκεν.
+4. κακοὶ οἱ κόροι οἳ τοὺς λίθους ἔβαλον.
 
 [Answer key here](answer-key#homework-23-due-r-321).
 
@@ -526,7 +658,12 @@ TBD
 
 ## Homework 24 (Due M 3/25)
 
-TBD
+Translate each of the following sentences into Greek.
+
+1. The first person who saw the horses led them away from the road.
+2. The girl who placed the gifts in the temple is small.
+3. The soldiers saw the evil man who did these things.
+4. The students listened to the words of the teacher who wrote the book.
 
 [Answer key here](answer-key#homework-24-due-m-325).
 

@@ -13,6 +13,7 @@ parent: Vocabulary
 ## α
 
 * ἀγαθός, ἀγαθή, ἀγαθόν - [noble, good](https://logeion.uchicago.edu/ἀγαθός)
+* ἄγαλμα, ἀγάλματος, n. - [statue, glory](https://logeion.uchicago.edu/ἄγαλμα)
 * ἀγγέλλω, ἀγγελέω, ἤγγειλα, ἤγγελκα, ἤγγελμαι, ἠγγέλθην - [to announce](https://logeion.uchicago.edu/ἀγγέλλω)
 * ἀγνοέω, ἀγνοήσω, ἠγνόησα, ἠγνόηκα, ἠγνόημαι, ἠγνοήθην - [not to know, to be unaware](https://logeion.uchicago.edu/ἀγνοέω)
 * ἀγορά, -ᾶς, f. - [marketplace](https://logeion.uchicago.edu/ἀγορά)
@@ -20,6 +21,7 @@ parent: Vocabulary
 * ἀγών, ἀγῶνος, m. - [contest](https://logeion.uchicago.edu/ἀγών)
 * ἀδικέω, ἀδικήσω, ἠδίκησα, ἠδίκηκα, ἠδίκημαι, ἠδικήθην - [to do wrong, injure](https://logeion.uchicago.edu/ἀδικέω)
 * ἄδικος, ἄδικον - [unjust](https://logeion.uchicago.edu/ἄδικος)
+* ἀδύνατος, ἀδύνατον - [impossible](https://logeion.uchicago.edu/ἀδύνατος)
 * ἀθάνατος, ἀθάνατον - [undying, immortal](https://logeion.uchicago.edu/ἀθάνατος)
 * αἱρέω, αἱρήσω, εἷλον, ᾕρηκα, ᾕρημαι, ᾑρέθην - [to take, seize](https://logeion.uchicago.edu/αἱρέω)
 * ἀκούω, ἀκούσομαι, ἤκουσα, ἀκήκοα, --, ἠκούσθην - “[to hear, listen to](https://logeion.uchicago.edu/ἀκούω) (if object is a person, use genitive; if object is a thing, use accusative)
@@ -89,6 +91,7 @@ parent: Vocabulary
 * δύναμαι, δυνήσομαι, --, --, δεδύνημαι, ἐδυνήθην - [to be able to, can](https://logeion.uchicago.edu/δύναμαι)
 * δύο - [two](https://logeion.uchicago.edu/δύο)
 * δύω, -δύσω, -ἔδυν, -δέδυκα, -δέδυμαι, -ἐδύθην - [to enter; to put on (clothes); to sink, set](https://logeion.uchicago.edu/δύω)
+* δῶρον, δώρου, n. - [gift](https://logeion.uchicago.edu/δῶρον)
 
 ## ε
 
@@ -113,10 +116,12 @@ parent: Vocabulary
 * ἔρχομαι, ἐλεύσομαι, ἦλθον, ἐλήλυθα, --, -- - [to come, to go](https://logeion.uchicago.edu/ἔρχομαι)
 * ἔργον, ἔργου, n. - [deed](https://logeion.uchicago.edu/ἔργον)
 * ἐρωτάω, ἐρωτήσω, ἠρώτησα, ἠρώτηκα, ἠρώτημαι, ἠρωτήθην - [to ask](https://logeion.uchicago.edu/ἐρωτάω)
+* εὐδαίμων, εὐδαῖμον (m./n. stem εὐδαίμον-) - [happy, blessed, fortunate](https://logeion.uchicago.edu/εὐδαίμων)
 * εὐρύς, εὐρεῖα, εὐρύ - [broad, wide](https://logeion.uchicago.edu/εὐρύς)
 * εὐτυχής, εὐτυχές - [lucky](https://logeion.uchicago.edu/εὐτυχής)
 * ἐφίημι (ἐπί + ἵημι), ἐφήσω, ἐφῆκα, ἐφεῖκα, ἐφεῖμαι, ἐφείθην - [to send against; (middle voice) to command, order; (middle voice) to aim at, desire (+ genitive)](https://logeion.uchicago.edu/ἐφίημι)
 * ἐφίστημι (ἐπί + ἵστημι), ἐπιστήσω, ἐπέστησα or ἐπέστην, ἐφέστηκα, ἐφέσταμαι, ἐπεστάθην - [(trans.) to set up in charge of; (intrans.) to be in charge of (+ dative)](https://logeion.uchicago.edu/ἐφίστημι)
+* ἐχθρός, ἐχθρά, ἐχθρόν - [hated, hostile](https://logeion.uchicago.edu/ἐχθρός)
 * ἔχω, ἕξω / σχήσω, ἔσχον, ἔσχηκα, -ἔσχημαι, ἐσχέθην - [to have, to hold](https://logeion.uchicago.edu/ἔχω)
 
 ## ζ
@@ -139,6 +144,8 @@ parent: Vocabulary
 
 ## ι
 
+* ἱερόν, ἱεροῦ, n. - [temple](https://logeion.uchicago.edu/ἱερός)
+* ἱερός, ἱερά, ἱερόν - [holy](https://logeion.uchicago.edu/ἱερός)
 * ἵημι, ἥσω, -ἧκα, -εἷκα, -εἷμαι, -εἵθην - [to hurl, throw, send; (middle voice) to rush, hurry](https://logeion.uchicago.edu/ἵημι)
 * ἵνα - [(+ subj.) (so / in order) that; (in order) to](https://logeion.uchicago.edu/ἵνα)
 * ἵστημι, στήσω, ἔστησα or ἔστην, ἕστηκα, ἕσταμαι, ἐστάθην - [(active and 1st aorist transitive) to make stand up, set up, cause to stop; (passive and 2nd aorist intransitive) to stand, be set up, stop](https://logeion.uchicago.edu/ἵστημι)
@@ -166,12 +173,14 @@ parent: Vocabulary
 * λαμβάνω, λήψομαι, ἔλαβον, εἴληφα, εἴλημμαι, ἐλήφθην - [to take](https://logeion.uchicago.edu/λαμβάνω)
 * λέγω, ἐρέω, εἶπον, εἴρηκα, --, -- - [to say, to speak](https://logeion.uchicago.edu/λέγω)
 * λείπω, λείψω, ἔλιπον, λέλοιπα, λέλειμμαι, ἐλείφθην - [to leave](https://logeion.uchicago.edu/λείπω)
+* λίθος, λίθου, m. - [stone](https://logeion.uchicago.edu/λίθος)
 * λόγος, λόγου, m. - [word, speech](https://logeion.uchicago.edu/λόγος)
 * λύω, λύσω, ἔλυσα, λέλυκα, λέλυμαι, ἐλύθην - [to free, loosen](https://logeion.uchicago.edu/λύω)
 
 ## μ
 
 * μαθητής, μαθητοῦ, m. - [student](https://logeion.uchicago.edu/μαθητής)
+* μακρός, μακρά, μακρόν - [long](https://logeion.uchicago.edu/μακρός)
 * μάλιστα - [most](https://logeion.uchicago.edu/μάλιστα)
 * μᾶλλον - [more](https://logeion.uchicago.edu/μᾶλλον)
 * μανθάνω, μαθήσομαι, ἔμαθον, μεμάθηκα, --, -- - [to learn](https://logeion.uchicago.edu/μανθάνω)
@@ -257,6 +266,9 @@ parent: Vocabulary
 * σαφής, σαφές - [clear, distinct](https://logeion.uchicago.edu/σαφής)
 * σ(ε)αυτοῦ, ὑμῶν αὐτῶν - [yourself, yourselves](https://logeion.uchicago.edu/σεαυτοῦ) (2nd person)
 * σός, -ή, -όν - [your, yours (singular)](https://logeion.uchicago.edu/σός)
+* στρατηγός, στρατηγοῦ, m. - [general](https://logeion.uchicago.edu/στρατιώτης)
+* στρατιώτης, στρατιώτου, m. - [soldier](https://logeion.uchicago.edu/στρατιώτης)
+* στρατός, στρατοῦ, m. - [army](https://logeion.uchicago.edu/στρατός)
 * σύ, ὑμεῖς - [you, y'all](https://logeion.uchicago.edu/σύ) (2nd person)
 * συμφορά, συμφορᾶς, f. - [event, outcome, mishap](https://logeion.uchicago.edu/συμφορά)
 * σύν (+ dat.) - [with](https://logeion.uchicago.edu/σύν)
