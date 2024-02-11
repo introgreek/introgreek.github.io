@@ -40,6 +40,7 @@ parent: Vocabulary
 * ἄλλος, ἄλλη, ἄλλο - [another, other](https://logeion.uchicago.edu/ἄλλος); (ἄλλος ... ἄλλος) one ... the other
 * δίκαιος, δικαία, δίκαιον - [just](https://logeion.uchicago.edu/δίκαιος)
 * ἐχθρός, ἐχθρά, ἐχθρόν - [hated, hostile](https://logeion.uchicago.edu/ἐχθρός)
+* ἱερός, ἱερά, ἱερόν - [holy](https://logeion.uchicago.edu/ἱερός)
 * κάκος, κάκη, κάκον - [bad](https://logeion.uchicago.edu/κάκος)
 * καλός, καλή, καλόν - [good, beautiful, handsome](https://logeion.uchicago.edu/καλός)
 * μακρός, μακρά, μακρόν - [long](https://logeion.uchicago.edu/μακρός)

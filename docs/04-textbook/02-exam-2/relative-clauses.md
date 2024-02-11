@@ -30,7 +30,7 @@ The dependent clause in this sentence, "when the sun set", begins with a subordi
 
 we would be left wondering, what happened when the sun set? The idea is incomplete, and we need the context of the **main clause**, "we ate dinner", to form a full sentence. The dependent clause answers a question posed by the main clause or some element of the main clause, like "when did it happen?" or "which noun are we talking about?"
 
-This unit will discuss ome specific kind of subordinate / dependent clause in Greek: the **relative clause** functions adjectivally to give us more information about a noun, answering the question "which noun specifically are we discussing?"
+This unit will discuss one specific kind of subordinate / dependent clause in Greek: the **relative clause** functions adjectivally to give us more information about a noun, answering the question "which noun specifically are we discussing?"
 
 ***
 

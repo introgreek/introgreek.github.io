@@ -822,8 +822,8 @@ Translate each of the following sentences with an appropriately-declined and app
 1. The citizens saw him in the house.  
 οἱ πολῖται αὐτὸν ἐν τῇ οἰκίᾳ ἔβλεψαν.
 
-2. He said the same words.  
-τοὺς αὐτοὺς λόγους εἶπεν.
+2. He said the same words; therefore, the woman was happy.
+τοὺς αὐτοὺς λόγους εἶπεν· ἡ οὖν γυνὴ εὐδαίμων ἦν.
 
 3. They themselves came from the sea.  
 αὐτοὶ ἀπὸ τῆς θαλάττης ἦλθον.
@@ -860,8 +860,8 @@ The noble woman gives the wine to the child.
 1. οἱ μαθηταὶ τὸ βιβλίον τὸ μέγα τῷ διδασκάλῳ ἔδοντο.  
 The students gave the large book to the teacher.
 
-2. ὁ ἀνὴρ τοὺς δικαστὰς ἀπὸ τῆς δίκης ἀφῆκεν.  
-The man sent the jurors away from the trial.
+2. ὁ ἀνὴρ ἐκείνους τοὺς δικαστὰς ἀπὸ τῆς δίκης ἀφῆκεν.  
+The man sent those jurors away from the trial.
 
 3. οἱ κόροι τοὺς ἵππους ἐν τῇ ὁδῷ ἔστησαν.  
 The boys made the horses stand in the road.
@@ -869,11 +869,11 @@ The boys made the horses stand in the road.
 4. αἱ κόραι ἐν τῇ ὁδῷ ἔστησαν.  
 The girls stood in the road.
 
-5. αἱ σώρφρονες τὰ χρήματα ἐν τῇ οἰκίᾳ ἔθεσαν.  
-The wise women placed the money in the house.
+5. αἱ σώρφρονες τὰ χρήματα ἐν τῇδε τῇ οἰκίᾳ ἔθεσαν.  
+The wise women placed the money in this house.
 
-6. ἡ ἀγαθὴ τὸν οἶνον τῇ παιδὶ ἔδωκεν.  
-The noble woman gave the wine to the child.
+6. ἡ ἀγαθὴ τὸν οἶνον ταύτῃ τῇ παιδὶ ἔδωκεν.  
+The noble woman gave the wine to that child.
 
 7. ὁ παῖς ἐπὶ τῇ ἵππῳ ἐτέθη.  
 The child was placed on the horse.
@@ -885,19 +885,65 @@ The poem was given to the woman.
 
 ## Homework 22 (Due R 3/20)
 
-TBD
+1. One man brought the books into the house, while the other man sold them to the woman.  
+ὁ μὲν τὰ βιβλία εἰς τὴν οἰκίαν ἤνεγκεν, ὁ δὲ τῇ γυναικὶ αὐτὰ ἀπέδοτο.
+
+2. The good people settled in the house near the road.  
+οἱ ἀγαθοὶ ἐν τῇ παρὰ τὴν ὁδὸν οἰκίᾳ κατέστησαν.
+
+3. The soldier is attacking the enemies (lit., "the hostile people").  
+ὁ στρατιώτης τοῖς ἐχθροῖς ἐπιτίθεται.
+
+4. The general sent the army away into the road; for he saw the danger.  
+ὁ στρατηγὸς τὸν στρατὸν εἰς τὴν ὁδὸν ἀφῆκεν· τὸν γὰρ κίνδυνον ἔβλεψεν.
+
+5. The holy people are setting up the statues in the temple.  
+οἱ ἱεροὶ τὰ ἀγάλματα ἐν τῷ ἱερῷ ἀνατιθέασιν.
 
 ***
 
 ## Homework 23 (Due M 3/21)
 
-TBD
+οἱ στρατιῶται οἳ ἐν τῇ ὁδῷ ἦσαν ἀπὸ τῆς θαλάττης ἦλθον.
+* relative clause: οἳ ἐν τῇ ὁδῷ ἦσαν
+* antecedent: στρατιῶται
+* translation: The soldiers who were in the road came from the sea.
+
+1. ὁ στρατηγὸς τοὺς πολίτας οἷς εἶπεν ἐφίλησεν.  
+* relative clause: οἷς εἶπεν
+* antecedent: πολίτας
+* translation: The general loved the citizens to whom he spoke.
+
+2. ἡ μεγάλη οἰκία ἐν ᾗ οἱ σώφρονες κατέστησαν παρὰ τὴν ὁδὸν ἦν.  
+* relative clause: ἐν ᾗ οἱ σώφρονες κατέστησαν
+* antecedent: οἰκία
+* translation: The large house in which the wise people settled was near the road.
+
+3. ὁ διδάσκαλος οὗ τὸ βιβλίον οἱ μαθηταὶ ἔσχον αὐτὸ αὐτοῖς ἔδωκεν.  
+* relative clause: οὗ τὸ βιβλίον οἱ μαθηταὶ ἔσχον
+* antecedent: διδάσκαλος
+* translation: The teacher whose book the students had gave it to them.
+
+4. κακοὶ οἱ κόροι οἳ τοὺς λίθους ἔβαλον.  
+* relative clause: οἳ τοὺς λίθους ἔβαλον
+* antecedent: κόροι
+* translation: The boys who threw the rocks are evil.
 
 ***
 
 ## Homework 24 (Due M 3/25)
 
-TBD
+1. The first person who saw the horses led them away from the road.  
+ὁ πρῶτος ὃς τοὺς ἵππους ἔβλεψεν αὐτοὺς ἀπὸ τῆς ὁδοῦ ἤγαγεν.
+
+2. The girl who placed the gifts in the temple is small.  
+μικρά ἡ κόρη ἣ τὰ δῶρα ἐν τῷ ἱερῷ ἔθηκεν. (or) ἡ κόρη ἣ τὰ δῶρα ἐν τῷ ἱερῷ ἔθηκεν μικρά ἐστίν.
+
+3. The soldiers saw the evil man who did these things.  
+οἱ στρατιῶται τὸν ἀνδρὰ ὃς τάδε ἐποίησεν ἔβλεψαν.
+
+4. The students listened to the words of the teacher who wrote the book.  
+οἱ μαθηταὶ τοὺς λόγους τοὺς τοῦ διδασκάλου ὃς τὸ βιβλίον ἔγραψεν ἤκουσαν.
 
 ***
 

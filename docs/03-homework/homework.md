@@ -584,7 +584,7 @@ Make the given demonstrative match the given article-noun pair.
 Translate each of the following sentences with an appropriately-declined and appropriately-placed form of αὐτός.
 
 1. The citizens saw him in the house.
-2. He said the same words.
+2. He said the same words; therefore, the woman was happy.
 3. They themselves came from the sea.
 4. He showed the book to the man himself.
 5. Their horses (lit., "the horses of them") were led into the road.
@@ -612,11 +612,11 @@ Translate the following sentences.
 Translate the following sentences.
 
 1. οἱ μαθηταὶ τὸ βιβλίον τὸ μέγα τῷ διδασκάλῳ ἔδοντο.
-2. ὁ ἀνὴρ τοὺς δικαστὰς ἀπὸ τῆς δίκης ἀφῆκεν.
+2. ὁ ἀνὴρ ἐκείνους τοὺς δικαστὰς ἀπὸ τῆς δίκης ἀφῆκεν.
 3. οἱ κόροι τοὺς ἵππους ἐν τῇ ὁδῷ ἔστησαν.
 4. αἱ κόραι ἐν τῇ ὁδῷ ἔστησαν.
-5. αἱ σώρφρονες τὰ χρήματα ἐν τῇ οἰκίᾳ ἔθεσαν.
-6. ἡ ἀγαθὴ τὸν οἶνον τῇ παιδὶ ἔδωκεν. 
+5. αἱ σώρφρονες τὰ χρήματα ἐν τῇδε τῇ οἰκίᾳ ἔθεσαν.
+6. ἡ ἀγαθὴ τὸν οἶνον ταύτῃ τῇ παιδὶ ἔδωκεν. 
 7. ὁ παῖς ἐπὶ τῇ ἵππῳ ἐτέθη.
 8. τὸ ποίημα τῇ γυναικὶ ἐδόθη.
 
@@ -626,7 +626,13 @@ Translate the following sentences.
 
 ## Homework 22 (Due W 3/20)
 
-core 4 mi verbs - general
+Translate the following sentences into Greek, using the compound verbs in the [Week 8 Vocabulary](../vocabulary/week-08-vocabulary).
+
+1. One man brought the books into the house, while the other man sold them to the woman.
+2. The good people settled in the house near the road.
+3. The soldier is attacking the enemies (lit., "the hostile people").
+4. The general sent the army away into the road; for he saw the danger.
+5. The holy people are setting up the statues in the temple.
 
 [Answer key here](answer-key#homework-22-due-w-320).
 
@@ -634,7 +640,17 @@ core 4 mi verbs - general
 
 ## Homework 23 (Due R 3/21)
 
-dependent and relative clauses
+Identify all the words that belong to the relative clause in each of the following sentences, and indicate its antecedent; then translate each sentence. For example:
+
+οἱ στρατιῶται οἳ ἐν τῇ ὁδῷ ἦσαν ἀπὸ τῆς θαλάττης ἦλθον.
+* relative clause: οἳ ἐν τῇ ὁδῷ ἦσαν
+* antecedent: στρατιῶται
+* translation: The soldiers who were in the road came from the sea.
+
+1. ὁ στρατηγὸς τοὺς πολίτας οἷς εἶπεν ἐφίλησεν.
+2. ἡ μεγάλη οἰκία ἐν ᾗ οἱ σώφρονες κατέστησαν παρὰ τὴν ὁδὸν ἦν.
+3. ὁ διδάσκαλος οὗ τὸ βιβλίον οἱ μαθηταὶ ἔσχον αὐτοῖς ἔδωκεν.
+4. κακοὶ οἱ κόροι οἳ τοὺς λίθους ἔβαλον.
 
 [Answer key here](answer-key#homework-23-due-r-321).
 
@@ -642,7 +658,12 @@ dependent and relative clauses
 
 ## Homework 24 (Due M 3/25)
 
-relative clauses continued
+Translate each of the following sentences into Greek.
+
+1. The first person who saw the horses led them away from the road.
+2. The girl who placed the gifts in the temple is small.
+3. The soldiers saw the evil man who did these things.
+4. The students listened to the words of the teacher who wrote the book.
 
 [Answer key here](answer-key#homework-24-due-m-325).
 
@@ -650,7 +671,7 @@ relative clauses continued
 
 ## Homework 25 (Due W 3/27)
 
-catch up
+TBD
 
 [Answer key here](answer-key#homework-25-due-w-327).
 
@@ -658,7 +679,7 @@ catch up
 
 ## Homework 26 (Due W 4/3)
 
-catch up
+TBD
 
 [Answer key here](answer-key#homework-26-due-w-43).
 
