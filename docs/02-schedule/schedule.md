@@ -263,7 +263,7 @@ Epsilon Contracts
 
 #### Resources and Readings
 {: .no_toc }
-* [Slideshow - W 2/14](#) [Link TBD]
+* [Slideshow - W 2/14](https://docs.google.com/presentation/d/1bdd7AH_SLtRy4ZX-99wlMbNxnq43vY4bZp4E61B81aI/edit?usp=sharing)
 * [Epsilon Contracts](../textbook/exam-1/epsilon-contracts)
 
 #### HW due by start of next class
@@ -279,7 +279,7 @@ Review / Catch Up
 
 #### Resources and Readings
 {: .no_toc }
-* [Slideshow - R 2/15](#) [Link TBD]
+* TBD
 
 #### HW due by start of next class
 {: .no_toc }
