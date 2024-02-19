@@ -306,7 +306,7 @@ Prepositions
 
 #### Resources and Readings
 {: .no_toc }
-* [Slideshow - T 2/20](#) [Link TBD]
+* [Slideshow - T 2/20](https://docs.google.com/presentation/d/1Qo5Cq8QON8NAyKjXpY-HnQteXSglfOPYkmeHkEEv0LM/edit?usp=sharing)
 * [Prepositions](../textbook/exam-2/prepositions)
 
 #### HW due by start of next class
@@ -322,7 +322,7 @@ Vowel Declension Adjectives
 
 #### Resources and Readings
 {: .no_toc }
-* [Slideshow - W 2/21](#) [Link TBD]
+* [Slideshow - W 2/21](https://docs.google.com/presentation/d/1JzBo8VZq54_XU_GXKLhMtAiOMMb8O8nTja2EQySVEZM/edit?usp=sharing)
 * [Adjectives](../textbook/exam-2/adjectives)
 
 #### HW due by start of next class
@@ -338,7 +338,7 @@ Vowel Declension Adjectives, continued
 
 #### Resources and Readings
 {: .no_toc }
-* [Slideshow - R 2/22](#) [Link TBD]
+* [Slideshow - R 2/22](https://docs.google.com/presentation/d/1JzBo8VZq54_XU_GXKLhMtAiOMMb8O8nTja2EQySVEZM/edit?usp=sharing)
 * [Adjectives](../textbook/exam-2/adjectives)
 
 #### HW due by start of next class
