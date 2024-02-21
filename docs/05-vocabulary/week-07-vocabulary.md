@@ -48,8 +48,6 @@ parent: Vocabulary
 
 #### Second Declension
 {: .no_toc }
-* δῶρον, δώρου, n. - [gift](https://logeion.uchicago.edu/δῶρον)
-* ἱερόν, ἱεροῦ, n. - [temple](https://logeion.uchicago.edu/ἱερός)
 * λίθος, λίθου, m. - [stone](https://logeion.uchicago.edu/λίθος)
 * ὅπλον, ὅπλου, n. - [weapon](https://logeion.uchicago.edu/ὅπλον)
 * στρατηγός, στρατηγοῦ, m. - [general](https://logeion.uchicago.edu/στρατηγός)
