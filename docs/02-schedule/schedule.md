@@ -365,7 +365,7 @@ Consonant Declension Adjectives
 
 #### Resources and Readings
 {: .no_toc }
-* [Slideshow - M 2/26](#) [Link TBD]
+* [Slideshow - M 2/26](https://docs.google.com/presentation/d/12zrAtihr0Md8lPrhecMiab2BQmj4Tb02zY7r6OFDwng/edit?usp=sharing)
 * [Adjectives](../textbook/exam-2/adjectives)
 
 #### HW due by start of next class
@@ -381,7 +381,7 @@ Consonant Declension Adjectives, continued
 
 #### Resources and Readings
 {: .no_toc }
-* [Slideshow - W 2/28](#) [Link TBD]
+* [Slideshow - W 2/28](https://docs.google.com/presentation/d/12zrAtihr0Md8lPrhecMiab2BQmj4Tb02zY7r6OFDwng/edit?usp=sharing)
 * [Adjectives](../textbook/exam-2/adjectives)
 
 #### HW due by start of next class
@@ -397,7 +397,7 @@ Attributive and Predicative Position
 
 #### Resources and Readings
 {: .no_toc }
-* [Slideshow - R 2/29](#) [Link TBD]
+* [Slideshow - R 2/29](https://docs.google.com/presentation/d/1R85Oyg3gT5cXKRpvNa1D2QKd-QvvhI2jjYcPiQhCf70/edit?usp=sharing)
 * [Attributive and Predicative Position](../textbook/exam-2/attr-pred)
 
 #### HW due by start of next class
