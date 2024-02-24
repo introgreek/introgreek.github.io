@@ -251,6 +251,43 @@ But:
 
 ***
 
+## Variable-Stem Adjectives
+
+The adjectives μέγας and πολύς should, according to their dictionary entries, look like consonant-declension adjectives:
+
+* μέγας, μεγάλη, μέγα - big, great
+* πολύς, πολλή, πολύ - much (singular); many (plural)
+
+Recall that *vowel*-declension adjectives generally have endings in -ος, -η/-α, -ον or -ος, -ον, and adjectives that do not fall into that pattern are generally *consonant*-declension adjectives. However, μέγας and πολύς exhibit mostly *vowel*-declension patterns, with the sole exceptions being their masculine and neuter nominative and accusative singular forms:
+
+* μέγας > stem in μεγάλ- or μεγα-
+
+| | Masculine | Feminine | Neuter |
+| ----- | ----- | ----- | ----- |
+| Nom. Sg. | **μέγας** | μεγάλη | **μέγα** |
+| Gen. Sg. | μεγάλου | μεγάλης | μεγάλου |
+| Dat. Sg. | μεγάλῳ | μεγάλῃ | μεγάλῳ |
+| Acc. Sg. | **μέγαν** | μεγάλην | **μέγα** |
+| Nom. Pl. | μεγάλοι | μεγάλαι | μεγάλα |
+| Gen. Pl. | μεγάλων | μεγάλων | μεγάλων |
+| Dat. Pl. | μεγάλοις | μεγάλαις | μεγάλοις |
+| Acc. Pl. | μεγάλους | μεγάλας | μεγάλα |
+
+* πολύς > stem in πολλ- or πολυ-
+
+| | Masculine | Feminine | Neuter |
+| ----- | ----- | ----- | ----- |
+| Nom. Sg. | **πολύς** | πολλή | **πολύ** |
+| Gen. Sg. | πολλοῦ | πολλῆς | πολλοῦ |
+| Dat. Sg. | πολλῷ | πολλῇ | πολλῷ |
+| Acc. Sg. | **πολύν** | πολλήν | **πολύ** |
+| Nom. Pl. | πολλοί | πολλαί | πολλά |
+| Gen. Pl. | πολλῶν | πολλῶν | πολλῶν |
+| Dat. Pl. | πολλοῖς | πολλαῖς | πολλοῖς |
+| Acc. Pl. | πολλούς | πολλάς | πολλά |
+
+***
+
 ## Substantive Adjectives
 
 If an adjective is used on its own or with an article (i.e., without an explicit noun for it to modify), we consider it a **substantive adjective**, which means that we need to use its gender and number to supply a noun for the adjective to modify. Take a look at the following example:
