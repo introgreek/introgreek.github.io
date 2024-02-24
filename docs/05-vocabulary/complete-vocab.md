@@ -77,6 +77,7 @@ parent: Vocabulary
 * δεῖ - [it is necessary](https://logeion.uchicago.edu/δεῖ)
 * δείκνυμι, δείξω, ἔδειξα, δέδειχα, δέδειγμαι, ἐδείχθην - [to show](https://logeion.uchicago.edu/δείκνυμι)
 * δέκα - [ten](https://logeion.uchicago.edu/δέκα) (indeclinable)
+* δένδρον, δένδρου, n. - [tree](https://logeion.uchicago.edu/δένδρον)
 * δεύτερος, -α, -ον - [second](https://logeion.uchicago.edu/δεύτερος)
 * δηλόω, δηλώσω, ἐδήλωσα, δεδήλωκα, δεδήλωμαι, ἐδηλώθην - [to make clear, point out](https://logeion.uchicago.edu/δηλόω)
 * διά - [through; because of; by means of](https://logeion.uchicago.edu/διά)

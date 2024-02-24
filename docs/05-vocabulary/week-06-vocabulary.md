@@ -55,4 +55,11 @@ parent: Vocabulary
 * ἀδύνατος, ἀδύνατον - [impossible](https://logeion.uchicago.edu/ἀδύνατος)
 * ἀθάνατος, ἀθάνατον - [undying, immortal](https://logeion.uchicago.edu/ἀθάνατος)
 
+***
 
+## Nouns
+
+* δένδρον, δένδρου, n. - [tree](https://logeion.uchicago.edu/δένδρον)
+* δῶρον, δώρου, n. - [gift](https://logeion.uchicago.edu/δῶρον)
+* θάνατος, θανάτου, m. - [death](https://logeion.uchicago.edu/θάνατος)
+* ἱερόν, ἱεροῦ, n. - [temple](https://logeion.uchicago.edu/ἱερός)
