@@ -814,10 +814,19 @@ She listens to the wise person, but he said a bad word.
 6. ἐκεῖνος -> τῇ ὁδῷ  
 ἐκείνῃ
 
-### Part 3
+[see homework]
+
+***
+
+## Homework 20 (Due R 3/14)
+
+### Part 1
 {: .no_toc }
 
-Translate each of the following sentences with an appropriately-declined and appropriately-placed form of αὐτός.
+[see homework]
+
+### Part 2
+{: .no_toc }
 
 1. The citizens saw him in the house.  
 οἱ πολῖται αὐτὸν ἐν τῇ οἰκίᾳ ἔβλεψαν.
@@ -836,7 +845,7 @@ Translate each of the following sentences with an appropriately-declined and app
 
 ***
 
-## Homework 20 (Due R 3/14)
+## Homework 21 (Due W 3/18)
 
 1. οἱ μαθηταὶ τὸ βιβλίον τὸ μέγα τῷ διδασκάλῳ διδόασιν.  
 The students give the large book to the teacher.
@@ -855,7 +864,7 @@ The noble woman gives the wine to the child.
 
 ***
 
-## Homework 21 (Due W 3/18)
+## Homework 22 (Due R 3/20)
 
 1. οἱ μαθηταὶ τὸ βιβλίον τὸ μέγα τῷ διδασκάλῳ ἔδοντο.  
 The students gave the large book to the teacher.
@@ -883,7 +892,7 @@ The poem was given to the woman.
 
 ***
 
-## Homework 22 (Due R 3/20)
+## Homework 23 (Due M 3/21)
 
 1. One man brought the books into the house, while the other man sold them to the woman.  
 ὁ μὲν τὰ βιβλία εἰς τὴν οἰκίαν ἤνεγκεν, ὁ δὲ τῇ γυναικὶ αὐτὰ ἀπέδοτο.
@@ -902,7 +911,7 @@ The poem was given to the woman.
 
 ***
 
-## Homework 23 (Due M 3/21)
+## Homework 24 (Due M 3/25)
 
 οἱ στρατιῶται οἳ ἐν τῇ ὁδῷ ἦσαν ἀπὸ τῆς θαλάττης ἦλθον.
 * relative clause: οἳ ἐν τῇ ὁδῷ ἦσαν
@@ -931,7 +940,7 @@ The poem was given to the woman.
 
 ***
 
-## Homework 24 (Due M 3/25)
+## Homework 25 (Due W 3/27)
 
 1. The first person who saw the horses led them away from the road.  
 ὁ πρῶτος ὃς τοὺς ἵππους ἔβλεψεν αὐτοὺς ἀπὸ τῆς ὁδοῦ ἤγαγεν.
@@ -944,12 +953,6 @@ The poem was given to the woman.
 
 4. The students listened to the words of the teacher who wrote the book.  
 οἱ μαθηταὶ τοὺς λόγους τοὺς τοῦ διδασκάλου ὃς τὸ βιβλίον ἔγραψεν ἤκουσαν.
-
-***
-
-## Homework 25 (Due W 3/27)
-
-TBD
 
 ***
 

@@ -577,8 +577,20 @@ Make the given demonstrative match the given article-noun pair.
 4. ὅδε -> τὰς οἰκίας
 5. οὗτος -> τοῖς πράγμασιν
 6. ἐκεῖνος -> τῇ ὁδῷ
+[add more]
 
-### Part 3
+[Answer key here](answer-key#homework-19-due-w-313).
+
+***
+
+## Homework 20 (Due R 3/14)
+
+### Part 1
+{: .no_toc }
+
+[sentences using demonstratives, including former/latter and following/preceding]
+
+### Part 2
 {: .no_toc }
 
 Translate each of the following sentences with an appropriately-declined and appropriately-placed form of αὐτός.
@@ -589,11 +601,11 @@ Translate each of the following sentences with an appropriately-declined and app
 4. He showed the book to the man himself.
 5. Their horses (lit., "the horses of them") were led into the road.
 
-[Answer key here](answer-key#homework-19-due-w-313).
+[Answer key here](answer-key#homework-20-due-r-314).
 
 ***
 
-## Homework 20 (Due R 3/14)
+## Homework 21 (Due M 3/18)
 
 Translate the following sentences.
 
@@ -603,11 +615,11 @@ Translate the following sentences.
 4. τὰ χρήματα ἐν τῇ οἰκίᾳ ὑπὸ τοῦ σώφρονος τίθεται.
 5. ἡ ἀγαθὴ τὸν οἶνον τῇ παιδὶ δίδωσιν. 
 
-[Answer key here](answer-key#homework-20-due-r-314).
+[Answer key here](answer-key#homework-21-due-m-318).
 
 ***
 
-## Homework 21 (Due M 3/18)
+## Homework 22 (Due W 3/20)
 
 Translate the following sentences.
 
@@ -620,11 +632,11 @@ Translate the following sentences.
 7. ὁ παῖς ἐπὶ τῇ ἵππῳ ἐτέθη.
 8. τὸ ποίημα τῇ γυναικὶ ἐδόθη.
 
-[Answer key here](answer-key#homework-21-due-m-318).
+[Answer key here](answer-key#homework-22-due-w-320).
 
 ***
 
-## Homework 22 (Due W 3/20)
+## Homework 23 (Due R 3/21)
 
 Translate the following sentences into Greek, using the compound verbs in the [Week 8 Vocabulary](../vocabulary/week-08-vocabulary).
 
@@ -634,11 +646,11 @@ Translate the following sentences into Greek, using the compound verbs in the [W
 4. The general sent the army away into the road; for he saw the danger.
 5. The holy people are setting up the statues in the temple.
 
-[Answer key here](answer-key#homework-22-due-w-320).
+[Answer key here](answer-key#homework-23-due-r-321).
 
 ***
 
-## Homework 23 (Due R 3/21)
+## Homework 24 (Due M 3/25)
 
 Identify all the words that belong to the relative clause in each of the following sentences, and indicate its antecedent; then translate each sentence. For example:
 
@@ -652,11 +664,11 @@ Identify all the words that belong to the relative clause in each of the followi
 3. ὁ διδάσκαλος οὗ τὸ βιβλίον οἱ μαθηταὶ ἔσχον αὐτοῖς ἔδωκεν.
 4. κακοὶ οἱ κόροι οἳ τοὺς λίθους ἔβαλον.
 
-[Answer key here](answer-key#homework-23-due-r-321).
+[Answer key here](answer-key#homework-24-due-m-325).
 
 ***
 
-## Homework 24 (Due M 3/25)
+## Homework 25 (Due W 3/27)
 
 Translate each of the following sentences into Greek.
 
@@ -664,14 +676,6 @@ Translate each of the following sentences into Greek.
 2. The girl who placed the gifts in the temple is small.
 3. The soldiers saw the evil man who did these things.
 4. The students listened to the words of the teacher who wrote the book.
-
-[Answer key here](answer-key#homework-24-due-m-325).
-
-***
-
-## Homework 25 (Due W 3/27)
-
-TBD
 
 [Answer key here](answer-key#homework-25-due-w-327).
 
