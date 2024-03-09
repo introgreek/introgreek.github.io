@@ -440,13 +440,13 @@ Pronouns
 
 ### Wednesday, March 13
 {: .no_toc }
-Core Four -μι Verbs - Present Tense
+Pronouns continued
 * In class: Check-in 19
 
 #### Resources and Readings
 {: .no_toc }
 * [Slideshow - W 3/13](#) [Link TBD]
-* [Core Four -μι Verbs - Present Tense](../textbook/exam-2/core-four-present)
+* [Pronouns](../textbook/exam-2/pronouns)
 
 #### HW due by start of next class
 {: .no_toc }
@@ -456,13 +456,13 @@ Core Four -μι Verbs - Present Tense
 
 ### Thursday, March 14
 {: .no_toc }
-Core Four -μι Verbs - Aorist Tense
+Core Four -μι Verbs - Present Tense
 * In class: Check-in 20
 
 #### Resources and Readings
 {: .no_toc }
 * [Slideshow - R 3/18](#) [Link TBD]
-* [Core Four -μι Verbs - Aorist Tense](../textbook/exam-2/core-four-aorist)
+* [Core Four -μι Verbs - Present Tense](../textbook/exam-2/core-four-present)
 
 #### HW due by start of next class
 {: .no_toc }
@@ -483,12 +483,13 @@ Core Four -μι Verbs - Aorist Tense
 
 ### Monday, March 18
 {: .no_toc }
-Core Four -μι Verbs, continued
+Core Four -μι Verbs - Aorist Tense
 * In class: Check-in 21
 
 #### Resources and Readings
 {: .no_toc }
 * [Slideshow - M 3/18](#) [Link TBD]
+* [Core Four -μι Verbs - Aorist Tense](../textbook/exam-2/core-four-aorist)
 
 #### HW due by start of next class
 {: .no_toc }
@@ -498,13 +499,12 @@ Core Four -μι Verbs, continued
 
 ### Wednesday, March 20
 {: .no_toc }
-Dependent Clauses and Relative Clauses
+Core Four -μι Verbs, continued
 * In class: Check-in 22
 
 #### Resources and Readings
 {: .no_toc }
 * [Slideshow - W 3/20](#) [Link TBD]
-* [Relative Clauses](../textbook/exam-2/relative-clauses)
 
 #### HW due by start of next class
 {: .no_toc }
@@ -514,7 +514,7 @@ Dependent Clauses and Relative Clauses
 
 ### Thursday, March 21
 {: .no_toc }
-Relative Clauses continued
+Dependent Clauses and Relative Clauses
 * In class: Check-in 23
 
 #### Resources and Readings
@@ -542,12 +542,13 @@ Relative Clauses continued
 
 ### Monday, March 25
 {: .no_toc }
-Review / Catch Up
+Relative Clauses continued
 * In class: Check-in 24
 
 #### Resources and Readings
 {: .no_toc }
 * [Slideshow - M 3/25](#) [Link TBD]
+* [Relative Clauses](../textbook/exam-2/relative-clauses)
 
 #### HW due by start of next class
 {: .no_toc }

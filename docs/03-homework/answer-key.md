@@ -814,10 +814,42 @@ She listens to the wise person, but he said a bad word.
 6. ἐκεῖνος -> τῇ ὁδῷ  
 ἐκείνῃ
 
-### Part 3
+7. ὅδε -> τοὺς λίθους  
+τούσδε
+
+8. οὗτος -> τὸν στρατόν  
+τοῦτον
+
+9. ἐκεῖνος -> τὰ ἀγάλματα  
+ἐκεῖνα
+
+10. ὅδε -> τῶν στρατηγῶν  
+τῶνδε
+
+***
+
+## Homework 20 (Due R 3/14)
+
+### Part 1
 {: .no_toc }
 
-Translate each of the following sentences with an appropriately-declined and appropriately-placed form of αὐτός.
+1. ὁ μαθητὴς τάδε εἶπεν· “ἐν τῇ ὁδῷ οἱ ἵπποι.”  
+The student said the following things: "The horses are in the road."
+
+2. ὁ στρατιώτης ἐκεῖνο τὸ ὅπλον εἰς τὴν οἰκίαν ἤνεγκεν.  
+The soldier brought that weapon into the house.
+
+3. ὁ παῖς τὸ βιβλίον καὶ τὸν διδάσκαλον βλέπει. ἐκεῖνο μὲν αἱρεῖ, τούτῳ δὲ λέγει.  
+The child sees the book and the teacher. He takes the former, but he speaks to the latter.
+
+4. ἡ κόρη τὸν κόρον ὑπὸ τοῖσδε τοῖς δένδροις ἔβλεψεν.  
+The girl saw the boy under these trees.
+
+5. αὗται αἱ γνῶμαι ἐν τῷδε τῷ βιβλίῳ γράφονται.  
+Those opinions are written in this book.
+
+### Part 2
+{: .no_toc }
 
 1. The citizens saw him in the house.  
 οἱ πολῖται αὐτὸν ἐν τῇ οἰκίᾳ ἔβλεψαν.
@@ -836,7 +868,7 @@ Translate each of the following sentences with an appropriately-declined and app
 
 ***
 
-## Homework 20 (Due R 3/14)
+## Homework 21 (Due W 3/18)
 
 1. οἱ μαθηταὶ τὸ βιβλίον τὸ μέγα τῷ διδασκάλῳ διδόασιν.  
 The students give the large book to the teacher.
@@ -855,7 +887,7 @@ The noble woman gives the wine to the child.
 
 ***
 
-## Homework 21 (Due W 3/18)
+## Homework 22 (Due R 3/20)
 
 1. οἱ μαθηταὶ τὸ βιβλίον τὸ μέγα τῷ διδασκάλῳ ἔδοντο.  
 The students gave the large book to the teacher.
@@ -883,7 +915,7 @@ The poem was given to the woman.
 
 ***
 
-## Homework 22 (Due R 3/20)
+## Homework 23 (Due M 3/21)
 
 1. One man brought the books into the house, while the other man sold them to the woman.  
 ὁ μὲν τὰ βιβλία εἰς τὴν οἰκίαν ἤνεγκεν, ὁ δὲ τῇ γυναικὶ αὐτὰ ἀπέδοτο.
@@ -902,7 +934,7 @@ The poem was given to the woman.
 
 ***
 
-## Homework 23 (Due M 3/21)
+## Homework 24 (Due M 3/25)
 
 οἱ στρατιῶται οἳ ἐν τῇ ὁδῷ ἦσαν ἀπὸ τῆς θαλάττης ἦλθον.
 * relative clause: οἳ ἐν τῇ ὁδῷ ἦσαν
@@ -931,7 +963,7 @@ The poem was given to the woman.
 
 ***
 
-## Homework 24 (Due M 3/25)
+## Homework 25 (Due W 3/27)
 
 1. The first person who saw the horses led them away from the road.  
 ὁ πρῶτος ὃς τοὺς ἵππους ἔβλεψεν αὐτοὺς ἀπὸ τῆς ὁδοῦ ἤγαγεν.
@@ -944,12 +976,6 @@ The poem was given to the woman.
 
 4. The students listened to the words of the teacher who wrote the book.  
 οἱ μαθηταὶ τοὺς λόγους τοὺς τοῦ διδασκάλου ὃς τὸ βιβλίον ἔγραψεν ἤκουσαν.
-
-***
-
-## Homework 25 (Due W 3/27)
-
-TBD
 
 ***
 
