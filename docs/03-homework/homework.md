@@ -577,7 +577,10 @@ Make the given demonstrative match the given article-noun pair.
 4. ὅδε -> τὰς οἰκίας
 5. οὗτος -> τοῖς πράγμασιν
 6. ἐκεῖνος -> τῇ ὁδῷ
-[add more]
+7. ὅδε -> τοὺς λίθους
+8. οὗτος -> τὸν στρατόν
+9. ἐκεῖνος -> τὰ ἀγάλματα
+10. ὅδε -> τῶν στρατηγῶν
 
 [Answer key here](answer-key#homework-19-due-w-313).
 
@@ -588,7 +591,13 @@ Make the given demonstrative match the given article-noun pair.
 ### Part 1
 {: .no_toc }
 
-[sentences using demonstratives, including former/latter and following/preceding]
+Translate each of the following sentences, making sure to look out for special uses of each demonstrative.
+
+1. ὁ μαθητὴς τάδε εἶπεν· “ἐν τῇ ὁδῷ οἱ ἵπποι.”
+2. ὁ στρατιώτης ἐκεῖνο τὸ ὅπλον εἰς τὴν οἰκίαν ἤνεγκεν.
+3. ὁ παῖς τὸ βιβλίον καὶ τὸν διδάσκαλον βλέπει. ἐκεῖνο μὲν αἱρεῖ, τούτῳ δὲ λέγει.
+4. ἡ κόρη τὸν κόρον ὑπὸ τοῖσδε τοῖς δένδροις ἔβλεψεν.
+5. αὗται αἱ γνῶμαι ἐν τῷδε τῷ βιβλίῳ γράφονται. 
 
 ### Part 2
 {: .no_toc }

@@ -814,7 +814,17 @@ She listens to the wise person, but he said a bad word.
 6. ἐκεῖνος -> τῇ ὁδῷ  
 ἐκείνῃ
 
-[see homework]
+7. ὅδε -> τοὺς λίθους  
+τούσδε
+
+8. οὗτος -> τὸν στρατόν  
+τοῦτον
+
+9. ἐκεῖνος -> τὰ ἀγάλματα  
+ἐκεῖνα
+
+10. ὅδε -> τῶν στρατηγῶν  
+τῶνδε
 
 ***
 
@@ -823,7 +833,20 @@ She listens to the wise person, but he said a bad word.
 ### Part 1
 {: .no_toc }
 
-[see homework]
+1. ὁ μαθητὴς τάδε εἶπεν· “ἐν τῇ ὁδῷ οἱ ἵπποι.”  
+The student said the following things: "The horses are in the road."
+
+2. ὁ στρατιώτης ἐκεῖνο τὸ ὅπλον εἰς τὴν οἰκίαν ἤνεγκεν.  
+The soldier brought that weapon into the house.
+
+3. ὁ παῖς τὸ βιβλίον καὶ τὸν διδάσκαλον βλέπει. ἐκεῖνο μὲν αἱρεῖ, τούτῳ δὲ λέγει.  
+The child sees the book and the teacher. He takes the former, but he speaks to the latter.
+
+4. ἡ κόρη τὸν κόρον ὑπὸ τοῖσδε τοῖς δένδροις ἔβλεψεν.  
+The girl saw the boy under these trees.
+
+5. αὗται αἱ γνῶμαι ἐν τῷδε τῷ βιβλίῳ γράφονται.  
+Those opinions are written in this book.
 
 ### Part 2
 {: .no_toc }
