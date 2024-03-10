@@ -429,7 +429,7 @@ Pronouns
 
 #### Resources and Readings
 {: .no_toc }
-* [Slideshow - M 3/11](#) [Link TBD]
+* [Slideshow - M 3/11](https://docs.google.com/presentation/d/14cxP-UdyKMSzBSJ4DYayxQ_3ixl0DUPX0_iHCJbwRs8/edit?usp=sharing)
 * [Pronouns](../textbook/exam-2/pronouns)
 
 #### HW due by start of next class
@@ -445,7 +445,7 @@ Pronouns continued
 
 #### Resources and Readings
 {: .no_toc }
-* [Slideshow - W 3/13](#) [Link TBD]
+* [Slideshow - W 3/13](https://docs.google.com/presentation/d/14cxP-UdyKMSzBSJ4DYayxQ_3ixl0DUPX0_iHCJbwRs8/edit?usp=sharing)
 * [Pronouns](../textbook/exam-2/pronouns)
 
 #### HW due by start of next class
