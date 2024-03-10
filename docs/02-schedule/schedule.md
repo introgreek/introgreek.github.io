@@ -461,7 +461,7 @@ Core Four -μι Verbs - Present Tense
 
 #### Resources and Readings
 {: .no_toc }
-* [Slideshow - R 3/18](#) [Link TBD]
+* [Slideshow - R 3/14](https://docs.google.com/presentation/d/1BhVNbimAY9gRkUrOoXjy2mgt6CUMSDLW-JnyJXsM9BY/edit?usp=sharing)
 * [Core Four -μι Verbs - Present Tense](../textbook/exam-2/core-four-present)
 
 #### HW due by start of next class
