@@ -557,30 +557,11 @@ Each of the following sentences contains one of the four types of modifiers (adj
 
 ## Homework 19 (Due W 3/13)
 
-### Part 1
-{: .no_toc }
-
 Translate the following sentences. Keep in mind that there will be multiple "correct" ways to translate each sentence, and the answer key offers just one possibility per sentence.
 
 1. ὁ μὲν τοὺς δικαστὰς ἠδίκησεν, ὁ δὲ ἀγαθὰ ἐποιήσεν.
 2. αἱ μὲν εἶλον τὰ μίκρα βιβλία, αἱ δὲ ἔγραψαν τὰ ποιήματα.
 3. ἡ μὲν τοῦ σώφρονος ἀκούει· ὁ δὲ κάκον λόγον εἶπεν.
-
-### Part 2
-{: .no_toc }
-
-Make the given demonstrative match the given article-noun pair.
-
-1. ὅδε -> τῷ δικαστῇ
-2. οὗτος -> αἱ ἵπποι
-3. ἐκεῖνος -> τὸ ποιήμα
-4. ὅδε -> τὰς οἰκίας
-5. οὗτος -> τοῖς πράγμασιν
-6. ἐκεῖνος -> τῇ ὁδῷ
-7. ὅδε -> τοὺς λίθους
-8. οὗτος -> τὸν στρατόν
-9. ἐκεῖνος -> τὰ ἀγάλματα
-10. ὅδε -> τῶν στρατηγῶν
 
 [Answer key here](answer-key#homework-19-due-w-313).
 
@@ -591,6 +572,18 @@ Make the given demonstrative match the given article-noun pair.
 ### Part 1
 {: .no_toc }
 
+Make the given demonstrative match the given article-noun pair.
+
+1. ὅδε -> τῷ δικαστῇ
+2. οὗτος -> αἱ ἵπποι
+3. ἐκεῖνος -> τὸ ποιήμα
+4. ὅδε -> τὰς οἰκίας
+5. οὗτος -> τοῖς πράγμασιν
+6. ἐκεῖνος -> τῇ ὁδῷ
+
+### Part 2
+{: .no_toc }
+
 Translate each of the following sentences, making sure to look out for special uses of each demonstrative.
 
 1. ὁ μαθητὴς τάδε εἶπεν· “ἐν τῇ ὁδῷ οἱ ἵπποι.”
@@ -599,7 +592,7 @@ Translate each of the following sentences, making sure to look out for special u
 4. ἡ κόρη τὸν κόρον ὑπὸ τοῖσδε τοῖς δένδροις ἔβλεψεν.
 5. αὗται αἱ γνῶμαι ἐν τῷδε τῷ βιβλίῳ γράφονται. 
 
-### Part 2
+### Part 3
 {: .no_toc }
 
 Translate each of the following sentences with an appropriately-declined and appropriately-placed form of αὐτός.

@@ -793,7 +793,11 @@ These women took the small books, but those women wrote the poems.
 3. ἡ μὲν τοῦ σώφρονος ἀκούει· ὁ δὲ κάκον λόγον εἶπεν.  
 She listens to the wise person, but he said a bad word.
 
-### Part 2
+***
+
+## Homework 20 (Due R 3/14)
+
+### Part 1
 {: .no_toc }
 
 1. ὅδε -> τῷ δικαστῇ  
@@ -814,23 +818,7 @@ She listens to the wise person, but he said a bad word.
 6. ἐκεῖνος -> τῇ ὁδῷ  
 ἐκείνῃ
 
-7. ὅδε -> τοὺς λίθους  
-τούσδε
-
-8. οὗτος -> τὸν στρατόν  
-τοῦτον
-
-9. ἐκεῖνος -> τὰ ἀγάλματα  
-ἐκεῖνα
-
-10. ὅδε -> τῶν στρατηγῶν  
-τῶνδε
-
-***
-
-## Homework 20 (Due R 3/14)
-
-### Part 1
+### Part 2
 {: .no_toc }
 
 1. ὁ μαθητὴς τάδε εἶπεν· “ἐν τῇ ὁδῷ οἱ ἵπποι.”  
@@ -848,7 +836,7 @@ The girl saw the boy under these trees.
 5. αὗται αἱ γνῶμαι ἐν τῷδε τῷ βιβλίῳ γράφονται.  
 Those opinions are written in this book.
 
-### Part 2
+### Part 3
 {: .no_toc }
 
 1. The citizens saw him in the house.  
