@@ -488,7 +488,7 @@ Core Four -μι Verbs - Aorist Tense
 
 #### Resources and Readings
 {: .no_toc }
-* [Slideshow - M 3/18](#) [Link TBD]
+* [Slideshow - M 3/18](https://docs.google.com/presentation/d/126YdqIUkUqIWEMYU6L6VoPYYIAWnwYOqQjmmfRCBZis/edit?usp=sharing)
 * [Core Four -μι Verbs - Aorist Tense](../textbook/exam-2/core-four-aorist)
 
 #### HW due by start of next class
@@ -504,7 +504,7 @@ Core Four -μι Verbs, continued
 
 #### Resources and Readings
 {: .no_toc }
-* [Slideshow - W 3/20](#) [Link TBD]
+* [Slideshow - W 3/20](https://docs.google.com/presentation/d/126YdqIUkUqIWEMYU6L6VoPYYIAWnwYOqQjmmfRCBZis/edit?usp=sharing)
 
 #### HW due by start of next class
 {: .no_toc }
