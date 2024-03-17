@@ -89,18 +89,6 @@ parent: Reference
 | 2nd pl. | ἵστατε | ἵστασθε |
 | 3rd pl. | ἱστᾶσι(ν) | ἵστανται |
 
-#### Aorist Tense
-{: .no_toc }
-
-| | 1st Aorist Transitive | Athematic Intransitive |
-| ----- | ----- | ----- |
-| 1st sg. | ἔστησα | ἔστην |
-| 2nd sg. | ἔστησας | ἔστης |
-| 3rd sg. | ἔστησε(ν) | ἔστη |
-| 1st pl. | ἐστήσαμεν | ἔστημεν |
-| 2nd pl. | ἐστήσατε | ἔστητε |
-| 3rd pl. | ἔστησαν | ἔστησαν |
-
 ### δίδωμι
 
 #### Present Tense
@@ -114,18 +102,6 @@ parent: Reference
 | 1st pl. | δίδομεν | διδόμεθα |
 | 2nd pl. | δίδοτε | δίδοσθε |
 | 3rd pl. | διδόασι(ν) | δίδονται |
-
-#### Aorist Tense
-{: .no_toc }
-
-| | Aorist Active | Aorist Middle |
-| ----- | ----- | ----- |
-| 1st sg. | ἔδωκα | ἐδόμην |
-| 2nd sg. | ἔδωκας | ἔδου |
-| 3rd sg. | ἔδωκε(ν) | ἔδοτο |
-| 1st pl. | ἔδομεν | ἐδόμεθα |
-| 2nd pl. | ἔδοτε | ἔδοσθε |
-| 3rd pl. | ἔδοσαν | ἔδοντο |
 
 ### τίθημι
 
@@ -141,18 +117,6 @@ parent: Reference
 | 2nd pl. | τίθετε | τίθεσθε |
 | 3rd pl. | τιθέασι(ν) | τίθενται |
 
-#### Aorist Tense
-{: .no_toc }
-
-| | Aorist Active | Aorist Middle |
-| ----- | ----- | ----- |
-| 1st sg. | ἔθηκα | ἐθέμην |
-| 2nd sg. | ἔθηκας | ἔθου |
-| 3rd sg. | ἔθηκε(ν) | ἔθετο |
-| 1st pl. | ἔθεμεν | ἐθέμεθα |
-| 2nd pl. | ἔθετε | ἔθεσθε |
-| 3rd pl. | ἔθεσαν | ἔθεντο |
-
 ### ἵημι
 
 #### Present Tense
@@ -166,15 +130,3 @@ parent: Reference
 | 1st pl. | ἵεμεν | ἱέμεθα |
 | 2nd pl. | ἵετε | ἵεσθε |
 | 3rd pl. | ἱᾶσι(ν) | ἵενται |
-
-#### Aorist Tense
-{: .no_toc }
-
-| | Aorist Active | Aorist Middle |
-| ----- | ----- | ----- |
-| 1st sg. | -ἧκα | -εἵμην |
-| 2nd sg. | -ἧκας | -εἷσο |
-| 3rd sg. | -ἧκε(ν) | -εἷτο |
-| 1st pl. | -εἷμεν | -εἵμεθα |
-| 2nd pl. | -εἷτε | -εἷσθε |
-| 3rd pl. | -εἷσαν | -εἷντο |

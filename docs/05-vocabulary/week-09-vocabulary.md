@@ -12,8 +12,3 @@ parent: Vocabulary
 {: .no_toc }
 
 * ἐπεί or ἐπειδή - [after, when, since](https://logeion.uchicago.edu/ἐπεί)
-
-## Pronouns
-{: .no_toc }
-
-* ὅς, ἥ, ὅ - [who(m), which, that](https://logeion.uchicago.edu/ὅς) (relative pronoun)

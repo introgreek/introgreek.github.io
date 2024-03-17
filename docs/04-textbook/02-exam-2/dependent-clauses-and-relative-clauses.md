@@ -1,13 +1,13 @@
 ---
 layout: page
-title: Dependent Clauses and Relative Clauses
-permalink: /textbook/exam-2/dependent-clauses-and-relative-clauses
+title: Dependent Clauses
+permalink: /textbook/exam-2/dependent-clauses
 nav_order: 6
 parent: 02 - Exam 2
 grand_parent: Textbook
 ---
 
-# Dependent Clauses and Relative Clauses
+# Dependent Clauses
 {: .no_toc }
 
 ## Table of contents
@@ -30,7 +30,7 @@ The dependent clause in this sentence, "when the sun set", begins with a subordi
 
 we would be left wondering, what happened when the sun set? The idea is incomplete, and we need the context of the **main or independent clause**, "we ate dinner", to form a full sentence. The dependent clause answers a question posed by the main clause or some element of the main clause, like "when did it happen?" or "which noun are we talking about?"
 
-This unit will discuss two specific kinds of subordinate / dependent clause in Greek: a **temporal clause** indicates *when* the action of a main verb occurs, and the **relative clause** functions adjectivally to give us more information about a noun, answering the question "which noun specifically are we discussing?"
+This unit will discuss two specific kinds of subordinate / dependent clauses in Greek: a **temporal clause** indicates *when* the action of a main verb occurs, and the **relative clause** functions adjectivally to give us more information about a noun, answering the question "which noun specifically are we discussing?"
 
 ***
 

@@ -514,13 +514,13 @@ Core Four -μι Verbs, continued
 
 ### Thursday, March 21
 {: .no_toc }
-Dependent Clauses and Relative Clauses
+Dependent Clauses: Temporal Clauses
 * In class: Check-in 23
 
 #### Resources and Readings
 {: .no_toc }
-* [Slideshow - R 3/21](#) [Link TBD]
-* [Relative Clauses](../textbook/exam-2/dependent-clauses-and-relative-clauses)
+* [Slideshow - R 3/21](https://docs.google.com/presentation/d/1p48R4WoKpuAlgl5BsSiRnB50cAfBIUSIsE-MnxoVz7o/edit?usp=sharing)
+* [Dependent Clauses](../textbook/exam-2/dependent-clauses)
 
 #### HW due by start of next class
 {: .no_toc }
@@ -542,13 +542,13 @@ Dependent Clauses and Relative Clauses
 
 ### Monday, March 25
 {: .no_toc }
-Relative Clauses continued
+Dependent Clauses: Relative Clauses
 * In class: Check-in 24
 
 #### Resources and Readings
 {: .no_toc }
-* [Slideshow - M 3/25](#) [Link TBD]
-* [Relative Clauses](../textbook/exam-2/dependent-clauses-and-relative-clauses)
+* [Slideshow - M 3/25](https://docs.google.com/presentation/d/1p48R4WoKpuAlgl5BsSiRnB50cAfBIUSIsE-MnxoVz7o/edit?usp=sharing)
+* [Dependent Clauses](../textbook/exam-2/dependent-clauses)
 
 #### HW due by start of next class
 {: .no_toc }
