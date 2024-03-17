@@ -654,6 +654,22 @@ Translate the following sentences into Greek, using the compound verbs in the [W
 
 ## Homework 24 (Due M 3/25)
 
+In each of the following sentences, identify all of the words that belong to the temporal clause; then translate each sentence. For example:
+
+ὁ παῖς τοὺς ἵππους ἀπὸ τῆς ὁδοῦ ἀφῆκεν ἐπεὶ αὐτοὺς ἔβλεψεν.  
+* temporal clause: ἐπεὶ αὐτοὺς ἔβλεψεν
+* translation: The child sent the horses away from the road after he saw them.
+
+1. ὁ μαθητὴς, ἐπεὶ τὰ βιβλία ἤνεγκεν, αὐτὰ τῷ ἄλλῳ μαθητῇ ἀπέδοτο.
+2. ἐπεὶ ὁ στρατηγὸς ἐκ τῆς οἰκίας ἦλθεν, τοῖς στρατιώταις εἶπεν.
+3. εὐδαίμονες οἱ πολῖται ἐπεὶ ὁ οἶνος ἐμίγη.
+
+[Answer key here](answer-key#homework-24-due-m-325).
+
+***
+
+## Homework 25 (Due W 3/27)
+
 Identify all the words that belong to the relative clause in each of the following sentences, and indicate its antecedent; then translate each sentence. For example:
 
 οἱ στρατιῶται οἳ ἐν τῇ ὁδῷ ἦσαν ἀπὸ τῆς θαλάττης ἦλθον.
@@ -666,11 +682,11 @@ Identify all the words that belong to the relative clause in each of the followi
 3. ὁ διδάσκαλος οὗ τὸ βιβλίον οἱ μαθηταὶ ἔσχον αὐτοῖς ἔδωκεν.
 4. κακοὶ οἱ κόροι οἳ τοὺς λίθους ἔβαλον.
 
-[Answer key here](answer-key#homework-24-due-m-325).
+[Answer key here](answer-key#homework-25-due-w-327).
 
 ***
 
-## Homework 25 (Due W 3/27)
+## Homework 26 (Due W 4/3)
 
 Translate each of the following sentences into Greek.
 
@@ -678,14 +694,6 @@ Translate each of the following sentences into Greek.
 2. The girl who placed the gifts in the temple is small.
 3. The soldiers saw the evil man who did these things.
 4. The students listened to the words of the teacher who wrote the book.
-
-[Answer key here](answer-key#homework-25-due-w-327).
-
-***
-
-## Homework 26 (Due W 4/3)
-
-TBD
 
 [Answer key here](answer-key#homework-26-due-w-43).
 

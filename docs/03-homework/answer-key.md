@@ -924,6 +924,22 @@ The poem was given to the woman.
 
 ## Homework 24 (Due M 3/25)
 
+1. ὁ μαθητὴς, ἐπεὶ τὰ βιβλία ἤνεγκεν, αὐτὰ τῷ ἄλλῳ μαθητῇ ἀπέδοτο.  
+* temporal clause: ἐπεὶ τὰ βιβλία ἤνεγκεν  
+* translation: The student, after he brought the books, sold them to the other student.
+
+2. ἐπεὶ ὁ στρατηγὸς ἐκ τῆς οἰκίας ἦλθεν, τοῖς στρατιώταις εἶπεν.  
+* temporal clause: ἐπεὶ ὁ στρατηγὸς ἐκ τῆς οἰκίας ἦλθεν  
+* translation: When the general came out of the house, he spoke to the soldiers.
+
+3. εὐδαίμονες οἱ πολῖται ἐπεὶ ὁ οἶνος ἐμίγη.  
+* temporal clause: ἐπεὶ ὁ οἶνος ἐμίγη 
+* translation: The citizens were happy after the wine was mixed.
+
+***
+
+## Homework 25 (Due W 3/27)
+
 οἱ στρατιῶται οἳ ἐν τῇ ὁδῷ ἦσαν ἀπὸ τῆς θαλάττης ἦλθον.
 * relative clause: οἳ ἐν τῇ ὁδῷ ἦσαν
 * antecedent: στρατιῶται
@@ -951,7 +967,7 @@ The poem was given to the woman.
 
 ***
 
-## Homework 25 (Due W 3/27)
+## Homework 26 (Due W 4/3)
 
 1. The first person who saw the horses led them away from the road.  
 ὁ πρῶτος ὃς τοὺς ἵππους ἔβλεψεν αὐτοὺς ἀπὸ τῆς ὁδοῦ ἤγαγεν.
@@ -964,12 +980,6 @@ The poem was given to the woman.
 
 4. The students listened to the words of the teacher who wrote the book.  
 οἱ μαθηταὶ τοὺς λόγους τοὺς τοῦ διδασκάλου ὃς τὸ βιβλίον ἔγραψεν ἤκουσαν.
-
-***
-
-## Homework 26 (Due W 4/3)
-
-TBD
 
 ***
 

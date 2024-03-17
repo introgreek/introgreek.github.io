@@ -8,6 +8,11 @@ parent: Vocabulary
 
 # Week 9 Vocabulary
 
+## Subordinating Conjunctions
+{: .no_toc }
+
+* ἐπεί or ἐπειδή - [after, when, since](https://logeion.uchicago.edu/ἐπεί)
+
 ## Pronouns
 {: .no_toc }
 
