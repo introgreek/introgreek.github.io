@@ -717,7 +717,37 @@ As you worked through Exam 2 and workshopped it in class today, what do you feel
 
 ## Homework 29 (Due W 4/10)
 
-TBD
+### Part 1
+{: .no_toc }
+
+Form the requested infinitive from the given verb.
+
+1. ἀδικέω -> present active
+2. ἄγω -> aorist middle
+3. ἔχω -> aorist passive
+4. δίδωμι -> present active
+5. μείγνυμι -> present middle/passive
+6. αἰρέω -> present middle/passive
+7. ἵστημι -> aorist active (transitive)
+8. γράφω -> aorist active
+9. λαμβάνω -> aorist passive
+10. ἀκούω -> present active
+
+## Part 2
+{: .no_toc }
+
+Identify the tense and voice of the following infinitives, and indicate the infinitive's first principal part.
+
+1. ἑλέσθαι
+2. λέγειν
+3. δεῖξαι
+4. λαβεῖν
+5. ἀφεῖναι 
+6. ἐνεχθῆναι
+7. ἀκούσασθαι
+8. λέγεσθαι
+9. μειγνύναι
+10. θέσθαι
 
 [Answer key here](answer-key#homework-29-due-w-410).
 
@@ -741,7 +771,23 @@ TBD
 
 ## Homework 32 (Due W 4/17)
 
-TBD
+Identify the **voice** and then the **gender, case, and number** of each of the following present tense participles. If there are multiple possibilities, list them.
+
+1. λυόμενοι
+2. αἱροῦντας
+3. δεικνῦσα
+4. μειγνυμένων
+5. ποιουμέναις
+6. κελεῦον
+7. γράφοντα
+8. μειγνῦντος
+9. πέμπουσιν
+10. κρυπτομένοις
+11. ἱστάσῃ
+12. τιθέμενον
+13. ἱέντα
+14. διδούς
+15. ἱσταμένῳ
 
 [Answer key here](answer-key#homework-32-due-w-417).
 

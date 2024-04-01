@@ -997,7 +997,73 @@ Answers will vary.
 
 ## Homework 29 (Due W 4/10)
 
-TBD
+### Part 1
+{: .no_toc }
+
+1. ἀδικέω -> present active  
+ἀδικεῖν
+
+2. ἄγω -> aorist middle  
+ἀγαγεῖν
+
+3. ἔχω -> aorist passive  
+σχεθῆναι
+
+4. δίδωμι -> present active  
+διδόναι
+
+5. μείγνυμι -> present middle/passive  
+μείγνυσθαι
+
+6. αἰρέω -> present middle/passive  
+αἱρεῖσθαι
+
+7. ἵστημι -> aorist active (transitive)  
+στῆσαι
+
+8. γράφω -> aorist active  
+γράψαι
+
+9. λαμβάνω -> aorist passive  
+ληφθῆναι
+
+10. ἀκούω -> present active  
+ἀκούειν
+
+## Part 2
+{: .no_toc }
+
+Identify the tense and voice of the following infinitives, and indicate the infinitive's first principal part.
+
+1. ἑλέσθαι  
+aorist middle - αἱρέω
+
+2. λέγειν  
+present active - λέγω
+
+3. δεῖξαι  
+aorist active - δείκνυμι
+
+4. λαβεῖν  
+aorist active - λαμβάνω
+
+5. ἀφεῖναι  
+aorist active - ἀφίημι
+
+6. ἐνεχθῆναι  
+aorist passive - φέρω
+
+7. ἀκούσασθαι  
+aorist middle - ἀκούω
+
+8. λέγεσθαι  
+present middle/passive - λέγω
+
+9. μειγνύναι  
+present active - μείγνυμι
+
+10. θέσθαι  
+aorist middle - τίθημι
 
 ***
 
@@ -1015,7 +1081,50 @@ TBD
 
 ## Homework 32 (Due W 4/17)
 
-TBD
+1. λυόμενοι  
+middle/passive - masculine nominative plural
+
+2. αἱροῦντας  
+active - masculine accusative plural
+
+3. δεικνῦσα  
+active - feminine nominative singular
+
+4. μειγνυμένων  
+middle/passive - masc./fem./neut. genitive plural
+
+5. ποιουμέναις  
+middle/passive - feminine dative plural
+
+6. κελεῦον  
+active - neuter nom./acc. plural
+
+7. γράφοντα  
+active - masculine accusative singular *OR* neuter nom./acc. plural
+
+8. μειγνῦντος  
+active - masc. / neut. genitive singular
+
+9. πέμπουσιν  
+active - masc. / neut. dative plural
+
+10. κρυπτομένοις  
+middle/passive - masc. / neut. dative plural
+
+11. ἱστάσῃ  
+active - feminine dative singular
+
+12. τιθέμενον  
+middle/pasive - masculine accusative singular *OR* neuter nom. / acc. singular
+
+13. ἱέντα  
+active - masculine accusative singular *OR* neuter nom. / acc. plural
+
+14. διδούς  
+active - masculine nominative singular
+
+15. ἱσταμένῳ  
+middle/passive - masc. / neut. dative singular
 
 ***
 
