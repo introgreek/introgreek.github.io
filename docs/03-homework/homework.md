@@ -701,7 +701,7 @@ Translate each of the following sentences into Greek.
 
 ## Homework 27 (Due R 4/4)
 
-TBD
+As you worked through Exam 2 and workshopped it in class today, what was particularly difficult in terms of the concepts that you needed to draw on? Put differently, what do you think you need more practice with?
 
 [Answer key here](answer-key#homework-27-due-r-44).
 
@@ -709,7 +709,7 @@ TBD
 
 ## Homework 28 (Due M 4/8)
 
-TBD
+As you worked through Exam 2 and workshopped it in class today, what do you feel particularly confident about? How did you come to feel confident about it, and how can you use that to shore up what you discussed in your last homework assignment?
 
 [Answer key here](answer-key#homework-28-due-m-48).
 

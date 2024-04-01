@@ -985,13 +985,13 @@ The poem was given to the woman.
 
 ## Homework 27 (Due R 4/4)
 
-TBD
+Answers will vary.
 
 ***
 
 ## Homework 28 (Due M 4/8)
 
-TBD
+Answers will vary.
 
 ***
 

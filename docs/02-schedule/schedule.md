@@ -588,13 +588,12 @@ Review / Catch Up
 
 ### Wednesday, April 3
 {: .no_toc }
-Infinitive Overview and Formation
+Exam 2 Workshop
 * In class: Check-in 26
 
 #### Resources and Readings
 {: .no_toc }
-* [Slideshow - W 4/3](#) [Link TBD]
-* [###](../textbook/subjunctive/imperative-mood)
+* no slideshow
 
 #### HW due by start of next class
 {: .no_toc }
@@ -604,13 +603,12 @@ Infinitive Overview and Formation
 
 ### Thursday, April 4
 {: .no_toc }
-Infinitive Uses
+Exam 2 Workshop
 * In class: Check-in 27
 
 #### Resources and Readings
 {: .no_toc }
-* [Slideshow - R 4/4](#) [Link TBD]
-* [###](../textbook/subjunctive/subjunctive-overview-and-formation)
+* no slideshow
 
 #### HW due by start of next class
 {: .no_toc }
@@ -630,7 +628,7 @@ Infinitive Uses
 
 ### Monday, April 8
 {: .no_toc }
-Participle Overview
+Infinitive Overview and Formation
 * In class: Check-in 28
 
 #### Resources and Readings
@@ -646,7 +644,7 @@ Participle Overview
 
 ### Wednesday, April 10
 {: .no_toc }
-Participle Formation: Present and Future
+Infinitive Uses
 * In class: Check-in 29
 
 #### Resources and Readings
@@ -662,7 +660,7 @@ Participle Formation: Present and Future
 
 ### Thursday, April 11
 {: .no_toc }
-Participle Formation: Aorist
+Participle Overview
 * In class: Check-in 30
 
 #### Resources and Readings
@@ -690,7 +688,7 @@ Participle Formation: Aorist
 
 ### Monday, April 15
 {: .no_toc }
-Attributive Participles
+Participle Formation: Present
 * In class: Check-in 31
 
 #### Resources and Readings
@@ -706,7 +704,7 @@ Attributive Participles
 
 ### Wednesday, April 17
 {: .no_toc }
-Complementary Participles
+Participle Formation: Aorist
 * In class: Check-in 32
 
 #### Resources and Readings
@@ -722,7 +720,7 @@ Complementary Participles
 
 ### Thursday, April 18
 {: .no_toc }
-Indirect Statement
+Attributive Participles
 * In class: Check-in 33
 
 #### Resources and Readings
@@ -750,7 +748,7 @@ Indirect Statement
 
 ### Monday, April 22
 {: .no_toc }
-Circumstantial Participles
+Complementary Participles
 * In class: Check-in 34
 
 #### Resources and Readings
@@ -766,7 +764,7 @@ Circumstantial Participles
 
 ### Wednesday, April 24
 {: .no_toc }
-Genitive Absolute
+Indirect Statement
 * In class: Check-in 35
 
 #### Resources and Readings
@@ -782,7 +780,7 @@ Genitive Absolute
 
 ### Thursday, April 25
 {: .no_toc }
-Review / Catch Up
+Circumstantial Participles and Genitive Absolute
 * In class: Check-in 36
 
 #### Resources and Readings
