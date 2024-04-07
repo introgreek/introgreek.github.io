@@ -633,8 +633,8 @@ Infinitive Overview and Formation
 
 #### Resources and Readings
 {: .no_toc }
-* [Slideshow - M 4/8](#) [Link TBD]
-* [###](../textbook/subjunctive/subjunctive-overview-and-formation)
+* [Slideshow - M 4/8](https://docs.google.com/presentation/d/1A10OfXxOfO9-YLhqkoXfblAdFsuHWpV3Yh17crR2WyU/edit?usp=sharing)
+* [Infinitive Formation](../textbook/exam-3/infinitive-formation)
 
 #### HW due by start of next class
 {: .no_toc }
@@ -650,7 +650,7 @@ Infinitive Uses
 #### Resources and Readings
 {: .no_toc }
 * [Slideshow - W 4/10](#) [Link TBD]
-* [###](../textbook/subjunctive/independent-subjunctives)
+* [Infinitive Uses](../textbook/exam-3/infinitive-uses)
 
 #### HW due by start of next class
 {: .no_toc }
@@ -660,7 +660,7 @@ Infinitive Uses
 
 ### Thursday, April 11
 {: .no_toc }
-Participle Overview
+Participle Overview and Formation: Present
 * In class: Check-in 30
 
 #### Resources and Readings
@@ -688,7 +688,7 @@ Participle Overview
 
 ### Monday, April 15
 {: .no_toc }
-Participle Formation: Present
+Participle Formation: Present (continued)
 * In class: Check-in 31
 
 #### Resources and Readings
@@ -764,7 +764,7 @@ Complementary Participles
 
 ### Wednesday, April 24
 {: .no_toc }
-Indirect Statement
+Circumstantial Participles
 * In class: Check-in 35
 
 #### Resources and Readings
@@ -780,7 +780,7 @@ Indirect Statement
 
 ### Thursday, April 25
 {: .no_toc }
-Circumstantial Participles and Genitive Absolute
+Genitive Absolute
 * In class: Check-in 36
 
 #### Resources and Readings

@@ -93,28 +93,22 @@ Whenever you're translating a participle, you must always think in terms of **du
 
 ## Complementary Participles
 
-**Complementary participles** complete the sense of a main verb that needs a complement. Although we've encountered this idea before with [complementary infinitives](infinitive-uses#complementary-infinitive), there are certain verbs that require a **participle** rather than an infinitive to complete them, like the two in the [Unit Vocabulary](#unit-vocabulary) above: ἄρχω, "to begin", and παύω, "to stop".
+**Complementary participles** complete the sense of a main verb that needs a complement. Although we've encountered this idea before with [complementary infinitives](infinitive-uses#complementary-infinitive), there are certain verbs that require a **participle** rather than an infinitive to complete them, like the two in the [Week 14 Vocabulary](../../vocabulary/week-14-vocabulary): ἄρχω, "to begin", and παύω, "to stop".
 
-Because the action in the participle will often be performed by or upon the subject of the sentence, it will often be in the **nominative** case.
+Because the action in the participle will often be performed by or upon the subject of the sentence, the participle will often be in the **nominative** case to match.
 
 * αἱ γυναῖκες ἄρχουσι **τὰ ὅπλα λαμβάνουσαι**. The women begin **taking the weapons**.
 * οἱ δικασταὶ ἐπαύσαντο\* **τοὺς τοῦ ἀδίκου λόγους ἀκούοντες**. The jurors stopped **listening to the unjust man's words**.
 
-\* Note that παύω has a strong difference in meaning depending on whether it is in the **active** or **middle** voice. In the **active**, it means "to stop [someone else, in the **accusative** case] from [participle]-ing". In the **middle**, though, it means "to stop [oneself, no extra words needed] [participle]-ing." So, note in how the example above, the jurors are stopping themselves from listening, rather than stopping anyone else from doing so.
+\* Note that παύω has a strong difference in meaning depending on whether it is in the **active** or **middle** voice. In the **active**, it means "to stop [someone else, in the **accusative** case] from [participle]-ing". In the **middle**, though, it means "to stop [oneself, no extra words needed] [participle]-ing." So, note in how the example above, the jurors are stopping themselves from listening, rather than stopping anyone else from doing so. If the sentence read:
 
-### Preview of Indirect Statement
+* οἱ δικασταὶ ἔπαυσαν **τὸν παῖδα** τοὺς τοῦ ἀδίκου λόγους **ἀκούοντα**.
 
-One special use of complementary participles is in a construction called **indirect statement**, in which someone's words or thoughts are expressed through the filter of a main verb that is performed with the head (verbs like "to say", "to think", "to know", "to hear", "to show", etc.). Here's an English example:
+the verb's action is transitive, meaning that the jurors actively caused someone else to stop listening:
 
-* The just person heard that the citizen had done evil things.
+* The jurors stopped **the child** from **listening to the unjust man's words**.
 
-The "that" clause is an **indirect statement**, the *direct* version of which would be "The citizen had done evil things." However, here, it is a subordinate clause that depends on the main clause, "The just person heard."
-
-There are three ways to indicate an indirect statement in Greek, one of which is by using a **complementary participle** in the accusative case (with an accusative noun to serve as its actor or acted-upon if needed). Thus:
-
-* ὁ δίκαιος ἤκουσε **τὸν πολίτην κακὰ ποιήσαντα**.
-
-We will explore this construction in much more detail in the next chapter, when we'll tackle all three methods of indirect statement at the same time.
+Note also that the participle now matches **τὸν παῖδα** (masculine accusative singular), to indicate who is being stopped from listening.
 
 ***
 

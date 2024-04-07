@@ -17,11 +17,7 @@ If you are looking for the 2021-2022 version of the textbook that was used in GR
 
 ## Next Deadlines
 
-### Due Wednesday April 3 at 12pm
+### Due Monday April 8 at 12:30pm
 
-* [Homework 26](/homework/homework#homework-26-due-w-43)
-* Exam 2 (distributed in class)
-
-### Due Thursday April 4 at 12:30pm
-
-* [Homework 27](/homework/homework#homework-27-due-r-44)
+* [Homework 28](/homework/homework#homework-28-due-m-48)
+* Exam 2

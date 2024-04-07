@@ -73,7 +73,7 @@ Note that the core four -μι verbs (δίδωμι, τίθημι, ἵημι, �
 
 Also, note that the present active infinitive of the verb **εἰμί** is **εἶναι** ("to be").
 
-### Aorist Infinitives and De-Augmenting
+### Aorist Infinitives and Un-Augmenting
 
 Aorist infinitives are built either off the 3rd principal part (for active and middle infinitives) or the 6th principal part (for passive infinitives). Like their present tense counterparts, the formation of an aorist infinitive is basically the combination of an appropriate stem with an appropriate ending for the desired tense-voice combination.
 
