@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Participle Overview and Formation
-permalink: /textbook/exam-3/participle-overview-and-formation
+permalink: /textbook/exam-3/participle-formation
 nav_order: 3
 parent: 03 - Exam 3
 grand_parent: Textbook

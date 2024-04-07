@@ -666,7 +666,7 @@ Participle Overview and Formation: Present
 #### Resources and Readings
 {: .no_toc }
 * [Slideshow - R 4/11](#) [Link TBD]
-* [###](../textbook/subjunctive/sequence-of-tenses)
+* [Participle Formation](../textbook/exam-3/participle-formation)
 
 #### HW due by start of next class
 {: .no_toc }
@@ -694,7 +694,7 @@ Participle Formation: Present (continued)
 #### Resources and Readings
 {: .no_toc }
 * [Slideshow - M 4/15](#) [Link TBD]
-* [###](../textbook/subjunctive/circumstantial-causal-concessive)
+* [Participle Formation](../textbook/exam-3/participle-formation)
 
 #### HW due by start of next class
 {: .no_toc }
@@ -710,7 +710,7 @@ Participle Formation: Aorist
 #### Resources and Readings
 {: .no_toc }
 * [Slideshow - W 4/17](#) [Link TBD]
-* [###](../textbook/subjunctive/purpose-clauses)
+* [Participle Formation](../textbook/exam-3/participle-formation)
 
 #### HW due by start of next class
 {: .no_toc }
@@ -726,7 +726,7 @@ Attributive Participles
 #### Resources and Readings
 {: .no_toc }
 * [Slideshow - R 4/18](#) [Link TBD]
-* [###](../textbook/subjunctive/purpose-clauses)
+* [Participle Uses](../textbook/exam-3/participle-uses)
 
 #### HW due by start of next class
 {: .no_toc }
@@ -754,7 +754,7 @@ Complementary Participles
 #### Resources and Readings
 {: .no_toc }
 * [Slideshow - M 4/22](#) [Link TBD]
-* [###](../textbook/subjunctive/conditions)
+* [Participle Uses](../textbook/exam-3/participle-uses)
 
 #### HW due by start of next class
 {: .no_toc }
@@ -770,7 +770,7 @@ Circumstantial Participles
 #### Resources and Readings
 {: .no_toc }
 * [Slideshow - W 4/24](#) [Link TBD]
-* [###](../textbook/subjunctive/conditions)
+* [Participle Uses](../textbook/exam-3/participle-uses)
 
 #### HW due by start of next class
 {: .no_toc }
@@ -786,6 +786,7 @@ Genitive Absolute
 #### Resources and Readings
 {: .no_toc }
 * [Slideshow - R 4/25](#) [Link TBD]
+* [Participle Uses](../textbook/exam-3/participle-uses)
 
 #### HW due by start of next class
 {: .no_toc }
