@@ -755,7 +755,17 @@ Identify the tense and voice of the following infinitives, and indicate the infi
 
 ## Homework 30 (Due R 4/11)
 
-TBD
+Each of the following sentences contains an infinitive. Identify the **infinitive**, its **tense and voice** and whether it's being used as a **subjective or complementary infinitive**, and then translate the sentence. For example:
+
+δεῖ τὸν παῖδα τὴν οἰκίαν βλέψαι.  
+**βλέψαι - aorist active - subjective  
+It is necessary for the child to see the house.** 
+
+1. μέγας ὁ ἵππος ὃς ἔρχεσθαι εἰς τὴν ὁδὸν ἐθέλει.
+2. χρὴ τοὺς στρατιώτας τοῖς ἐχθροῖς ἐπιτιθέσθαι.
+3. ὁ μαθητὴς τὰ βιβλία ἀποδοσθαι οὐ δύναται.
+4. οἱ πολῖται εὐδαίμονες εἶναι ἐθέλουσιν.
+5. ἔξεστι τῇ κόρῃ τῇ σώφρονι ἐκεῖνα τὰ δῶρα λαβεῖν.
 
 [Answer key here](answer-key#homework-30-due-r-411).
 

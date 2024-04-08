@@ -1069,7 +1069,25 @@ aorist middle - τίθημι
 
 ## Homework 30 (Due R 4/11)
 
-TBD
+1. μέγας ὁ ἵππος ὃς ἔρχεσθαι εἰς τὴν ὁδὸν ἐθέλει.  
+ἔρχεσθαι - present middle/passive (deponent) - complementary  
+The horse that wants to go into the road is large.
+
+2. χρὴ τοὺς στρατιώτας τοῖς ἐχθροῖς ἐπιτίθεσθαι.  
+ἐπιτίθεσθαι - present middle - subjective  
+It is necessary for the soldiers to attack the enemies.
+
+3. ὁ μαθητὴς τὰ βιβλία ἀποδόσθαι οὐ δύναται.  
+ἀποδόσθαι - aorist middle - complementary  
+The student is not able to sell the books.
+
+4. οἱ πολῖται εὐδαίμονες εἶναι ἐθέλουσιν.  
+εἶναι - present active - complementary  
+The citizens wish to be happy.
+
+5. ἔξεστι τῇ κόρῃ τῇ σώφρονι ἐκεῖνα τὰ δῶρα λαβεῖν.  
+λαβεῖν - aorist active - subjective  
+It is possible for the wise girl to take those gifts.
 
 ***
 
