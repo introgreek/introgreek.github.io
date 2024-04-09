@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Week 9 Paradigms
-permalink: /reference/week-09-paradigms
-nav_order: 14
+title: Week 10 Paradigms
+permalink: /reference/week-10-paradigms
+nav_order: 15
 parent: Reference
 ---
 

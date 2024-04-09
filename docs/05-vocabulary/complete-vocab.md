@@ -113,6 +113,7 @@ parent: Vocabulary
 * ἔξεστι(ν) - [it is possible](https://logeion.uchicago.edu/ἔξεστι)
 * ἐπεί or ἐπειδή - [after, when, since](https://logeion.uchicago.edu/ἐπεί)
 * ἐπί - [on, upon](https://logeion.uchicago.edu/ἐπί)
+* ἐπιστολή, -ῆς, f. - [letter](https://logeion.uchicago.edu/ἐπιστολή)
 * ἐπιτίθημι (ἐπί + τίθημι), ἐπιθήσω, ἐπέθηκα, ἐπιτέθηκα, ἐπιτέθειμαι, ἐπετέθην - [to place upon; (middle voice) to attack (+ dative)](https://logeion.uchicago.edu/ἐπιτίθημι)
 * ἑπτά - [seven](https://logeion.uchicago.edu/ἑπτά) (indeclinable)
 * ἔρχομαι, ἐλεύσομαι, ἦλθον, ἐλήλυθα, --, -- - [to come, to go](https://logeion.uchicago.edu/ἔρχομαι)

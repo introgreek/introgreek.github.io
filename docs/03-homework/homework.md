@@ -755,17 +755,17 @@ Identify the tense and voice of the following infinitives, and indicate the infi
 
 ## Homework 30 (Due R 4/11)
 
-Each of the following sentences contains an infinitive. Identify the **infinitive**, its **tense and voice** and whether it's being used as a **subjective or complementary infinitive**, and then translate the sentence. For example:
+Each of the following sentences contains a **subjective infinitive**. Identify the **infinitive** and its **tense and voice**, and then translate the sentence. For example:
 
 δεῖ τὸν παῖδα τὴν οἰκίαν βλέψαι.  
-**βλέψαι - aorist active - subjective  
+**βλέψαι - aorist active  
 It is necessary for the child to see the house.** 
 
-1. μέγας ὁ ἵππος ὃς ἔρχεσθαι εἰς τὴν ὁδὸν ἐθέλει.
+1. τοῖς μαθηταῖς ἐνεγκέσθαι τὰ βιβλία πρέπει.
 2. χρὴ τοὺς στρατιώτας τοῖς ἐχθροῖς ἐπιτιθέσθαι.
-3. ὁ μαθητὴς τὰ βιβλία ἀποδοσθαι οὐ δύναται.
-4. οἱ πολῖται εὐδαίμονες εἶναι ἐθέλουσιν.
-5. ἔξεστι τῇ κόρῃ τῇ σώφρονι ἐκεῖνα τὰ δῶρα λαβεῖν.
+3. τὰς μακρὰς ἐπιστολὰς γράψαι δεῖ.
+4. ἔξεστι τῇ κόρῃ τῇ σώφρονι ἐκεῖνα τὰ δῶρα λαβεῖν.
+5. δοκεῖ τὰ δῶρα μὴ κρύπτειν.
 
 [Answer key here](answer-key#homework-30-due-r-411).
 
@@ -773,7 +773,13 @@ It is necessary for the child to see the house.**
 
 ## Homework 31 (Due M 4/15)
 
-TBD
+Each of the following sentences contains a **complementary infinitive** or an **infinitive used as the object of a preposition**. Identify the **infinitive** and its **tense and voice**, and then translate the sentence.
+
+1. μέγας ὁ ἵππος ὃς ἔρχεσθαι εἰς τὴν ὁδὸν ἐθέλει.
+2. ὁ μαθητὴς τὰ βιβλία ἀποδοσθαι οὐ δύναται.
+3. οἱ πολῖται εὐδαίμονες εἶναι ἐθέλουσιν.
+4. ὁ στρατηγὸς τὸ τοὺς στρατιώτας ἐκ τῆς οἰκίας ἐλθεῖν ἐκέλευσεν.
+5. διὰ τὸ ἐκείνους τοὺς κάκους λόγους ἀκούειν, οἱ παῖδες ἐφοβήσαντο.
 
 [Answer key here](answer-key#homework-31-due-m-415).
 

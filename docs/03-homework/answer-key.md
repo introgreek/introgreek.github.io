@@ -1069,31 +1069,50 @@ aorist middle - τίθημι
 
 ## Homework 30 (Due R 4/11)
 
-1. μέγας ὁ ἵππος ὃς ἔρχεσθαι εἰς τὴν ὁδὸν ἐθέλει.  
-ἔρχεσθαι - present middle/passive (deponent) - complementary  
-The horse that wants to go into the road is large.
+1. τοῖς μαθηταῖς ἐνεγκέσθαι τὰ βιβλία πρέπει.  
+ἐνεγκέσθαι - aorist middle  
+It is fitting for the students to carry the books.
 
 2. χρὴ τοὺς στρατιώτας τοῖς ἐχθροῖς ἐπιτίθεσθαι.  
-ἐπιτίθεσθαι - present middle - subjective  
+ἐπιτίθεσθαι - present middle  
 It is necessary for the soldiers to attack the enemies.
 
-3. ὁ μαθητὴς τὰ βιβλία ἀποδόσθαι οὐ δύναται.  
-ἀποδόσθαι - aorist middle - complementary  
-The student is not able to sell the books.
+3. τὰς μακρὰς ἐπιστολὰς γράψαι δεῖ.  
+γράψαι - aorist active  
+It is necessary to write the long letters.
 
-4. οἱ πολῖται εὐδαίμονες εἶναι ἐθέλουσιν.  
-εἶναι - present active - complementary  
-The citizens wish to be happy.
-
-5. ἔξεστι τῇ κόρῃ τῇ σώφρονι ἐκεῖνα τὰ δῶρα λαβεῖν.  
-λαβεῖν - aorist active - subjective  
+4. ἔξεστι τῇ κόρῃ τῇ σώφρονι ἐκεῖνα τὰ δῶρα λαβεῖν.  
+λαβεῖν - aorist active  
 It is possible for the wise girl to take those gifts.
+
+5. δοκεῖ τὰ δῶρα μὴ κρύπτειν.  
+κρύπτειν - present active  
+It seems best not to hide the gifts.
 
 ***
 
 ## Homework 31 (Due M 4/15)
 
-TBD
+1. μέγας ὁ ἵππος ὃς ἔρχεσθαι εἰς τὴν ὁδὸν ἐθέλει.  
+ἔρχεσθαι - present middle/passive (deponent)  
+The horse that wants to go into the road is large.
+
+2. ὁ μαθητὴς τὰ βιβλία ἀποδόσθαι οὐ δύναται.  
+ἀποδόσθαι - aorist middle 
+The student is not able to sell the books.
+
+3. οἱ πολῖται εὐδαίμονες εἶναι ἐθέλουσιν.  
+εἶναι - present active  
+The citizens wish to be happy.
+
+4. ὁ στρατηγὸς τὸ τοὺς στρατιώτας ἐκ τῆς οἰκίας ἐλθεῖν ἐκέλευσεν.  
+ἐλθεῖν - aorist active  
+The general ordered the soldiers to come out of the house.
+
+5. διὰ τὸ ἐκείνους τοὺς κάκους λόγους ἀκούειν, οἱ παῖδες ἐφοβήσαντο.  
+ἀκούειν - present active  
+Because of hearing those bad words, the children were afraid.  
+OR Because they heard those bad words, the children were afraid. (etc.)
 
 ***
 
