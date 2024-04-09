@@ -644,12 +644,12 @@ Infinitive Overview and Formation
 
 ### Wednesday, April 10
 {: .no_toc }
-Infinitive Uses
+Infinitive Uses 1
 * In class: Check-in 29
 
 #### Resources and Readings
 {: .no_toc }
-* [Slideshow - W 4/10](#) [Link TBD]
+* [Slideshow - W 4/10](https://docs.google.com/presentation/d/1pztJ30tALzlJGlMqpaCfrvQh5nPwFF-5KMQpqU0iN6s/edit?usp=sharing)
 * [Infinitive Uses](../textbook/exam-3/infinitive-uses)
 
 #### HW due by start of next class
@@ -660,13 +660,13 @@ Infinitive Uses
 
 ### Thursday, April 11
 {: .no_toc }
-Participle Overview and Formation: Present
+Infinitive Uses 2
 * In class: Check-in 30
 
 #### Resources and Readings
 {: .no_toc }
-* [Slideshow - R 4/11](#) [Link TBD]
-* [Participle Formation](../textbook/exam-3/participle-formation)
+* [Slideshow - R 4/11](https://docs.google.com/presentation/d/1pztJ30tALzlJGlMqpaCfrvQh5nPwFF-5KMQpqU0iN6s/edit?usp=sharing)
+* [Infinitive Uses](../textbook/exam-3/infinitive-uses)
 
 #### HW due by start of next class
 {: .no_toc }
@@ -688,7 +688,7 @@ Participle Overview and Formation: Present
 
 ### Monday, April 15
 {: .no_toc }
-Participle Formation: Present (continued)
+Participle Formation: Present
 * In class: Check-in 31
 
 #### Resources and Readings
