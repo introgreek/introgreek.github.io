@@ -693,7 +693,7 @@ Participle Formation: Present
 
 #### Resources and Readings
 {: .no_toc }
-* [Slideshow - M 4/15](#) [Link TBD]
+* [Slideshow - M 4/15](https://docs.google.com/presentation/d/1jqTISW_2G_ixFNnR4IeCKFn7HDce2cLq1lBwugwLJfM/edit?usp=drive_link)
 * [Participle Formation](../textbook/exam-3/participle-formation)
 
 #### HW due by start of next class
@@ -709,7 +709,7 @@ Participle Formation: Aorist
 
 #### Resources and Readings
 {: .no_toc }
-* [Slideshow - W 4/17](#) [Link TBD]
+* [Slideshow - W 4/17](https://docs.google.com/presentation/d/1JcVKpFkveBVkcEgOotLlI3cgBukO7GB8UwWU7qhNywE/edit?usp=drive_link)
 * [Participle Formation](../textbook/exam-3/participle-formation)
 
 #### HW due by start of next class
@@ -725,7 +725,7 @@ Attributive Participles
 
 #### Resources and Readings
 {: .no_toc }
-* [Slideshow - R 4/18](#) [Link TBD]
+* [Slideshow - R 4/18](https://docs.google.com/presentation/d/1ugyy6TE7fQ1ltVT6ebHCdPDdGUIoNrdbFN4WK0jTh1A/edit?usp=drive_link)
 * [Participle Uses](../textbook/exam-3/participle-uses)
 
 #### HW due by start of next class
