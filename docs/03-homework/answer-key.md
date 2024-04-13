@@ -1167,13 +1167,74 @@ middle/passive - masc. / neut. dative singular
 
 ## Homework 33 (Due R 4/18)
 
-TBD
+1. λυσάμενοι  
+middle - masculine nominative plural
+
+2. εἱλόντας  
+active - masculine accusative plural
+
+3. δείξασα  
+active - feminine nominative singular
+
+4. μιγέντων  
+passive - masc./fem./neut. genitive plural
+
+5. ποιηθείσαις  
+passive - feminine dative plural
+
+6. κελεῦσαν  
+active - neuter nom./acc. singular
+
+7. γράψαντα  
+active - masc. acc. sg.; neut. nom. pl.; or neut. acc. pl.
+
+8. μείξαντος  
+active - masc./neut. genitive singular
+
+9. πέμψασιν  
+active - masc./neut. dative plural
+
+10. κρυφθέντι
+passive - masc./neut. dative singular
+
+11. στάσῃ  
+active - feminine dative singular
+
+12. θέμενον  
+middle - masc. acc. sg.; neut. nom. sg.; or neut. acc. sg.
+
+13. ἀφέντα  
+active - masc. acc. sg.; neut. nom. pl.; or neut. acc. pl.
+
+14. δούς  
+active - masculine nominative singular
+
+15. σταμένῳ  
+middle - masc./neut. dative singular
 
 ***
 
 ## Homework 34 (Due M 4/22)
 
-TBD
+1. μέγα τὸ βιβλίον τὸ ὑπὸ τοῦ διδασκάλου γραφέν.  
+* γραφέν - aorist passive  
+* The book that was written by the teacher is large.
+
+2. οἱ τὰ δῶρα φέροντες ἐν τῷ ἱερῷ ἔθεσαν.  
+* φέροντες - present active  
+* The ones who were carrying the gifts placed [them] in the temple.
+
+3. ὁ στρατιώτης ὁ τὰ ὅπλα λαβὼν πρὸς τὸν στρατηγὸν ἤνεγκεν.  
+* λαβὼν - aorist active  
+* The soldier who had taken the weapons brought [them] to the general.
+
+4. οἱ πολῖται τῷ τὸν οἶνον μειγνῦντι εἶπον.  
+* μειγνῦντι - present active  
+* The citizens spoke to the one who was mixing the wine.
+
+5. ἡ σώφρων τοὺς ὑπὸ τῶν ἀνθρώπων ἀκουομένους λόγους ἔγραψεν.  
+* ἀκουομένους - present passive  
+* The wise woman wrote the words that were (being) heard by the people.
 
 ***
 

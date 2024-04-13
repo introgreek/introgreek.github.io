@@ -811,7 +811,23 @@ Identify the **voice** and then the **gender, case, and number** of each of the 
 
 ## Homework 33 (Due R 4/18)
 
-TBD
+Identify the **voice** and then the **gender, case, and number** of each of the following aorist tense participles. If there are multiple possibilities, list them.
+
+1. λυσάμενοι
+2. εἱλόντας
+3. δείξασα
+4. μιγέντων
+5. ποιηθείσαις
+6. κελεῦσαν
+7. γράψαντα
+8. μείξαντος
+9. πέμψασιν
+10. κρυφθέντι
+11. στάσῃ
+12. θέμενον
+13. ἀφέντα
+14. δούς
+15. σταμένῳ
 
 [Answer key here](answer-key#homework-33-due-r-418).
 
@@ -819,7 +835,17 @@ TBD
 
 ## Homework 34 (Due M 4/22)
 
-TBD
+Each of the following sentences contains an **attributive participle**. Indicate the participle, indicate its tense and voice, and then translate the sentence. For example:
+
+ὁ ὑπὸ τοῦ κόρου ἀγομένος ἵππος εἰς τὴν ὁδὸν ἦλθεν.  
+* ἀγομένος - present passive  
+* The horse that was (being) led by the boy came into the road.
+
+1. μέγα τὸ βιβλίον τὸ ὑπὸ τοῦ διδασκάλου γραφέν.
+2. οἱ τὰ δῶρα φέροντες ἐν τῷ ἱερῷ ἔθεσαν.
+3. ὁ στρατιώτης ὁ τὰ ὅπλα λαβὼν πρὸς τὸν στρατηγὸν ἤνεγκεν.
+4. οἱ πολῖται τῷ τὸν οἶνον μειγνῦντι εἶπον.
+5. ἡ σώφρων τοὺς ὑπὸ τῶν ἀνθρώπων ἀκουομένους λόγους ἔγραψεν. 
 
 [Answer key here](answer-key#homework-34-due-m-422).
 
