@@ -198,6 +198,7 @@ parent: Vocabulary
 * μήτηρ, μητρός, f. - [mother](https://logeion.uchicago.edu/μήτηρ)
 * μίκρος, μίκρα, μίκρον - [small](https://logeion.uchicago.edu/μίκρος)
 * μισέω, μισήσω, ἐμίσησα, μεμίσηκα, μεμίσημαι, ἐμισήθην - [to hate](https://logeion.uchicago.edu/μισέω)
+* μόνος, μόνη, μόνον - [alone, only](https://logeion.uchicago.edu/μόνος)
 
 
 ## ν
