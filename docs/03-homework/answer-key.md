@@ -1240,7 +1240,21 @@ middle - masc./neut. dative singular
 
 ## Homework 35 (Due W 4/24)
 
-TBD
+1. ὁ κόρος τὸν ἵππον εἰς τὴν ὁδὸν ἄγων ἦρξεν.  
+* ἄγων - masculine nominative singular
+* The boy began leading the horse into the road.
+
+2. οἱ στρατηγοὶ ἄρχουσι τὰ ὅπλα τοῖς στρατιώταις διδόντες.  
+* διδόντες - masculine nominative plural
+* The general begins giving the weapons to the soldiers.
+
+3. ἡ γυνὴ τὰ δῶρα ἐν τῷ ἱερῷ τιθεῖσα παύεται.  
+* τιθεῖσα - feminine nominative singular  
+* The woman stops placing the gifts in the temple.
+
+4. ἡ γυνὴ παύει τοὺς ἀνδρὰς τὰ δῶρα ἐν τῷ ἱερῷ τιθέντας.  
+* τιθέντας - masculine accusative plural  
+* The woman stops the men from placing the gifts in the temple.
 
 ***
 

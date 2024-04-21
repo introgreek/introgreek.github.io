@@ -753,7 +753,7 @@ Complementary Participles
 
 #### Resources and Readings
 {: .no_toc }
-* [Slideshow - M 4/22](#) [Link TBD]
+* [Slideshow - M 4/22](https://docs.google.com/presentation/d/14-a0xXHs3qnloiJAf_5Voo48Q_-N0zbH-Mh9aUh7tlY/edit?usp=sharing)
 * [Participle Uses](../textbook/exam-3/participle-uses)
 
 #### HW due by start of next class

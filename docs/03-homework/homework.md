@@ -853,7 +853,12 @@ Each of the following sentences contains an **attributive participle**. Indicate
 
 ## Homework 35 (Due W 4/24)
 
-TBD
+Each of the following sentences contains a **complementary participle**. Indicate the participle, indicate its **gender, case, and number**, and then translate the sentence.
+
+1. ὁ κόρος τὸν ἵππον εἰς τὴν ὁδὸν ἄγων ἦρξεν.
+2. οἱ στρατηγοὶ ἄρχουσι τὰ ὅπλα τοῖς στρατιώταις διδόντες.
+3. ἡ γυνὴ τὰ δῶρα ἐν τῷ ἱερῷ τιθεῖσα παύεται.
+4. ἡ γυνὴ παύει τοὺς ἀνδρὰς τὰ δῶρα ἐν τῷ ἱερῷ τιθέντας.
 
 [Answer key here](answer-key#homework-35-due-w-424).
 
