@@ -1260,4 +1260,22 @@ middle - masc./neut. dative singular
 
 ## Homework 36 (Due R 4/25)
 
-TBD
+**NOTE**: The following answers are just samples of how each sentence can be translated. The important part is using different conjunctions to indicate the different interpretations of the participle (e.g., "when" for temporal but "because" for causal).
+
+1. ἡ κόρη, τὴν ἐπιστολὴν γράψασα, αὐτὴν τῷ ἀδελφῷ ἔπεμψεν.  
+* The girl, after she had written the letter, sent it to her brother.
+* The girl, because she had written the letter, sent it to her brother.
+* The girl, although she had written the letter, sent it to her brother.
+* The girl, if she had written the letter, sent it to her brother.
+
+2. οἱ μαθηταὶ τοῦ διδασκάλου οὐκ ἤκουσαν, πόλλους λόγους λέγοντος.  
+* The students did not listen to the teacher when he was saying many words.
+* The students did not listen to the teacher because he was saying many words.
+* The students did not listen to the teacher although he was saying many words.
+* The students did not listen to the teacher if he said many words.
+
+3. οὐκ εὐτυχὴς ὁ ἵππος ὑπὸ τοῦ παῖδος ἀχθεὶς.  
+* The horse is not happy after it was led by the child.  
+* The horse is not happy because it was led by the child.
+* The horse is not happy although it was led by the child.
+* The horse is not happy if it was led by the child.

@@ -769,7 +769,7 @@ Circumstantial Participles
 
 #### Resources and Readings
 {: .no_toc }
-* [Slideshow - W 4/24](#) [Link TBD]
+* [Slideshow - W 4/24](https://docs.google.com/presentation/d/1NuZXuEUCiC50vQ6lCKip1CxQr9jZRqHxZZ0tEdJKogQ/edit?usp=sharing)
 * [Participle Uses](../textbook/exam-3/participle-uses)
 
 #### HW due by start of next class
@@ -785,7 +785,7 @@ Genitive Absolute
 
 #### Resources and Readings
 {: .no_toc }
-* [Slideshow - R 4/25](#) [Link TBD]
+* [Slideshow - R 4/25](https://docs.google.com/presentation/d/10ktgq8xadXa0ExB1WabR-4KLC9efhRvh2C9jkKv3oig/edit?usp=sharing)
 * [Participle Uses](../textbook/exam-3/participle-uses)
 
 #### HW due by start of next class

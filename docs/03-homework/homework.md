@@ -866,6 +866,16 @@ Each of the following sentences contains a **complementary participle**. Indicat
 
 ## Homework 36 (Due R 4/25)
 
-TBD
+Translate each of the following sentences **four times**, each time interpreting the participle in one of the four types of circumstantial participle: temporal, causal, concessive, conditional. Keep in mind the **relativity of tense** between the participle and the main verb. For example:
+
+ὁ κόρος τὸν ἵππον βλέπει ἐλθὼν εἰς τὴν ὅδον.  
+* The boy sees the horse **after** he came into the road.
+* The boy sees the horse **because** he came into the road.
+* The boy sees the horse **although** he came into the road.
+* The boy sees the horse **if** he came into the road.
+
+1. ἡ κόρη, τὴν ἐπιστολὴν γράψασα, αὐτὴν τῷ ἀδελφῷ ἔπεμψεν.
+2. οἱ μαθηταὶ τοῦ διδασκάλου οὐκ ἤκουσαν, πόλλους λόγους λέγοντος.
+3. οὐκ εὐτυχὴς ὁ ἵππος ὑπὸ τοῦ παῖδος ἀχθεὶς.
 
 [Answer key here](answer-key#homework-36-due-r-425).
