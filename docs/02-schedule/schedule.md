@@ -804,9 +804,9 @@ In Conclusion
 
 #### Resources and Readings
 {: .no_toc }
-* [Slideshow - M 4/29](#) [Link TBD]
-* DO NOT CLICK UNTIL INSTRUCTED TO DO SO IN CLASS: [IDEA Course Evaluation](#) [Link TBD]
-* DO NOT CLICK UNTIL INSTRUCTED TO DO SO IN CLASS: [Personal Course Evaluation](#) [Link TBD]
+* [Slideshow - M 4/29](https://docs.google.com/presentation/d/1fAtTqk3uMPdug62wsOm-QBO3nXuopAUb88xSVGNAe3U/edit?usp=drive_link)
+* DO NOT CLICK UNTIL INSTRUCTED TO DO SO IN CLASS: [IDEA Course Evaluation](https://fairfield.campuslabs.com/eval-home/direct/1938794)
+* DO NOT CLICK UNTIL INSTRUCTED TO DO SO IN CLASS: [Personal Course Evaluation](https://forms.gle/yWP4kozQbALPoGsm7)
 
 ***
 
