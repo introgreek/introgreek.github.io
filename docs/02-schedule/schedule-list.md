@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Schedule
-permalink: /schedule-and-slideshows/schedule
+title: Course Schedule - List
+permalink: /schedule-and-slideshows/schedule-list
 nav_order: 0
 parent: Schedule and Slideshows
 ---
 
-# Schedule
+# Course Schedule - List Form
 {: .no_toc }
 
 ## Table of contents

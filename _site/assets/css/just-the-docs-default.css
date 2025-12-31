@@ -626,6 +626,12 @@ noscript .table-wrapper {
   margin-top: 0;
 }
 
+table,
+th,
+td {
+  border: 1px solid black;
+}
+
 h1,
 h2,
 h3,

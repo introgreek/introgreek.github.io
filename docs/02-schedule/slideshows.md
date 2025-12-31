@@ -2,7 +2,7 @@
 layout: page
 title: Slideshows
 permalink: /schedule-and-slideshows/slideshows
-nav_order: 1
+nav_order: 2
 parent: Schedule and Slideshows
 ---
 
