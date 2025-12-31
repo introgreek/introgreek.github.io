@@ -8,4 +8,4 @@ has_children: true
 
 # Course Information
 
-This section contains information pertaining to the Spring 2024 version of GREK 1111 (Elementary Attic Greek) at Fairfield University regarding course details, resources, policies, and grading.
+This section contains information pertaining to the Spring 2026 version of GREK 1111 (Introductory Ancient Greek) at Fairfield University regarding course details, resources, policies, and grading.

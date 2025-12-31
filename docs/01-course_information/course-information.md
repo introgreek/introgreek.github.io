@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Course Information
+title: Course Info
 permalink: /course_info/course-info
 nav_order: 0
 parent: Course Information
@@ -8,23 +8,19 @@ parent: Course Information
 
 # Course Information
 
-**NOTE**: All information in this section can also be found in [Google Doc format](https://docs.google.com/document/d/135wVK8K9Mr6RA9HPohA1RQFsiGG8P01S37LE-kFHNxI/edit?usp=sharing). 
+**NOTE**: All information in this section can also be found in [Google Doc format](https://docs.google.com/document/d/17khbhsVIT3GHJvCRU3WGMh79HiXVnf_hPaufv8tkjfM/edit?usp=sharing).
 
 ***
 
-## Course Details (Spring 2024)
+## Course Details (Spring 2026)
 
-* **Meeting times and places**: 
-    * MR 12:30-1:20pm in Canisius 2
-    * W 12-12:50pm in Canisius 206  
+* **Meeting times and place**: MR 9:30-10:45am, classroom TBD 
 * **Instructor**: Prof. Daniel Libatique (he/him/his)  
 * **Office**: Donnarumma 124  
-* **Student Hours**: 
-    * via Zoom: Tuesdays 9-11am (sign up for 15-minute slot [here](https://zcal.co/i/0w7IT80I))
-    * in person: Wednesdays 11am-12pm (drop in)  
+* **Student Hours**: via Zoom: Wednesdays 8-10am (sign up for 15-minute slot [here](#)) or by appointment 
 * **E-mail**: dlibatique [at] fairfield [dot] edu  
 * **Website**: [Click here](https://libatique.info).  
-* **Zoom room link**: See email or the [Google Doc syllabus](https://docs.google.com/document/d/135wVK8K9Mr6RA9HPohA1RQFsiGG8P01S37LE-kFHNxI/edit?usp=sharing).
+* **Zoom room link**: See email or the [Google Doc syllabus](https://docs.google.com/document/d/17khbhsVIT3GHJvCRU3WGMh79HiXVnf_hPaufv8tkjfM/edit?usp=sharing) .
 
 ***
 
@@ -54,5 +50,3 @@ As **outcomes of your learning**, you will:
 * compose short narratives in grammatically-sound Greek based on real ancient myths
 * complete daily homework assignments to practice concepts and increase familiarity with vocabulary, paradigms, and sentence structures
 * achieve high grades on daily check-ins, weekly quizzes, and tri-semesterly exams by demonstrating your understanding of Greek morphology and syntax and applying grammatical rules
-* generate 1-2pp. written responses to articles, videos, events, and physical media like ancient coins that explore Greek grammar and Roman culture in outside-of-the-box ways
-

@@ -81,16 +81,16 @@ Here are the steps to conjugate in the aorist active and middle:
 
 | Person | Singular | Plural |
 | ----- | ----- | ----- |
-| 1st | `-α` | `-αμεν` |
-| 2nd | `-ας` | `-ατε`|
+| 1st | -α | -αμεν |
+| 2nd | -ας | -ατε|
 | 3rd | **-ε(ν)**\* | **-αν** |
 
 #### (1st) Aorist Middle Endings
 
 | Person | Singular | Plural |
 | ----- | ----- | ----- |
-| 1st | `-άμην` | `-άμεθα` |
-| 2nd | `-ω` | `-ασθε`|
+| 1st | -άμην | -άμεθα |
+| 2nd | -ω | -ασθε|
 | 3rd | **-ατο** | **-αντο** |
 
 \* In the 3rd singular aorist active ending, note how the ν is encased in parentheses. This is called a **moveable nu**, and it appears in the ending when the word that follows the verb begins with a vowel or when the verb comes before a punctuation mark like a period.
