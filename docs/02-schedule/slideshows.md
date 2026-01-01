@@ -19,4 +19,4 @@ parent: Schedule and Slideshows
 
 ## Slideshows Folder
 
-* [Google Drive folder link here](https://drive.google.com/drive/folders/1XrNL-41gkKIynQp8OltGwWJjdlD98qE0?usp=sharing).
+* [Google Drive folder link here](https://drive.google.com/drive/folders/1v8DqE7DiPlumAM2jJNwIBqhRCxJ7xzU9?usp=sharing).

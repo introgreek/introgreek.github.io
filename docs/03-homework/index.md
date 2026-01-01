@@ -8,4 +8,4 @@ has_children: true
 
 # Homework
 
-This tab contains the homework assignments and the answer key for the homework for GREK 1111 in Spring 2024.
+This tab contains the answer key for the homework for GREK 1111 in Spring 2026.

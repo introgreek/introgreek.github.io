@@ -1338,7 +1338,7 @@
   },"191": {
     "doc": "Homework",
     "title": "Homework",
-    "content": "This tab contains the homework assignments and the answer key for the homework for GREK 1111 in Spring 2024. ",
+    "content": "This tab contains the answer key for the homework for GREK 1111 in Spring 2026. ",
     "url": "/homework",
     
     "relUrl": "/homework"
@@ -1415,7 +1415,7 @@
   },"202": {
     "doc": "Schedule and Slideshows",
     "title": "Schedule and Slideshows",
-    "content": "This tab contains the daily schedule and a link to the course slideshows for GREK 1111 (Spring 2024). Individual slideshow links can be found under the appropriate date in the schedule. ",
+    "content": "This tab contains the daily schedule (in both a list form and a table form) and a link to the course slideshows for GREK 1111 in Spring 2026. ",
     "url": "/schedule-and-slideshows",
     
     "relUrl": "/schedule-and-slideshows"
@@ -2094,795 +2094,788 @@
   },"299": {
     "doc": "Course Schedule - List",
     "title": "Table of contents",
-    "content": ". | Week 1 (1/17 - 1/18) | Week 2 (1/22 - 1/25) | Week 3 (1/29 - 2/1) | Week 4 (2/5 - 2/8) | Week 5 (2/12 - 2/15) | Week 6 (2/20 - 2/22) | Week 7 (2/26 - 2/29) | Spring Recess (3/2 through 3/10) | Week 8 (3/11 - 3/14) | Week 9 (3/18 - 3/21) | Week 10 (3/25 - 3/27) | Easter Break (3/28 through 4/1) | Week 11 (4/3 - 4/4) | Week 12 (4/8 - 4/11) | Week 13 (4/15 - 4/18) | Week 14 (4/22 - 4/25) | Week 15 (4/29) | Reading Days (4/30, 5/1, 5/5) | Exam Period (5/2 through 5/8) | . ",
+    "content": ". | Week 1 (1/22) | Week 2 (1/26 - 1/29) | Week 3 (2/2 - 2/5) | Week 4 (2/9 - 2/12) | Week 5 (2/17 - 2/19) | Week 6 (2/23 - 2/26) | Week 7 (3/2 - 3/5) | Spring Recess (3/7 through 3/15) | Week 8 (3/16 - 3/19) | Week 9 (3/23 - 3/26) | Week 10 (3/30) | Easter Break (4/2 through 4/6) | Week 11 (4/8 - 4/9) | Week 12 (4/13 - 4/16) | Week 13 (4/20 - 4/23) | Week 14 (4/27) | READING DAYS (4/30, 5/1, 5/3) | EXAM PERIOD (5/2 through 5/8) | . ",
     "url": "/schedule-and-slideshows/schedule-list#table-of-contents",
     
     "relUrl": "/schedule-and-slideshows/schedule-list#table-of-contents"
   },"300": {
     "doc": "Course Schedule - List",
-    "title": "Week 1 (1/17 - 1/18)",
-    "content": "Wednesday, January 17 . Syllabus Day . Resources and Readings . | Slideshow - W 1/17 | . HW due by start of next class . | Memorize and practice with the Greek alphabet | Read the sections in Course Info (including the Course Information, Policies, and Grading pages linked at the bottom or side) thoroughly (or use the Google Doc version). | Complete the Student Information Form. | (OPTIONAL) Practice Homework 1 (submit on Blackboard). | . Thursday, January 18 . Basics: Alphabet, Accents, and Inflection (Conjugation and Declension) . Resources and Readings . | Slideshow - R 1/18 | Alphabet and Accents | Inflection | . HW due by start of next class . | Continue memorizing and practicing with the Greek alphabet (CLOSED BOOK PRACTICE CHECK-IN IN CLASS ON MONDAY!) | Complete the Student Information Form. | (OPTIONAL) Practice Homework 2 (submit on Blackboard). | . ",
-    "url": "/schedule-and-slideshows/schedule-list#week-1-117---118",
+    "title": "Week 1 (1/22)",
+    "content": "Thursday, January 22 . | Topic: Syllabus Day | Due by start of next class: Student Information Form . | Homework 1 | . | . ",
+    "url": "/schedule-and-slideshows/schedule-list#week-1-122",
     
-    "relUrl": "/schedule-and-slideshows/schedule-list#week-1-117---118"
+    "relUrl": "/schedule-and-slideshows/schedule-list#week-1-122"
   },"301": {
     "doc": "Course Schedule - List",
-    "title": "Week 2 (1/22 - 1/25)",
-    "content": "Week 2 Resources . | Week 2 Vocabulary | Week 2 Paradigms | . Monday, January 22 . Verbs Overview . Resources and Readings . | Slideshow - M 1/22 | Verbs Overview | . HW due by start of next class . | Homework 1 (submit on Blackboard) | . Wednesday, January 24 . First Aorist - Active and Middle . | In class: Check-in 1 | . Resources and Readings . | Slideshow - W 1/24 | First Aorist | . HW due by start of next class . | Homework 2 (on Blackboard) | . Thursday, January 25 . Second Aorist - Active and Middle . | In class: Check-in 2 | . Resources and Readings . | Slideshow - R 1/25 | Second Aorist | . HW due by start of next class . | Homework 3 (on Blackboard) | Quiz 1 (distributed in class) | . ",
-    "url": "/schedule-and-slideshows/schedule-list#week-2-122---125",
+    "title": "Week 2 (1/26 - 1/29)",
+    "content": "Monday, January 26 . | Topic: Alphabet, Accents, Inflection | In-class: Check-in 1 | Due by start of next class: . | Homework 2 | . | . Thursday, January 29 . | Topic: Verbs Overview and First Aorist Active and Middle | In-class: Check-in 2 | Due by start of next class: . | Homework 3 | Quiz 1 | . | . ",
+    "url": "/schedule-and-slideshows/schedule-list#week-2-126---129",
     
-    "relUrl": "/schedule-and-slideshows/schedule-list#week-2-122---125"
+    "relUrl": "/schedule-and-slideshows/schedule-list#week-2-126---129"
   },"302": {
     "doc": "Course Schedule - List",
-    "title": "Week 3 (1/29 - 2/1)",
-    "content": "Week 3 Resources . | Week 3 Vocabulary | Week 3 Paradigms | . Monday, January 29 . Aorist Passive . | In class: Check-in 3 | . Resources and Readings . | Slideshow - M 1/29 | Aorist Passive | . HW due by start of next class . | Homework 4 | . Wednesday, January 31 . Nouns Overview . | In class: Check-in 4 | . Resources and Readings . | Slideshow - W 1/31 | Nouns Overview | . HW due by start of next class . | Homework 5 | . Thursday, February 1 . Nominative, Genitive, and the Article . | In class: Check-in 5 | . Resources and Readings . | Slideshow - R 2/1 | Nominative, Genitive, and the Article | . HW due by start of next class . | Homework 6 | Quiz 2 (distributed in class) | Article Reflection 1 (on Blackboard) | . ",
-    "url": "/schedule-and-slideshows/schedule-list#week-3-129---21",
+    "title": "Week 3 (2/2 - 2/5)",
+    "content": "Monday, February 2 . | Topic: Second Aorist Active and Middle; Clauses and Coordination | In-class: Check-in 3 | Due by start of next class: . | Homework 4 | . | . Thursday, February 5 . | Topic: Nouns Overview and Definite Article | In-class: Check-in 4 | Due by start of next class: . | Homework 5 | Quiz 2 | . | . ",
+    "url": "/schedule-and-slideshows/schedule-list#week-3-22---25",
     
-    "relUrl": "/schedule-and-slideshows/schedule-list#week-3-129---21"
+    "relUrl": "/schedule-and-slideshows/schedule-list#week-3-22---25"
   },"303": {
     "doc": "Course Schedule - List",
-    "title": "Week 4 (2/5 - 2/8)",
-    "content": "Week 4 Resources . | Week 4 Vocabulary | Week 4 Paradigms | . Monday, February 5 . Accusative and Dative . | In class: Check-in 6 | . Resources and Readings . | Slideshow - M 2/5 | Accusative and Dative | . HW due by start of next class . | Homework 7 | . Wednesday, February 7 . Nouns, continued . | In class: Check-in 7 | . Resources and Readings . | Slideshow - W 2/7 | . HW due by start of next class . | Homework 8 | . Thursday, February 8 . Clauses and Coordination . | In class: Check-in 8 | . Resources and Readings . | Slideshow - R 2/8 | Clauses and Coordination | . HW due by start of next class . | Homework 9 | Quiz 3 | . ",
-    "url": "/schedule-and-slideshows/schedule-list#week-4-25---28",
+    "title": "Week 4 (2/9 - 2/12)",
+    "content": "Monday, February 9 . | Topic: Nominative and Genitive (1st and 2nd Declension) | In-class: Check-in 5 | Due by start of next class: . | Homework 6 | . | . Thursday, February 12 . | Topic: Accusative and Dative (1st and 2nd Declension) | In-class: Check-in 6 | Due by start of next class: . | Homework 7 | Quiz 3 | . | . ",
+    "url": "/schedule-and-slideshows/schedule-list#week-4-29---212",
     
-    "relUrl": "/schedule-and-slideshows/schedule-list#week-4-25---28"
+    "relUrl": "/schedule-and-slideshows/schedule-list#week-4-29---212"
   },"304": {
     "doc": "Course Schedule - List",
-    "title": "Week 5 (2/12 - 2/15)",
-    "content": "Week 5 Resources . | Week 5 Vocabulary | Week 5 Paradigms | . Monday, February 12 . Present Tense . | In class: Check-in 9 | . Resources and Readings . | Slideshow - M 2/12 | Present Tense | . HW due by start of next class . | Homework 10 | . Wednesday, February 14 . Epsilon Contracts . | In class: Check-in 10 | . Resources and Readings . | Slideshow - W 2/14 | Epsilon Contracts | . HW due by start of next class . | Homework 11 | . Thursday, February 15 . Review / Catch Up . | In class: Check-in 11 | . Resources and Readings . | TBD | . HW due by start of next class . | Homework 12 | Exam 1 (on Blackboard) | . ",
-    "url": "/schedule-and-slideshows/schedule-list#week-5-212---215",
+    "title": "Week 5 (2/17 - 2/19)",
+    "content": "NOTE: This week, our Monday class meets on a Tuesday. Tuesday, February 17 . | Topic: Review / Buffer | In-class: Check-in 7 | . Thursday, February 19 . | EXAM 1 (in class) | . ",
+    "url": "/schedule-and-slideshows/schedule-list#week-5-217---219",
     
-    "relUrl": "/schedule-and-slideshows/schedule-list#week-5-212---215"
+    "relUrl": "/schedule-and-slideshows/schedule-list#week-5-217---219"
   },"305": {
     "doc": "Course Schedule - List",
-    "title": "Week 6 (2/20 - 2/22)",
-    "content": "Week 6 Resources . | Week 6 Vocabulary | Week 6 Paradigms | NOTE: Our Monday class this week meets on Tuesday. | . Tuesday, February 20 . Prepositions . | In class: Check-in 12 | . Resources and Readings . | Slideshow - T 2/20 | Prepositions | . HW due by start of next class . | Homework 13 | . Wednesday, February 21 . Vowel Declension Adjectives . | In class: Check-in 13 | . Resources and Readings . | Slideshow - W 2/21 | Adjectives | . HW due by start of next class . | Homework 14 | . Thursday, February 22 . Vowel Declension Adjectives, continued . | In class: Check-in 14 | . Resources and Readings . | Slideshow - R 2/22 | Adjectives | . HW due by start of next class . | Homework 15 | Quiz 4 | . ",
-    "url": "/schedule-and-slideshows/schedule-list#week-6-220---222",
+    "title": "Week 6 (2/23 - 2/26)",
+    "content": "Monday, February 23 . | Topic: Prepositions and Verb Compounds | Due by start of next class: . | Homework 8 | . | . Thursday, February 26 . | Topic: Vowel Declension Adjectives | In-class: Check-in 8 | Due by start of next class: . | Homework 9 | Quiz 4 | . | . ",
+    "url": "/schedule-and-slideshows/schedule-list#week-6-223---226",
     
-    "relUrl": "/schedule-and-slideshows/schedule-list#week-6-220---222"
+    "relUrl": "/schedule-and-slideshows/schedule-list#week-6-223---226"
   },"306": {
     "doc": "Course Schedule - List",
-    "title": "Week 7 (2/26 - 2/29)",
-    "content": "Week 7 Resources . | Week 7 Vocabulary | Week 7 Paradigms | . Monday, February 26 . Consonant Declension Adjectives . | In class: Check-in 15 | . Resources and Readings . | Slideshow - M 2/26 | Adjectives | . HW due by start of next class . | Homework 16 | . Wednesday, February 28 . Consonant Declension Adjectives, continued . | In class: Check-in 16 | . Resources and Readings . | Slideshow - W 2/28 | Adjectives | . HW due by start of next class . | Homework 17 | . Thursday, February 29 . Attributive and Predicative Position . | In class: Check-in 17 | . Resources and Readings . | Slideshow - R 2/29 | Attributive and Predicative Position | . HW due by start of next class . | Homework 18 | Quiz 5 | Article Reflection 2 | . ",
-    "url": "/schedule-and-slideshows/schedule-list#week-7-226---229",
+    "title": "Week 7 (3/2 - 3/5)",
+    "content": "Monday, March 2 . | Topic: Attributive and Predicative Position | In-class: Check-in 9 | Due by start of next class: . | Homework 10 | . | . Thursday, March 5 . | Topic: Pronouns (Demonstrative) | In-class: Check-in 10 | Due by start of next class: . | Homework 11 | Quiz 5 | . | . ",
+    "url": "/schedule-and-slideshows/schedule-list#week-7-32---35",
     
-    "relUrl": "/schedule-and-slideshows/schedule-list#week-7-226---229"
+    "relUrl": "/schedule-and-slideshows/schedule-list#week-7-32---35"
   },"307": {
     "doc": "Course Schedule - List",
-    "title": "Spring Recess (3/2 through 3/10)",
+    "title": "Spring Recess (3/7 through 3/15)",
     "content": ". ",
-    "url": "/schedule-and-slideshows/schedule-list#spring-recess-32-through-310",
+    "url": "/schedule-and-slideshows/schedule-list#spring-recess-37-through-315",
     
-    "relUrl": "/schedule-and-slideshows/schedule-list#spring-recess-32-through-310"
+    "relUrl": "/schedule-and-slideshows/schedule-list#spring-recess-37-through-315"
   },"308": {
     "doc": "Course Schedule - List",
-    "title": "Week 8 (3/11 - 3/14)",
-    "content": "Week 8 Resources . | Week 8 Vocabulary | Week 8 Paradigms | . Monday, March 11 . Pronouns . | In class: Check-in 18 | . Resources and Readings . | Slideshow - M 3/11 | Pronouns | . HW due by start of next class . | Homework 19 | . Wednesday, March 13 . Pronouns continued . | In class: Check-in 19 | . Resources and Readings . | Slideshow - W 3/13 | Pronouns | . HW due by start of next class . | Homework 20 | . Thursday, March 14 . Core Four -μι Verbs - Present Tense . | In class: Check-in 20 | . Resources and Readings . | Slideshow - R 3/14 | Core Four -μι Verbs - Present Tense | . HW due by start of next class . | Homework 21 | Quiz 6 | . ",
-    "url": "/schedule-and-slideshows/schedule-list#week-8-311---314",
+    "title": "Week 8 (3/16 - 3/19)",
+    "content": "Monday, March 16 . | Topic: Dependent Clauses | In-class: Check-in 11 | Due by start of next class: . | Homework 12 | . | . Thursday, March 19 . | Topic: Core Four -μι Verbs - Aorist Active and Middle | In-class: Check-in 12 | Due by start of next class: . | Homework 13 | Quiz 6 | . | . ",
+    "url": "/schedule-and-slideshows/schedule-list#week-8-316---319",
     
-    "relUrl": "/schedule-and-slideshows/schedule-list#week-8-311---314"
+    "relUrl": "/schedule-and-slideshows/schedule-list#week-8-316---319"
   },"309": {
     "doc": "Course Schedule - List",
-    "title": "Week 9 (3/18 - 3/21)",
-    "content": "Week 9 Resources . | Week 9 Vocabulary | Week 9 Paradigms | . Monday, March 18 . Core Four -μι Verbs - Aorist Tense . | In class: Check-in 21 | . Resources and Readings . | Slideshow - M 3/18 | Core Four -μι Verbs - Aorist Tense | . HW due by start of next class . | Homework 22 | . Wednesday, March 20 . Core Four -μι Verbs, continued . | In class: Check-in 22 | . Resources and Readings . | Slideshow - W 3/20 | . HW due by start of next class . | Homework 23 | . Thursday, March 21 . Dependent Clauses: Temporal Clauses . | In class: Check-in 23 | . Resources and Readings . | Slideshow - R 3/21 | Dependent Clauses | . HW due by start of next class . | Homework 24 | Quiz 7 | Coin Analysis Project | . ",
-    "url": "/schedule-and-slideshows/schedule-list#week-9-318---321",
+    "title": "Week 9 (3/23 - 3/26)",
+    "content": "Monday, March 23 . | Topic: Review / Buffer | In-class: Check-in 13 | . Thursday, March 26 . | EXAM 2 (in class) | . ",
+    "url": "/schedule-and-slideshows/schedule-list#week-9-323---326",
     
-    "relUrl": "/schedule-and-slideshows/schedule-list#week-9-318---321"
+    "relUrl": "/schedule-and-slideshows/schedule-list#week-9-323---326"
   },"310": {
     "doc": "Course Schedule - List",
-    "title": "Week 10 (3/25 - 3/27)",
-    "content": "Week 10 Resources . | Week 10 Vocabulary | Week 10 Paradigms | . Monday, March 25 . Dependent Clauses: Relative Clauses . | In class: Check-in 24 | . Resources and Readings . | Slideshow - M 3/25 | Dependent Clauses | . HW due by start of next class . | Homework 25 | . Wednesday, March 27 . Review / Catch Up . | In class: Check-in 25 | . Resources and Readings . | Slideshow - W 3/27 [Link TBD] | . HW due by start of next class . | Homework 26 | Exam 2 | . ",
-    "url": "/schedule-and-slideshows/schedule-list#week-10-325---327",
+    "title": "Week 10 (3/30)",
+    "content": "Monday, March 30 . | Topic: Relative Pronoun and Relative Clauses | Due by start of next class: . | Homework 14 | Quiz 7 | . | . ",
+    "url": "/schedule-and-slideshows/schedule-list#week-10-330",
     
-    "relUrl": "/schedule-and-slideshows/schedule-list#week-10-325---327"
+    "relUrl": "/schedule-and-slideshows/schedule-list#week-10-330"
   },"311": {
     "doc": "Course Schedule - List",
-    "title": "Easter Break (3/28 through 4/1)",
+    "title": "Easter Break (4/2 through 4/6)",
     "content": ". ",
-    "url": "/schedule-and-slideshows/schedule-list#easter-break-328-through-41",
+    "url": "/schedule-and-slideshows/schedule-list#easter-break-42-through-46",
     
-    "relUrl": "/schedule-and-slideshows/schedule-list#easter-break-328-through-41"
+    "relUrl": "/schedule-and-slideshows/schedule-list#easter-break-42-through-46"
   },"312": {
     "doc": "Course Schedule - List",
-    "title": "Week 11 (4/3 - 4/4)",
-    "content": "Week 11 Resources . | Week 11 Vocabulary | Week 11 Paradigms | . Wednesday, April 3 . Exam 2 Workshop . | In class: Check-in 26 | . Resources and Readings . | no slideshow | . HW due by start of next class . | Homework 27 | . Thursday, April 4 . Exam 2 Workshop . | In class: Check-in 27 | . Resources and Readings . | no slideshow | . HW due by start of next class . | Homework 28 | . ",
-    "url": "/schedule-and-slideshows/schedule-list#week-11-43---44",
+    "title": "Week 11 (4/8 - 4/9)",
+    "content": "NOTE: This week, our Monday class meets on a Wednesday. Wednesday, April 8 . | Topic: Aorist Passive and Genitive of Agent | In-class: Check-in 14 | Due by start of next class: . | Homework 15 | . | . Thursday, April 9 . | Topic: Present Tense - -ω Verbs | In-class: Check-in 15 | Due by start of next class: . | Homework 16 | Quiz 8 | . | . ",
+    "url": "/schedule-and-slideshows/schedule-list#week-11-48---49",
     
-    "relUrl": "/schedule-and-slideshows/schedule-list#week-11-43---44"
+    "relUrl": "/schedule-and-slideshows/schedule-list#week-11-48---49"
   },"313": {
     "doc": "Course Schedule - List",
-    "title": "Week 12 (4/8 - 4/11)",
-    "content": "Week 12 Resources . | Week 12 Vocabulary | Week 12 Paradigms | . Monday, April 8 . Infinitive Overview and Formation . | In class: Check-in 28 | . Resources and Readings . | Slideshow - M 4/8 | Infinitive Formation | . HW due by start of next class . | Homework 29 | . Wednesday, April 10 . Infinitive Uses 1 . | In class: Check-in 29 | . Resources and Readings . | Slideshow - W 4/10 | Infinitive Uses | . HW due by start of next class . | Homework 30 | . Thursday, April 11 . Infinitive Uses 2 . | In class: Check-in 30 | . Resources and Readings . | Slideshow - R 4/11 | Infinitive Uses | . HW due by start of next class . | Homework 31 | Quiz 8 | Giovanni Verri Project | . ",
-    "url": "/schedule-and-slideshows/schedule-list#week-12-48---411",
+    "title": "Week 12 (4/13 - 4/16)",
+    "content": "Monday, April 13 . | Topic: Present Tense - Regular -μι Verbs | In-class: Check-in 16 | Due by start of next class: . | Homework 17 | . | . Thursday, April 16 . | Topic: Present Tense - Cour Four -μι Verbs | In-class: Check-in 17 | Due by start of next class: . | Homework 18 | Quiz 9 | . | . ",
+    "url": "/schedule-and-slideshows/schedule-list#week-12-413---416",
     
-    "relUrl": "/schedule-and-slideshows/schedule-list#week-12-48---411"
+    "relUrl": "/schedule-and-slideshows/schedule-list#week-12-413---416"
   },"314": {
     "doc": "Course Schedule - List",
-    "title": "Week 13 (4/15 - 4/18)",
-    "content": "Week 13 Resources . | Week 13 Vocabulary | Week 13 Paradigms | . Monday, April 15 . Participle Formation: Present . | In class: Check-in 31 | . Resources and Readings . | Slideshow - M 4/15 | Participle Formation | . HW due by start of next class . | Homework 32 | . Wednesday, April 17 . Participle Formation: Aorist . | In class: Check-in 32 | . Resources and Readings . | Slideshow - W 4/17 | Participle Formation | . HW due by start of next class . | Homework 33 | . Thursday, April 18 . Attributive Participles . | In class: Check-in 33 | . Resources and Readings . | Slideshow - R 4/18 | Participle Uses | . HW due by start of next class . | Homework 34 | Quiz 9 | Percy Jackson Project | . ",
-    "url": "/schedule-and-slideshows/schedule-list#week-13-415---418",
+    "title": "Week 13 (4/20 - 4/23)",
+    "content": "Monday, April 20 . | Topic: 3rd Declension Nouns | In-class: Check-in 18 | Due by start of next class: . | Homework 19 | . | . Thursday, April 23 . | Topic: 3rd Declension Adjectives | In-class: Check-in 19 | Due by start of next class: . | Homework 20 | Quiz 10 | . | . ",
+    "url": "/schedule-and-slideshows/schedule-list#week-13-420---423",
     
-    "relUrl": "/schedule-and-slideshows/schedule-list#week-13-415---418"
+    "relUrl": "/schedule-and-slideshows/schedule-list#week-13-420---423"
   },"315": {
     "doc": "Course Schedule - List",
-    "title": "Week 14 (4/22 - 4/25)",
-    "content": "Week 14 Resources . | Week 14 Vocabulary | Week 14 Paradigms | . Monday, April 22 . Complementary Participles . | In class: Check-in 34 | . Resources and Readings . | Slideshow - M 4/22 | Participle Uses | . HW due by start of next class . | Homework 35 | . Wednesday, April 24 . Circumstantial Participles . | In class: Check-in 35 | . Resources and Readings . | Slideshow - W 4/24 | Participle Uses | . HW due by start of next class . | Homework 36 | . Thursday, April 25 . Genitive Absolute . | In class: Check-in 36 | . Resources and Readings . | Slideshow - R 4/25 | Participle Uses | . HW due by start of next class . | Quiz 10 | . ",
-    "url": "/schedule-and-slideshows/schedule-list#week-14-422---425",
+    "title": "Week 14 (4/27)",
+    "content": "Monday, April 27 . | Topic: Review / Course Evaluations | In-class links (DO NOT CLICK UNTIL INSTRUCTED TO DO SO IN CLASS): . | IDEA Course Evaluation (link TBD) | Personal Course Evaluation (link TBD) (use Fairfield credentials to authenticate) | . | . ",
+    "url": "/schedule-and-slideshows/schedule-list#week-14-427",
     
-    "relUrl": "/schedule-and-slideshows/schedule-list#week-14-422---425"
+    "relUrl": "/schedule-and-slideshows/schedule-list#week-14-427"
   },"316": {
     "doc": "Course Schedule - List",
-    "title": "Week 15 (4/29)",
-    "content": ". Monday, April 29 . In Conclusion . Resources and Readings . | Slideshow - M 4/29 | DO NOT CLICK UNTIL INSTRUCTED TO DO SO IN CLASS: IDEA Course Evaluation | DO NOT CLICK UNTIL INSTRUCTED TO DO SO IN CLASS: Personal Course Evaluation | . ",
-    "url": "/schedule-and-slideshows/schedule-list#week-15-429",
+    "title": "READING DAYS (4/30, 5/1, 5/3)",
+    "content": ". ",
+    "url": "/schedule-and-slideshows/schedule-list#reading-days-430-51-53",
     
-    "relUrl": "/schedule-and-slideshows/schedule-list#week-15-429"
+    "relUrl": "/schedule-and-slideshows/schedule-list#reading-days-430-51-53"
   },"317": {
     "doc": "Course Schedule - List",
-    "title": "Reading Days (4/30, 5/1, 5/5)",
-    "content": ". ",
-    "url": "/schedule-and-slideshows/schedule-list#reading-days-430-51-55",
-    
-    "relUrl": "/schedule-and-slideshows/schedule-list#reading-days-430-51-55"
-  },"318": {
-    "doc": "Course Schedule - List",
-    "title": "Exam Period (5/2 through 5/8)",
-    "content": ". | Exam 3 will be due at 2:30pm on R 5/2. | . ",
+    "title": "EXAM PERIOD (5/2 through 5/8)",
+    "content": ". | Exam 3 will be held in person from 8am to 11am on R 5/7. | . ",
     "url": "/schedule-and-slideshows/schedule-list#exam-period-52-through-58",
     
     "relUrl": "/schedule-and-slideshows/schedule-list#exam-period-52-through-58"
-  },"319": {
+  },"318": {
     "doc": "Course Schedule - List",
     "title": "Course Schedule - List",
     "content": " ",
     "url": "/schedule-and-slideshows/schedule-list",
     
     "relUrl": "/schedule-and-slideshows/schedule-list"
-  },"320": {
+  },"319": {
     "doc": "Course Schedule - Table",
     "title": "Course Schedule - Table Form",
     "content": "NOTE: . | Homework and quizzes are due by the start of the class period on the date for which they’re listed. | Check-ins and exams will be administered in class on the date for which they’re listed. | . ",
     "url": "/schedule-and-slideshows/schedule-table#course-schedule---table-form",
     
     "relUrl": "/schedule-and-slideshows/schedule-table#course-schedule---table-form"
-  },"321": {
+  },"320": {
     "doc": "Course Schedule - Table",
     "title": "Course Schedule - Table",
     "content": " ",
     "url": "/schedule-and-slideshows/schedule-table",
     
     "relUrl": "/schedule-and-slideshows/schedule-table"
-  },"322": {
+  },"321": {
     "doc": "Second Aorist (Active and Middle)",
     "title": "Second Aorist (Active and Middle)",
     "content": " ",
     "url": "/textbook/exam-1/second-aorist",
     
     "relUrl": "/textbook/exam-1/second-aorist"
-  },"323": {
+  },"322": {
     "doc": "Second Aorist (Active and Middle)",
     "title": "Table of contents",
     "content": ". | Second Aorist . | Formation . | (2nd) Aorist Active Endings | (2nd) Aorist Middle Endings | . | . | . ",
     "url": "/textbook/exam-1/second-aorist#table-of-contents",
     
     "relUrl": "/textbook/exam-1/second-aorist#table-of-contents"
-  },"324": {
+  },"323": {
     "doc": "Second Aorist (Active and Middle)",
     "title": "Second Aorist",
     "content": "As discussed in the unit on first aorists, a verb’s third principal part can be either first aorist or second aorist, as determined by the principal part’s ending: a first aorist ends in -α or -άμην, while a second aorist ends in -ον or -όμην. Note, for example, the dictionary entries for ἄγω, ἔχω, and λέγω above: their third principal parts each end in -ον, which means that they are second aorists. The distinction between first aorists and second aorists affects only the formation of the aorist active and middle, i.e., the forms created using the third principal part. There is no meaningful distinction of first or second aorist in the aorist passive or sixth principal part; the distinction affects only the aorist active and middle. Otherwise, the first and second aorist operate along the same general rules: they indicate an instantaneous or completed event in the past in the active or middle voice. Formation . The conjugation of the second aorist is very similar to the conjugation of the first aorist, just with different endings. Here are the steps to conjugate a second aorist: . | To get the verb stem, take the -ον off the third principal part. | Add the appropriate ending to indicate the appropriate person, number, and voice. | Apply a recessive accent based on the rules laid out in the unit on accents. | . (2nd) Aorist Active Endings . | Person | Singular | Plural | . | 1st | -ον | -ομεν | . | 2nd | -ες | -ετε | . | 3rd | -ε(ν) | -ον | . (2nd) Aorist Middle Endings . | Person | Singular | Plural | . | 1st | -όμην | -όμεθα | . | 2nd | -ου | -εσθε | . | 3rd | -ετο | -οντο | . Application . Let’s practice conjugating the second aorist with the verb ἄγω (third principal part: ἤγαγον). | When we take off the -ον, we are left with the stem ἤγαγ-. | We can then apply the appropriate endings: . | for the active, it’s -ε(ν) for the 3rd singular and -ον for the third plural. | for the middle, it’s -ετο for the 3rd singular and -οντο for the third plural. | . | All accents will be placed on the antepenult since none of the ultimas contained in these endings is long. | . These rules result in the following forms: . | Voice | Singular | Plural | . | Active | ἤγαγε(ν) | ἤγαγον | . | Middle | ἠγάγετο | ἠγάγοντο | . Translation . Again, the only difference between a second aorist and a first aorist is the endings used to conjugate it; everything else, including how the verb’s aspects affect our translation, remains the same. The verbal action is still an instantaneous or completed action in the past, and the voice of the verb indicates the relationship of the subject to the verb’s action. So, here are some examples of ways to translate our newly-conjugated forms: . | ἤγαγεν: “he/she/it led” | ἤγαγον: “they led” | ἠγάγετο: “he/she/it led (for themself)” | ἠγάγοντο: “they led (for themselves)” | . ",
     "url": "/textbook/exam-1/second-aorist#second-aorist",
     
     "relUrl": "/textbook/exam-1/second-aorist#second-aorist"
-  },"325": {
+  },"324": {
     "doc": "Slideshows",
     "title": "Slideshows",
     "content": " ",
     "url": "/schedule-and-slideshows/slideshows",
     
     "relUrl": "/schedule-and-slideshows/slideshows"
-  },"326": {
+  },"325": {
     "doc": "Slideshows",
     "title": "Table of contents",
     "content": ". | Slideshows Folder | . ",
     "url": "/schedule-and-slideshows/slideshows#table-of-contents",
     
     "relUrl": "/schedule-and-slideshows/slideshows#table-of-contents"
-  },"327": {
+  },"326": {
     "doc": "Slideshows",
     "title": "Slideshows Folder",
     "content": ". | Google Drive folder link here. | . ",
     "url": "/schedule-and-slideshows/slideshows#slideshows-folder",
     
     "relUrl": "/schedule-and-slideshows/slideshows#slideshows-folder"
-  },"328": {
+  },"327": {
     "doc": "Verbs Overview",
     "title": "Verbs Overview",
     "content": " ",
     "url": "/textbook/exam-1/verbs-overview",
     
     "relUrl": "/textbook/exam-1/verbs-overview"
-  },"329": {
+  },"328": {
     "doc": "Verbs Overview",
     "title": "Table of contents",
     "content": ". | Verbs - Definition | Verb Aspects | Dictionary Entry . | Conjugation | Principal Parts and Memorization | . | Compounds | Accentuation | . ",
     "url": "/textbook/exam-1/verbs-overview#table-of-contents",
     
     "relUrl": "/textbook/exam-1/verbs-overview#table-of-contents"
-  },"330": {
+  },"329": {
     "doc": "Verbs Overview",
     "title": "Verbs - Definition",
     "content": "Ancient Greek, like English, has several parts of speech into which words can be classified. The first part of speech under consideration is the verb, defined here as a word that indicates action or a state of being. Take a look at the following examples in English: . | The defendant showed the evidence. | You had my attention. | The story was very long. | The victims were wronged. | . In each of these sentences, the verb is bolded and serves as the anchor of the entire sentence, communicating the idea that the sentence is trying to convey. Note that the verb can indicate action (“showed”, “had”, “were wronged”) or a static state (“was”). We’ll learn more about these distinctions as the semester continues. ",
     "url": "/textbook/exam-1/verbs-overview#verbs---definition",
     
     "relUrl": "/textbook/exam-1/verbs-overview#verbs---definition"
-  },"331": {
+  },"330": {
     "doc": "Verbs Overview",
     "title": "Verb Aspects",
     "content": "Verbs can appear in different forms, including infinitives (verbal nouns, like “to make” or “to do”) or participles (verbal adjectives, like “making” or “done”). For the first part of the semester, however, we’ll be focusing mostly on verbs that are conjugated (more on this in a bit). As discussed in the page on inflection, we can change the endings of verbs to reflect different aspects of the verb through a process called conjugation. A conjugated verb, then, exhibits five major aspects that we can glean through the verb’s ending and the verb stem to which that ending is attached. Through this combination of stem and ending, we can figure out such aspects of a verb as who performs the verb’s action and how many of the actor there are. The following is a broad overview of verbal aspects that we can identify through a verb’s stem and ending. We will reinforce these ideas as the semester continues, so do not worry if you’re overwhelmed by all of these ideas now. These five aspects apply mainly to conjugated verbs, here defined as verbs with a person and a number. We may also refer to conjugated verbs as finite verbs, since we limit (or make finite) the verb by giving it a subject with a person and a number. Other verbal forms exhibit only some of the aspects (e.g., infinitives and participles both have tense and voice but not person, number, or mood); we will deal with those in later lessons. | person. The person of a verb indicates the relationship of the speaker of the sentence to the subject. | 1st person means that the speaker is the subject or is part of a group that serves as the subject. This is most often indicated through pronouns like “I” or “me” in the singular or “we” or “us” in the plural. | 2nd person means that the speaker is addressing the subject. This is most often indicated through pronouns like “you” (singular or plural) or “you all / y’all” (only plural). | 3rd person means that the speaker is talking about someone that is neither the speaker nor the addressee. This is often indicated through pronouns like “he, she, it, they” as subjects or “him, her, it, them” as objects. Also, a third-person subject can be explicitly named. For example, “The bees make honey” or “The sky is blue” – both “the bees” and “the sky” are examples of third-person subjects. | . | number. The number of a verb indicates how many of the subject there are. | singular indicates that there is just one of the subject. | plural indicates that there are more than one of the subject. | dual indicates that there are exactly two of the subject. (The dual is relatively rare, but it tends to be used with subjects that are natural pairs like eyes or knees in early Greek works like the Iliad or the Odyssey.) | . | tense. The tense of a verb indicates when the action of the verb occurs. Focus for now on the first three, as they are the tenses on which we will focus this semester. [The final three (perfect, pluperfect, and future perfect) are relatively rare, especially in comparison to the first four.] . | aorist tense indicates that the action of the verb happened in the past instantaneously, at one single point. | present tense indicates that the action of the verb is happening now. | future tense indicates that the action of the verb will occur later but hasn’t happened yet. | imperfect tense indicates that the action of the verb occurred continuously, over a period of time, in the past. Note the difference between the aorist and the imperfect; the former is a single point, like a photograph, while the latter takes place over a period of time, like a video. | perfect tense indicates that the action of the verb occurred in the past with lasting effects into the present. For example, “he has died” – he died at a point in the past, but he is still dead today. | pluperfect tense indicates that the action of the verb occurred before another event in the past but had lasting effects into that past moment. For example, “he had died before the war ended” – his death came before the war ended, and he was still dead when the war did end. | future perfect tense indicates that the action of the verb will have occurred before another event in the future but will have lasting effects into that future moment. For example, “he will have died before the war will end” – his death will come before the war’s end, and it will last into that future moment. | . | voice. The voice of a verb indicates the relationship of the subject to the action of the verb. | The verb’s voice is active if the subject performs the action of the verb. For example, “The boy loves the girl.” The boy performs the action of loving. | The verb’s voice is passive if the subject receives the action of the verb. For example, “The girl is loved by the boy.” The girl receives the action of loving, even though she is the subject, so the verb is considered passive. | The verb’s voice is middle if the subject either performs the verb’s action with some self-interested motive or performs the action upon themself. It’s often difficult to express the middle voice in English, but often some form of a reflexive pronoun (e.g., “myself”, “himself”, “ourselves”) can help. For example, “He speaks (for himself)” or “We know ourselves.” | . | mood. The mood of a verb indicates how the speaker thinks about the quality of the verb’s action. | indicative mood indicates that the speaker considers the verb’s action a definite fact. | imperative mood indicates that the speaker considers the verb’s action a command. | subjunctive mood indicates that the speaker considers the verb’s action as less definite, a possibility rather than an established fact. | optative mood indicates that the speaker considers the verb’s action a wish or even less definite than the subjunctive. | . | . So, in sum, a finite verb has some combination of the following five aspects: . | person: 1st, 2nd, 3rd | number: singular, plural, dual | tense: aorist, imperfect, present, future, perfect, pluperfect, future perfect | voice: active, passive, middle | mood: indicative, imperative, subjunctive, optative | . The act of identifying the five aspects of a conjugated verb is called parsing. So, if I were asked to parse the verb ἐκέλευσαν, I would answer: 3rd plural aorist active indicative. (We’ll learn much more about parsing and identification in the coming chapters.) . ",
     "url": "/textbook/exam-1/verbs-overview#verb-aspects",
     
     "relUrl": "/textbook/exam-1/verbs-overview#verb-aspects"
-  },"332": {
+  },"331": {
     "doc": "Verbs Overview",
     "title": "Dictionary Entry",
     "content": "When you are learning verbs in ancient Greek, you must memorize the way that the verb’s entry appears in a dictionary, such as the Complete Vocabulary list for this very textbook. You’ll notice that entries for verbs have seven sections: the first six, in Greek, are called principal parts and the seventh, in English, is the definition of the verb. Here are two examples: . | κελεύω, κελεύσω, ἐκέλευσα, κεκέλευκα, κεκέλευσμαι, ἐκελεύσθην, “to order” | δείκνυμι, δείξω, ἔδειξα, δέδειχα, δέδειγμα, ἐδείχθην, “to show” | . Each of the principal parts gives you the stem for the verb’s forms in certain tenses and voices. Here’s an overview: . | Principal Part | Form of Verb | What You Can Conjugate With It | . | 1st | 1st sg. present | present and imperfect tense forms in all voices | . | 2nd | 1st sg. future | future active and middle forms | . | 3rd | 1st sg. aorist | aorist active and middle forms | . | 4th | 1st sg. perfect active | perfect, plupf., and fut. pf. active forms | . | 5th | 1st sg. perfect middle/passive | perfect, plupf., and fut. pf. middle/passive forms | . | 6th | 1st sg. aorist passive | aorist passive and future passive forms | . Not all verbs have all six principal parts. In such cases, there will be a – in the places where the verb does not have a principal part. For example: . | δοκέω, δόξω, ἔδοξα, –, δέδογμαι, -ἐδόχθην, “to think” | . Conjugation . The dictionary entry of a verb also indicates a group to which it belongs that dictates what kind of endings we can use to conjugate the verb in question. Confusingly, these groups are called conjugations, and there are two major conjugations of Greek verbs: . | ω verbs are those with a first principal part that ends in either -ω or -ομαι. These are also called thematic verbs. | μι verbs are those with a first principal part that ends in either -μι or -μαι (with no omicron before it). These are also called athematic verbs. | . There are further finer distinctions that we will draw as the semester wears on, but this is the general rule. Principal Parts and Memorization . Many verbs have six principal parts, and while it is generally a good idea to memorize them all when you encounter new verbs, that is a lot to keep in mind. So, our goal in this textbook will be to keep the amount of vocabulary at a manageable level for retention and memorization and to suggest some strategies for memorizing piecemeal, rather than all in one fell swoop. To that end, for all of this semester, we will be working primarily with three of the six principal parts of verbs: 1, 3, and 6. Please memorize those three principal parts and the definition of a verb as you come across new ones. We will format verb entries in the textbook (but not in the isolated vocabulary lists or reference charts) in such a way as to remind you what you should pay attention to: bolded principal parts should be memorized, while you can de-prioritize coded principal parts. So: . | δείκνυμι, δείξω, ἔδειξα, δέδειχα, δέδειγμαι, ἐδείχθην, “to show” | κελεύω, κελεύσω, ἐκέλευσα, κεκέλευκα, κεκέλευσμαι, ἐκελεύσθην, “to order” | . We will use these two verbs primarily in the coming chatpers to demonstrate different verb forms and translations, so commit to memory the bolded forms above. We will also use the bolded versus coded scheme in other contexts as well, so be attuned to that – bold encourages memorization, while code is merely for your information. ",
     "url": "/textbook/exam-1/verbs-overview#dictionary-entry",
     
     "relUrl": "/textbook/exam-1/verbs-overview#dictionary-entry"
-  },"333": {
+  },"332": {
     "doc": "Verbs Overview",
     "title": "Compounds",
     "content": "Many verbs in Greek may be prefixed with a preposition to form new verbs. For example, we can combine δείκνυμι, “to show”, with the preposition ἐπί, “to” or “toward”, to form the verb ἐπιδείκνυμι: . | ἐπιδείκνυμι, ἐπιδείξω, ἐπέδειξα, ἐπιδέδειχα, ἐπιδέδειγμαι, ἐπεδείχθην, “to demonstrate, prove” | . Note how we simply attach the ἐπί to the front of the verb, but its ι drops off in forms that begin with a vowel through a process called elision. If the final vowel of a prefix is elided by a verb form that begins with a rough breathing, the final consonant of the prefix may be aspirated. For example, if ἐπί were attached to a verb that begins with ἁ, the aspiration of the rough breathing would interact with the π to form ἐφα- (rather than ἐπα-). ",
     "url": "/textbook/exam-1/verbs-overview#compounds",
     
     "relUrl": "/textbook/exam-1/verbs-overview#compounds"
-  },"334": {
+  },"333": {
     "doc": "Verbs Overview",
     "title": "Accentuation",
     "content": "Note that the accent on a finite verb form is recessive. Recall from the unit on the alphabet and accents that this means that the accent on a finite verb form wants to occupy the farthest-left syllable that it can. In 3+ syllable finite verb forms, this means the antepenult (unless pulled to the penult by a long ultima); and in 2 syllable forms, the penult. Note, for example, the following forms of the same verb: . | ἐκέλευσε | κελεύει | . In the first form, the accent (an acute) occupies the antepenult since the ultima, -ε, is short. In the second form, however, the acute accent gets pulled to the penult due to the long ultima, -ει. Although the accent on finite verb forms is recessive, note that the accents on participles and some infinitives are persistent. More on this later. ",
     "url": "/textbook/exam-1/verbs-overview#accentuation",
     
     "relUrl": "/textbook/exam-1/verbs-overview#accentuation"
-  },"335": {
+  },"334": {
     "doc": "Verb Principal Parts List",
     "title": "Verb Principal Parts",
     "content": "The following chart lists the principal parts for verbs for a quick and easy reference. For full definitions, see the Complete Vocabulary list. | 1st pp. | 2nd | 3rd | 4th | 5th | 6th | . | ἀγγέλλω(impf. ἠγγελλ-) | ἀγγελέω | ἤγγειλα | ἤγγελκα | ἤγγελμαι | ἠγγέλθην | . | ἀγνοέω(impf. ἠγνοε-) | ἀγνοήσω | ἠγνόησα | ἠγνόηκα | ἠγνόημαι | ἠγνοήθην | . | ἄγω(impf. ἠγ-) | ἄξω | ἤγαγον | ἦχα | ἦγμαι | ἤχθην | . | ἀδικέω(impf. ἠδικε-) | ἀδικήσω | ἠδίκησα | ἠδίκηκα | ἠδίκημαι | ἠδικήθην | . | αἱρέω(impf. ᾑρε-) | αἱρήσω | εἷλον(stem ἑλ-) | ᾕρηκα | ᾕρημαι | ᾑρέθην | . | ἀκούω(impf. ἠκου-) | ἀκούσομαι | ἤκουσα | ἀκήκοα | – | ἠκούσθην | . | ἁλίσκομαι(impf. ἡλισκ-) | ἁλώσομαι | ἑάλων(stem ἁλω-) | ἑάλωκα | – | – | . | ἀναβαίνω | ἀναβήσομαι | ἀνέβην | ἀναβέβηκα | ἀναβέβαμαι | ἀνεβάθην | . | ἀνατίθημι | ἀναθήσω | ἀνέθηκα | ἀνατέθηκα | ἀνατέθειμαι | ἀνετέθην | . | ἀποδίδωμι | ἀποδώσω | ἀπέδωκα | ἀποδέδωκα | ἀποδέδομαι | ἀπεδόθην | . | ἀποδύω | ἀποδύσω | ἀπέδυν | ἀποδέδυκα | ἀποδέδυμαι | ἀπεδύθην | . | ἀποκτείνω(impf. ἀπεκτειν-) | ἀποκτενέω | ἀπέκτεινα | ἀπέκτονα | – | – | . | ἁρπάζω(impf. ἡρπαζ-) | ἁρπάσομαι | ἥρπασα | ἥρπακα | ἥρπασμαι | ἡρσπάσθην | . | ἄρχω(impf. ἠρχ-) | ἄρξω | ἦρξα | ἦρχα | ἦργμαι | ἤρχθην | . | ἀφίημι(impf. ἀφιη- / ἀφιε-) | ἀφήσω | ἀφῆκα(stem ἀφε-) | ἀφεῖκα | ἀφεῖμαι | ἀφείθην | . | ἀφίστημι(impf. ἀφιστη- / ἀφιστα-) | ἀποστήσω | ἀπέστησα / ἀπέστην | ἀφέστηκα | ἀφέσταμαι | ἀπεστάθην | . | βαίνω | -βήσομαι | -ἔβην | βέβηκα | -βέβαμαι | -ἐβάθην | . | βάλλω | βαλέω | ἔβαλον | βέβληκα | βέβλημαι | ἐβλήθην | . | βλέπω | βλέψομαι | ἔβλεψα | βέβλεφα | βέβλεμμαι | ἐβλέφθην | . | βοηθέω | βοηθήσω | ἐβοήθησα | βεβοήθηκα | βεβοήθημαι | ἐβοηθήθην | . | γίγνομαι | γενήσομαι | ἐγενόμην | γέγονα | γεγένημαι | ἐγενήθην | . | γιγνώσκω | γνώσομαι | ἔγνων | ἔγνωκα | ἔγνωσμαι | ἐγνώσθην | . | γράφω | γράψω | ἔγραψα | γέγραφα | γέγραμμαι | ἐγράφην | . | δείκνυμι | δείξω | ἔδειξα | δέδειχα | δέδειγμαι | ἐδείχθην | . | δηλόω | δηλώσω | ἐδήλωσα | δεδήλωκα | δεδήλωμαι | ἐδήλωθην | . | διδάσκω | διδάξω | ἐδίδαξα | δεδίδαχα | δεδίδαγμαι | ἐδιδάχθην | . | δίδωμι | δώσω | ἔδωκα | δέδωκα | δέδομαι | ἐδόθην | . | δοκέω | δόξω | ἔδοξα | – | δέδογμαι | -ἐδόχθην | . | δύναμαι | δυνήσομαι | – | – | δεδύνημαι | ἐδυνήθην | . | δύω | -δύσω | -ἔδυν | -δέδυκα | -δέδυμαι | -ἐδύθην | . | ἐθέλω(impf. ἠθελ-) | ἐθελήσω | ἠθέλησα | ἠθέληκα | – | – | . | εἰμί | ἔσομαι | – | – | – | – | . | ἐπιτίθημι | ἐπιθήσω | ἐπέθηκα | ἐπιτέθηκα | ἐπιτέθειμαι | ἐπετέθην | . | ἔρχομαι(impf. ἠρχ-) | ἐλεύσομαι or εἶμι | ἦλθον(stem ἐλθ-) | ἐλήλυθα | – | – | . | ἐρωτάω | ἐρωτήσω | ἠρώτησα | ἠρώτηκα | ἠρώτημαι | ἠρωτήθην | . | ἐφίημι(impf. ἐφιη- / ἐφιε-) | ἐφήσω | ἐφῆκα(stem ἐφε-) | ἐφεῖκα | ἐφεῖμαι | ἐφείθην | . | ἐφίστημι(impf. ἐφιστη- / ἐφιστα-) | ἐπιστήσω | ἐπέστησα / ἐπέστην | ἐφέστηκα | ἐφέσταμαι | ἐπεστάθην | . | ἔχω(impf. εἰχ-) | ἕξω / σχήσω | ἔσχον | ἔσχηκα | -ἔσχημαι | ἐσχέθην | . | ζηλόω | ζηλώσω | ἐζήλωσα | ἐζήλωκα | ἐζήλωμαι | ἐζηλώθην | . | ζητέω | ζητήσω | ἐζήτησα | ἐζήτηκα | ἐζήτημαι | ἐζητήθην | . | ἵημι(impf. ἱη- / ἱε-) | ἥσω | -ἧκα(stem -ἑ-) | -εἷκα | -εἷμαι | -εἵθην | . | ἵστημι(impf. ἱστη- / ἱστα-) | στήσω | ἔστησα / ἔστην | ἕστηκα | ἕσταμαι | ἐστάθην | . | καθίστημι(impf. καθίστη- / καθιστα-) | καταστήσω | κατεστήσα / κατέστην | καθέστηκα | καθέσταμαι | καθεστάθην | . | καταβαίνω | καταβήσομαι | κατέβην | καταβέβηκα | καταβέβαμαι | κατεβάθην | . | καταδύω | καταδύσω | κατέδυν | καταδέδυκα | καταδέδυμαι | κατεδύθην | . | κελεύω | κελεύσω | ἐκέλευσα | κεκέλευκα | κεκέλευσμαι | ἐκελεύσθην | . | κρύπτω | κρύψω | ἔκρυψα | – | κέκρυμμαι | ἐκρύφθην | . | λαμβάνω | λήψομαι | ἔλαβον | εἴληφα | εἴλημμαι | ἐλήφθην | . | λέγω | λέξω | εἶπον(stem εἰπ-) | – | – | – | . | λύω | λύσω | ἔλυσα | λέλυκα | λέλυμαι | ἐλύθην | . | μανθάνω | μαθήσομαι | ἔμαθον | μεμάθηκα | – | – | . | μείγνυμι | μείξω | ἔμειξα | μέμιχα | μέμιγμαι | ἐμίγην | . | μισέω | μισήσω | ἐμίσησα | μεμίσηκα | μεμίσημαι | ἐμισήθην | . | νικάω | νικήσω | ἐνίκησα | νενίκηκα | νενίκημαι | ἐνικήθην | . | νομίζω | νομιέω | ἐνόμισα | νενόμικα | νενόμισμαι | ἐνομίσθην | . | ὁράω(impf. ἑωρα-) | ὄψομαι | εἶδον(stem ἰδ-) | ἑώρακα / ἑόρακα | ἑώραμαι / ὦμμαι | ὤφθην | . | παύω | παύσω | ἔπαυσα | πέπαυκα | πέπαυμαι | ἐπαύθην | . | πέμπω | πέμψω | ἔπεμψα | πέπομφα | πέπεμμαι | ἐπέμφθην | . | ποιέω | ποιήσω | ἐποίησα | πεποίηκα | πεποίημαι | ἐποιήθην | . | ῥίπτω | ῥίψω | ἔρριψα | ἔρριφα | ἔρριμμαι | ἐρρίφθην / ερρίφην | . | τίθημι | θήσω | ἔθηκα | τέθηκα | τέθειμαι | ἐτέθην | . | τιμάω | τιμήσω | ἐτίμησα | τετίμηκα | τετίμημαι | ἐτιμήθην | . | πέμπω | πέμψω | ἔπεμψα | πέπομφα | πέπεμμαι | ἐπέμφθην | . | φέρω | οἴσω | ἤνεγκον / ἤνεγκα(stem ἐνεγκ-) | ἐνήνοχα | ἐνήνεγμαι | ἠνέχθην(stem ἐνεχθ-) | . | φεύγω | φεύξομαι / φευξέομαι | ἔφυγον | πέφευγα | – | – | . | φημί | φήσω | ἔφησα | – | – | – | . | φιλέω | φιλήσω | ἐφίλησα | πεφίληκα | πεφίλημαι | ἐφιλήθην | . ",
     "url": "/vocabulary/verb-principal-parts#verb-principal-parts",
     
     "relUrl": "/vocabulary/verb-principal-parts#verb-principal-parts"
-  },"336": {
+  },"335": {
     "doc": "Verb Principal Parts List",
     "title": "Verb Principal Parts List",
     "content": " ",
     "url": "/vocabulary/verb-principal-parts",
     
     "relUrl": "/vocabulary/verb-principal-parts"
-  },"337": {
+  },"336": {
     "doc": "Verbs",
     "title": "Verb Paradigms",
     "content": " ",
     "url": "/reference/verbs#verb-paradigms",
     
     "relUrl": "/reference/verbs#verb-paradigms"
-  },"338": {
+  },"337": {
     "doc": "Verbs",
     "title": "Table of contents",
     "content": ". | Present | Imperfect | Future | Aorist | Perfect | Irregular Verbs | -μι Verbs . | δίδωμι | τίθημι | ἵημι | ἵστημι | . | . ",
     "url": "/reference/verbs#table-of-contents",
     
     "relUrl": "/reference/verbs#table-of-contents"
-  },"339": {
+  },"338": {
     "doc": "Verbs",
     "title": "Present",
     "content": "Present Tense (-ω) . Paradigm verb: κελεύω . | Person and # | Active | Middle/Passive | . | 1st sg. | κελεύω | κελεύομαι | . | 2nd sg. | κελεύεις | κελεύῃ | . | 3rd sg. | κελεύει | κελεύεται | . | 1st pl. | κελεύομεν | κελευόμεθα | . | 2nd pl. | κελεύετε | κελεύεσθε | . | 3rd pl. | κελεύουσι(ν) | κελεύονται | . | 2nd dual | κελεύετον | κελεύεσθον | . | 3rd dual | κελεύετον | κελεύεσθον | . Present Tense (-μι) . Paradigm verb: δείκνυμι . | Person and # | Active | Middle/Passive | . | 1st sg. | δείκνυμι | δείκνυμαι | . | 2nd sg. | δείκνυς | δείκνυσαι | . | 3rd sg. | δείκνυσι(ν) | δείκνυται | . | 1st pl. | δείκνυμεν | δεικνύμεθα | . | 2nd pl. | δείκνυτε | δείκνυσθε | . | 3rd pl. | δείκνύασι(ν) | δείκνυνται | . | 2nd dual | δείκνυτον | δείκνυσθον | . | 3rd dual | δείκνυτον | δείκνυσθον | . ",
     "url": "/reference/verbs#present",
     
     "relUrl": "/reference/verbs#present"
-  },"340": {
+  },"339": {
     "doc": "Verbs",
     "title": "Imperfect",
     "content": "Imperfect Tense (-ω) . | Person and # | Active | Middle/Passive | . | 1st sg. | ἐκέλευον | ἐκελευόμην | . | 2nd sg. | ἐκέλευες | ἐκελεύου | . | 3rd sg. | ἐκέλευε(ν) | ἐκελεύετο | . | 1st pl. | ἐκελεύομεν | ἐκελευόμεθα | . | 2nd pl. | ἐκελεύετε | ἐκελεύεσθε | . | 3rd pl. | ἐκέλευον | ἐκελεύοντο | . | 2nd dual | ἐκελεύετον | ἐκελεύεσθον | . | 3rd dual | ἐκελευέτην | ἐκελευέσθην | . Imperfect Tense (-μι) . Paradigm verb: δείκνυμι . | Person and # | Active | Middle/Passive | . | 1st sg. | ἐδείκνυν | ἐδεικνύμην | . | 2nd sg. | ἐδείκνυς | ἐδείκνυσο | . | 3rd sg. | ἐδείκνυ | ἐδείκνυτο | . | 1st pl. | ἐδείκνυμεν | ἐδεικνύμεθα | . | 2nd pl. | ἐδείκνυτε | ἐδείκνυσθε | . | 3rd pl. | ἐδείκνυσαν | ἐδείκνυντο | . | 2nd dual | ἐδείκνυτον | ἐδείκνυσθον | . | 3rd dual | ἐδεικνύτην | ἐδεικνύσθην | . ",
     "url": "/reference/verbs#imperfect",
     
     "relUrl": "/reference/verbs#imperfect"
-  },"341": {
+  },"340": {
     "doc": "Verbs",
     "title": "Future",
     "content": "Paradigm verb: λύω . | Person and # | Active | Middle | Passive | . | 1st sg. | λύσω | λύσομαι | λυθήσομαι | . | 2nd sg. | λύσεις | λύσῃ | λυθήσῃ | . | 3rd sg. | λύσει | λύσεται | λυθήσεται | . | 1st pl. | λύσομεν | λυσόμεθα | λυθησόμεθα | . | 2nd pl. | λύσετε | λύσεσθε | λυθήσεσθε | . | 3rd pl. | λύσουσι(ν) | λύσονται | λυθήσονται | . | 2nd dual | λύσετον | λύσεσθον | λυθήσεσθον | . | 3rd dual | λύσετον | λύσεσθον | λυθήσεσθον | . ",
     "url": "/reference/verbs#future",
     
     "relUrl": "/reference/verbs#future"
-  },"342": {
+  },"341": {
     "doc": "Verbs",
     "title": "Aorist",
     "content": "First Aorist . Paradigm verb: κελεύω . | Person and # | Active | Middle | Passive | . | 1st sg. | ἐκέλευσα | ἐκελευσάμην | ἐκελεύσθην | . | 2nd sg. | ἐκέλευσας | ἐκελεύσω | ἐκελεύσθης | . | 3rd sg. | ἐκέλευσε(ν) | ἐκελεύσατο | ἐκελεύσθη | . | 1st pl. | ἐκελεύσαμεν | ἐκελευσάμεθα | ἐκελεύσθημεν | . | 2nd pl. | ἐκελεύσατε | ἐκελεύσασθε | ἐκελεύσθητε | . | 3rd pl. | ἐκέλευσαν | ἐκελεύσαντο | ἐκελεύσθησαν | . | 2nd dual | ἐκελεύσατον | ἐκελεύσασθον | ἐκελεύσθητον | . | 3rd dual | ἐκελευσάτην | ἐκελευσάσθην | ἐκελευσθήτην | . Second Aorist . Paradigm verb: ἄγω . | Person and # | Active | Middle | Passive | . | 1st sg. | ἤγαγον | ἠγαγόμην | ἤχθην | . | 2nd sg. | ἤγαγες | ἠγάγου | ἤχθης | . | 3rd sg. | ἤγαγε(ν) | ἠγάγετο | ἤχθη | . | 1st pl. | ἠγάγομεν | ἠγαγόμεθα | ἤχθημεν | . | 2nd pl. | ἠγάγετε | ἠγάγεσθε | ἤχθητε | . | 3rd pl. | ἤγαγον | ἠγάγοντο | ἤχθησαν | . | 2nd dual | ἠγάγετον | ἠγάγεσθον | ἤχθητον | . | 3rd dual | ἠγαγέτην | ἠγαγέσθην | ἠχθήτην | . ",
     "url": "/reference/verbs#aorist",
     
     "relUrl": "/reference/verbs#aorist"
-  },"343": {
+  },"342": {
     "doc": "Verbs",
     "title": "Perfect",
     "content": "Perfect Active . Paradigm verb: λύω . | Person and # | Active | . | 1st sg. | λέλυκα | . | 2nd sg. | λέλυκας | . | 3rd sg. | λέλυκε(ν) | . | 1st pl. | λελύκαμεν | . | 2nd pl. | λελύκατε | . | 3rd pl. | λελύκασι(ν) | . | 2nd dual | λελύκατον | . | 3rd dual | λελύκατον | . Perfect Middle/Passive . |   | λύω(vowel stem) | κελεύω(dental plosive stem) | γράφω(labial plosive stem) | ἄγω(velar plosive stem) | ἀγγέλλω(λ stem) | . | 1st sg. | λέλυμαι | κεκέλευσμαι | γέγραμμαι | ἦγμαι | ἤγγελμαι | . | 2nd sg. | λέλυσαι | κεκέλευσαι | γέγραψαι | ἦξαι | ἤγγελσαι | . | 3rd sg. | λέλυται | κεκέλευσται | γέγραπται | ἦκται | ἤγγελται | . | 1st pl. | λελύμεθα | κεκελεύσμεθα | γεγράμμεθα | ἤγμεθα | ἠγγέλμεθα | . | 2nd pl. | λέλυσθε | κεκέλευσθε | γέγραφθε | ἦχθε | ἤγγελθε | . | 3rd pl. | λέλυνται | κεκελευσμένοι εἰσί(ν) | γεγραμμένοι εἰσί(ν) | ἠγμένοι εἰσί(ν) | ἠγγελμένοι εἰσί(ν) | . | 2nd dual | λέλυσθον | κεκέλευσθον | γέγραφθον | ἦχθον | ἤγγελθον | . | 3rd dual | λέλυσθον | κεκέλευσθον | γέγραφθον | ἦχθον | ἤγγελθον | . ",
     "url": "/reference/verbs#perfect",
     
     "relUrl": "/reference/verbs#perfect"
-  },"344": {
+  },"343": {
     "doc": "Verbs",
     "title": "Irregular Verbs",
     "content": "εἰμί . |   | Present | Imperfect | Future | . | 1st sg. | εἰμί | ἦ / ἦν | ἔσομαι | . | 2nd sg. | εἶ | ἦσθα | ἔσῃ | . | 3rd sg. | ἐστί(ν) | ἦν | ἔσται | . | 1st pl. | ἐσμέν | ἦμεν | ἐσόμεθα | . | 2nd pl. | ἐστέ | ἦτε / ἦστε | ἔσεσθε | . | 3rd pl. | εἰσί(ν) | ἦσαν | ἔσονται | . | 2nd dual | ἐστόν | ἦστον | ἔσεσθον | . | 3rd dual | ἐστόν | ἤστην | ἔσεσθον | . φημί . |   | Present | Imperfect | . | 1st sg. | φημί | ἔφην | . | 2nd sg. | φῇς | ἔφησθα / ἔφης | . | 3rd sg. | φησί(ν) | ἔφη | . | 1st pl. | φαμέν | ἔφαμεν | . | 2nd pl. | φατέ | ἔφατε | . | 3rd pl. | φασί(ν) | ἔφασαν | . | 2nd dual | φατόν | ἔφατον | . | 3rd dual | φατόν | ἐφάτην | . ",
     "url": "/reference/verbs#irregular-verbs",
     
     "relUrl": "/reference/verbs#irregular-verbs"
-  },"345": {
+  },"344": {
     "doc": "Verbs",
     "title": "-μι Verbs",
     "content": "δίδωμι . |   | Pres. Act. | Pres. M./P. | Impf. Act. | Impf. M./P. | . | 1st sg. | δίδωμι | δίδομαι | ἐδίδουν | ἐδιδόμην | . | 2nd sg. | δίδως | δίδοσαι | ἐδίδους | ἐδίδοσο | . | 3rd sg. | δίδωσι(ν) | δίδοται | ἐδίδου | ἐδίδοτο | . | 1st pl. | δίδομεν | διδόμεθα | ἐδίδομεν | ἐδιδόμεθα | . | 2nd pl. | δίδοτε | δίδοσθε | ἐδίδοτε | ἐδίδοσθε | . | 3rd pl. | διδόασι(ν) | δίδονται | ἐδίδοσαν | ἐδίδοντο | . | pres. act. inf.: διδόναι | pres. act. part.: διδούς, διδοῦσα, διδόν (m./n. stem διδοντ-) | pres. m./p. inf.: δίδοσθαι | pres. m./p. part.: διδόμενος, -η, -ον | . |   | Aor. Act. | Aor. Mid. | . | 1st sg. | ἔδωκα | ἐδόμην | . | 2nd sg. | ἔδωκας | ἔδου | . | 3rd sg. | ἔδωκε(ν) | ἔδοτο | . | 1st pl. | ἔδομεν | ἐδόμεθα | . | 2nd pl. | ἔδοτε | ἔδοσθε | . | 3rd pl. | ἔδοσαν | ἔδοντο | . | aor. act. inf.: δοῦναι | aor. act. part.: δούς, δοῦσα, δόν (m./n. stem δοντ-) | aor. mid. inf.: δόσθαι | aor. mid. part.: δόμενος, -η, -ον | . τίθημι . |   | Pres. Act. | Pres. M./P. | Impf. Act. | Impf. M./P. | . | 1st sg. | τίθημι | τίθεμαι | ἐτίθην | ἐτιθέμην | . | 2nd sg. | τίθης | τίθεσαι | ἐτίθεις | ἐτίθεσο | . | 3rd sg. | τίθησι(ν) | τίθεται | ἐτίθει | ἐτίθετο | . | 1st pl. | τίθεμεν | τιθέμεθα | ἐτίθεμεν | ἐτιθέμεθα | . | 2nd pl. | τίθετε | τίθεσθε | ἐτίθετε | ἐτίθεσθε | . | 3rd pl. | τιθέασι(ν) | τίθενται | ἐτίθεσαν | ἐτίθεντο | . | pres. act. inf.: τιθέναι | pres. act. part.: τιθείς, τιθεῖσα, τιθέν (m./n. stem τιθεντ-) | pres. m./p. inf.: τίθεσθαι | pres. m./p. part.: τιθέμενος, -η, -ον | . |   | Aor. Act. | Aor. Mid. | . | 1st sg. | ἔθηκα | ἐθέμην | . | 2nd sg. | ἔθηκας | ἔθου | . | 3rd sg. | ἔθηκε(ν) | ἔθετο | . | 1st pl. | ἔθεμεν | ἐθέμεθα | . | 2nd pl. | ἔθετε | ἔθεσθε | . | 3rd pl. | ἔθεσαν | ἔθεντο | . | aor. act. inf.: θεῖναι | aor. act. part.: θεῖς, θεῖσα, θέν (m./n. stem θεντ-) | aor. mid. inf.: θέσθαι | aor. mid. part.: θέμενος, -η, -ον | . ἵημι . |   | Pres. Act. | Pres. M./P. | Impf. Act. | Impf. M./P. | . | 1st sg. | ἵημι | ἵεμαι | ἵην | ἱέμην | . | 2nd sg. | ἵης | ἱεσαι | ἵεις | ἵεσο | . | 3rd sg. | ἵησι(ν) | ἱεται | ἵει | ἵετο | . | 1st pl. | ἵεμεν | ἱέμεθα | ἵεμεν | ἱέμεθα | . | 2nd pl. | ἵετε | ἵεσθε | ἵετε | ἵεσθε | . | 3rd pl. | ἱᾶσι(ν) | ἵενται | ἵεσαν | ἵεντο | . | pres. act. inf.: ἱέναι | pres. act. part.: ἱείς, ἱεῖσα, ἱέν (m./n. stem ἱεντ-) | pres. m./p. inf.: ἵεσθαι | pres. m./p. part.: ἱέμενος, -η, -ον | . |   | Aor. Act. | Aor. Mid. | . | 1st sg. | -ἧκα | -εἵμην | . | 2nd sg. | -ἧκας | -εἷσο | . | 3rd sg. | -ἧκε(ν) | -εἷτο | . | 1st pl. | -εἷμεν | -εἵμεθα | . | 2nd pl. | -εἷτε | -εἷσθε | . | 3rd pl. | -εἷσαν | -εἷντο | . | aor. act. inf.: -εἷναι | aor. act. part.: -εἵς, -εἷσα, -ἕν (m./n. stem -ἑντ-) | aor. mid. inf.: -ἕσθαι | aor. mid. part.: -ἕμενος, -η, -ον | . ἵστημι . |   | Pres. Act. | Pres. M./P. | Impf. Act. | Impf. M./P. | . | 1st sg. | ἵστημι | ἵσταμαι | ἵστην | ἱστάμην | . | 2nd sg. | ἵστης | ἵστασαι | ἵστης | ἵστασο | . | 3rd sg. | ἵστησι(ν) | ἵσταται | ἵστη | ἵστατο | . | 1st pl. | ἵσταμεν | ἱστάμεθα | ἵσταμεν | ἱστάμεθα | . | 2nd pl. | ἵστατε | ἵστασθε | ἵστατε | ἵστασθε | . | 3rd pl. | ἱστᾶσι(ν) | ἵστανται | ἵστασαν | ἵσταντο | . | pres. act. inf.: ἱστάναι | pres. act. part.: ἱστάς, ἱστᾶσα, ἱστάν (m./n. stem ἱσταντ-) | pres. m./p. inf.: ἵστασθαι | pres. m./p. part.: ἱστάμενος, -η, -ον | . |   | Aor. Act. (trans.) | Aor. Mid. (trans.) | Aor. Act. (intrans.) | . | 1st sg. | ἔστησα | ἐστησάμην | ἔστην | . | 2nd sg. | ἔστησας | ἐστήσω | ἔστης | . | 3rd sg. | ἔστησε(ν) | ἐστήσατο | ἔστη | . | 1st pl. | ἐστήσαμεν | ἐστησάμεθα | ἔστημεν | . | 2nd pl. | ἐστήσατε | ἐστήσασθε | ἔστητε | . | 3rd pl. | ἔστησαν | ἐστήσαντο | ἔστησαν | . | aor. act. inf. (trans.): στῆσαι | aor. act. part. (trans.): στήσας, στήσασα, στῆσαν (m./n. stem στησαντ-) | aor. act. mid. (trans.): στήσασθαι | aor. act. mid. (trans.): στησάμενος, -η, -ον | aor. act. inf. (intrans.): στῆναι | aor. act. part. (intrans.): στάς, στᾶσα, στάν (m./n. stem σταντ-) | . ",
     "url": "/reference/verbs#-%CE%BC%CE%B9-verbs",
     
     "relUrl": "/reference/verbs#-μι-verbs"
-  },"346": {
+  },"345": {
     "doc": "Verbs",
     "title": "Verbs",
     "content": " ",
     "url": "/reference/verbs",
     
     "relUrl": "/reference/verbs"
-  },"347": {
+  },"346": {
     "doc": "Week 2 Paradigms",
     "title": "Week 2 Paradigms",
     "content": " ",
     "url": "/reference/week-02-paradigms",
     
     "relUrl": "/reference/week-02-paradigms"
-  },"348": {
+  },"347": {
     "doc": "Week 2 Paradigms",
     "title": "Table of contents",
     "content": ". | Verbs . | Aspects of Conjugated Verbs | Verb Principal Parts | (1st) Aorist Active Endings | (1st) Aorist Middle Endings | Sample 1st Aorist Active/Middle Conjugation | (2nd) Aorist Active Endings | (2nd) Aorist Middle Endings | Sample 2nd Aorist Active/Middle Conjugation | . | . ",
     "url": "/reference/week-02-paradigms#table-of-contents",
     
     "relUrl": "/reference/week-02-paradigms#table-of-contents"
-  },"349": {
+  },"348": {
     "doc": "Week 2 Paradigms",
     "title": "Verbs",
     "content": "Aspects of Conjugated Verbs . | Aspect | Options | . | person | 1st, 2nd, 3rd | . | number | singular, plural, dual | . | tense | aorist, present, imperfect, future, perfect, pluperfect, future perfect | . | voice | active, middle, passive | . | mood | indicative, imperative, subjunctive, optative | . Verb Principal Parts . | Principal Part | Form of Verb | What You Can Conjugate With It | . | 1st | 1st sg. present | present and imperfect tense forms in all voices | . | 2nd | 1st sg. future | future active and middle forms | . | 3rd | 1st sg. aorist | aorist active and middle forms | . | 4th | 1st sg. perfect active | perfect, plupf., and fut. pf. active forms | . | 5th | 1st sg. perfect middle/passive | perfect, plupf., and fut. pf. middle/passive forms | . | 6th | 1st sg. aorist passive | aorist passive and future passive forms | . (1st) Aorist Active Endings . | Person | Singular | Plural | . | 1st | -α | -αμεν | . | 2nd | -ας | -ατε | . | 3rd | -ε(ν) | -αν | . (1st) Aorist Middle Endings . | Person | Singular | Plural | . | 1st | -άμην | -άμεθα | . | 2nd | -ω | -ασθε | . | 3rd | -ατο | -αντο | . Sample 1st Aorist Active/Middle Conjugation . | Paradigm verb: κελεύω | . | Voice | 3rd Singular | 3rd Plural | . | Active | ἐκέλευσε(ν) | ἐκέλευσαν | . | Middle | ἐκελεύσατο | ἐκελεύσαντο | . (2nd) Aorist Active Endings . | Person | Singular | Plural | . | 1st | -ον | -ομεν | . | 2nd | -ες | -ετε | . | 3rd | -ε(ν) | -ον | . (2nd) Aorist Middle Endings . | Person | Singular | Plural | . | 1st | -όμην | -όμεθα | . | 2nd | -ου | -εσθε | . | 3rd | -ετο | -οντο | . Sample 2nd Aorist Active/Middle Conjugation . | Paradigm verb: ἄγω | . | Voice | 3rd Singular | 3rd Plural | . | Active | ἤγαγε(ν) | ἤγαγον | . | Middle | ἠγάγετο | ἠγάγοντο | . ",
     "url": "/reference/week-02-paradigms#verbs",
     
     "relUrl": "/reference/week-02-paradigms#verbs"
-  },"350": {
+  },"349": {
     "doc": "Week 2 Vocabulary",
     "title": "Week 2 Vocabulary",
     "content": " ",
     "url": "/vocabulary/week-02-vocabulary",
     
     "relUrl": "/vocabulary/week-02-vocabulary"
-  },"351": {
+  },"350": {
     "doc": "Week 2 Vocabulary",
     "title": "Verbs",
     "content": ". | ἄγω, ἄξω, ἤγαγον, ἦχα, ἦγμαι, ἤχθην - to lead . | ἀδικέω, ἀδικήσω, ἠδίκησα, ἠδίκηκα, ἠδίκημαι, ἠδικήθην - to do wrong, injure . | αἱρέω, αἱρήσω, εἷλον, ᾕρηκα, ᾕρημαι, ᾑρέθην - to take, seize . | βλέπω, βλέψομαι, ἔβλεψα, βέβλεφα, βέβλεμμαι, ἐβλέφθην - “to see” . | γράφω, γράψω, ἔγραψα, γέγραφα, γέγραμμαι, ἐγράφην - to write . | δείκνυμι, δείξω, ἔδειξα, δέδειχα, δέδειγμαι, ἐδείχθην - to show . | ἔρχομαι, ἐλεύσομαι, ἦλθον, ἐλήλυθα, –, – - to come, to go . | ἔχω, ἕξω / σχήσω, ἔσχον, ἔσχηκα, -ἔσχημαι, ἐσχέθην - to have, to hold . | κελεύω, κελεύσω, ἐκέλευσα, κεκέλευκα, κεκέλευσμαι, ἐκελεύσθην - to order . | κρύπτω, κρύψω, ἔκρυψα, –, κέκρυμμαι, ἐκρύφθην - to hide, conceal . | λέγω, ἐρέω, εἶπον, εἴρηκα, –, – - to say, to speak . | μείγνυμι, μείξω, ἔμειξα, μέμιχα, μέμιγμαι, ἐμίγην - to mix . | ποιέω, ποιήσω, ἐποίησα, πεποίηκα, πεποίημαι, ἐποιήθην - to make, do . | φέρω, οἴσω, ἤνεγκον / ἤνεγκα, ἐνήνοχα, ἐνήνεγμαι, ἠνέχθην - to bring, carry, bear . | . ",
     "url": "/vocabulary/week-02-vocabulary#verbs",
     
     "relUrl": "/vocabulary/week-02-vocabulary#verbs"
-  },"352": {
+  },"351": {
     "doc": "Week 3 Paradigms",
     "title": "Week 3 Paradigms",
     "content": " ",
     "url": "/reference/week-03-paradigms",
     
     "relUrl": "/reference/week-03-paradigms"
-  },"353": {
+  },"352": {
     "doc": "Week 3 Paradigms",
     "title": "Table of contents",
     "content": ". | Verbs . | Aorist Passive | Summary of Aorist Forms | . | Nouns . | Aspects of Declined Nouns | Noun Principal Parts | Noun Endings . | First Declension | Second Declension | Third Declension | . | . | . ",
     "url": "/reference/week-03-paradigms#table-of-contents",
     
     "relUrl": "/reference/week-03-paradigms#table-of-contents"
-  },"354": {
+  },"353": {
     "doc": "Week 3 Paradigms",
     "title": "Verbs",
     "content": "Aorist Passive . | Person | Singular | Plural | . | 1st | -ην | -ημεν | . | 2nd | -ης | -ητε | . | 3rd | -η | -ησαν | . Summary of Aorist Forms . | Voice | 3rd Singular | 3rd Plural | . | Active | ἐκέλευσε(ν) | ἐκέλευσαν | . | Middle | ἐκελεύσατο | ἐκελεύσαντο | . | Passive | ἐκελεύσθη | ἐκελεύσθησαν | . ",
     "url": "/reference/week-03-paradigms#verbs",
     
     "relUrl": "/reference/week-03-paradigms#verbs"
-  },"355": {
+  },"354": {
     "doc": "Week 3 Paradigms",
     "title": "Nouns",
     "content": "Aspects of Declined Nouns . | Aspect | Options | . | gender | masculine, feminine, neuter | . | case | nominative, genitive, dative, accusative, vocative | . | number | singular, plural, dual | . Noun Principal Parts . | Word Order in Entry | Function | . | 1st | nominative singular | . | 2nd | genitive singular | . | 3rd | gender | . | 4th | definition | . Noun Endings . First Declension . |   | Long Feminine | Short Feminine | Masculine | . | Nom. sg. | -ᾱ, -η | -α | -ᾱς, -ης | . | Gen. sg. | -ᾱς, -ης | -ης | -ου | . | Dat. sg. | -ᾳ, -ῃ | -ῃ | -ᾳ, -ῃ | . | Acc. sg. | -αν, -ην | -αν | -αν, -ην | . | Nom. pl. | -αι | -αι | -αι | . | Gen. pl. | -ῶν | -ῶν | -ῶν | . | Dat. pl. | -αις | -αις | -αις | . | Acc. pl. | -ας | -ας | -ας | . Second Declension . |   | Masculine/Feminine | Neuter | . | Nom. sg. | -ος | -ον | . | Gen. sg. | -ου | -ου | . | Dat. sg. | -ῳ | -ῳ | . | Acc. sg. | -ον | -ον | . | Nom. pl. | -οι | -α | . | Gen. pl. | -ων | -ων | . | Dat. pl. | -οις | -οις | . | Acc. pl. | -ους | -α | . Third Declension . |   | Masculine/Feminine | Neuter | . | Nom. sg. | -ς, – | – | . | Gen. sg. | -ος | -ος | . | Dat. sg. | -ι | -ι | . | Acc. sg. | -α | same as nom. | . | Nom. pl. | -ες | -α | . | Gen. pl. | -ων | -ων | . | Dat. pl. | -σι(ν) | -σι(ν) | . | Acc. pl. | -ας | -α | . ",
     "url": "/reference/week-03-paradigms#nouns",
     
     "relUrl": "/reference/week-03-paradigms#nouns"
-  },"356": {
+  },"355": {
     "doc": "Week 3 Vocabulary",
     "title": "Week 3 Vocabulary",
     "content": " ",
     "url": "/vocabulary/week-03-vocabulary",
     
     "relUrl": "/vocabulary/week-03-vocabulary"
-  },"357": {
+  },"356": {
     "doc": "Week 3 Vocabulary",
     "title": "Verbs",
     "content": ". | ἁρπάζω, ἁρπάσομαι, ἥρπασα, ἥρπακα, ἥρπασμαι, ἡρπάσθην - to snatch, to seize . | γίγνομαι, γενήσομαι, ἐγενόμην, γέγονα, γεγένημαι, ἐγενήθην - to become, to happen . | πέμπω, πέμψω, ἔπεμψα, πέπομφα, πέπεμμαι, ἐπέμφθην - to send . | . ",
     "url": "/vocabulary/week-03-vocabulary#verbs",
     
     "relUrl": "/vocabulary/week-03-vocabulary#verbs"
-  },"358": {
+  },"357": {
     "doc": "Week 3 Vocabulary",
     "title": "Nouns",
     "content": ". | ἀνήρ, ἀνδρός, m. - man, husband . | ἄνθρωπος, ἀνθρώπου, m. - person, human . | βιβλίον, βιβλίου, n. - book . | γνώμη, γνώμης, f. - judgment, opinion . | γυνή, γυναικός, f. - woman, wife . | διδάσκαλος, διδασκάλου, m. - teacher . | δικαστής, δικαστοῦ, m. - juror . | ἔργον, ἔργου, n. - deed . | θάλαττα, θάλαττης, f. - sea . | θεός, θεοῦ, m./f. - god . | κόρη, κόρης, f. - girl . | κόρος, κόρου, m. - boy . | λόγος, λόγου, m. - word, speech . | μαθητής, μαθητοῦ, m. - student . | ποίημα, ποιήματος, n. - poem . | συμφορά, συμφορᾶς, f. - event, outcome, mishap . | . ",
     "url": "/vocabulary/week-03-vocabulary#nouns",
     
     "relUrl": "/vocabulary/week-03-vocabulary#nouns"
-  },"359": {
+  },"358": {
     "doc": "Week 3 Vocabulary",
     "title": "Adjectives/Pronouns",
     "content": ". | ὁ, ἡ, τό - (definite article) the | . ",
     "url": "/vocabulary/week-03-vocabulary#adjectivespronouns",
     
     "relUrl": "/vocabulary/week-03-vocabulary#adjectivespronouns"
-  },"360": {
+  },"359": {
     "doc": "Week 4 Paradigms",
     "title": "Week 4 Paradigms",
     "content": " ",
     "url": "/reference/week-04-paradigms",
     
     "relUrl": "/reference/week-04-paradigms"
-  },"361": {
+  },"360": {
     "doc": "Week 4 Paradigms",
     "title": "Table of contents",
     "content": ". | Nouns . | Noun Endings . | First Declension | Second Declension | Third Declension | . | . | Verbs . | Present Active Endings (-ω) | Present Active Endings (-μι) | Sample Present Active Conjugated Verbs | . | . ",
     "url": "/reference/week-04-paradigms#table-of-contents",
     
     "relUrl": "/reference/week-04-paradigms#table-of-contents"
-  },"362": {
+  },"361": {
     "doc": "Week 4 Paradigms",
     "title": "Nouns",
     "content": "Noun Endings . First Declension . |   | Long Feminine | Short Feminine | Masculine | . | Nom. sg. | -ᾱ, -η | -α | -ᾱς, -ης | . | Gen. sg. | -ᾱς, -ης | -ης | -ου | . | Dat. sg. | -ᾳ, -ῃ | -ῃ | -ᾳ, -ῃ | . | Acc. sg. | -αν, -ην | -αν | -αν, -ην | . | Nom. pl. | -αι | -αι | -αι | . | Gen. pl. | -ῶν | -ῶν | -ῶν | . | Dat. pl. | -αις | -αις | -αις | . | Acc. pl. | -ας | -ας | -ας | . Second Declension . |   | Masculine/Feminine | Neuter | . | Nom. sg. | -ος | -ον | . | Gen. sg. | -ου | -ου | . | Dat. sg. | -ῳ | -ῳ | . | Acc. sg. | -ον | -ον | . | Nom. pl. | -οι | -α | . | Gen. pl. | -ων | -ων | . | Dat. pl. | -οις | -οις | . | Acc. pl. | -ους | -α | . Third Declension . |   | Masculine/Feminine | Neuter | . | Nom. sg. | -ς, – | – | . | Gen. sg. | -ος | -ος | . | Dat. sg. | -ι | -ι | . | Acc. sg. | -α | same as nom. | . | Nom. pl. | -ες | -α | . | Gen. pl. | -ων | -ων | . | Dat. pl. | -σι(ν) | -σι(ν) | . | Acc. pl. | -ας | -α | . ",
     "url": "/reference/week-04-paradigms#nouns",
     
     "relUrl": "/reference/week-04-paradigms#nouns"
-  },"363": {
+  },"362": {
     "doc": "Week 4 Paradigms",
     "title": "Verbs",
     "content": "Present Active Endings (-ω) . | Person | Singular | Plural | . | 1st | -ω | -ομεν | . | 2nd | -εις | -ετε | . | 3rd | -ει | -ουσι(ν) | . Present Active Endings (-μι) . | Person | Singular | Plural | . | 1st | -μι | -μεν | . | 2nd | -ς | -τε | . | 3rd | -σι(ν) | -ασι(ν) | . Sample Present Active Conjugated Verbs . | Verb | 3rd Singular | 3rd Plural | . | κελεύω | κελεύει | κελεύουσι(ν) | . | δείκνυμι | δείκνυσι(ν) | δεικνύασι(ν) | . ",
     "url": "/reference/week-04-paradigms#verbs",
     
     "relUrl": "/reference/week-04-paradigms#verbs"
-  },"364": {
+  },"363": {
     "doc": "Week 4 Vocabulary",
     "title": "Week 4 Vocabulary",
     "content": " ",
     "url": "/vocabulary/week-04-vocabulary",
     
     "relUrl": "/vocabulary/week-04-vocabulary"
-  },"365": {
+  },"364": {
     "doc": "Week 4 Vocabulary",
     "title": "Nouns",
     "content": ". | δίκη, δίκης, f. - trial, lawsuit, penalty, custom, right . | ἵππος, ἵππου, m./f. - horse . | κίνδυνος, κινδύνου, m. - danger . | μάρτυς, μάρτυρος, m./f. - witness . | ὁδός, ὁδοῦ, f. - road . | οἶνος, οἴνου, m. - wine . | ὄνομα, ὀνόματος, n. - name . | παῖς, παῖδος, m./f. - child . | πολίτης, πολίτου, m. - citizen . | ποταμός, -οῦ, m. - river . | πρᾶγμα, πράγματος, n. - deed . | χρῆμα, χρήματος, n. - thing; (plural) money, goods, property . | . ",
     "url": "/vocabulary/week-04-vocabulary#nouns",
     
     "relUrl": "/vocabulary/week-04-vocabulary#nouns"
-  },"366": {
+  },"365": {
     "doc": "Week 4 Vocabulary",
     "title": "Conjunctions and Particles",
     "content": ". | ἀλλά - but . | γάρ - (post-positive) for, because . | δέ - (post-positive) and, but . | ἤ - or; than (with comparative) (ἤ … ἤ - either … or) . | καί - and; even, also (καί/τε … καί/τε - both … and) . | μέν … δέ (… δέ …) - [denotes elements of a list] . | οὖν - (post-positive) therefore, then . | τε - (enclitic, post-positive) and . | . ",
     "url": "/vocabulary/week-04-vocabulary#conjunctions-and-particles",
     
     "relUrl": "/vocabulary/week-04-vocabulary#conjunctions-and-particles"
-  },"367": {
+  },"366": {
     "doc": "Week 4 Vocabulary",
     "title": "Adverbs",
     "content": ". | οὐ (οὐκ before smooth breathing, οὐχ before rough breathing) - not, no | . ",
     "url": "/vocabulary/week-04-vocabulary#adverbs",
     
     "relUrl": "/vocabulary/week-04-vocabulary#adverbs"
-  },"368": {
+  },"367": {
     "doc": "Week 5 Paradigms",
     "title": "Week 5 Paradigms",
     "content": " ",
     "url": "/reference/week-05-paradigms",
     
     "relUrl": "/reference/week-05-paradigms"
-  },"369": {
+  },"368": {
     "doc": "Week 5 Paradigms",
     "title": "Table of contents",
     "content": ". | Verbs . | Present Middle/Passive Endings (-ω) | Present Middle/Passive Endings (-μι) | Sample Present Middle/Passive Conjugated Verbs | Epsilon Contractions | Sample Epsilon Contract in Present Tense | . | . ",
     "url": "/reference/week-05-paradigms#table-of-contents",
     
     "relUrl": "/reference/week-05-paradigms#table-of-contents"
-  },"370": {
+  },"369": {
     "doc": "Week 5 Paradigms",
     "title": "Verbs",
     "content": "Present Middle/Passive Endings (-ω) . | Person | Singular | Plural | . | 1st | -ομαι | -όμεθα | . | 2nd | -ῃ | -εσθε | . | 3rd | -εται | -ονται | . Present Middle/Passive Endings (-μι) . | Person | Singular | Plural | . | 1st | -μαι | -μεθα | . | 2nd | -σαι | -σθε | . | 3rd | -ται | -νται | . Sample Present Middle/Passive Conjugated Verbs . | Verb | Singular | Plural | —– | —– | —– | κελεύω | κελεύεται | κελεύονται | δείκνυμι | δείκνυται | δείκνυνται | . Epsilon Contractions . | ε + ει = ει | ε + ου = ου | ε + ε = ει | ε + ο = ου | . Sample Epsilon Contract in Present Tense . | Person/Number | Active | Middle/Passive | . | 3rd sg. | ποιεῖ | ποιεῖται | . | 3rd pl. | ποιοῦσι(ν) | ποιοῦνται | . ",
     "url": "/reference/week-05-paradigms#verbs",
     
     "relUrl": "/reference/week-05-paradigms#verbs"
-  },"371": {
+  },"370": {
     "doc": "Week 5 Vocabulary",
     "title": "Week 5 Vocabulary",
     "content": " ",
     "url": "/vocabulary/week-05-vocabulary",
     
     "relUrl": "/vocabulary/week-05-vocabulary"
-  },"372": {
+  },"371": {
     "doc": "Week 5 Vocabulary",
     "title": "Verbs",
     "content": ". | βοηθέω, βοηθήσω, ἐβοήθησα, βεβοήθηκα, βεβοήθημαι, ἐβοηθήθην - to help, aid . | δοκέω, δοκήσω, ἔδοξα, –, δέδογμαι, -ἐδόχθην - to think; (3rd sg.) to seem (best) . | ζητέω, ζητήσω, ἐζήτησα, ἐζήτηκα, ἐζήτημαι, ἐζητήθην - to look for, seek . | μισέω, μισήσω, ἐμίσησα, μεμίσηκα, μεμίσημαι, ἐμισήθην - to hate . | φιλέω, φιλήσω, ἐφίλησα, πεφίληκα, πεφίλημαι, ἐφιλήθην - to love, kiss . | . ",
     "url": "/vocabulary/week-05-vocabulary#verbs",
     
     "relUrl": "/vocabulary/week-05-vocabulary#verbs"
-  },"373": {
+  },"372": {
     "doc": "Week 6 Paradigms",
     "title": "Week 6 Paradigms",
     "content": " ",
     "url": "/reference/week-06-paradigms",
     
     "relUrl": "/reference/week-06-paradigms"
-  },"374": {
+  },"373": {
     "doc": "Week 6 Paradigms",
     "title": "Table of contents",
     "content": ". | Adjectives . | Vowel Declension (2-1-2) Endings . | Sample 2-1-2 | . | Vowel Declension (2-termination) Endings . | Sample Vowel Declension 2-termination | . | . | . ",
     "url": "/reference/week-06-paradigms#table-of-contents",
     
     "relUrl": "/reference/week-06-paradigms#table-of-contents"
-  },"375": {
+  },"374": {
     "doc": "Week 6 Paradigms",
     "title": "Adjectives",
     "content": "Vowel Declension (2-1-2) Endings . |   | Masc. | Fem. | Neut. | . | Nom. Sg. | -ος | -α / -η | -ον | . | Gen. Sg. | -ου | -ας / -ης | -ου | . | Dat. Sg. | -ῳ | -ᾳ / -ῃ | -ῳ | . | Acc. Sg. | -ον | -αν / -ην | -ον | . | Nom. Pl. | -οι | -αι | -α | . | Gen. Pl. | -ων | -ων | -ων | . | Dat. Pl. | -οις | -αις | -οις | . | Acc. Pl. | -ους | -ας | -α | . Sample 2-1-2 . |   | Masc. | Fem. | Neut. | . | Nom. Sg. | ἀγαθός | ἀγαθή | ἀγαθόν | . | Gen. Sg. | ἀγαθοῦ | ἀγαθῆς | ἀγαθοῦ | . | Dat. Sg. | ἀγαθῷ | ἀγαθῇ | ἀγαθῷ | . | Acc. Sg. | ἀγαθόν | ἀγαθήν | ἀγαθόν | . | Nom. Pl. | ἀγαθοί | ἀγαθαί | ἀγαθά | . | Gen. Pl. | ἀγαθῶν | ἀγαθῶν | ἀγαθῶν | . | Dat. Pl. | ἀγαθοῖς | ἀγαθαῖς | ἀγαθοῖς | . | Acc. Pl. | ἀγαθούς | ἀγαθάς | ἀγαθά | . Vowel Declension (2-termination) Endings . |   | Masc./Fem. | Neut. | . | Nom. Sg. | -ος | -ον | . | Gen. Sg. | -ου | -ου | . | Dat. Sg. | -ῳ | -ῳ | . | Acc. Sg. | -ον | -ον | . | Nom. Pl. | -οι | -α | . | Gen. Pl. | -ων | -ων | . | Dat. Pl. | -οις | -οις | . | Acc. Pl. | -ους | -α | . Sample Vowel Declension 2-termination . |   | Masc./Fem. | Neut. | . | Nom. Sg. | ἄδικος | ἄδικον | . | Gen. Sg. | ἀδίκου | ἀδίκου | . | Dat. Sg. | ἀδίκῳ | ἀδίκῳ | . | Acc. Sg. | ἄδικον | ἄδικον | . | Nom. Pl. | ἄδικοι | ἄδικα | . | Gen. Pl. | ἀδίκων | ἀδίκων | . | Dat. Pl. | ἀδίκοις | ἀδίκοις | . | Acc. Pl. | ἀδίκους | ἄδικα | . ",
     "url": "/reference/week-06-paradigms#adjectives",
     
     "relUrl": "/reference/week-06-paradigms#adjectives"
-  },"376": {
+  },"375": {
     "doc": "Week 6 Vocabulary",
     "title": "Week 6 Vocabulary",
     "content": " ",
     "url": "/vocabulary/week-06-vocabulary",
     
     "relUrl": "/vocabulary/week-06-vocabulary"
-  },"377": {
+  },"376": {
     "doc": "Week 6 Vocabulary",
     "title": "Prepositions",
     "content": "NOTE: These prepositions can mean many more things than are indicated in this vocabulary list; these are simply the core definitions of the prepositions. Memorizing these definitions is highly recommended, but be attuned to the other ways in which these prepositions can be used and translated as we progress throughout the semester. | ἀνά - up | κατά - down | ὑπό - under | ὑπέρ - over, above | μετά - after (+ acc.); with (+ gen.) | παρά - next to, near | περί - around | πρός - to, toward | ἐκ (+ gen.) - out of | ἀπό (+ gen.) - away from | εἰς (+ acc.) - into | ἐν (+ dat.) - in, within | σύν (+ dat.) - with | ἐπί - on, upon | . ",
     "url": "/vocabulary/week-06-vocabulary#prepositions",
     
     "relUrl": "/vocabulary/week-06-vocabulary#prepositions"
-  },"378": {
+  },"377": {
     "doc": "Week 6 Vocabulary",
     "title": "Adjectives",
     "content": "Vowel Declension . Three-Termination (2-1-2) . | ἀγαθός, ἀγαθή, ἀγαθόν - noble, good | ἄλλος, ἄλλη, ἄλλο - another, other; (ἄλλος … ἄλλος) one … the other | δίκαιος, δικαία, δίκαιον - just | ἐχθρός, ἐχθρά, ἐχθρόν - hated, hostile | ἱερός, ἱερά, ἱερόν - holy | κάκος, κάκη, κάκον - bad | καλός, καλή, καλόν - good, beautiful, handsome | μακρός, μακρά, μακρόν - long | μίκρος, μίκρα, μίκρον - small | πρότερος, πρότερα, πρότερον - previous, former, earlier | πρῶτος, πρώτη, πρῶτον - first | ὕστατος, ὑστάτη, ὕστατον - last | . Two-Termination . | ἄδικος, ἄδικον - unjust | ἀδύνατος, ἀδύνατον - impossible | ἀθάνατος, ἀθάνατον - undying, immortal | . ",
     "url": "/vocabulary/week-06-vocabulary#adjectives",
     
     "relUrl": "/vocabulary/week-06-vocabulary#adjectives"
-  },"379": {
+  },"378": {
     "doc": "Week 6 Vocabulary",
     "title": "Nouns",
     "content": ". | δένδρον, δένδρου, n. - tree | δῶρον, δώρου, n. - gift | θάνατος, θανάτου, m. - death | ἱερόν, ἱεροῦ, n. - temple | . ",
     "url": "/vocabulary/week-06-vocabulary#nouns",
     
     "relUrl": "/vocabulary/week-06-vocabulary#nouns"
-  },"380": {
+  },"379": {
     "doc": "Week 7 Paradigms",
     "title": "Week 7 Paradigms",
     "content": " ",
     "url": "/reference/week-07-paradigms",
     
     "relUrl": "/reference/week-07-paradigms"
-  },"381": {
+  },"380": {
     "doc": "Week 7 Paradigms",
     "title": "Table of contents",
     "content": ". | Adjectives . | Consonant Declension (3-1-3) Endings . | Sample 3-1-3 | . | Consonant Declension (2-termination) Endings . | Sample Consonant Declension 2-termination | . | . | Verbs . | εἰμί - Present Tense | εἰμί - Imperfect Tense | . | . ",
     "url": "/reference/week-07-paradigms#table-of-contents",
     
     "relUrl": "/reference/week-07-paradigms#table-of-contents"
-  },"382": {
+  },"381": {
     "doc": "Week 7 Paradigms",
     "title": "Adjectives",
     "content": "Consonant Declension (3-1-3) Endings . |   | Masc. | Fem. | Neut. | . | Nom. Sg. | – | -α | – | . | Gen. Sg. | -ος | -ης | -ος | . | Dat. Sg. | -ι | -ῃ | -ι | . | Acc. Sg. | -α | -αν | same as nom. | . | Nom. Pl. | -ες | -αι | -α | . | Gen. Pl. | -ων | -ων | -ων | . | Dat. Pl. | -σι(ν) | -αις | -σι(ν) | . | Acc. Pl. | -ας | -ας | -α | . Sample 3-1-3 . |   | Masc. | Fem. | Neut. | . | Nom. Sg. | πᾶς | πᾶσα | πᾶν | . | Gen. Sg. | πάντος | πάσης | πάντος | . | Dat. Sg. | πάντι | πάσῃ | πάντι | . | Acc. Sg. | πάντα | πᾶσαν | πᾶν | . | Nom. Pl. | πάντες | πᾶσαι | πάντα | . | Gen. Pl. | πάντων | πασῶν | πάντων | . | Dat. Pl. | πᾶσι(ν) | πάσαις | πᾶσι(ν) | . | Acc. Pl. | πάντας | πάσας | πάντα | . Consonant Declension (2-termination) Endings . |   | Masc./Fem. | Neut. | . | Nom. Sg. | – | – | . | Gen. Sg. | -ος | -ος | . | Dat. Sg. | -ι | -ι | . | Acc. Sg. | -α | same as nom. | . | Nom. Pl. | -ες | -α | . | Gen. Pl. | -ων | -ων | . | Dat. Pl. | -σι(ν) | -σι(ν) | . | Acc. Pl. | -ας | -α | . Sample Consonant Declension 2-termination . |   | Masc./Fem. | Neut. | . | Nom. Sg. | σώφρων | σῶφρον | . | Gen. Sg. | σώφρονος | σώφρονος | . | Dat. Sg. | σώφρονι | σώφρονι | . | Acc. Sg. | σώφρονα | σῶφρον | . | Nom. Pl. | σώφρονες | σώφρονα | . | Gen. Pl. | σωφρόνων | σωφρόνων | . | Dat. Pl. | σώφροσι(ν) | σώφροσι(ν) | . | Acc. Pl. | σώφρονας | σώφρονα | . ",
     "url": "/reference/week-07-paradigms#adjectives",
     
     "relUrl": "/reference/week-07-paradigms#adjectives"
-  },"383": {
+  },"382": {
     "doc": "Week 7 Paradigms",
     "title": "Verbs",
     "content": "εἰμί - Present Tense . |   | Singular | Plural | . | 1st Person | εἰμί | ἐσμέν | . | 2nd Person | εἶ | ἐστέ | . | 3rd Person | ἐστί(ν) | εἰσί(ν) | . εἰμί - Imperfect Tense . |   | Singular | Plural | . | 1st Person | ἦν or ἦ | ἦμεν | . | 2nd Person | ἦσθα | ἦτε or ἦστε | . | 3rd Person | ἦν | ἦσαν | . ",
     "url": "/reference/week-07-paradigms#verbs",
     
     "relUrl": "/reference/week-07-paradigms#verbs"
-  },"384": {
+  },"383": {
     "doc": "Week 7 Vocabulary",
     "title": "Week 7 Vocabulary",
     "content": " ",
     "url": "/vocabulary/week-07-vocabulary",
     
     "relUrl": "/vocabulary/week-07-vocabulary"
-  },"385": {
+  },"384": {
     "doc": "Week 7 Vocabulary",
     "title": "Adjectives",
     "content": "Consonant Declension . Three-Termination (3-1-3) . | μέγας, μεγάλη, μέγα - large, great | μέλας, μέλαινα, μέλαν (m./n. stem μέλαν-) - black | πᾶς, πᾶσα, πᾶν (m./n. stem πάντ-) - (sg., w/o article) each, every; (sg., with article) the whole, entire; (pl.) all | πολύς, πολλή, πολύ - (singular) much; (plural) many | χαρίεις, χαρίεσσα, χαρίεν (m./n. stem χαρίεντ-) - graceful | . Two-Termination . | εὐδαίμων, εὐδαῖμον (m./n. stem εὐδαίμον-) - happy, blessed, fortunate | σώφρων, σῶφρον (stem σώφρον-) - wise | . Verbs . | ἀκούω, ἀκούσομαι, ἤκουσα, ἀκήκοα, –, ἠκούσθην - to hear, listen to (if object is a person, use genitive; if object is a thing, use accusative) | βάλλω, βαλέω, ἔβαλον, βέβληκα, βέβλημαι, ἐβλήθην - to throw, cast, hurl, hit | διδάσκω, διδάξω, ἐδίδαξα, δεδίδαχα, δεδίδαγμαι, ἐδιδάχθην - to teach; (with double accusative) to teach (accusative 1) (to) (accusative 2) | εἰμί, ἔσομαι, –, –, –, – - “to be; [3rd singular] it is possible, there is” | . Nouns . First Declension . | οἰκία, οἰκίας, f. - home, house | στρατιώτης, στρατιώτου, m. - soldier | . Second Declension . | λίθος, λίθου, m. - stone | ὅπλον, ὅπλου, n. - weapon | στρατηγός, στρατηγοῦ, m. - general | στρατός, στρατοῦ, m. - army | . Third Declension . | ἄγαλμα, ἀγάλματος, n. - statue, glory | ἀγών, ἀγῶνος, m. - contest | . Adverbs . | νῦν - now | τότε - then, at that time | . ",
     "url": "/vocabulary/week-07-vocabulary#adjectives",
     
     "relUrl": "/vocabulary/week-07-vocabulary#adjectives"
-  },"386": {
+  },"385": {
     "doc": "Week 8 Paradigms",
     "title": "Week 8 Paradigms",
     "content": " ",
     "url": "/reference/week-08-paradigms",
     
     "relUrl": "/reference/week-08-paradigms"
-  },"387": {
+  },"386": {
     "doc": "Week 8 Paradigms",
     "title": "Table of contents",
     "content": ". | Pronouns . | ὅδε, ἥδε, τόδε | οὗτος, αὕτη, τοῦτο | ἐκεῖνος, ἐκείνη, ἐκεῖνο | αὐτός, αὐτή, αὐτό | . | Verbs . | ἵστημι | δίδωμι | τίθημι | ἵημι | . | . ",
     "url": "/reference/week-08-paradigms#table-of-contents",
     
     "relUrl": "/reference/week-08-paradigms#table-of-contents"
-  },"388": {
+  },"387": {
     "doc": "Week 8 Paradigms",
     "title": "Pronouns",
     "content": "ὅδε, ἥδε, τόδε . |   | Masculine | Feminine | Neuter | . | Nom. Sg. | ὅδε | ἥδε | τόδε | . | Gen. Sg. | τοῦδε | τῆσδε | τοῦδε | . | Dat. Sg. | τῷδε | τῇδε | τῷδε | . | Acc. Sg. | τόνδε | τήνδε | τόδε | . | Nom. Pl. | οἵδε | αἵδε | τάδε | . | Gen. Pl. | τῶνδε | τῶνδε | τῶνδε | . | Dat. Pl. | τοῖσδε | ταῖσδε | τοῖσδε | . | Acc. Pl. | τούσδε | τάσδε | τάδε | . οὗτος, αὕτη, τοῦτο . |   | Masculine | Feminine | Neuter | . | Nom. Sg. | οὗτος | αὕτη | τοῦτο | . | Gen. Sg. | τούτου | ταύτης | τούτου | . | Dat. Sg. | τούτῳ | ταύτῃ | τούτῳ | . | Acc. Sg. | τοῦτον | ταύτην | τοῦτο | . | Nom. Pl. | οὗτοι | αὗται | ταῦτα | . | Gen. Pl. | τούτων | τούτων | τούτων | . | Dat. Pl. | τούτοις | ταύταις | τούτοις | . | Acc. Pl. | τούτους | ταύτας | ταῦτα | . ἐκεῖνος, ἐκείνη, ἐκεῖνο . |   | Masculine | Feminine | Neuter | . | Nom. Sg. | ἐκεῖνος | ἐκείνη | ἐκεῖνο | . | Gen. Sg. | ἐκείνου | ἐκείνης | ἐκείνου | . | Dat. Sg. | ἐκείνῳ | ἐκείνῃ | ἐκείνῳ | . | Acc. Sg. | ἐκεῖνον | ἐκείνην | ἐκεῖνο | . | Nom. Pl. | ἐκεῖνοι | ἐκεῖναι | ἐκεῖνα | . | Gen. Pl. | ἐκείνων | ἐκείνων | ἐκείνων | . | Dat. Pl. | ἐκείνοις | ἐκείναις | ἐκείνοις | . | Acc. Pl. | ἐκείνους | ἐκείνας | ἐκεῖνα | . αὐτός, αὐτή, αὐτό . |   | Masculine | Feminine | Neuter | . | Nom. Sg. | αὐτός | αὐτή | αὐτό | . | Gen. Sg. | αὐτοῦ | αὐτῆς | αὐτοῦ | . | Dat. Sg. | αὐτῷ | αὐτῇ | αὐτῷ | . | Acc. Sg. | αὐτόν | αὐτήν | αὐτό | . | Nom. Pl. | αὐτοί | αὐταί | αὐτά | . | Gen. Pl. | αὐτῶν | αὐτῶν | αὐτῶν | . | Dat. Pl. | αὐτοῖς | αὐταῖς | αὐτοῖς | . | Acc. Pl. | αὐτούς | αὐτάς | αὐτά | . ",
     "url": "/reference/week-08-paradigms#pronouns",
     
     "relUrl": "/reference/week-08-paradigms#pronouns"
-  },"389": {
+  },"388": {
     "doc": "Week 8 Paradigms",
     "title": "Verbs",
     "content": "ἵστημι . Present Tense . |   | Present Active | Present Mid./Pass. | . | 1st sg. | ἵστημι | ἵσταμαι | . | 2nd sg. | ἵστης | ἵστασαι | . | 3rd sg. | ἵστησι(ν) | ἵσταται | . | 1st pl. | ἵσταμεν | ἱστάμεθα | . | 2nd pl. | ἵστατε | ἵστασθε | . | 3rd pl. | ἱστᾶσι(ν) | ἵστανται | . δίδωμι . Present Tense . |   | Present Active | Present Mid./Pass. | . | 1st sg. | δίδωμι | δίδομαι | . | 2nd sg. | δίδως | δίδοσαι | . | 3rd sg. | δίδωσι(ν) | δίδοται | . | 1st pl. | δίδομεν | διδόμεθα | . | 2nd pl. | δίδοτε | δίδοσθε | . | 3rd pl. | διδόασι(ν) | δίδονται | . τίθημι . Present Tense . |   | Present Active | Present Mid./Pass. | . | 1st sg. | τίθημι | τίθεμαι | . | 2nd sg. | τίθης | τίθεσαι | . | 3rd sg. | τίθησι(ν) | τίθεται | . | 1st pl. | τίθεμεν | τιθέμεθα | . | 2nd pl. | τίθετε | τίθεσθε | . | 3rd pl. | τιθέασι(ν) | τίθενται | . ἵημι . Present Tense . |   | Present Active | Present Mid./Pass. | . | 1st sg. | ἵημι | ἵεμαι | . | 2nd sg. | ἵης | ἵεσαι | . | 3rd sg. | ἵησι(ν) | ἵεται | . | 1st pl. | ἵεμεν | ἱέμεθα | . | 2nd pl. | ἵετε | ἵεσθε | . | 3rd pl. | ἱᾶσι(ν) | ἵενται | . ",
     "url": "/reference/week-08-paradigms#verbs",
     
     "relUrl": "/reference/week-08-paradigms#verbs"
-  },"390": {
+  },"389": {
     "doc": "Week 8 Vocabulary",
     "title": "Week 8 Vocabulary",
     "content": " ",
     "url": "/vocabulary/week-08-vocabulary",
     
     "relUrl": "/vocabulary/week-08-vocabulary"
-  },"391": {
+  },"390": {
     "doc": "Week 8 Vocabulary",
     "title": "Pronouns",
     "content": "Demonstratives . | ὅδε, ἥδε, τόδε - this, these, the following | οὗτος, αὕτη, τοῦτο - “this; the preceding”; the latter (vs. ἐκεῖνος) | ἐκεῖνος, ἐκείνη, ἐκεῖνο - “that, those”; the former (vs. οὗτος) | . Personal / Intensive . | αὐτός, αὐτή, αὐτό - “him, her, it, them”; (intensive adj./pronoun, not reflexive) the very __; himself, herself, themselves, etc.; (in attributive position) the same | . Verbs . | δίδωμι, δώσω, ἔδωκα, δέδωκα, δέδομαι, ἐδόθην - to give, grant, allow . | ἀποδίδωμι - to give back, to give away; (middle voice) to sell | . | τίθημι, θήσω, ἔθηκα, τέθηκα, τέθειμαι, ἐτέθην - to put, place . | ἀνατίθημι (ἀνά + τίθημι) - to set up, to dedicate (as an offering) | ἐπιτίθημι (ἐπί + τίθημι) - to place upon; (middle voice) to attack (+ dative) | . | ἵημι, ἥσω, -ἧκα, -εἷκα, -εἷμαι, -εἵθην - to hurl, throw, send; (middle voice) to rush, hurry . | ἀφίημι (ἀπό + ἵημι) - to send away, to release, to set free | ἐφίημι (ἐπί + ἵημι) - to send against; (middle voice) to command, order; (middle voice) to aim at, desire (+ genitive) | . | ἵστημι, στήσω, ἔστησα or ἔστην, ἕστηκα, ἕσταμαι, ἐστάθην - (active and 1st aorist transitive) to make stand up, set up, cause to stop; (passive and 2nd aorist intransitive) to stand, be set up, stop . | ἀφίστημι (ἀπό + ἵστημι) - (trans.) to cause to revolt; (intrans.) to revolt from (ἀπό + genitive) | ἐφίστημι (ἐπί + ἵστημι) - (trans.) to set up in charge of; (intrans.) to be in charge of (+ dative) | καθίστημι (κατά + ἵστημι) - (trans.) to establish; (intrans.) to settle, be established | . | . ",
     "url": "/vocabulary/week-08-vocabulary#pronouns",
     
     "relUrl": "/vocabulary/week-08-vocabulary#pronouns"
-  },"392": {
+  },"391": {
     "doc": "Week 9 Paradigms",
     "title": "Week 9 Paradigms",
     "content": " ",
     "url": "/reference/week-09-paradigms",
     
     "relUrl": "/reference/week-09-paradigms"
-  },"393": {
+  },"392": {
     "doc": "Week 9 Paradigms",
     "title": "Table of contents",
     "content": ". | Verbs . | ἵστημι | δίδωμι | τίθημι | ἵημι | . | . ",
     "url": "/reference/week-09-paradigms#table-of-contents",
     
     "relUrl": "/reference/week-09-paradigms#table-of-contents"
-  },"394": {
+  },"393": {
     "doc": "Week 9 Paradigms",
     "title": "Verbs",
     "content": "ἵστημι . Aorist Tense . |   | 1st Aorist Transitive | Athematic Intransitive | . | 1st sg. | ἔστησα | ἔστην | . | 2nd sg. | ἔστησας | ἔστης | . | 3rd sg. | ἔστησε(ν) | ἔστη | . | 1st pl. | ἐστήσαμεν | ἔστημεν | . | 2nd pl. | ἐστήσατε | ἔστητε | . | 3rd pl. | ἔστησαν | ἔστησαν | . δίδωμι . Aorist Tense . |   | Aorist Active | Aorist Middle | . | 1st sg. | ἔδωκα | ἐδόμην | . | 2nd sg. | ἔδωκας | ἔδου | . | 3rd sg. | ἔδωκε(ν) | ἔδοτο | . | 1st pl. | ἔδομεν | ἐδόμεθα | . | 2nd pl. | ἔδοτε | ἔδοσθε | . | 3rd pl. | ἔδοσαν | ἔδοντο | . τίθημι . Aorist Tense . |   | Aorist Active | Aorist Middle | . | 1st sg. | ἔθηκα | ἐθέμην | . | 2nd sg. | ἔθηκας | ἔθου | . | 3rd sg. | ἔθηκε(ν) | ἔθετο | . | 1st pl. | ἔθεμεν | ἐθέμεθα | . | 2nd pl. | ἔθετε | ἔθεσθε | . | 3rd pl. | ἔθεσαν | ἔθεντο | . ἵημι . Aorist Tense . |   | Aorist Active | Aorist Middle | . | 1st sg. | -ἧκα | -εἵμην | . | 2nd sg. | -ἧκας | -εἷσο | . | 3rd sg. | -ἧκε(ν) | -εἷτο | . | 1st pl. | -εἷμεν | -εἵμεθα | . | 2nd pl. | -εἷτε | -εἷσθε | . | 3rd pl. | -εἷσαν | -εἷντο | . ",
     "url": "/reference/week-09-paradigms#verbs",
     
     "relUrl": "/reference/week-09-paradigms#verbs"
-  },"395": {
+  },"394": {
     "doc": "Week 9 Vocabulary",
     "title": "Week 9 Vocabulary",
     "content": " ",
     "url": "/vocabulary/week-09-vocabulary",
     
     "relUrl": "/vocabulary/week-09-vocabulary"
-  },"396": {
+  },"395": {
     "doc": "Week 9 Vocabulary",
     "title": "Subordinating Conjunctions",
     "content": ". | ἐπεί or ἐπειδή - after, when, since | . ",
     "url": "/vocabulary/week-09-vocabulary#subordinating-conjunctions",
     
     "relUrl": "/vocabulary/week-09-vocabulary#subordinating-conjunctions"
-  },"397": {
+  },"396": {
     "doc": "Week 10 Paradigms",
     "title": "Week 9 Paradigms",
     "content": " ",
     "url": "/reference/week-10-paradigms#week-9-paradigms",
     
     "relUrl": "/reference/week-10-paradigms#week-9-paradigms"
-  },"398": {
+  },"397": {
     "doc": "Week 10 Paradigms",
     "title": "Table of contents",
     "content": ". | Pronouns . | Relative Pronoun | . | . ",
     "url": "/reference/week-10-paradigms#table-of-contents",
     
     "relUrl": "/reference/week-10-paradigms#table-of-contents"
-  },"399": {
+  },"398": {
     "doc": "Week 10 Paradigms",
     "title": "Pronouns",
     "content": "Relative Pronoun . |   | Masculine | Feminine | Neuter | . | Nom. Sg. | ὅς | ἥ | ὅ | . | Gen. Sg. | οὗ | ἧς | οὗ | . | Dat. Sg. | ᾧ | ᾗ | ᾧ | . | Acc. Sg. | ὅν | ἥν | ὅ | . | Nom. Pl. | οἵ | αἵ | ἅ | . | Gen. Pl. | ὧν | ὧν | ὧν | . | Dat. Pl. | οἷς | αἷς | οἷς | . | Acc. Pl. | οὕς | ἅς | ἅ | . ",
     "url": "/reference/week-10-paradigms#pronouns",
     
     "relUrl": "/reference/week-10-paradigms#pronouns"
-  },"400": {
+  },"399": {
     "doc": "Week 10 Paradigms",
     "title": "Week 10 Paradigms",
     "content": " ",
     "url": "/reference/week-10-paradigms",
     
     "relUrl": "/reference/week-10-paradigms"
-  },"401": {
+  },"400": {
     "doc": "Week 10 Vocabulary",
     "title": "Week 10 Vocabulary",
     "content": " ",
     "url": "/vocabulary/week-10-vocabulary",
     
     "relUrl": "/vocabulary/week-10-vocabulary"
-  },"402": {
+  },"401": {
     "doc": "Week 10 Vocabulary",
     "title": "Pronouns",
     "content": ". | ὅς, ἥ, ὅ - who(m), which, that (relative pronoun) | . ",
     "url": "/vocabulary/week-10-vocabulary#pronouns",
     
     "relUrl": "/vocabulary/week-10-vocabulary#pronouns"
-  },"403": {
+  },"402": {
     "doc": "Week 12 Paradigms",
     "title": "Week 12 Paradigms",
     "content": " ",
     "url": "/reference/week-12-paradigms",
     
     "relUrl": "/reference/week-12-paradigms"
-  },"404": {
+  },"403": {
     "doc": "Week 12 Paradigms",
     "title": "Table of contents",
     "content": ". | Verbs . | Present Infinitives | Aorist Infinitives | Core Four -μι Verbs and εἰμί (Present) | Core Four -μι Verbs (Aorist) | . | . ",
     "url": "/reference/week-12-paradigms#table-of-contents",
     
     "relUrl": "/reference/week-12-paradigms#table-of-contents"
-  },"405": {
+  },"404": {
     "doc": "Week 12 Paradigms",
     "title": "Verbs",
     "content": "Present Infinitives . |   | Pres. Act. | Pres. Mid./Pass. | . | -ω Verbs | -ειν | -εσθαι | . | -μι Verbs | -ναι | -σθαι | . Aorist Infinitives . |   | Aor. Act. | Aor. Mid. | Aor. Pass. | . | 1st Aorist | -αι | -ασθαι | -ναι | . | 2nd Aorist | -εῖν | -έσθαι | -ναι | . Core Four -μι Verbs and εἰμί (Present) . |   | Pres. Act. | Pres. Mid./Pass. | . | δίδωμι | διδόναι | δίδοσθαι | . | τίθημι | τιθέναι | τίθεσθαι | . | ἵημι | ἱέναι | ἵεσθαι | . | ἵστημι | ἱστάναι | ἵστασθαι | . | εἰμί | εἶναι | - | . Core Four -μι Verbs (Aorist) . |   | Aor. Act./Trans. | Aor. Mid./Intrans. | . | δίδωμι | δοῦναι | δόσθαι | . | τίθημι | θεῖναι | θέσθαι | . | ἵημι | -εἷναι | -ἑσθαι | . | ἵστημι | στῆσαι | στῆναι | . ",
     "url": "/reference/week-12-paradigms#verbs",
     
     "relUrl": "/reference/week-12-paradigms#verbs"
-  },"406": {
+  },"405": {
     "doc": "Week 12 Vocabulary",
     "title": "Week 12 Vocabulary",
     "content": " ",
     "url": "/vocabulary/week-12-vocabulary",
     
     "relUrl": "/vocabulary/week-12-vocabulary"
-  },"407": {
+  },"406": {
     "doc": "Week 12 Vocabulary",
     "title": "Verbs",
     "content": ". | δοκέω, δοκήσω, ἔδοξα, –, δέδογμαι, -ἐδόχθην - to think; (3rd sg.) to seem (best) | κρύπτω, κρύψω, ἔκρυψα, –, κέκρυμμαι, ἐκρύφθην - to hide, conceal | λαμβάνω, λήψομαι, ἔλαβον, εἴληφα, εἴλημμαι, ἐλήφθην - to take | λύω, λύσω, ἔλυσα, λέλυκα, λέλυμαι, ἐλύθην - to free, loosen | πέμπω, πέμψω, ἔπεμψα, πέπομφα, πέπεμμαι, ἐπέμφθην - to send | φοβέω, φοβήσω, ἐφόβησα, –, πεφόβημαι, ἐφοβήθην - (active) to frighten, terrify; (middle) to fear, be afraid; (middle + complementary infinitive) to be afraid to (infinitive) | . Impersonal Verbs . | χρή - it is necessary | δεῖ - it is necessary | ἔξεστι(ν) - it is possible | πρέπει - it is fitting | . Verbs That Take Complementary Infinitives . | δύναμαι, δυνήσομαι, –, –, δεδύνημαι, ἐδυνήθην - to be able to, can | ἐθέλω, ἐθελήσω, ἠθέλησα, ἠθέληκα, –, – - to want, wish | . ",
     "url": "/vocabulary/week-12-vocabulary#verbs",
     
     "relUrl": "/vocabulary/week-12-vocabulary#verbs"
-  },"408": {
+  },"407": {
     "doc": "Week 12 Vocabulary",
     "title": "Nouns",
     "content": ". | ἐπιστολή, -ῆς, f. - letter | . ",
     "url": "/vocabulary/week-12-vocabulary#nouns",
     
     "relUrl": "/vocabulary/week-12-vocabulary#nouns"
-  },"409": {
+  },"408": {
     "doc": "Week 12 Vocabulary",
     "title": "Prepositions",
     "content": ". | διά - through; because of; by means of | . ",
     "url": "/vocabulary/week-12-vocabulary#prepositions",
     
     "relUrl": "/vocabulary/week-12-vocabulary#prepositions"
-  },"410": {
+  },"409": {
     "doc": "Week 12 Vocabulary",
     "title": "Adverbs",
     "content": ". | μή - not | . ",
     "url": "/vocabulary/week-12-vocabulary#adverbs",
     
     "relUrl": "/vocabulary/week-12-vocabulary#adverbs"
-  },"411": {
+  },"410": {
     "doc": "Week 14 Vocabulary",
     "title": "Week 14 Vocabulary",
     "content": " ",
     "url": "/vocabulary/week-14-vocabulary",
     
     "relUrl": "/vocabulary/week-14-vocabulary"
-  },"412": {
+  },"411": {
     "doc": "Week 14 Vocabulary",
     "title": "Verbs",
     "content": ". | ἄρχω, ἄρξω, ἦρξα, ἦρχα, ἦργμαι, ἤρχθην - to begin (+ part.) | παύω, παύσω, ἔπαυσα, πέπαυκα, πέπαυμαι, ἐπαύθην (+ part.) - (act.) to stop (acc.) from (participle)-ing; (mid.) to stop (oneself) (from) (participle)-ing | . Particles . | ὡς, ἅτε, οἷα - (used with causal participle) | καίπερ - (used with concessive participle) | ὅμως - nevertheless, still= | . ",
