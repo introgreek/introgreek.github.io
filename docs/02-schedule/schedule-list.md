@@ -26,6 +26,10 @@ parent: Schedule and Slideshows
 Student Information Form
     * Homework 1
 
+#### Resources for Today's Class
+* Readings:
+* Slideshow:
+
 ***
 
 ## Week 2 (1/26 - 1/29)
@@ -37,6 +41,10 @@ Student Information Form
 * _Due by start of next class_:
     * Homework 2
 
+#### Resources for Today's Class
+* Readings:
+* Slideshow:
+
 ### Thursday, January 29
 {: .no_toc }
 * _Topic_: Verbs Overview and First Aorist Active and Middle
@@ -44,6 +52,10 @@ Student Information Form
 * _Due by start of next class_:
     * Homework 3
     * Quiz 1
+
+#### Resources for Today's Class
+* Readings:
+* Slideshow:
 
 ***
 
@@ -56,6 +68,10 @@ Student Information Form
 * _Due by start of next class_:
     * Homework 4
 
+#### Resources for Today's Class
+* Readings:
+* Slideshow:
+
 ### Thursday, February 5
 {: .no_toc }
 * _Topic_: Nouns Overview and Definite Article
@@ -63,6 +79,10 @@ Student Information Form
 * _Due by start of next class_:
     * Homework 5
     * Quiz 2
+
+#### Resources for Today's Class
+* Readings:
+* Slideshow:
 
 ***
 
@@ -75,6 +95,10 @@ Student Information Form
 * _Due by start of next class_:
     * Homework 6
 
+#### Resources for Today's Class
+* Readings:
+* Slideshow:
+
 ### Thursday, February 12
 {: .no_toc }
 * _Topic_: Accusative and Dative (1st and 2nd Declension)
@@ -82,6 +106,10 @@ Student Information Form
 * _Due by start of next class_:
     * Homework 7
     * Quiz 3
+
+#### Resources for Today's Class
+* Readings:
+* Slideshow:
 
 ***
 
@@ -94,9 +122,17 @@ NOTE: This week, our Monday class meets on a Tuesday.
 * _Topic_: Review / Buffer
 * _In-class_: Check-in 7
 
+#### Resources for Today's Class
+* Readings:
+* Slideshow:
+
 ### Thursday, February 19
 {: .no_toc }
 * EXAM 1 (in class)
+
+#### Resources for Today's Class
+* Readings:
+* Slideshow:
 
 ***
 
@@ -108,6 +144,10 @@ NOTE: This week, our Monday class meets on a Tuesday.
 * _Due by start of next class_:
     * Homework 8
 
+#### Resources for Today's Class
+* Readings:
+* Slideshow:
+
 ### Thursday, February 26
 {: .no_toc }
 * _Topic_: Vowel Declension Adjectives
@@ -115,6 +155,10 @@ NOTE: This week, our Monday class meets on a Tuesday.
 * _Due by start of next class_:
     * Homework 9
     * Quiz 4
+
+#### Resources for Today's Class
+* Readings:
+* Slideshow:
 
 ***
 
@@ -127,6 +171,10 @@ NOTE: This week, our Monday class meets on a Tuesday.
 * _Due by start of next class_:
     * Homework 10
 
+#### Resources for Today's Class
+* Readings:
+* Slideshow:
+
 ### Thursday, March 5
 {: .no_toc }
 * _Topic_: Pronouns (Demonstrative)
@@ -134,6 +182,10 @@ NOTE: This week, our Monday class meets on a Tuesday.
 * _Due by start of next class_:
     * Homework 11
     * Quiz 5
+
+#### Resources for Today's Class
+* Readings:
+* Slideshow:
 
 ***
 
@@ -150,6 +202,10 @@ NOTE: This week, our Monday class meets on a Tuesday.
 * _Due by start of next class_:
     * Homework 12
 
+#### Resources for Today's Class
+* Readings:
+* Slideshow:
+
 ### Thursday, March 19
 {: .no_toc }
 * _Topic_: Core Four -μι Verbs - Aorist Active and Middle
@@ -157,6 +213,10 @@ NOTE: This week, our Monday class meets on a Tuesday.
 * _Due by start of next class_:
     * Homework 13
     * Quiz 6
+
+#### Resources for Today's Class
+* Readings:
+* Slideshow:
 
 ***
 
@@ -167,9 +227,17 @@ NOTE: This week, our Monday class meets on a Tuesday.
 * _Topic_: Review / Buffer
 * _In-class_: Check-in 13
 
+#### Resources for Today's Class
+* Readings:
+* Slideshow:
+
 ### Thursday, March 26
 {: .no_toc }
 * EXAM 2 (in class)
+
+#### Resources for Today's Class
+* Readings:
+* Slideshow:
 
 ***
 
@@ -181,6 +249,10 @@ NOTE: This week, our Monday class meets on a Tuesday.
 * _Due by start of next class_:
     * Homework 14
     * Quiz 7
+
+#### Resources for Today's Class
+* Readings:
+* Slideshow:
 
 ***
 
@@ -199,6 +271,10 @@ NOTE: This week, our Monday class meets on a Wednesday.
 * _Due by start of next class_:
     * Homework 15
 
+#### Resources for Today's Class
+* Readings:
+* Slideshow:
+
 ### Thursday, April 9
 {: .no_toc }
 * _Topic_: Present Tense - -ω Verbs
@@ -206,6 +282,10 @@ NOTE: This week, our Monday class meets on a Wednesday.
 * _Due by start of next class_:
     * Homework 16
     * Quiz 8
+
+#### Resources for Today's Class
+* Readings:
+* Slideshow:
 
 ***
 
@@ -218,6 +298,10 @@ NOTE: This week, our Monday class meets on a Wednesday.
 * _Due by start of next class_:
     * Homework 17
 
+#### Resources for Today's Class
+* Readings:
+* Slideshow:
+
 ### Thursday, April 16
 {: .no_toc }
 * _Topic_: Present Tense - Cour Four -μι Verbs
@@ -225,6 +309,10 @@ NOTE: This week, our Monday class meets on a Wednesday.
 * _Due by start of next class_:
     * Homework 18
     * Quiz 9
+
+#### Resources for Today's Class
+* Readings:
+* Slideshow:
 
 ***
 
@@ -237,6 +325,10 @@ NOTE: This week, our Monday class meets on a Wednesday.
 * _Due by start of next class_:
     * Homework 19
 
+#### Resources for Today's Class
+* Readings:
+* Slideshow:
+
 ### Thursday, April 23
 {: .no_toc }
 * _Topic_: 3rd Declension Adjectives
@@ -244,6 +336,10 @@ NOTE: This week, our Monday class meets on a Wednesday.
 * _Due by start of next class_:
     * Homework 20
     * Quiz 10
+
+#### Resources for Today's Class
+* Readings:
+* Slideshow:
 
 ***
 
@@ -255,6 +351,10 @@ NOTE: This week, our Monday class meets on a Wednesday.
 * _In-class_ links (DO NOT CLICK UNTIL INSTRUCTED TO DO SO IN CLASS):
     * IDEA Course Evaluation (link TBD)
     * Personal Course Evaluation (link TBD) (use Fairfield credentials to authenticate)
+
+#### Resources for Today's Class
+* Readings:
+* Slideshow:
 
 ***
 
