@@ -28,6 +28,7 @@ Student Information Form
 
 #### Resources for Today's Class
 * Readings:
+    * [Google Doc Syllabus](https://docs.google.com/document/d/17khbhsVIT3GHJvCRU3WGMh79HiXVnf_hPaufv8tkjfM/edit?usp=sharing)
 * Slideshow:
 
 ***
