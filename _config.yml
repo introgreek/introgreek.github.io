@@ -1,5 +1,7 @@
-remote-theme: just-the-docs/just-the-docs
 title: GREK 1111
+theme: just-the-docs
+
+url: https://introgreek.github.io
 
 footer_content: "All material developed by Daniel Libatique and available under the Creative Commons Attribution Share-Alike license <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">CC BY-SA 4.0 <img height=\"15\" width=\"80\" src=\"https://mirrors.creativecommons.org/presskit/buttons/80x15/png/by-sa.png\" /></a>"
 
