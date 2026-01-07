@@ -1,5 +1,6 @@
 ---
 title: Course Info
+layout: default
 permalink: /course_info/course-info
 nav_order: 0
 parent: Course Information
