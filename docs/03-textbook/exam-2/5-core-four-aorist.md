@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Core Four -μι Verbs - Aorist Tense
 permalink: /textbook/exam-2/core-four-aorist
 nav_order: 5

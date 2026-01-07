@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Aorist Passive
 permalink: /textbook/exam-3/aorist-passive
 nav_order: 1

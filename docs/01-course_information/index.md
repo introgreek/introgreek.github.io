@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Course Information
 permalink: /course_info
 nav_order: 1

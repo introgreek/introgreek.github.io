@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Basics
 permalink: /textbook/basics
 nav_order: 0

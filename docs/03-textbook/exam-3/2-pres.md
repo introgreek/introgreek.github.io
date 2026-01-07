@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Present Tense
 permalink: /textbook/exam-3/present
 nav_order: 2

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Textbook
 permalink: /textbook
 nav_order: 3

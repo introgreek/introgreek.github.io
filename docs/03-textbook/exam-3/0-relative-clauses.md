@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Relative Clauses
 permalink: /textbook/exam-3/relative-clauses
 nav_order: 0

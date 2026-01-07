@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Schedule and Slideshows
 permalink: /schedule-and-slideshows
 nav_order: 2

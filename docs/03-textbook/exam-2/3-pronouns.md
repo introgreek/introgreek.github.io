@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Pronouns
 permalink: /textbook/exam-2/pronouns
 nav_order: 3

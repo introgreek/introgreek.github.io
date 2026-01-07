@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Adjectives
 permalink: /textbook/exam-2/adjectives
 nav_order: 1

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Attributive and Predicative Position
 permalink: /textbook/exam-2/attr-pred
 nav_order: 2

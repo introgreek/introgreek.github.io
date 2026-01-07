@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Verbs Overview
 permalink: /textbook/exam-1/verbs-overview
 nav_order: 0

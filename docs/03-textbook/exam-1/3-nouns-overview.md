@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Nouns Overview and the Definite Article
 permalink: /textbook/exam-1/nouns-overview
 nav_order: 3

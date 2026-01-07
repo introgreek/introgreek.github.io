@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Course Schedule - List
 permalink: /schedule-and-slideshows/schedule-list
 nav_order: 0

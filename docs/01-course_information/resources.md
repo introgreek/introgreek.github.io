@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Resources
 permalink: /course_info/resources
 nav_order: 3

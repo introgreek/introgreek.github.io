@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Alphabet and Accents
 permalink: /textbook/basics/alphabet-and-accents
 nav_order: 0

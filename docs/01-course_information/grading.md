@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Grading
 permalink: /course_info/grading
 nav_order: 2

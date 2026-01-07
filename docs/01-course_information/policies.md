@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Policies
 permalink: /course_info/policies
 nav_order: 1

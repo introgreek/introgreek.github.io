@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Negation, Clauses, and Coordination
 permalink: /textbook/exam-1/negation-clauses-coordination
 nav_order: 7

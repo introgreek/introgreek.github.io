@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Inflection
 permalink: /textbook/basics/inflection
 nav_order: 1

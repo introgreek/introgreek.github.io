@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Prepositions
 permalink: /textbook/exam-2/prepositions
 nav_order: 0

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Dependent Clauses
 permalink: /textbook/exam-2/dependent-clauses
 nav_order: 6

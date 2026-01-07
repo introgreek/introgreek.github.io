@@ -1,5 +1,4 @@
 ---
-layout: page
 title: First Aorist (Active and Middle)
 permalink: /textbook/exam-1/first-aorist
 nav_order: 1

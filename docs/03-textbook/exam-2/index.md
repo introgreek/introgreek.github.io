@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Exam 2
 permalink: /textbook/exam-2
 nav_order: 2

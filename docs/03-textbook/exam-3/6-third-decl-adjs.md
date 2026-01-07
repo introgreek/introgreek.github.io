@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Third Declension Adjectives
 permalink: /textbook/exam-3/third-decl-adjs
 nav_order: 5

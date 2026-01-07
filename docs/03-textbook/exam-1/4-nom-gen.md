@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Nominative and Genitive
 permalink: /textbook/exam-1/nom-gen
 nav_order: 4
