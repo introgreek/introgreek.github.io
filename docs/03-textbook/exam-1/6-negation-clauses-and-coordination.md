@@ -1,5 +1,6 @@
 ---
 title: Negation, Clauses, and Coordination
+layout: default
 permalink: /textbook/exam-1/negation-clauses-coordination
 nav_order: 7
 parent: Exam 1

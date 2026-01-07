@@ -1,6 +1,6 @@
 ---
-layout: page
 title: Pronouns
+layout: default
 permalink: /reference/pronouns
 nav_order: 4
 parent: Reference

@@ -1,5 +1,6 @@
 ---
 title: Present Tense
+layout: default
 permalink: /textbook/exam-3/present
 nav_order: 2
 parent: Exam 3

@@ -1,5 +1,6 @@
 ---
 title: Second Aorist (Active and Middle)
+layout: default
 permalink: /textbook/exam-1/second-aorist
 nav_order: 2
 parent: Exam 1

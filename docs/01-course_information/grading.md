@@ -1,5 +1,6 @@
 ---
 title: Grading
+layout: default
 permalink: /course_info/grading
 nav_order: 2
 parent: Course Information

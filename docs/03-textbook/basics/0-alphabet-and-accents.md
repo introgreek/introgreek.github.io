@@ -1,5 +1,6 @@
 ---
 title: Alphabet and Accents
+layout: default
 permalink: /textbook/basics/alphabet-and-accents
 nav_order: 0
 parent: Basics

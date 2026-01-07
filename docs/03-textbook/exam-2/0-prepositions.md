@@ -1,5 +1,6 @@
 ---
 title: Prepositions
+layout: default
 permalink: /textbook/exam-2/prepositions
 nav_order: 0
 parent: Exam 2

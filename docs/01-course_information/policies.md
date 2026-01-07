@@ -1,5 +1,6 @@
 ---
 title: Policies
+layout: default
 permalink: /course_info/policies
 nav_order: 1
 parent: Course Information

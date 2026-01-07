@@ -1,6 +1,6 @@
 ---
-layout: page
 title: Contractions
+layout: default
 permalink: /reference/contractions
 nav_order: 6
 parent: Reference

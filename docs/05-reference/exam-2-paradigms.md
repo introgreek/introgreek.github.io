@@ -1,12 +1,12 @@
 ---
-layout: page
-title: Week 3 Paradigms
-permalink: /reference/week-03-paradigms
+title: Exam 2 Paradigms
+layout: default
+permalink: /reference/exam-2-paradigms
 nav_order: 8
 parent: Reference
 ---
 
-# Week 3 Paradigms
+# Exam 2 Paradigms
 {: .no_toc }
 
 ## Table of contents

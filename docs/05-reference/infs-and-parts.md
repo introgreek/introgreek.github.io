@@ -1,6 +1,6 @@
 ---
-layout: page
 title: Infinitives and Participles
+layout: default
 permalink: /reference/infinitives-and-participles
 nav_order: 5
 parent: Reference

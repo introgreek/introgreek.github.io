@@ -1,6 +1,6 @@
 ---
-layout: page
 title: Nouns
+layout: default
 permalink: /reference/nouns
 nav_order: 2
 parent: Reference

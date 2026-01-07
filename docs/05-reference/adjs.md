@@ -1,6 +1,6 @@
 ---
-layout: page
 title: Adjectives
+layout: default
 permalink: /reference/adjectives
 nav_order: 3
 parent: Reference

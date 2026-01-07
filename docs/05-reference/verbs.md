@@ -1,6 +1,6 @@
 ---
-layout: page
 title: Verbs
+layout: default
 permalink: /reference/verbs
 nav_order: 1
 parent: Reference

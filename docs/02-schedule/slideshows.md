@@ -1,5 +1,6 @@
 ---
 title: Slideshows
+layout: default
 permalink: /schedule-and-slideshows/slideshows
 nav_order: 2
 parent: Schedule and Slideshows

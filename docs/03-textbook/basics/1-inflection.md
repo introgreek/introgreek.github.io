@@ -1,5 +1,6 @@
 ---
 title: Inflection
+layout: default
 permalink: /textbook/basics/inflection
 nav_order: 1
 parent: Basics

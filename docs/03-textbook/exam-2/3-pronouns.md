@@ -1,5 +1,6 @@
 ---
 title: Pronouns
+layout: default
 permalink: /textbook/exam-2/pronouns
 nav_order: 3
 parent: Exam 2

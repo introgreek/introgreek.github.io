@@ -1,6 +1,6 @@
 ---
-layout: page
 title: Reference
+layout: default
 permalink: /reference
 nav_order: 5
 has_children: true

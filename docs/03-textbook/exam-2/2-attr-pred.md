@@ -1,5 +1,6 @@
 ---
 title: Attributive and Predicative Position
+layout: default
 permalink: /textbook/exam-2/attr-pred
 nav_order: 2
 parent: Exam 2

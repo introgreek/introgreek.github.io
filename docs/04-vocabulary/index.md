@@ -1,6 +1,6 @@
 ---
-layout: page
 title: Vocabulary
+layout: default
 permalink: /vocabulary
 nav_order: 4
 has_children: true

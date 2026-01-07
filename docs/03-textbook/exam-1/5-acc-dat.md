@@ -1,5 +1,6 @@
 ---
 title: Accusative and Dative
+layout: default
 permalink: /textbook/exam-1/acc-dat
 nav_order: 6
 parent: Exam 1

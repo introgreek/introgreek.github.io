@@ -1,6 +1,6 @@
 ---
-layout: page
 title: Complete Vocabulary List
+layout: default
 permalink: /vocabulary/complete
 nav_order: 0
 parent: Vocabulary

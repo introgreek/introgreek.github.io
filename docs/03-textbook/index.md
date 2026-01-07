@@ -1,5 +1,6 @@
 ---
 title: Textbook
+layout: default
 permalink: /textbook
 nav_order: 3
 has_children: true

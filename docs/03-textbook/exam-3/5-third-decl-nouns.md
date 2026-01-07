@@ -1,5 +1,6 @@
 ---
 title: Third Declension Nouns
+layout: default
 permalink: /textbook/exam-3/third-decl-nouns
 nav_order: 4
 parent: Exam 3

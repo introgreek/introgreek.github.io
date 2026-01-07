@@ -1,5 +1,6 @@
 ---
 title: Basics
+layout: default
 permalink: /textbook/basics
 nav_order: 0
 parent: Textbook

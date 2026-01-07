@@ -1,5 +1,6 @@
 ---
 title: Adjectives
+layout: default
 permalink: /textbook/exam-2/adjectives
 nav_order: 1
 parent: Exam 2

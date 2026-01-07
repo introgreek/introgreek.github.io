@@ -1,5 +1,6 @@
 ---
 title: Dependent Clauses
+layout: default
 permalink: /textbook/exam-2/dependent-clauses
 nav_order: 6
 parent: Exam 2

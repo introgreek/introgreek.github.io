@@ -1,5 +1,6 @@
 ---
 title: Aorist Passive
+layout: default
 permalink: /textbook/exam-3/aorist-passive
 nav_order: 1
 parent: Exam 3

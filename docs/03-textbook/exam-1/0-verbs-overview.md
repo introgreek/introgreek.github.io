@@ -1,5 +1,6 @@
 ---
 title: Verbs Overview
+layout: default
 permalink: /textbook/exam-1/verbs-overview
 nav_order: 0
 parent: Exam 1

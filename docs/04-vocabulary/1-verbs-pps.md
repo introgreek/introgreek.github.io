@@ -1,6 +1,6 @@
 ---
-layout: page
 title: Verb Principal Parts List
+layout: default
 permalink: /vocabulary/verb-principal-parts
 nav_order: 1
 parent: Vocabulary

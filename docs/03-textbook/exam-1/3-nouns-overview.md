@@ -1,5 +1,6 @@
 ---
 title: Nouns Overview and the Definite Article
+layout: default
 permalink: /textbook/exam-1/nouns-overview
 nav_order: 3
 parent: Exam 1

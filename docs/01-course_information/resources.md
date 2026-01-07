@@ -1,5 +1,6 @@
 ---
 title: Resources
+layout: default
 permalink: /course_info/resources
 nav_order: 3
 parent: Course Information

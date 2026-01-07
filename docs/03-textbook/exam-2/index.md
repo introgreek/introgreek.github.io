@@ -1,5 +1,6 @@
 ---
 title: Exam 2
+layout: default
 permalink: /textbook/exam-2
 nav_order: 2
 parent: Textbook

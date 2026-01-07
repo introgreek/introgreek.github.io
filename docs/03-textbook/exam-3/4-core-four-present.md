@@ -1,5 +1,6 @@
 ---
 title: Core Four -μι Verbs - Present Tense
+layout: default
 permalink: /textbook/exam-3/core-four-present
 nav_order: 3
 parent: Exam 3

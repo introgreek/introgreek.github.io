@@ -1,5 +1,6 @@
 ---
 title: Third Declension Adjectives
+layout: default
 permalink: /textbook/exam-3/third-decl-adjs
 nav_order: 5
 parent: Exam 3

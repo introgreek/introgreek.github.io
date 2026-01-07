@@ -1,6 +1,6 @@
 ---
-layout: page
 title: Exam 2 Vocabulary
+layout: default
 permalink: /vocabulary/exam-2-vocabulary
 nav_order: 3
 parent: Vocabulary

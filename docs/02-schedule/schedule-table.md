@@ -1,5 +1,6 @@
 ---
 title: Course Schedule - Table
+layout: default
 permalink: /schedule-and-slideshows/schedule-table
 nav_order: 1
 parent: Schedule and Slideshows
