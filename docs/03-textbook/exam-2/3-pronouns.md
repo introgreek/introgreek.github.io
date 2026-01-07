@@ -206,7 +206,7 @@ As a standalone **pronoun** in the **oblique cases** (i.e., the genitive, dative
 
 As with the other pronouns we've discussed, you must use its gender and number to determine its antecedent. αὐτοῖς is masculine dative plural; thus, its only logical antecedent in the preceding sentence that agrees with it in gender and number is οἱ πολῖται (masculine nominative plural). It cannot be τὴν γυναῖκα, the only other noun, because τὴν γυναῖκα is feminine singular.
 
-### Adjective in Predative Position or Nominative Pronoun
+### Adjective in Predicative Position or Nominative Pronoun
 {: .no_toc }
 
 As an **adjective in predicative position** or as a **pronoun in the nominative case**, it serves as an **emphatic** or **intensive** adjective or pronoun. In either case, it adds a special emphasis to the noun being modified or referenced, and it can be translated in a number of ways, either with an intensive pronoun/adjective like "himself, herself, itself, themselves" or a phrase like "the very [noun]". Take a look at the following examples:
