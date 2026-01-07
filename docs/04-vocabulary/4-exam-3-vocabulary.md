@@ -6,7 +6,11 @@ nav_order: 4
 parent: Vocabulary
 ---
 
-# Week 4 Vocabulary
+# Exam 3 Vocabulary
+
+## Verbs
+
+* ἀδικέω, ἀδικήσω, ἠδίκησα, ἠδίκηκα, ἠδίκημαι, ἠδικήθην - [to do wrong, injure](https://logeion.uchicago.edu/ἀδικέω)
 
 ## Nouns
 

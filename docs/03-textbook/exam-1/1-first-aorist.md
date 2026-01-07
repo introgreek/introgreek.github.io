@@ -54,7 +54,7 @@ As such, you will see either a syllabic or temporal augment on all forms of the 
 
 This chapter considers the aorist forms of a verb that you can build on its **third principal part** if that verb has a **first aorist**. (The next chapter considers second aorists.)
 
-The **first aorist** is also known as a **sigmatic aorist**, so called because of the usual presence of a sigma (σ) or "s" sound before the -α; note, for example, the sigma before the -α in ἐκέλευ**σ**α. This idea applies even if you don't necessarily see the letter sigma: ἔδειξα is considered sigmatic because the consonant before the -α, ξ, is a combination of a "k" and "s" sound (ἔδειξα: e-dayk-**s**a). This will also happen with the letter ψ, which is a combination of a "p" and "s" sound (e.g., λείπω, "to leave", has a third principal part ἔλει**ψ**α -- e-layp-**s**a).
+The **first aorist** is also known as a **sigmatic aorist**, so called because of the usual presence of a sigma (σ) or "s" sound before the -α; note, for example, the sigma before the -α in ἐκέλευ**σ**α. This idea applies even if you don't necessarily see the letter sigma: ἔδειξα is considered sigmatic because the consonant before the -α, ξ, is a combination of a "k" and "s" sound (ἔδειξα: e-dayk-**s**a). This will also happen with the letter ψ, which is a combination of a "p" and "s" sound (e.g., πέμπω, "to send", has a third principal part ἔπεμ**ψ**α -- e-pemp-**s**a).
 
 ### First Aorist - Formation
 
