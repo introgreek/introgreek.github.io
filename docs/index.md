@@ -9,6 +9,6 @@ nav_order: 0
 
 ***
 
-Welcome to the landing page for GREK 1111, Introductory Ancient Greek, in Spring 2026, taught by Prof. Libatique at Fairfield University. Use the navigation menu to the left (or above on mobile) to see [information specific to our course](/course_info) or the [textbook for the course](/textbook).
+Welcome to the landing page for GREK 1111, Introductory Ancient Greek, in Spring 2026, taught by Prof. Libatique at Fairfield University. Use the navigation menu to the left (or above on mobile) to see [information specific to our course](/course_info) or the [textbook for the course](/textbook). You may also find [vocabulary lists](/vocabulary) and [paradigm charts](/paradigms) at the appropriate links.
 
 If you are looking for the 2021-2022 version of the textbook that was used in GREK 101-102 at the College of the Holy Cross, you can find it [at this link](https://drive.google.com/file/d/1Ul9XZOCWAYjhL9tSkQ7L4IMHGwI6rNc5/view?usp=sharing) as a zip file of PDFs.
