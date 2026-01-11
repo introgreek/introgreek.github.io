@@ -77,21 +77,21 @@ parent: Vocabulary
 
 ## Prepositions
 
-* ἀνά - [up](https://logeion.uchicago.edu/ἀνά)
-* κατά - [down](https://logeion.uchicago.edu/κατά)
-* ὑπό - [under](https://logeion.uchicago.edu/ὑπό)
+* ἀνά (ἀν') - [up](https://logeion.uchicago.edu/ἀνά)
+* κατά (κατ', καθ') - [down](https://logeion.uchicago.edu/κατά)
+* ὑπό (ὑπ', ὑφ') - [under](https://logeion.uchicago.edu/ὑπό)
 * ὑπέρ - [over, above](https://logeion.uchicago.edu/ὑπέρ)
-* μετά - [after (+ acc.); with (+ gen.)](https://logeion.uchicago.edu/μετά)
-* παρά - [next to, near](https://logeion.uchicago.edu/παρά)
+* μετά (μετ', μεθ') - [after (+ acc.); with (+ gen.)](https://logeion.uchicago.edu/μετά)
+* παρά (παρ') - [next to, near](https://logeion.uchicago.edu/παρά)
 * περί - [around](https://logeion.uchicago.edu/περί)
 * πρός - [to, toward](https://logeion.uchicago.edu/πρός)
 * διά - [through; because of](https://logeion.uchicago.edu/διά)
 * ἐκ (+ gen.) - [out of](https://logeion.uchicago.edu/ἐκ)
-* ἀπό (+ gen.) - [away from](https://logeion.uchicago.edu/ἀπό)
+* ἀπό (ἀπ', ἀφ') (+ gen.) - [away from](https://logeion.uchicago.edu/ἀπό)
 * εἰς (+ acc.) - [into](https://logeion.uchicago.edu/εἰς)
 * ἐν (+ dat.) - [in, within](https://logeion.uchicago.edu/ἐν)
 * σύν (+ dat.) - [with](https://logeion.uchicago.edu/σύν)
-* ἐπί - [on, upon](https://logeion.uchicago.edu/ἐπί)
+* ἐπί (ἐπ', ἐφ') - [on, upon](https://logeion.uchicago.edu/ἐπί)
 
 ***
 
