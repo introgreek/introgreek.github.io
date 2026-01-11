@@ -2,7 +2,7 @@
 title: Contractions
 layout: default
 permalink: /reference/contractions
-nav_order: 6
+nav_order: 5
 parent: Reference
 ---
 
@@ -31,31 +31,3 @@ parent: Reference
 * ε + οι = οι
 * ε + ω = ω
 * ε + ῳ = ῳ
-
-
-## Alpha
-
-* α + ει = ᾳ
-* α + ου = ω
-* α + ο = ω
-* α + ω = ω
-* α + ε = ᾱ
-* α + ᾱ = ᾱ
-* α + α = ᾱ
-* α + η = ᾱ
-* α + αι = αι
-* α + ῃ = ᾳ
-* α + οι = ῳ
-
-
-## Omicron
-
-* ο + ου = ου
-* ο + ε = ου
-* ο + ο = ου
-* ο + ει = οι
-* ο + οι = οι
-* ο + ῃ = οι
-* ο + η = ω
-* ο + ω = ω
-* ο + ῳ = ῳ

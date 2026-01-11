@@ -79,6 +79,7 @@ parent: Vocabulary
 * εἷς, μία, ἕν - [one](https://logeion.uchicago.edu/εἷς)
 * δύο - [two](https://logeion.uchicago.edu/δύο) (indeclinable)
 * τρεῖς, τρία - [three](https://logeion.uchicago.edu/τρεῖς)
+* τέσσαρες, τέσσαρα - [four](https://logeion.uchicago.edu/τέτταρες)
 
 ***
 

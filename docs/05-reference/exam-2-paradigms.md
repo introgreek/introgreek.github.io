@@ -2,7 +2,7 @@
 title: Exam 2 Paradigms
 layout: default
 permalink: /reference/exam-2-paradigms
-nav_order: 8
+nav_order: 7
 parent: Reference
 ---
 
@@ -17,82 +17,172 @@ parent: Reference
 
 ***
 
-## Verbs
+## Adjectives
 
-### Aorist Passive
+### Vowel Declension (2-1-2) Endings
 
-| Person | Singular | Plural |
+| | Masc. | Fem. | Neut. |
+| ----- | ----- | ----- | ----- |
+| Nom. Sg. | -ος | -α / -η | -ον |
+| Gen. Sg. | -ου | -ας / -ης | -ου |
+| Dat. Sg. | -ῳ | -ᾳ / -ῃ | -ῳ |
+| Acc. Sg. | -ον | -αν / -ην | -ον |
+| Nom. Pl. | -οι | -αι | -α |
+| Gen. Pl. | -ων | -ων | -ων |
+| Dat. Pl. | -οις | -αις | -οις |
+| Acc. Pl. | -ους | -ας | -α |
+
+#### Sample 2-1-2
+
+| | Masc. | Fem. | Neut. |
+| ----- | ----- | ----- | ----- |
+| Nom. Sg. | ἀγαθός | ἀγαθή | ἀγαθόν |
+| Gen. Sg. | ἀγαθοῦ | ἀγαθῆς | ἀγαθοῦ |
+| Dat. Sg. | ἀγαθῷ | ἀγαθῇ | ἀγαθῷ |
+| Acc. Sg. | ἀγαθόν | ἀγαθήν | ἀγαθόν |
+| Nom. Pl. | ἀγαθοί | ἀγαθαί | ἀγαθά |
+| Gen. Pl. | ἀγαθῶν | ἀγαθῶν | ἀγαθῶν |
+| Dat. Pl. | ἀγαθοῖς | ἀγαθαῖς | ἀγαθοῖς |
+| Acc. Pl. | ἀγαθούς | ἀγαθάς | ἀγαθά |
+
+### Vowel Declension (2-termination) Endings
+
+| | Masc./Fem. | Neut. |
 | ----- | ----- | ----- |
-| 1st | `-ην` | `-ημεν` |
-| 2nd | `-ης` | `-ητε`|
-| 3rd | **-η** | **-ησαν** |
+| Nom. Sg. | -ος | -ον |
+| Gen. Sg. | -ου | -ου |
+| Dat. Sg. | -ῳ | -ῳ |
+| Acc. Sg. | -ον | -ον |
+| Nom. Pl. | -οι | -α |
+| Gen. Pl. | -ων | -ων |
+| Dat. Pl. | -οις | -οις |
+| Acc. Pl. | -ους | -α |
 
-### Summary of Aorist Forms
+#### Sample Vowel Declension 2-termination
 
-| Voice | 3rd Singular | 3rd Plural |
+| | Masc./Fem. | Neut. |
 | ----- | ----- | ----- |
-| Active | ἐκέλευσε(ν) | ἐκέλευσαν |
-| Middle | ἐκελεύσατο | ἐκελεύσαντο |  
-| Passive | ἐκελεύσθη | ἐκελεύσθησαν |
+| Nom. Sg. | ἄδικος | ἄδικον |
+| Gen. Sg. | ἀδίκου | ἀδίκου |
+| Dat. Sg. | ἀδίκῳ | ἀδίκῳ |
+| Acc. Sg. | ἄδικον | ἄδικον |
+| Nom. Pl. | ἄδικοι | ἄδικα |
+| Gen. Pl. | ἀδίκων | ἀδίκων |
+| Dat. Pl. | ἀδίκοις | ἀδίκοις |
+| Acc. Pl. | ἀδίκους | ἄδικα |
 
 ***
 
-## Nouns
+## Pronouns
 
-### Aspects of Declined Nouns
+### ὅδε, ἥδε, τόδε
 
-| Aspect | Options |
-| -------- | -------- |
-| gender | masculine, feminine, neuter |
-| case | nominative, genitive, dative, accusative, vocative |
-| number | singular, plural, dual |
-
-### Noun Principal Parts
-
-| Word Order in Entry | Function |
-| -------- | -------- |
-| 1st | nominative singular |
-| 2nd | genitive singular |
-| 3rd | gender |
-| 4th | definition |
-
-### Noun Endings
-
-#### First Declension
-
-|  | Long Feminine | Short Feminine | Masculine |
+| | Masculine | Feminine | Neuter
 | ----- | ----- | ----- | ----- |
-| Nom. sg. | -ᾱ, -η | -α | -ᾱς, -ης |
-| Gen. sg. | -ᾱς, -ης | -ης | -ου |
-| Dat. sg. | -ᾳ, -ῃ | -ῃ | -ᾳ, -ῃ |
-| Acc. sg. | -αν, -ην | -αν | -αν, -ην |
-| Nom. pl. | -αι | -αι | -αι |
-| Gen. pl. | -ῶν | -ῶν | -ῶν |
-| Dat. pl. | -αις | -αις | -αις |
-| Acc. pl. | -ας | -ας | -ας |
+| Nom. Sg. | ὅδε | ἥδε | τόδε |
+| Gen. Sg. | τοῦδε | τῆσδε | τοῦδε |
+| Dat. Sg. | τῷδε | τῇδε | τῷδε |
+| Acc. Sg. | τόνδε | τήνδε | τόδε |
+| Nom. Pl. | οἵδε | αἵδε | τάδε |
+| Gen. Pl. | τῶνδε | τῶνδε | τῶνδε |
+| Dat. Pl. | τοῖσδε | ταῖσδε | τοῖσδε |
+| Acc. Pl. | τούσδε | τάσδε | τάδε |
 
-#### Second Declension
+### οὗτος, αὕτη, τοῦτο
 
-|  | Masculine/Feminine | Neuter |
+| | Masculine | Feminine | Neuter
+| ----- | ----- | ----- | ----- |
+| Nom. Sg. | οὗτος | αὕτη | τοῦτο |
+| Gen. Sg. | τούτου | ταύτης | τούτου |
+| Dat. Sg. | τούτῳ | ταύτῃ | τούτῳ |
+| Acc. Sg. | τοῦτον | ταύτην | τοῦτο |
+| Nom. Pl. | οὗτοι | αὗται | ταῦτα |
+| Gen. Pl. | τούτων | τούτων | τούτων |
+| Dat. Pl. | τούτοις | ταύταις | τούτοις |
+| Acc. Pl. | τούτους | ταύτας | ταῦτα |
+
+### ἐκεῖνος, ἐκείνη, ἐκεῖνο
+
+| | Masculine | Feminine | Neuter
+| ----- | ----- | ----- | ----- |
+| Nom. Sg. | ἐκεῖνος | ἐκείνη | ἐκεῖνο |
+| Gen. Sg. | ἐκείνου | ἐκείνης | ἐκείνου |
+| Dat. Sg. | ἐκείνῳ | ἐκείνῃ | ἐκείνῳ |
+| Acc. Sg. | ἐκεῖνον | ἐκείνην | ἐκεῖνο |
+| Nom. Pl. | ἐκεῖνοι | ἐκεῖναι | ἐκεῖνα |
+| Gen. Pl. | ἐκείνων | ἐκείνων | ἐκείνων |
+| Dat. Pl. | ἐκείνοις | ἐκείναις | ἐκείνοις |
+| Acc. Pl. | ἐκείνους | ἐκείνας | ἐκεῖνα |
+
+### αὐτός, αὐτή, αὐτό
+
+| | Masculine | Feminine | Neuter
+| ----- | ----- | ----- | ----- |
+| Nom. Sg. | αὐτός | αὐτή | αὐτό |
+| Gen. Sg. | αὐτοῦ | αὐτῆς | αὐτοῦ |
+| Dat. Sg. | αὐτῷ | αὐτῇ | αὐτῷ |
+| Acc. Sg. | αὐτόν | αὐτήν | αὐτό |
+| Nom. Pl. | αὐτοί | αὐταί | αὐτά |
+| Gen. Pl. | αὐτῶν | αὐτῶν | αὐτῶν |
+| Dat. Pl. | αὐτοῖς | αὐταῖς | αὐτοῖς |
+| Acc. Pl. | αὐτούς | αὐτάς | αὐτά |
+
+***
+
+## Verbs
+
+### ἵστημι
+
+#### Aorist Tense
+{: .no_toc }
+
+| | 1st Aorist Transitive | Athematic Intransitive |
 | ----- | ----- | ----- |
-| Nom. sg. | -ος | -ον |
-| Gen. sg. | -ου | -ου |
-| Dat. sg. | -ῳ | -ῳ |
-| Acc. sg. | -ον | -ον |
-| Nom. pl. | -οι | -α |
-| Gen. pl. | -ων | -ων |
-| Dat. pl. | -οις | -οις |
-| Acc. pl. | -ους | -α |
+| 1st sg. | ἔστησα | ἔστην |
+| 2nd sg. | ἔστησας | ἔστης |
+| 3rd sg. | ἔστησε(ν) | ἔστη |
+| 1st pl. | ἐστήσαμεν | ἔστημεν |
+| 2nd pl. | ἐστήσατε | ἔστητε |
+| 3rd pl. | ἔστησαν | ἔστησαν |
 
-#### Third Declension
+### δίδωμι
 
-|  | Masculine/Feminine | Neuter |
+#### Aorist Tense
+{: .no_toc }
+
+| | Aorist Active | Aorist Middle |
 | ----- | ----- | ----- |
-| Nom. sg. | -ς, -- | -- |
-| Gen. sg. | -ος | -ος |
-| Dat. sg. | -ι | -ι |
-| Acc. sg. | -α | same as nom. |
-| Nom. pl. | -ες | -α |
-| Gen. pl. | -ων | -ων |
-| Dat. pl. | -σι(ν) | -σι(ν) |
-| Acc. pl. | -ας | -α |
+| 1st sg. | ἔδωκα | ἐδόμην |
+| 2nd sg. | ἔδωκας | ἔδου |
+| 3rd sg. | ἔδωκε(ν) | ἔδοτο |
+| 1st pl. | ἔδομεν | ἐδόμεθα |
+| 2nd pl. | ἔδοτε | ἔδοσθε |
+| 3rd pl. | ἔδοσαν | ἔδοντο |
+
+### τίθημι
+
+#### Aorist Tense
+{: .no_toc }
+
+| | Aorist Active | Aorist Middle |
+| ----- | ----- | ----- |
+| 1st sg. | ἔθηκα | ἐθέμην |
+| 2nd sg. | ἔθηκας | ἔθου |
+| 3rd sg. | ἔθηκε(ν) | ἔθετο |
+| 1st pl. | ἔθεμεν | ἐθέμεθα |
+| 2nd pl. | ἔθετε | ἔθεσθε |
+| 3rd pl. | ἔθεσαν | ἔθεντο |
+
+### ἵημι
+
+#### Aorist Tense
+{: .no_toc }
+
+| | Aorist Active | Aorist Middle |
+| ----- | ----- | ----- |
+| 1st sg. | -ἧκα | -εἵμην |
+| 2nd sg. | -ἧκας | -εἷσο |
+| 3rd sg. | -ἧκε(ν) | -εἷτο |
+| 1st pl. | -εἷμεν | -εἵμεθα |
+| 2nd pl. | -εἷτε | -εἷσθε |
+| 3rd pl. | -εἷσαν | -εἷντο |

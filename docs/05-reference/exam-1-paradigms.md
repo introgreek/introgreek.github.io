@@ -2,7 +2,7 @@
 title: Exam 1 Paradigms
 layout: default
 permalink: /reference/exam-1-paradigms
-nav_order: 7
+nav_order: 6
 parent: Reference
 ---
 
@@ -91,3 +91,52 @@ parent: Reference
 | ----- | ----- | ----- |
 | Active | ἤγαγε(ν) | ἤγαγον |
 | Middle | ἠγάγετο | ἠγάγοντο |  
+
+***
+
+## Nouns
+
+### Aspects of Declined Nouns
+
+| Aspect | Options |
+| -------- | -------- |
+| gender | masculine, feminine, neuter |
+| case | nominative, genitive, dative, accusative, vocative |
+| number | singular, plural, dual |
+
+### Noun Principal Parts
+
+| Word Order in Entry | Function |
+| -------- | -------- |
+| 1st | nominative singular |
+| 2nd | genitive singular |
+| 3rd | gender |
+| 4th | definition |
+
+### Noun Endings
+
+#### First Declension
+
+|  | Long Feminine | Short Feminine | Masculine |
+| ----- | ----- | ----- | ----- |
+| Nom. sg. | -ᾱ, -η | -α | -ᾱς, -ης |
+| Gen. sg. | -ᾱς, -ης | -ης | -ου |
+| Dat. sg. | -ᾳ, -ῃ | -ῃ | -ᾳ, -ῃ |
+| Acc. sg. | -αν, -ην | -αν | -αν, -ην |
+| Nom. pl. | -αι | -αι | -αι |
+| Gen. pl. | -ῶν | -ῶν | -ῶν |
+| Dat. pl. | -αις | -αις | -αις |
+| Acc. pl. | -ας | -ας | -ας |
+
+#### Second Declension
+
+|  | Masculine/Feminine | Neuter |
+| ----- | ----- | ----- |
+| Nom. sg. | -ος | -ον |
+| Gen. sg. | -ου | -ου |
+| Dat. sg. | -ῳ | -ῳ |
+| Acc. sg. | -ον | -ον |
+| Nom. pl. | -οι | -α |
+| Gen. pl. | -ων | -ων |
+| Dat. pl. | -οις | -οις |
+| Acc. pl. | -ους | -α |

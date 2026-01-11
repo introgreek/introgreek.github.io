@@ -848,7 +848,7 @@
   },"121": {
     "doc": "Exam 3 Vocabulary",
     "title": "Adjectives",
-    "content": "3-1-3 (3rd Declension, Three Terminations) . | εὐθύς, εὐθεῖα, εὐθύ - straight, direct | μέγας, μεγάλη, μέγα - large, great, tall | μέλας, μέλαινα, μέλαν - black | πᾶς, πᾶσα, πᾶν - (singular) each, every; (plural) all | πολύς, πολλή, πολύ - (singular) much; (plural) many | ταχύς, ταχεῖα, ταχύ - swift, quick | χαρίεις, χαρίεσσα, χαρίεν - graceful | . 3-3 (3rd Declension, Two Terminations) . | ἀληθής, ἀληθές - true | ἐλάσσων, ἐλάσσον - less, fewer, smaller | εὐδαίμων, εὐδαῖμον - lucky, blessed, fortunate | σώφρων, σῶφρον - wise, moderate | ψευδής, ψευδές - false, fake | . Numerals . | εἷς, μία, ἕν - one | δύο - two (indeclinable) | τρεῖς, τρία - three | . ",
+    "content": "3-1-3 (3rd Declension, Three Terminations) . | εὐθύς, εὐθεῖα, εὐθύ - straight, direct | μέγας, μεγάλη, μέγα - large, great, tall | μέλας, μέλαινα, μέλαν - black | πᾶς, πᾶσα, πᾶν - (singular) each, every; (plural) all | πολύς, πολλή, πολύ - (singular) much; (plural) many | ταχύς, ταχεῖα, ταχύ - swift, quick | χαρίεις, χαρίεσσα, χαρίεν - graceful | . 3-3 (3rd Declension, Two Terminations) . | ἀληθής, ἀληθές - true | ἐλάσσων, ἐλάσσον - less, fewer, smaller | εὐδαίμων, εὐδαῖμον - lucky, blessed, fortunate | σώφρων, σῶφρον - wise, moderate | ψευδής, ψευδές - false, fake | . Numerals . | εἷς, μία, ἕν - one | δύο - two (indeclinable) | τρεῖς, τρία - three | τέσσαρες, τέσσαρα - four | . ",
     "url": "/vocabulary/exam-3-vocabulary#adjectives",
     
     "relUrl": "/vocabulary/exam-3-vocabulary#adjectives"
@@ -1100,7 +1100,7 @@
   },"157": {
     "doc": "Adjectives",
     "title": "Table of contents",
-    "content": ". | Article | Vowel Declension . | Three-Termination (2-1-2) (fem. in -α) | Three-Termination (2-1-2) (fem. in -η) | Two-Termination | . | Consonant Declension . | Three-Termination (3-1-3) | Three-Termination: -υς, -εια, -υ | Three-Termination: μέγας | Three-Termination: πολύς | Two-Termination | Two-Termination: -ης, -ες | Two-Termination: Comparatives in -(ι)ων, -(ι)ον | . | Numerals | Irregular Comparatives and Superlatives | . ",
+    "content": ". | Article | Vowel Declension . | Three-Termination (2-1-2) (fem. in -α) | Three-Termination (2-1-2) (fem. in -η) | Two-Termination (2-2) | . | Consonant Declension . | Three-Termination (3-1-3) | Three-Termination: -υς, -εια, -υ | Three-Termination: μέγας | Three-Termination: πολύς | Two-Termination (3-3) | Two-Termination: -ης, -ες | . | Numerals | . ",
     "url": "/reference/adjectives#table-of-contents",
     
     "relUrl": "/reference/adjectives#table-of-contents"
@@ -1114,14 +1114,14 @@
   },"159": {
     "doc": "Adjectives",
     "title": "Vowel Declension",
-    "content": "Three-Termination (2-1-2) (fem. in -α) . |   | Masc. | Fem. | Neut. | . | Nom. Sg. | μίκρος | μίκρα | μίκρον | . | Gen. Sg. | μίκρου | μίκρας | μίκρου | . | Dat. Sg. | μίκρῳ | μίκρᾳ | μίκρῳ | . | Acc. Sg. | μίκρον | μίκραν | μίκρον | . | Nom. Pl. | μίκροι | μίκραι | μίκρα | . | Gen. Pl. | μίκρων | μικρῶν | μίκρων | . | Dat. Pl. | μίκροις | μίκραις | μίκροις | . | Acc. Pl. | μίκρους | μίκρας | μίκρα | . Three-Termination (2-1-2) (fem. in -η) . |   | Masc. | Fem. | Neut. | . | Nom. Sg. | ἀγαθός | ἀγαθή | ἀγαθόν | . | Gen. Sg. | ἀγαθοῦ | ἀγαθῆς | ἀγαθοῦ | . | Dat. Sg. | ἀγαθῷ | ἀγαθῇ | ἀγαθῷ | . | Acc. Sg. | ἀγαθόν | ἀγαθήν | ἀγαθόν | . | Nom. Pl. | ἀγαθοί | ἀγαθαί | ἀγαθά | . | Gen. Pl. | ἀγαθῶν | ἀγαθῶν | ἀγαθῶν | . | Dat. Pl. | ἀγαθοῖς | ἀγαθαῖς | ἀγαθοῖς | . | Acc. Pl. | ἀγαθούς | ἀγαθάς | ἀγαθά | . Two-Termination . |   | Masc./Fem. | Neut. | . | Nom. Sg. | ἄδικος | ἄδικον | . | Gen. Sg. | ἀδίκου | ἀδίκου | . | Dat. Sg. | ἀδίκῳ | ἀδίκῳ | . | Acc. Sg. | ἄδικον | ἄδικον | . | Nom. Pl. | ἄδικοι | ἄδικα | . | Gen. Pl. | ἀδίκων | ἀδίκων | . | Dat. Pl. | ἀδίκοις | ἀδίκοις | . | Acc. Pl. | ἀδίκους | ἄδικα | . ",
+    "content": "Three-Termination (2-1-2) (fem. in -α) . |   | Masc. | Fem. | Neut. | . | Nom. Sg. | μίκρος | μίκρα | μίκρον | . | Gen. Sg. | μίκρου | μίκρας | μίκρου | . | Dat. Sg. | μίκρῳ | μίκρᾳ | μίκρῳ | . | Acc. Sg. | μίκρον | μίκραν | μίκρον | . | Nom. Pl. | μίκροι | μίκραι | μίκρα | . | Gen. Pl. | μίκρων | μικρῶν | μίκρων | . | Dat. Pl. | μίκροις | μίκραις | μίκροις | . | Acc. Pl. | μίκρους | μίκρας | μίκρα | . Three-Termination (2-1-2) (fem. in -η) . |   | Masc. | Fem. | Neut. | . | Nom. Sg. | ἀγαθός | ἀγαθή | ἀγαθόν | . | Gen. Sg. | ἀγαθοῦ | ἀγαθῆς | ἀγαθοῦ | . | Dat. Sg. | ἀγαθῷ | ἀγαθῇ | ἀγαθῷ | . | Acc. Sg. | ἀγαθόν | ἀγαθήν | ἀγαθόν | . | Nom. Pl. | ἀγαθοί | ἀγαθαί | ἀγαθά | . | Gen. Pl. | ἀγαθῶν | ἀγαθῶν | ἀγαθῶν | . | Dat. Pl. | ἀγαθοῖς | ἀγαθαῖς | ἀγαθοῖς | . | Acc. Pl. | ἀγαθούς | ἀγαθάς | ἀγαθά | . Two-Termination (2-2) . |   | Masc./Fem. | Neut. | . | Nom. Sg. | ἄδικος | ἄδικον | . | Gen. Sg. | ἀδίκου | ἀδίκου | . | Dat. Sg. | ἀδίκῳ | ἀδίκῳ | . | Acc. Sg. | ἄδικον | ἄδικον | . | Nom. Pl. | ἄδικοι | ἄδικα | . | Gen. Pl. | ἀδίκων | ἀδίκων | . | Dat. Pl. | ἀδίκοις | ἀδίκοις | . | Acc. Pl. | ἀδίκους | ἄδικα | . ",
     "url": "/reference/adjectives#vowel-declension",
     
     "relUrl": "/reference/adjectives#vowel-declension"
   },"160": {
     "doc": "Adjectives",
     "title": "Consonant Declension",
-    "content": "Three-Termination (3-1-3) . |   | Masc. | Fem. | Neut. | . | Nom. Sg. | πᾶς | πᾶσα | πᾶν | . | Gen. Sg. | πάντος | πάσης | πάντος | . | Dat. Sg. | πάντι | πάσῃ | πάντι | . | Acc. Sg. | πάντα | πᾶσαν | πᾶν | . | Nom. Pl. | πάντες | πᾶσαι | πάντα | . | Gen. Pl. | πάντων | πασῶν | πάντων | . | Dat. Pl. | πᾶσι(ν) | πάσαις | πᾶσι(ν) | . | Acc. Pl. | πάντας | πάσας | πάντα | . Three-Termination: -υς, -εια, -υ . |   | Masculine | Feminine | Neuter | . | Nom. Sg. | βαρύς | βαρεῖα | βαρύ | . | Gen. Sg. | βαρέος | βαρείας | βαρέος | . | Dat. Sg. | βαρεῖ | βαρείᾳ | βαρεῖ | . | Acc. Sg. | βαρύν | βαρεῖαν | βαρύ | . | Nom. Pl. | βαρεῖς | βαρεῖαι | βαρέα | . | Gen. Pl. | βαρέων | βαρειῶν | βαρέων | . | Dat. Pl. | βαρέσι(ν) | βαρείαις | βαρέσι(ν) | . | Acc. Pl. | βαρεῖς | βαρείας | βαρέα | . Three-Termination: μέγας . |   | Masculine | Feminine | Neuter | . | Nom. Sg. | μέγας | μεγάλη | μέγα | . | Gen. Sg. | μεγάλου | μεγάλης | μεγάλου | . | Dat. Sg. | μεγάλῳ | μεγάλῃ | μεγάλῳ | . | Acc. Sg. | μέγαν | μεγάλην | μέγα | . | Nom. Pl. | μεγάλοι | μεγάλαι | μεγάλα | . | Gen. Pl. | μεγάλων | μεγάλων | μεγάλων | . | Dat. Pl. | μεγάλοις | μεγάλαις | μεγάλοις | . | Acc. Pl. | μεγάλους | μεγάλας | μεγάλα | . Three-Termination: πολύς . |   | Masculine | Feminine | Neuter | . | Nom. Sg. | πολύς | πολλή | πολύ | . | Gen. Sg. | πολλοῦ | πολλῆς | πολλοῦ | . | Dat. Sg. | πολλῷ | πολλῇ | πολλῷ | . | Acc. Sg. | πολύν | πολλήν | πολύ | . | Nom. Pl. | πολλοί | πολλαί | πολλά | . | Gen. Pl. | πολλῶν | πολλῶν | πολλῶν | . | Dat. Pl. | πολλοῖς | πολλαῖς | πολλοῖς | . | Acc. Pl. | πολλούς | πολλάς | πολλά | . Two-Termination . |   | Masc./Fem. | Neut. | . | Nom. Sg. | σώφρων | σῶφρον | . | Gen. Sg. | σώφρονος | σώφρονος | . | Dat. Sg. | σώφρονι | σώφρονι | . | Acc. Sg. | σώφρονα | σῶφρον | . | Nom. Pl. | σώφρονες | σώφρονα | . | Gen. Pl. | σωφρόνων | σωφρόνων | . | Dat. Pl. | σώφροσι(ν) | σώφροσι(ν) | . | Acc. Pl. | σώφρονας | σώφρονα | . Two-Termination: -ης, -ες . |   | Masc./Fem. | Neuter | . | Nom. Sg. | ἀληθής | ἀληθές | . | Gen. Sg. | ἀληθοῦς | ἀληθοῦς | . | Dat. Sg. | ἀληθεῖ | ἀληθεῖ | . | Acc. Sg. | ἀληθῆ | ἀληθές | . | Nom. Pl. | ἀληθεῖς | ἀληθῆ | . | Gen. Pl. | ἀληθῶν | ἀληθῶν | . | Dat. Pl. | ἀληθέσι(ν) | ἀληθέσι(ν) | . | Acc. Pl. | ἀληθεῖς | ἀληθῆ | . Two-Termination: Comparatives in -(ι)ων, -(ι)ον . |   | Masc./Fem. | Neut. | . | Nom. Sg. | ἀμείνων | ἄμεινον | . | Gen. Sg. | ἀμείνονος | ἀμείνονος | . | Dat. Sg. | ἀμείνονι | ἀμείνονι | . | Acc. Sg. | ἀμείνονα or ἀμείνω | ἄμεινον | . | Nom. Pl. | ἀμείνονες or ἀμείνους | ἀμείνονα or ἀμείνω | . | Gen. Pl. | ἀμεινόνων | ἀμεινόνων | . | Dat. Pl. | ἀμείνοσι(ν) | ἀμείνοσι(ν) | . | Acc. Pl. | ἀμείνονας or ἀμείνους | ἀμείνονα or ἀμείνω | . ",
+    "content": "Three-Termination (3-1-3) . |   | Masc. | Fem. | Neut. | . | Nom. Sg. | πᾶς | πᾶσα | πᾶν | . | Gen. Sg. | πάντος | πάσης | πάντος | . | Dat. Sg. | πάντι | πάσῃ | πάντι | . | Acc. Sg. | πάντα | πᾶσαν | πᾶν | . | Nom. Pl. | πάντες | πᾶσαι | πάντα | . | Gen. Pl. | πάντων | πασῶν | πάντων | . | Dat. Pl. | πᾶσι(ν) | πάσαις | πᾶσι(ν) | . | Acc. Pl. | πάντας | πάσας | πάντα | . Three-Termination: -υς, -εια, -υ . |   | Masculine | Feminine | Neuter | . | Nom. Sg. | βαρύς | βαρεῖα | βαρύ | . | Gen. Sg. | βαρέος | βαρείας | βαρέος | . | Dat. Sg. | βαρεῖ | βαρείᾳ | βαρεῖ | . | Acc. Sg. | βαρύν | βαρεῖαν | βαρύ | . | Nom. Pl. | βαρεῖς | βαρεῖαι | βαρέα | . | Gen. Pl. | βαρέων | βαρειῶν | βαρέων | . | Dat. Pl. | βαρέσι(ν) | βαρείαις | βαρέσι(ν) | . | Acc. Pl. | βαρεῖς | βαρείας | βαρέα | . Three-Termination: μέγας . |   | Masculine | Feminine | Neuter | . | Nom. Sg. | μέγας | μεγάλη | μέγα | . | Gen. Sg. | μεγάλου | μεγάλης | μεγάλου | . | Dat. Sg. | μεγάλῳ | μεγάλῃ | μεγάλῳ | . | Acc. Sg. | μέγαν | μεγάλην | μέγα | . | Nom. Pl. | μεγάλοι | μεγάλαι | μεγάλα | . | Gen. Pl. | μεγάλων | μεγάλων | μεγάλων | . | Dat. Pl. | μεγάλοις | μεγάλαις | μεγάλοις | . | Acc. Pl. | μεγάλους | μεγάλας | μεγάλα | . Three-Termination: πολύς . |   | Masculine | Feminine | Neuter | . | Nom. Sg. | πολύς | πολλή | πολύ | . | Gen. Sg. | πολλοῦ | πολλῆς | πολλοῦ | . | Dat. Sg. | πολλῷ | πολλῇ | πολλῷ | . | Acc. Sg. | πολύν | πολλήν | πολύ | . | Nom. Pl. | πολλοί | πολλαί | πολλά | . | Gen. Pl. | πολλῶν | πολλῶν | πολλῶν | . | Dat. Pl. | πολλοῖς | πολλαῖς | πολλοῖς | . | Acc. Pl. | πολλούς | πολλάς | πολλά | . Two-Termination (3-3) . |   | Masc./Fem. | Neut. | . | Nom. Sg. | σώφρων | σῶφρον | . | Gen. Sg. | σώφρονος | σώφρονος | . | Dat. Sg. | σώφρονι | σώφρονι | . | Acc. Sg. | σώφρονα | σῶφρον | . | Nom. Pl. | σώφρονες | σώφρονα | . | Gen. Pl. | σωφρόνων | σωφρόνων | . | Dat. Pl. | σώφροσι(ν) | σώφροσι(ν) | . | Acc. Pl. | σώφρονας | σώφρονα | . Two-Termination: -ης, -ες . |   | Masc./Fem. | Neuter | . | Nom. Sg. | ἀληθής | ἀληθές | . | Gen. Sg. | ἀληθοῦς | ἀληθοῦς | . | Dat. Sg. | ἀληθεῖ | ἀληθεῖ | . | Acc. Sg. | ἀληθῆ | ἀληθές | . | Nom. Pl. | ἀληθεῖς | ἀληθῆ | . | Gen. Pl. | ἀληθῶν | ἀληθῶν | . | Dat. Pl. | ἀληθέσι(ν) | ἀληθέσι(ν) | . | Acc. Pl. | ἀληθεῖς | ἀληθῆ | . ",
     "url": "/reference/adjectives#consonant-declension",
     
     "relUrl": "/reference/adjectives#consonant-declension"
@@ -1133,222 +1133,222 @@
     
     "relUrl": "/reference/adjectives#numerals"
   },"162": {
-    "doc": "Adjectives",
-    "title": "Irregular Comparatives and Superlatives",
-    "content": "| Positive | Comparative | Superlative | . | ἡδύς | ἡδίων | ἥδιστος | . | ἀγαθός | - ἀμείνων (better, more noble, more excellent)- βελτίων (better, more virtuous)- κρείττων (better, more powerful) | - ἄριστος (best, most excellent)- βέλτιστος (best, most virtuous)- κράτιστος (best, most powerful) | . | κακός | - κακίων (worse)- χείρων (worse)- ἥττων (weaker, inferior, fewer) | - κάκιστος- χείριστος- ἥκιστος | . | καλός | καλλίων | κάλλιστος | . | μέγας | μείζων | μέγιστος | . | πολύς | πλείων or πλέων | πλεῖστος | . | μίκρος | - μικρότερος- ἐλάττων | - μικρότατος- ἐλάχιστος | . | ὀλίγος | ὀλείζων | ὀλίγιστος | . | ταχύς | θάττων | τάχιστος | . ",
-    "url": "/reference/adjectives#irregular-comparatives-and-superlatives",
-    
-    "relUrl": "/reference/adjectives#irregular-comparatives-and-superlatives"
-  },"163": {
     "doc": "Contractions",
     "title": "Contractions",
     "content": " ",
     "url": "/reference/contractions",
     
     "relUrl": "/reference/contractions"
-  },"164": {
+  },"163": {
     "doc": "Contractions",
     "title": "Table of contents",
-    "content": ". | Epsilon | Alpha | Omicron | . ",
+    "content": ". | Epsilon | . ",
     "url": "/reference/contractions#table-of-contents",
     
     "relUrl": "/reference/contractions#table-of-contents"
-  },"165": {
+  },"164": {
     "doc": "Contractions",
     "title": "Epsilon",
     "content": ". | ε + ει = ει | ε + ε = ει | ε + ου = ου | ε + ο = ου | ε + ᾱ = η | ε + α = η | ε + η = η | ε + αι = ῃ | ε + ῃ = ῃ | ε + οι = οι | ε + ω = ω | ε + ῳ = ῳ | . ",
     "url": "/reference/contractions#epsilon",
     
     "relUrl": "/reference/contractions#epsilon"
-  },"166": {
-    "doc": "Contractions",
-    "title": "Alpha",
-    "content": ". | α + ει = ᾳ | α + ου = ω | α + ο = ω | α + ω = ω | α + ε = ᾱ | α + ᾱ = ᾱ | α + α = ᾱ | α + η = ᾱ | α + αι = αι | α + ῃ = ᾳ | α + οι = ῳ | . ",
-    "url": "/reference/contractions#alpha",
-    
-    "relUrl": "/reference/contractions#alpha"
-  },"167": {
-    "doc": "Contractions",
-    "title": "Omicron",
-    "content": ". | ο + ου = ου | ο + ε = ου | ο + ο = ου | ο + ει = οι | ο + οι = οι | ο + ῃ = οι | ο + η = ω | ο + ω = ω | ο + ῳ = ῳ | . ",
-    "url": "/reference/contractions#omicron",
-    
-    "relUrl": "/reference/contractions#omicron"
-  },"168": {
+  },"165": {
     "doc": "Course Info",
     "title": "Course Information",
     "content": "NOTE: All information in this section can also be found in Google Doc format. ",
     "url": "/course_info/course-info#course-information",
     
     "relUrl": "/course_info/course-info#course-information"
-  },"169": {
+  },"166": {
     "doc": "Course Info",
     "title": "Course Details (Spring 2026)",
     "content": ". | Meeting times and place: MR 9:30-10:45am, classroom TBD | Instructor: Prof. Daniel Libatique (he/him/his) | Office: Donnarumma 124 | Student Hours: via Zoom: Wednesdays 8-10am (sign up for 15-minute slot here) or by appointment | E-mail: dlibatique [at] fairfield [dot] edu | Website: Click here. | Zoom room link: See email or the Google Doc syllabus . | . ",
     "url": "/course_info/course-info#course-details-spring-2026",
     
     "relUrl": "/course_info/course-info#course-details-spring-2026"
-  },"170": {
+  },"167": {
     "doc": "Course Info",
     "title": "Course Description",
     "content": "This course is an introduction to the ancient Greek language, the mode of communication that defines the literature and culture of ancient Greece. No previous knowledge of Greek is required. This course will start from the very basics of the Greek language (i.e., alphabet, parts of speech, inflection, pronunciation) and eventually build towards a strong command of Greek vocabulary, grammar, and syntax. The goal of introductory Greek is to build a solid foundation for reading actual ancient Greek texts. As such, the acquisition of those linguistic skills, elucidated and practiced through classroom instruction and examples in our textbook, will also be reinforced by the reading of select prose passages in Greek. ",
     "url": "/course_info/course-info#course-description",
     
     "relUrl": "/course_info/course-info#course-description"
-  },"171": {
+  },"168": {
     "doc": "Course Info",
     "title": "Course Goals and Learning Outcomes",
     "content": "By the end of this course, an introduction to the ancient Latin language, my goal is that as far as disciplinary content is concerned, you as students will be able to: . | develop your knowledge base of Greek (and English) morphology and syntax | develop confidence in engaging with complex sentence structures and narratives | practice close reading and identifying linguistic patterns | analyze and engage with unedited Greek | learn about and appreciate aspects of ancient Greek culture | . At a global level, this course is designed to improve your abilities in the following IDEA Learning Objectives: . | gaining a basic understanding of the subject (e.g., factual knowledge, methods, principles, generalizations, theories) (IDEA #1) | developing knowledge and understanding of diverse perspectives, global awareness, or other cultures (IDEA #2) | learning to apply course material (to improve thinking, problem solving, and decisions) (IDEA #3) | learning how to find, evaluate, and use resources to explore a topic in depth (IDEA #9) | . As outcomes of your learning, you will: . | produce idiomatic English translations of both edited and authentic Greek | compose short narratives in grammatically-sound Greek based on real ancient myths | complete daily homework assignments to practice concepts and increase familiarity with vocabulary, paradigms, and sentence structures | achieve high grades on daily check-ins, weekly quizzes, and tri-semesterly exams by demonstrating your understanding of Greek morphology and syntax and applying grammatical rules | . ",
     "url": "/course_info/course-info#course-goals-and-learning-outcomes",
     
     "relUrl": "/course_info/course-info#course-goals-and-learning-outcomes"
-  },"172": {
+  },"169": {
     "doc": "Course Info",
     "title": "Course Info",
     "content": " ",
     "url": "/course_info/course-info",
     
     "relUrl": "/course_info/course-info"
-  },"173": {
+  },"170": {
     "doc": "Exam 1 Paradigms",
     "title": "Exam 1 Paradigms",
     "content": " ",
     "url": "/reference/exam-1-paradigms",
     
     "relUrl": "/reference/exam-1-paradigms"
-  },"174": {
+  },"171": {
     "doc": "Exam 1 Paradigms",
     "title": "Table of contents",
-    "content": ". | Verbs . | Aspects of Conjugated Verbs | Verb Principal Parts | (1st) Aorist Active Endings | (1st) Aorist Middle Endings | Sample 1st Aorist Active/Middle Conjugation | (2nd) Aorist Active Endings | (2nd) Aorist Middle Endings | Sample 2nd Aorist Active/Middle Conjugation | . | . ",
+    "content": ". | Verbs . | Aspects of Conjugated Verbs | Verb Principal Parts | (1st) Aorist Active Endings | (1st) Aorist Middle Endings | Sample 1st Aorist Active/Middle Conjugation | (2nd) Aorist Active Endings | (2nd) Aorist Middle Endings | Sample 2nd Aorist Active/Middle Conjugation | . | Nouns . | Aspects of Declined Nouns | Noun Principal Parts | Noun Endings . | First Declension | Second Declension | . | . | . ",
     "url": "/reference/exam-1-paradigms#table-of-contents",
     
     "relUrl": "/reference/exam-1-paradigms#table-of-contents"
-  },"175": {
+  },"172": {
     "doc": "Exam 1 Paradigms",
     "title": "Verbs",
     "content": "Aspects of Conjugated Verbs . | Aspect | Options | . | person | 1st, 2nd, 3rd | . | number | singular, plural, dual | . | tense | aorist, present, imperfect, future, perfect, pluperfect, future perfect | . | voice | active, middle, passive | . | mood | indicative, imperative, subjunctive, optative | . Verb Principal Parts . | Principal Part | Form of Verb | What You Can Conjugate With It | . | 1st | 1st sg. present | present and imperfect tense forms in all voices | . | 2nd | 1st sg. future | future active and middle forms | . | 3rd | 1st sg. aorist | aorist active and middle forms | . | 4th | 1st sg. perfect active | perfect, plupf., and fut. pf. active forms | . | 5th | 1st sg. perfect middle/passive | perfect, plupf., and fut. pf. middle/passive forms | . | 6th | 1st sg. aorist passive | aorist passive and future passive forms | . (1st) Aorist Active Endings . | Person | Singular | Plural | . | 1st | -α | -αμεν | . | 2nd | -ας | -ατε | . | 3rd | -ε(ν) | -αν | . (1st) Aorist Middle Endings . | Person | Singular | Plural | . | 1st | -άμην | -άμεθα | . | 2nd | -ω | -ασθε | . | 3rd | -ατο | -αντο | . Sample 1st Aorist Active/Middle Conjugation . | Paradigm verb: κελεύω | . | Voice | 3rd Singular | 3rd Plural | . | Active | ἐκέλευσε(ν) | ἐκέλευσαν | . | Middle | ἐκελεύσατο | ἐκελεύσαντο | . (2nd) Aorist Active Endings . | Person | Singular | Plural | . | 1st | -ον | -ομεν | . | 2nd | -ες | -ετε | . | 3rd | -ε(ν) | -ον | . (2nd) Aorist Middle Endings . | Person | Singular | Plural | . | 1st | -όμην | -όμεθα | . | 2nd | -ου | -εσθε | . | 3rd | -ετο | -οντο | . Sample 2nd Aorist Active/Middle Conjugation . | Paradigm verb: ἄγω | . | Voice | 3rd Singular | 3rd Plural | . | Active | ἤγαγε(ν) | ἤγαγον | . | Middle | ἠγάγετο | ἠγάγοντο | . ",
     "url": "/reference/exam-1-paradigms#verbs",
     
     "relUrl": "/reference/exam-1-paradigms#verbs"
-  },"176": {
+  },"173": {
+    "doc": "Exam 1 Paradigms",
+    "title": "Nouns",
+    "content": "Aspects of Declined Nouns . | Aspect | Options | . | gender | masculine, feminine, neuter | . | case | nominative, genitive, dative, accusative, vocative | . | number | singular, plural, dual | . Noun Principal Parts . | Word Order in Entry | Function | . | 1st | nominative singular | . | 2nd | genitive singular | . | 3rd | gender | . | 4th | definition | . Noun Endings . First Declension . |   | Long Feminine | Short Feminine | Masculine | . | Nom. sg. | -ᾱ, -η | -α | -ᾱς, -ης | . | Gen. sg. | -ᾱς, -ης | -ης | -ου | . | Dat. sg. | -ᾳ, -ῃ | -ῃ | -ᾳ, -ῃ | . | Acc. sg. | -αν, -ην | -αν | -αν, -ην | . | Nom. pl. | -αι | -αι | -αι | . | Gen. pl. | -ῶν | -ῶν | -ῶν | . | Dat. pl. | -αις | -αις | -αις | . | Acc. pl. | -ας | -ας | -ας | . Second Declension . |   | Masculine/Feminine | Neuter | . | Nom. sg. | -ος | -ον | . | Gen. sg. | -ου | -ου | . | Dat. sg. | -ῳ | -ῳ | . | Acc. sg. | -ον | -ον | . | Nom. pl. | -οι | -α | . | Gen. pl. | -ων | -ων | . | Dat. pl. | -οις | -οις | . | Acc. pl. | -ους | -α | . ",
+    "url": "/reference/exam-1-paradigms#nouns",
+    
+    "relUrl": "/reference/exam-1-paradigms#nouns"
+  },"174": {
     "doc": "Exam 2 Paradigms",
     "title": "Exam 2 Paradigms",
     "content": " ",
     "url": "/reference/exam-2-paradigms",
     
     "relUrl": "/reference/exam-2-paradigms"
-  },"177": {
+  },"175": {
     "doc": "Exam 2 Paradigms",
     "title": "Table of contents",
-    "content": ". | Verbs . | Aorist Passive | Summary of Aorist Forms | . | Nouns . | Aspects of Declined Nouns | Noun Principal Parts | Noun Endings . | First Declension | Second Declension | Third Declension | . | . | . ",
+    "content": ". | Adjectives . | Vowel Declension (2-1-2) Endings . | Sample 2-1-2 | . | Vowel Declension (2-termination) Endings . | Sample Vowel Declension 2-termination | . | . | Pronouns . | ὅδε, ἥδε, τόδε | οὗτος, αὕτη, τοῦτο | ἐκεῖνος, ἐκείνη, ἐκεῖνο | αὐτός, αὐτή, αὐτό | . | Verbs . | ἵστημι | δίδωμι | τίθημι | ἵημι | . | . ",
     "url": "/reference/exam-2-paradigms#table-of-contents",
     
     "relUrl": "/reference/exam-2-paradigms#table-of-contents"
+  },"176": {
+    "doc": "Exam 2 Paradigms",
+    "title": "Adjectives",
+    "content": "Vowel Declension (2-1-2) Endings . |   | Masc. | Fem. | Neut. | . | Nom. Sg. | -ος | -α / -η | -ον | . | Gen. Sg. | -ου | -ας / -ης | -ου | . | Dat. Sg. | -ῳ | -ᾳ / -ῃ | -ῳ | . | Acc. Sg. | -ον | -αν / -ην | -ον | . | Nom. Pl. | -οι | -αι | -α | . | Gen. Pl. | -ων | -ων | -ων | . | Dat. Pl. | -οις | -αις | -οις | . | Acc. Pl. | -ους | -ας | -α | . Sample 2-1-2 . |   | Masc. | Fem. | Neut. | . | Nom. Sg. | ἀγαθός | ἀγαθή | ἀγαθόν | . | Gen. Sg. | ἀγαθοῦ | ἀγαθῆς | ἀγαθοῦ | . | Dat. Sg. | ἀγαθῷ | ἀγαθῇ | ἀγαθῷ | . | Acc. Sg. | ἀγαθόν | ἀγαθήν | ἀγαθόν | . | Nom. Pl. | ἀγαθοί | ἀγαθαί | ἀγαθά | . | Gen. Pl. | ἀγαθῶν | ἀγαθῶν | ἀγαθῶν | . | Dat. Pl. | ἀγαθοῖς | ἀγαθαῖς | ἀγαθοῖς | . | Acc. Pl. | ἀγαθούς | ἀγαθάς | ἀγαθά | . Vowel Declension (2-termination) Endings . |   | Masc./Fem. | Neut. | . | Nom. Sg. | -ος | -ον | . | Gen. Sg. | -ου | -ου | . | Dat. Sg. | -ῳ | -ῳ | . | Acc. Sg. | -ον | -ον | . | Nom. Pl. | -οι | -α | . | Gen. Pl. | -ων | -ων | . | Dat. Pl. | -οις | -οις | . | Acc. Pl. | -ους | -α | . Sample Vowel Declension 2-termination . |   | Masc./Fem. | Neut. | . | Nom. Sg. | ἄδικος | ἄδικον | . | Gen. Sg. | ἀδίκου | ἀδίκου | . | Dat. Sg. | ἀδίκῳ | ἀδίκῳ | . | Acc. Sg. | ἄδικον | ἄδικον | . | Nom. Pl. | ἄδικοι | ἄδικα | . | Gen. Pl. | ἀδίκων | ἀδίκων | . | Dat. Pl. | ἀδίκοις | ἀδίκοις | . | Acc. Pl. | ἀδίκους | ἄδικα | . ",
+    "url": "/reference/exam-2-paradigms#adjectives",
+    
+    "relUrl": "/reference/exam-2-paradigms#adjectives"
+  },"177": {
+    "doc": "Exam 2 Paradigms",
+    "title": "Pronouns",
+    "content": "ὅδε, ἥδε, τόδε . |   | Masculine | Feminine | Neuter | . | Nom. Sg. | ὅδε | ἥδε | τόδε | . | Gen. Sg. | τοῦδε | τῆσδε | τοῦδε | . | Dat. Sg. | τῷδε | τῇδε | τῷδε | . | Acc. Sg. | τόνδε | τήνδε | τόδε | . | Nom. Pl. | οἵδε | αἵδε | τάδε | . | Gen. Pl. | τῶνδε | τῶνδε | τῶνδε | . | Dat. Pl. | τοῖσδε | ταῖσδε | τοῖσδε | . | Acc. Pl. | τούσδε | τάσδε | τάδε | . οὗτος, αὕτη, τοῦτο . |   | Masculine | Feminine | Neuter | . | Nom. Sg. | οὗτος | αὕτη | τοῦτο | . | Gen. Sg. | τούτου | ταύτης | τούτου | . | Dat. Sg. | τούτῳ | ταύτῃ | τούτῳ | . | Acc. Sg. | τοῦτον | ταύτην | τοῦτο | . | Nom. Pl. | οὗτοι | αὗται | ταῦτα | . | Gen. Pl. | τούτων | τούτων | τούτων | . | Dat. Pl. | τούτοις | ταύταις | τούτοις | . | Acc. Pl. | τούτους | ταύτας | ταῦτα | . ἐκεῖνος, ἐκείνη, ἐκεῖνο . |   | Masculine | Feminine | Neuter | . | Nom. Sg. | ἐκεῖνος | ἐκείνη | ἐκεῖνο | . | Gen. Sg. | ἐκείνου | ἐκείνης | ἐκείνου | . | Dat. Sg. | ἐκείνῳ | ἐκείνῃ | ἐκείνῳ | . | Acc. Sg. | ἐκεῖνον | ἐκείνην | ἐκεῖνο | . | Nom. Pl. | ἐκεῖνοι | ἐκεῖναι | ἐκεῖνα | . | Gen. Pl. | ἐκείνων | ἐκείνων | ἐκείνων | . | Dat. Pl. | ἐκείνοις | ἐκείναις | ἐκείνοις | . | Acc. Pl. | ἐκείνους | ἐκείνας | ἐκεῖνα | . αὐτός, αὐτή, αὐτό . |   | Masculine | Feminine | Neuter | . | Nom. Sg. | αὐτός | αὐτή | αὐτό | . | Gen. Sg. | αὐτοῦ | αὐτῆς | αὐτοῦ | . | Dat. Sg. | αὐτῷ | αὐτῇ | αὐτῷ | . | Acc. Sg. | αὐτόν | αὐτήν | αὐτό | . | Nom. Pl. | αὐτοί | αὐταί | αὐτά | . | Gen. Pl. | αὐτῶν | αὐτῶν | αὐτῶν | . | Dat. Pl. | αὐτοῖς | αὐταῖς | αὐτοῖς | . | Acc. Pl. | αὐτούς | αὐτάς | αὐτά | . ",
+    "url": "/reference/exam-2-paradigms#pronouns",
+    
+    "relUrl": "/reference/exam-2-paradigms#pronouns"
   },"178": {
     "doc": "Exam 2 Paradigms",
     "title": "Verbs",
-    "content": "Aorist Passive . | Person | Singular | Plural | . | 1st | -ην | -ημεν | . | 2nd | -ης | -ητε | . | 3rd | -η | -ησαν | . Summary of Aorist Forms . | Voice | 3rd Singular | 3rd Plural | . | Active | ἐκέλευσε(ν) | ἐκέλευσαν | . | Middle | ἐκελεύσατο | ἐκελεύσαντο | . | Passive | ἐκελεύσθη | ἐκελεύσθησαν | . ",
+    "content": "ἵστημι . Aorist Tense . |   | 1st Aorist Transitive | Athematic Intransitive | . | 1st sg. | ἔστησα | ἔστην | . | 2nd sg. | ἔστησας | ἔστης | . | 3rd sg. | ἔστησε(ν) | ἔστη | . | 1st pl. | ἐστήσαμεν | ἔστημεν | . | 2nd pl. | ἐστήσατε | ἔστητε | . | 3rd pl. | ἔστησαν | ἔστησαν | . δίδωμι . Aorist Tense . |   | Aorist Active | Aorist Middle | . | 1st sg. | ἔδωκα | ἐδόμην | . | 2nd sg. | ἔδωκας | ἔδου | . | 3rd sg. | ἔδωκε(ν) | ἔδοτο | . | 1st pl. | ἔδομεν | ἐδόμεθα | . | 2nd pl. | ἔδοτε | ἔδοσθε | . | 3rd pl. | ἔδοσαν | ἔδοντο | . τίθημι . Aorist Tense . |   | Aorist Active | Aorist Middle | . | 1st sg. | ἔθηκα | ἐθέμην | . | 2nd sg. | ἔθηκας | ἔθου | . | 3rd sg. | ἔθηκε(ν) | ἔθετο | . | 1st pl. | ἔθεμεν | ἐθέμεθα | . | 2nd pl. | ἔθετε | ἔθεσθε | . | 3rd pl. | ἔθεσαν | ἔθεντο | . ἵημι . Aorist Tense . |   | Aorist Active | Aorist Middle | . | 1st sg. | -ἧκα | -εἵμην | . | 2nd sg. | -ἧκας | -εἷσο | . | 3rd sg. | -ἧκε(ν) | -εἷτο | . | 1st pl. | -εἷμεν | -εἵμεθα | . | 2nd pl. | -εἷτε | -εἷσθε | . | 3rd pl. | -εἷσαν | -εἷντο | . ",
     "url": "/reference/exam-2-paradigms#verbs",
     
     "relUrl": "/reference/exam-2-paradigms#verbs"
   },"179": {
-    "doc": "Exam 2 Paradigms",
-    "title": "Nouns",
-    "content": "Aspects of Declined Nouns . | Aspect | Options | . | gender | masculine, feminine, neuter | . | case | nominative, genitive, dative, accusative, vocative | . | number | singular, plural, dual | . Noun Principal Parts . | Word Order in Entry | Function | . | 1st | nominative singular | . | 2nd | genitive singular | . | 3rd | gender | . | 4th | definition | . Noun Endings . First Declension . |   | Long Feminine | Short Feminine | Masculine | . | Nom. sg. | -ᾱ, -η | -α | -ᾱς, -ης | . | Gen. sg. | -ᾱς, -ης | -ης | -ου | . | Dat. sg. | -ᾳ, -ῃ | -ῃ | -ᾳ, -ῃ | . | Acc. sg. | -αν, -ην | -αν | -αν, -ην | . | Nom. pl. | -αι | -αι | -αι | . | Gen. pl. | -ῶν | -ῶν | -ῶν | . | Dat. pl. | -αις | -αις | -αις | . | Acc. pl. | -ας | -ας | -ας | . Second Declension . |   | Masculine/Feminine | Neuter | . | Nom. sg. | -ος | -ον | . | Gen. sg. | -ου | -ου | . | Dat. sg. | -ῳ | -ῳ | . | Acc. sg. | -ον | -ον | . | Nom. pl. | -οι | -α | . | Gen. pl. | -ων | -ων | . | Dat. pl. | -οις | -οις | . | Acc. pl. | -ους | -α | . Third Declension . |   | Masculine/Feminine | Neuter | . | Nom. sg. | -ς, – | – | . | Gen. sg. | -ος | -ος | . | Dat. sg. | -ι | -ι | . | Acc. sg. | -α | same as nom. | . | Nom. pl. | -ες | -α | . | Gen. pl. | -ων | -ων | . | Dat. pl. | -σι(ν) | -σι(ν) | . | Acc. pl. | -ας | -α | . ",
-    "url": "/reference/exam-2-paradigms#nouns",
-    
-    "relUrl": "/reference/exam-2-paradigms#nouns"
-  },"180": {
     "doc": "Exam 3 Paradigms",
     "title": "Exam 3 Paradigms",
     "content": " ",
     "url": "/reference/exam-3-paradigms",
     
     "relUrl": "/reference/exam-3-paradigms"
-  },"181": {
+  },"180": {
     "doc": "Exam 3 Paradigms",
     "title": "Table of contents",
-    "content": ". | Nouns . | Noun Endings . | First Declension | Second Declension | Third Declension | . | . | Verbs . | Present Active Endings (-ω) | Present Active Endings (-μι) | Sample Present Active Conjugated Verbs | . | . ",
+    "content": ". | Nouns . | Noun Endings . | Third Declension | . | . | Adjectives . | Consonant Declension (3-1-3) Endings . | Sample 3-1-3 | . | Consonant Declension (2-termination) Endings . | Sample Consonant Declension 2-termination | . | . | Pronouns . | Relative Pronoun | . | Verbs . | Aorist Passive Endings | Summary of Aorist Forms | Present Active Endings (-ω) | Present Active Endings (-μι) | Sample Present Active Conjugated Verbs | ἵστημι | δίδωμι | τίθημι | ἵημι | . | . ",
     "url": "/reference/exam-3-paradigms#table-of-contents",
     
     "relUrl": "/reference/exam-3-paradigms#table-of-contents"
-  },"182": {
+  },"181": {
     "doc": "Exam 3 Paradigms",
     "title": "Nouns",
-    "content": "Noun Endings . First Declension . |   | Long Feminine | Short Feminine | Masculine | . | Nom. sg. | -ᾱ, -η | -α | -ᾱς, -ης | . | Gen. sg. | -ᾱς, -ης | -ης | -ου | . | Dat. sg. | -ᾳ, -ῃ | -ῃ | -ᾳ, -ῃ | . | Acc. sg. | -αν, -ην | -αν | -αν, -ην | . | Nom. pl. | -αι | -αι | -αι | . | Gen. pl. | -ῶν | -ῶν | -ῶν | . | Dat. pl. | -αις | -αις | -αις | . | Acc. pl. | -ας | -ας | -ας | . Second Declension . |   | Masculine/Feminine | Neuter | . | Nom. sg. | -ος | -ον | . | Gen. sg. | -ου | -ου | . | Dat. sg. | -ῳ | -ῳ | . | Acc. sg. | -ον | -ον | . | Nom. pl. | -οι | -α | . | Gen. pl. | -ων | -ων | . | Dat. pl. | -οις | -οις | . | Acc. pl. | -ους | -α | . Third Declension . |   | Masculine/Feminine | Neuter | . | Nom. sg. | -ς, – | – | . | Gen. sg. | -ος | -ος | . | Dat. sg. | -ι | -ι | . | Acc. sg. | -α | same as nom. | . | Nom. pl. | -ες | -α | . | Gen. pl. | -ων | -ων | . | Dat. pl. | -σι(ν) | -σι(ν) | . | Acc. pl. | -ας | -α | . ",
+    "content": "Noun Endings . Third Declension . |   | Masculine/Feminine | Neuter | . | Nom. sg. | -ς, – | – | . | Gen. sg. | -ος | -ος | . | Dat. sg. | -ι | -ι | . | Acc. sg. | -α | same as nom. | . | Nom. pl. | -ες | -α | . | Gen. pl. | -ων | -ων | . | Dat. pl. | -σι(ν) | -σι(ν) | . | Acc. pl. | -ας | -α | . ",
     "url": "/reference/exam-3-paradigms#nouns",
     
     "relUrl": "/reference/exam-3-paradigms#nouns"
+  },"182": {
+    "doc": "Exam 3 Paradigms",
+    "title": "Adjectives",
+    "content": "Consonant Declension (3-1-3) Endings . |   | Masc. | Fem. | Neut. | . | Nom. Sg. | – | -α | – | . | Gen. Sg. | -ος | -ης | -ος | . | Dat. Sg. | -ι | -ῃ | -ι | . | Acc. Sg. | -α | -αν | same as nom. | . | Nom. Pl. | -ες | -αι | -α | . | Gen. Pl. | -ων | -ων | -ων | . | Dat. Pl. | -σι(ν) | -αις | -σι(ν) | . | Acc. Pl. | -ας | -ας | -α | . Sample 3-1-3 . |   | Masc. | Fem. | Neut. | . | Nom. Sg. | πᾶς | πᾶσα | πᾶν | . | Gen. Sg. | πάντος | πάσης | πάντος | . | Dat. Sg. | πάντι | πάσῃ | πάντι | . | Acc. Sg. | πάντα | πᾶσαν | πᾶν | . | Nom. Pl. | πάντες | πᾶσαι | πάντα | . | Gen. Pl. | πάντων | πασῶν | πάντων | . | Dat. Pl. | πᾶσι(ν) | πάσαις | πᾶσι(ν) | . | Acc. Pl. | πάντας | πάσας | πάντα | . Consonant Declension (2-termination) Endings . |   | Masc./Fem. | Neut. | . | Nom. Sg. | – | – | . | Gen. Sg. | -ος | -ος | . | Dat. Sg. | -ι | -ι | . | Acc. Sg. | -α | same as nom. | . | Nom. Pl. | -ες | -α | . | Gen. Pl. | -ων | -ων | . | Dat. Pl. | -σι(ν) | -σι(ν) | . | Acc. Pl. | -ας | -α | . Sample Consonant Declension 2-termination . |   | Masc./Fem. | Neut. | . | Nom. Sg. | σώφρων | σῶφρον | . | Gen. Sg. | σώφρονος | σώφρονος | . | Dat. Sg. | σώφρονι | σώφρονι | . | Acc. Sg. | σώφρονα | σῶφρον | . | Nom. Pl. | σώφρονες | σώφρονα | . | Gen. Pl. | σωφρόνων | σωφρόνων | . | Dat. Pl. | σώφροσι(ν) | σώφροσι(ν) | . | Acc. Pl. | σώφρονας | σώφρονα | . ",
+    "url": "/reference/exam-3-paradigms#adjectives",
+    
+    "relUrl": "/reference/exam-3-paradigms#adjectives"
   },"183": {
     "doc": "Exam 3 Paradigms",
+    "title": "Pronouns",
+    "content": "Relative Pronoun . |   | Masculine | Feminine | Neuter | . | Nom. Sg. | ὅς | ἥ | ὅ | . | Gen. Sg. | οὗ | ἧς | οὗ | . | Dat. Sg. | ᾧ | ᾗ | ᾧ | . | Acc. Sg. | ὅν | ἥν | ὅ | . | Nom. Pl. | οἵ | αἵ | ἅ | . | Gen. Pl. | ὧν | ὧν | ὧν | . | Dat. Pl. | οἷς | αἷς | οἷς | . | Acc. Pl. | οὕς | ἅς | ἅ | . ",
+    "url": "/reference/exam-3-paradigms#pronouns",
+    
+    "relUrl": "/reference/exam-3-paradigms#pronouns"
+  },"184": {
+    "doc": "Exam 3 Paradigms",
     "title": "Verbs",
-    "content": "Present Active Endings (-ω) . | Person | Singular | Plural | . | 1st | -ω | -ομεν | . | 2nd | -εις | -ετε | . | 3rd | -ει | -ουσι(ν) | . Present Active Endings (-μι) . | Person | Singular | Plural | . | 1st | -μι | -μεν | . | 2nd | -ς | -τε | . | 3rd | -σι(ν) | -ασι(ν) | . Sample Present Active Conjugated Verbs . | Verb | 3rd Singular | 3rd Plural | . | κελεύω | κελεύει | κελεύουσι(ν) | . | δείκνυμι | δείκνυσι(ν) | δεικνύασι(ν) | . ",
+    "content": "Aorist Passive Endings . | Person | Singular | Plural | . | 1st | -ην | -ημεν | . | 2nd | -ης | -ητε | . | 3rd | -η | -ησαν | . Summary of Aorist Forms . | paradigm verb: κελεύω | . | Voice | 3rd Singular | 3rd Plural | . | Active | ἐκέλευσε(ν) | ἐκέλευσαν | . | Middle | ἐκελεύσατο | ἐκελεύσαντο | . | Passive | ἐκελεύσθη | ἐκελεύσθησαν | . Present Active Endings (-ω) . | Person | Singular | Plural | . | 1st | -ω | -ομεν | . | 2nd | -εις | -ετε | . | 3rd | -ει | -ουσι(ν) | . Present Active Endings (-μι) . | Person | Singular | Plural | . | 1st | -μι | -μεν | . | 2nd | -ς | -τε | . | 3rd | -σι(ν) | -ασι(ν) | . Sample Present Active Conjugated Verbs . | Verb | 3rd Singular | 3rd Plural | . | κελεύω | κελεύει | κελεύουσι(ν) | . | δείκνυμι | δείκνυσι(ν) | δεικνύασι(ν) | . ἵστημι . Present Tense . |   | Present Active | Present Mid./Pass. | . | 1st sg. | ἵστημι | ἵσταμαι | . | 2nd sg. | ἵστης | ἵστασαι | . | 3rd sg. | ἵστησι(ν) | ἵσταται | . | 1st pl. | ἵσταμεν | ἱστάμεθα | . | 2nd pl. | ἵστατε | ἵστασθε | . | 3rd pl. | ἱστᾶσι(ν) | ἵστανται | . δίδωμι . Present Tense . |   | Present Active | Present Mid./Pass. | . | 1st sg. | δίδωμι | δίδομαι | . | 2nd sg. | δίδως | δίδοσαι | . | 3rd sg. | δίδωσι(ν) | δίδοται | . | 1st pl. | δίδομεν | διδόμεθα | . | 2nd pl. | δίδοτε | δίδοσθε | . | 3rd pl. | διδόασι(ν) | δίδονται | . τίθημι . Present Tense . |   | Present Active | Present Mid./Pass. | . | 1st sg. | τίθημι | τίθεμαι | . | 2nd sg. | τίθης | τίθεσαι | . | 3rd sg. | τίθησι(ν) | τίθεται | . | 1st pl. | τίθεμεν | τιθέμεθα | . | 2nd pl. | τίθετε | τίθεσθε | . | 3rd pl. | τιθέασι(ν) | τίθενται | . ἵημι . Present Tense . |   | Present Active | Present Mid./Pass. | . | 1st sg. | ἵημι | ἵεμαι | . | 2nd sg. | ἵης | ἵεσαι | . | 3rd sg. | ἵησι(ν) | ἵεται | . | 1st pl. | ἵεμεν | ἱέμεθα | . | 2nd pl. | ἵετε | ἵεσθε | . | 3rd pl. | ἱᾶσι(ν) | ἵενται | . ",
     "url": "/reference/exam-3-paradigms#verbs",
     
     "relUrl": "/reference/exam-3-paradigms#verbs"
-  },"184": {
+  },"185": {
     "doc": "Grading",
     "title": "Grading",
     "content": " ",
     "url": "/course_info/grading",
     
     "relUrl": "/course_info/grading"
-  },"185": {
+  },"186": {
     "doc": "Grading",
     "title": "Table of contents",
     "content": ". | Overview and Deadlines | Grade Components . | Homework | Daily Check-Ins | Weekly Quizzes | Exams | Extra Credit | . | Assignment Submission and Lateness Policies | . ",
     "url": "/course_info/grading#table-of-contents",
     
     "relUrl": "/course_info/grading#table-of-contents"
-  },"186": {
+  },"187": {
     "doc": "Grading",
     "title": "Overview and Deadlines",
     "content": "Grading in this course will be slightly unorthodox. Every student will begin the semester with a point total of 0. Then, every assignment that you complete in the areas of homework, daily check-ins, weekly quizzes, exams, and written responses will add points to your total. Your point total across all categories at the end of the semester will determine the semester grade that you receive, and you get to decide what combination of assignments and assessments will get you to your desired final grade. You choose the grade that you want, and you are in control of drawing your own pathway to get there. Because there will be a number of pathways to get to the minimum point total for an A (950 points), every assignment is optional. This includes everything: homework, daily check-ins, weekly quizzes, exams, and written responses. As such, if you don’t submit an assignment by its indicated due date, I will simply assume that you have opted not to complete it and I won’t chase you down for it. If you intend to complete an assignment but anticipate difficulty in meeting its deadline, please be proactive and contact me before it’s due. I am flexible with granting extensions, especially in the current pandemic atmosphere, but I can’t grant an extension that isn’t asked for! I reserve the right to deduct points from or not give credit for any assignment submitted late without prior notification or discussion. All assignments combined will add up to a possible maximum of 1000 points throughout the semester; any extra credit opportunity points will be added to the pool but they are not necessary to get to an A. The following list indicates the point ranges for semester-end grade levels: . | Grade | Minimum | Maximum | . | A | 950 | 1000 | . | A- | 875 | 949 | . | B+ | 800 | 874 | . | B | 750 | 799 | . | B- | 700 | 749 | . | C+ | 650 | 699 | . | C | 600 | 649 | . | C- | 550 | 599 | . | D | 500 | 549 | . | F | 0 | 499 | . Grades ending in .45 or greater will be rounded up to the nearest whole number; grades ending in .44 or less will be rounded down to the nearest whole number. ",
     "url": "/course_info/grading#overview-and-deadlines",
     
     "relUrl": "/course_info/grading#overview-and-deadlines"
-  },"187": {
+  },"188": {
     "doc": "Grading",
     "title": "Grade Components",
     "content": "Homework . | 10 points per homework assignment, twenty (20) assignments total = 200 total points | There will be twenty (20) homework assignments throughout the semester. Each homework assignment will give you practice with the concept that was learned in class that day, and each homework assignment will be graded on the basis of completeness, not correctness. All homework assignments will be distributed in paper format at the end of a class period and due at the beginning of the following class period unless otherwise specified. | . Daily Check-Ins . | 10 points per check-in, twenty (20) check-ins total = 200 total points | There will be twenty (20) daily check-ins throughout the semester. Each check-in will be administered on paper at the start of a class period, and it will test the topic that was discussed during the previous class period. Some check-ins will be open-note, open-resources, and open-Internet, but some will be closed-note to incentivize memorization of vocabulary and paradigms. Each will be a time limit of about 3-5 minutes, depending on the complexity of the topic. | . Weekly Quizzes . | 30 points per quiz, ten (10) quizzes total = 300 total points | There will be ten (10) weekly quizzes throughout the semester, distributed in paper format at the end of a Thursday class and due by the beginning of the following Monday’s class. Each quiz will have a maximum total of 30 points, and each will cover all the material from that week’s classes. All quizzes will be open-note, open-resource, and open-Internet, and there will be no time limit. However, you must complete your own quiz; you are not allowed to share your answers with other students or copy other students’ answers as your own. Moreover, you are not allowed to use generative AI, Google Translate, or any other automatic online translation tools to complete the quiz; the penalty for the demonstrable use of such tools will range from 0 points for the quiz to failure for the entire course. | . Exams . | 100 points per exam, three (3) exams total = 300 total points | There will be three (3) exams throughout the semester. Each exam will have a maximum total of 100 points, and it will be graded traditionally (i.e., in terms of correctness, not just completeness, as with the homework). Each exam will focus on the material in its respective third of the course, but since Greek grammar is necessarily cumulative, the second and third exams will draw on earlier topics. The tasks in each exam will range from grammar and paradigm questions to translation or composition prompts. Each exam will be administered in paper format in class, and each will be open-note, open-resource, and open-Internet. However, you must complete your own exam; you are not allowed to share your answers with other students or copy other students’ answers as your own. Moreover, you are not allowed to use generative AI, Google Translate, or any other automatic online translation tools to complete the exam; the penalty for the demonstrable use of such tools will range from 0 points for the exam to failure for the entire course. | . Extra Credit . | Throughout the semester, there will be various opportunities to earn more points above and beyond the 1000 points available in the homework, check-ins, quizzes, and exams. These opportunities range from attending a lecture and writing a response to it to completing a creative project. Details to come in class. | . ",
     "url": "/course_info/grading#grade-components",
     
     "relUrl": "/course_info/grading#grade-components"
-  },"188": {
+  },"189": {
     "doc": "Grading",
     "title": "Assignment Submission and Lateness Policies",
     "content": "As college students, you are responsible for managing your time effectively and keeping track of deadlines across your courses and extracurriculars. Every assignment deadline for this course is listed in the course schedule below. At the start of the semester, please make sure to read through the course schedule and take note of times when there are assignments due that may come during crunch times (e.g., in the week before Spring Break or in the last weeks of the semester). If you have a sense that you will not be able to complete an assignment on time but would like to complete it for full credit, please email me before the assignment is due to ask for an extension and offer a date by which you can submit the assignment. I am very happy to grant any and all extensions on assignments except for exams, but I am less inclined to accept assignments after their due dates without that prior permission. I reserve the right both to deny the submission of late work and to accept late work but penalize its grade, at my discretion. If you are absent on a day in which a homework assignment, a check-in, or a quiz is distributed or due, you must email me prior to or within 24 hours after your absence to acknowledge your absence and gain permission to submit your assignment either at the next class that you attend or via alternate means. If you do not email me within 24 hours, you will not be allowed to submit or make up the assignment. If an emergency or university-sanctioned event (e.g., sports travel) prevents you from coming to class on an exam day, you must email me prior to or within 24 hours after your absence so that we may make plans for you to take the exam on a different day. Please note that “emergency” is here defined as a sudden physical or mental crisis that requires immediate attention. Absences on an exam day for any other reason than an emergency or a university-sanctioned event will be considered unexcused. ",
     "url": "/course_info/grading#assignment-submission-and-lateness-policies",
     
     "relUrl": "/course_info/grading#assignment-submission-and-lateness-policies"
-  },"189": {
-    "doc": "Home",
-    "title": "GREK 1111 - Spring 2026",
-    "content": ". Welcome to the landing page for GREK 1111, Introductory Ancient Greek, in Spring 2026, taught by Prof. Libatique at Fairfield University. Use the navigation menu to the left (or above on mobile) to see information specific to our course or the textbook for the course. You may also find vocabulary lists and grammar reference charts for the Spring 2026 semester. If you are looking for the 2021-2022 version of the textbook that was used in GREK 101-102 at the College of the Holy Cross, you can find it at this link as a zip file of PDFs. ",
-    "url": "/#grek-1111---spring-2026",
-    
-    "relUrl": "/#grek-1111---spring-2026"
   },"190": {
-    "doc": "Home",
-    "title": "Home",
-    "content": " ",
-    "url": "/",
+    "doc": "Basics",
+    "title": "Basics",
+    "content": "These two units discuss the ancient Greek alphabet, accentuation system, and inflection systems. You must be able to work with the alphabet in both written and vocal forms, have a basic grasp of how accents work, and understand how we use word stems and endings to indicate a word’s function in a sentence, rather than word order as in English. ",
+    "url": "/textbook/basics",
     
-    "relUrl": "/"
+    "relUrl": "/textbook/basics"
   },"191": {
-    "doc": "Schedule and Slideshows",
-    "title": "Schedule and Slideshows",
-    "content": "This tab contains the daily schedule (in both a list form and a table form) and a link to the course slideshows for GREK 1111 in Spring 2026. ",
-    "url": "/schedule-and-slideshows",
-    
-    "relUrl": "/schedule-and-slideshows"
-  },"192": {
     "doc": "Exam 2",
     "title": "Exam 2",
     "content": "This module contains all the topics covered between Exam 1 and Exam 2 in GREK 1111 (S26). ",
     "url": "/textbook/exam-2",
     
     "relUrl": "/textbook/exam-2"
+  },"192": {
+    "doc": "Schedule and Slideshows",
+    "title": "Schedule and Slideshows",
+    "content": "This tab contains the daily schedule (in both a list form and a table form) and a link to the course slideshows for GREK 1111 in Spring 2026. ",
+    "url": "/schedule-and-slideshows",
+    
+    "relUrl": "/schedule-and-slideshows"
   },"193": {
     "doc": "Course Information",
     "title": "Course Information",
@@ -1399,517 +1399,419 @@
     
     "relUrl": "/textbook"
   },"200": {
-    "doc": "Basics",
-    "title": "Basics",
-    "content": "These two units discuss the ancient Greek alphabet, accentuation system, and inflection systems. You must be able to work with the alphabet in both written and vocal forms, have a basic grasp of how accents work, and understand how we use word stems and endings to indicate a word’s function in a sentence, rather than word order as in English. ",
-    "url": "/textbook/basics",
+    "doc": "Home",
+    "title": "GREK 1111 - Spring 2026",
+    "content": ". Welcome to the landing page for GREK 1111, Introductory Ancient Greek, in Spring 2026, taught by Prof. Libatique at Fairfield University. Use the navigation menu to the left (or above on mobile) to see information specific to our course or the textbook for the course. You may also find vocabulary lists and grammar reference charts for the Spring 2026 semester. If you are looking for the 2021-2022 version of the textbook that was used in GREK 101-102 at the College of the Holy Cross, you can find it at this link as a zip file of PDFs. ",
+    "url": "/#grek-1111---spring-2026",
     
-    "relUrl": "/textbook/basics"
+    "relUrl": "/#grek-1111---spring-2026"
   },"201": {
-    "doc": "Infinitives and Participles",
-    "title": "Infinitives and Participles",
+    "doc": "Home",
+    "title": "Home",
     "content": " ",
-    "url": "/reference/infinitives-and-participles",
+    "url": "/",
     
-    "relUrl": "/reference/infinitives-and-participles"
+    "relUrl": "/"
   },"202": {
-    "doc": "Infinitives and Participles",
-    "title": "Table of contents",
-    "content": ". | Present | Future | Aorist | Perfect | Irregular Verbs | . ",
-    "url": "/reference/infinitives-and-participles#table-of-contents",
-    
-    "relUrl": "/reference/infinitives-and-participles#table-of-contents"
-  },"203": {
-    "doc": "Infinitives and Participles",
-    "title": "Present",
-    "content": ". Present Active (-ω) . Paradigm verb: κελεύω . Infinitive: κελεύειν . Participle: κελεύων, κελεύουσα, κελεῦον (m./n. stem κελευοντ-) . |   | Masc. | Fem. | Neut. | . | Nom. Sg. | κελεύων | κελεύουσα | κελεῦον | . | Gen. Sg. | κελεύοντος | κελευούσης | κελεύοντος | . | Dat. Sg. | κελεύοντι | κελευούσῃ | κελεύοντι | . | Acc. Sg. | κελεύοντα | κελεύουσαν | κελεῦον | . | Nom. Pl. | κελεύοντες | κελεύουσαι | κελεύοντα | . | Gen. Pl. | κελευόντων | κελευουσῶν | κελευόντων | . | Dat. Pl. | κελεύουσι(ν) | κελευούσαις | κελεύουσι(ν) | . | Acc. Pl. | κελεύοντας | κελευούσας | κελεύοντα | . Present Middle/Passive (-ω) . Paradigm verb: κελεύω . Infinitive: κελεύεσθαι . Participle: κελευόμενος, κελευομένη, κελευόμενον . |   | Masc. | Fem. | Neut. | . | Nom. Sg. | κελευόμενος | κελευομένη | κελευόμενον | . | Gen. Sg. | κελευομένου | κελευομένης | κελευομένου | . | Dat. Sg. | κελευομένῳ | κελευομένῃ | κελευομένῳ | . | Acc. Sg. | κελευόμενον | κελευομένην | κελευόμενον | . | Nom. Pl. | κελευόμενοι | κελευόμεναι | κελευόμενα | . | Gen. Pl. | κελευομένων | κελευομένων | κελευομένων | . | Dat. Pl. | κελευομένοις | κελευομέναις | κελευομένοις | . | Acc. Pl. | κελευομένους | κελευομένας | κελευόμενα | . Present Active (-μι) . Paradigm verb: δείκνυμι . Infinitive: δεικνῦναι . Participle: δεικνύς, δεικνῦσα, δεικνύν (m./n. stem δεικνυντ-) . |   | Masc. | Fem. | Neut. | . | Nom. Sg. | δεικνύς | δεικνῦσα | δεικνύν | . | Gen. Sg. | δεικνῦντος | δεικνύσης | δεικνῦντος | . | Dat. Sg. | δεικνῦντι | δεικνύσῃ | δεικνῦντι | . | Acc. Sg. | δεικνῦντα | δεικνῦσαν | δεικνύν | . | Nom. Pl. | δεικνῦντες | δεικνῦσαι | δεικνῦντα | . | Gen. Pl. | δεικνύντων | δεικνυσῶν | δεικνύντων | . | Dat. Pl. | δεικνῦσι(ν) | δεικνύσαις | δεικνῦσι(ν) | . | Acc. Pl. | δεικνῦντας | δεικνύσας | δεικνῦντα | . Present Middle/Passive (-μι) . Paradigm verb: δείκνυμι . Infinitive: δεικνῦσθαι . Participle: δεικνύμενος, δεικνυμένη, δεικνύμενον . |   | Masc. | Fem. | Neut. | . | Nom. Sg. | δεικνύμενος | δεικνυμένη | δεικνύμενον | . | Gen. Sg. | δεικνυμένου | δεικνυμένης | δεικνυμένου | . | Dat. Sg. | δεικνυμένῳ | δεικνυμένῃ | δεικνυμένῳ | . | Acc. Sg. | δεικνύμενον | δεικνυμένην | δεικνύμενον | . | Nom. Pl. | δεικνύμενοι | δεικνύμεναι | δεικνύμενα | . | Gen. Pl. | δεικνυμένων | δεικνυμένων | δεικνυμένων | . | Dat. Pl. | δεικνυμένοις | δεικνυμέναις | δεικνυμένοις | . | Acc. Pl. | δεικνυμένους | δεικνυμένας | δεικνύμενα | . ",
-    "url": "/reference/infinitives-and-participles#present",
-    
-    "relUrl": "/reference/infinitives-and-participles#present"
-  },"204": {
-    "doc": "Infinitives and Participles",
-    "title": "Future",
-    "content": ". Future Active . Paradigm verb: κελεύω . Infinitive: κελεύσειν . Participle: κελεύσων, κελεύσουσα, κελεῦσον (m./n. stem κελευσοντ-) . |   | Masc. | Fem. | Neut. | . | Nom. Sg. | κελεύσων | κελεύσουσα | κελεῦσον | . | Gen. Sg. | κελεύσοντος | κελευσούσης | κελεύσοντος | . | Dat. Sg. | κελεύσοντι | κελευσούσῃ | κελεύσοντι | . | Acc. Sg. | κελεύσοντα | κελεύσουσαν | κελεῦσον | . | Nom. Pl. | κελεύσοντες | κελεύσουσαι | κελεύσοντα | . | Gen. Pl. | κελευσόντων | κελευσουσῶν | κελευσόντων | . | Dat. Pl. | κελεύσουσι(ν) | κελευσούσαις | κελεύσουσι(ν) | . | Acc. Pl. | κελεύσοντας | κελευσούσας | κελεύσοντα | . Future Middle . Paradigm verb: κελεύω . Infinitive: κελεύσεσθαι . Participle: κελευσόμενος, κελευσομένη, κελευσόμενον . |   | Masc. | Fem. | Neut. | . | Nom. Sg. | κελευσόμενος | κελευσομένη | κελευσόμενον | . | Gen. Sg. | κελευσομένου | κελευσομένης | κελευσομένου | . | Dat. Sg. | κελευσομένῳ | κελευσομένῃ | κελευσομένῳ | . | Acc. Sg. | κελευσόμενον | κελευσομένην | κελευσόμενον | . | Nom. Pl. | κελευσόμενοι | κελευσόμεναι | κελευσόμενα | . | Gen. Pl. | κελευσομένων | κελευσομένων | κελευσομένων | . | Dat. Pl. | κελευσομένοις | κελευσομέναις | κελευσομένοις | . | Acc. Pl. | κελευσομένους | κελευσομένας | κελευσόμενα | . Future Passive . Paradigm verb: κελεύω . Infinitive: κελευσθήσεσθαι . Participle: κελευσθησόμενος, κελευσθησομένη, κελευσθησόμενον . |   | Masc. | Fem. | Neut. | . | Nom. Sg. | κελευσθησόμενος | κελευσθησομένη | κελευσθησόμενον | . | Gen. Sg. | κελευσθησομένου | κελευσθησομένης | κελευσθησομένου | . | Dat. Sg. | κελευσθησομένῳ | κελευσθησομένῃ | κελευσθησομένῳ | . | Acc. Sg. | κελευσθησόμενον | κελευσθησομένην | κελευσθησόμενον | . | Nom. Pl. | κελευσθησόμενοι | κελευσθησόμεναι | κελευσθησόμενα | . | Gen. Pl. | κελευσθησομένων | κελευσθησομένων | κελευσθησομένων | . | Dat. Pl. | κελευσθησομένοις | κελευσθησομέναις | κελευσθησομένοις | . | Acc. Pl. | κελευσθησόμενους | κελευσθησομένας | κελευσθησόμενα | . ",
-    "url": "/reference/infinitives-and-participles#future",
-    
-    "relUrl": "/reference/infinitives-and-participles#future"
-  },"205": {
-    "doc": "Infinitives and Participles",
-    "title": "Aorist",
-    "content": "First Aorist Active . Paradigm verb: κελεύω . Infinitive: κελεῦσαι . Participle: κελεύσας, κελεύσασα, κελεῦσαν (m./n. stem κελευσοντ-) . |   | Masc. | Fem. | Neut. | . | Nom. Sg. | κελεύσας | κελεύσασα | κελεῦσαν | . | Gen. Sg. | κελεύσαντος | κελευσάσης | κελεύσαντος | . | Dat. Sg. | κελεύσαντι | κελευσάσῃ | κελεύσαντι | . | Acc. Sg. | κελεύσαντα | κελεύσασαν | κελεῦσαν | . | Nom. Pl. | κελεύσαντες | κελεύσασαι | κελεύσαντα | . | Gen. Pl. | κελευσάντων | κελευσασῶν | κελευσάντων | . | Dat. Pl. | κελεύσασι(ν) | κελευσάσαις | κελεύσασι(ν) | . | Acc. Pl. | κελεύσαντας | κελευσάσας | κελεύσαντα | . First Aorist Middle . Paradigm verb: κελεύω . Infinitive: κελεύσασθαι . Participle: κελευσάμενος, κελευσαμένη, κελευσάμενον . |   | Masc. | Fem. | Neut. | . | Nom. Sg. | κελευσάμενος | κελευσαμένη | κελευσάμενον | . | Gen. Sg. | κελευσαμένου | κελευσαμένης | κελευσαμένου | . | Dat. Sg. | κελευσαμένῳ | κελευσαμένῃ | κελευσαμένῳ | . | Acc. Sg. | κελευσάμενον | κελευσαμένην | κελευσάμενον | . | Nom. Pl. | κελευσάμενοι | κελευσάμεναι | κελευσάμενα | . | Gen. Pl. | κελευσαμένων | κελευσαμένων | κελευσαμένων | . | Dat. Pl. | κελευσαμένοις | κελευσαμέναις | κελευσαμένοις | . | Acc. Pl. | κελευσαμένους | κελευσαμένας | κελευσάμενα | . Second Aorist Active . Paradigm verb: ἄγω . Infinitive: ἀγαγεῖν . Participle: ἀγαγών, ἀγαγοῦσα, ἀγαγόν (m./n. stem ἀγαγόντ-) . |   | Masc. | Fem. | Neut. | . | Nom. Sg. | ἀγαγώνν | ἀγαγοῦσα | ἀγαγόν | . | Gen. Sg. | ἀγαγόντος | ἀγαγούσης | ἀγαγόντος | . | Dat. Sg. | ἀγαγόντι | ἀγαγούσῃ | ἀγαγόντι | . | Acc. Sg. | ἀγαγόντα | ἀγαγοῦσαν | ἀγαγόν | . | Nom. Pl. | ἀγαγόντες | ἀγαγοῦσαι | ἀγαγόντα | . | Gen. Pl. | ἀγαγόντων | ἀγαγουσῶν | ἀγαγόντων | . | Dat. Pl. | ἀγαγοῦσι(ν) | ἀγαγούσαις | ἀγαγοῦσι(ν) | . | Acc. Pl. | ἀγαγόντας | ἀγαγούσας | ἀγαγόντα | . Second Aorist Middle . Paradigm verb: ἄγω . Infinitive: ἀγαγέσθαι . Participle: ἀγαγόμενος, ἀγαγομένη, ἀγαγόμενον . |   | Masc. | Fem. | Neut. | . | Nom. Sg. | ἀγαγόμενος | ἀγαγομένη | ἀγαγόμενον | . | Gen. Sg. | ἀγαγομένου | ἀγαγομένης | ἀγαγομένου | . | Dat. Sg. | ἀγαγομένῳ | ἀγαγομένῃ | ἀγαγομένῳ | . | Acc. Sg. | ἀγαγόμενον | ἀγαγομένην | ἀγαγόμενον | . | Nom. Pl. | ἀγαγόμενοι | ἀγαγόμεναι | ἀγαγόμενα | . | Gen. Pl. | ἀγαγομένων | ἀγαγομένων | ἀγαγομένων | . | Dat. Pl. | ἀγαγομένοις | ἀγαγομέναις | ἀγαγομένοις | . | Acc. Pl. | ἀγαγομένους | ἀγαγομένας | ἀγαγόμενα | . Aorist Passive . Paradigm verb: κελεύω . Infinitive: κελευσθῆναι . Participle: κελευσθείς, κελευσθεῖσα, κελευσθέν (m./n. stem κελευσθέντ-) . |   | Masc. | Fem. | Neut. | . | Nom. Sg. | κελευσθείς | κελευσθεῖσα | κελευσθέν | . | Gen. Sg. | κελευσθέντος | κελευσθείσης | κελευσθέντος | . | Dat. Sg. | κελευσθέντι | κελευσθείσῃ | κελευσθέντι | . | Acc. Sg. | κελευσθέντα | κελευσθεῖσαν | κελευσθέν | . | Nom. Pl. | κελευσθέντες | κελευσθεῖσαι | κελευσθέντα | . | Gen. Pl. | κελευσθέντων | κελευσθεισῶν | κελευσθέντων | . | Dat. Pl. | κελευσθεῖσι(ν) | κελευσθείσαις | κελευσθεῖσι(ν) | . | Acc. Pl. | κελευσθέντας | κελευσθείσας | κελευσθέντα | . ",
-    "url": "/reference/infinitives-and-participles#aorist",
-    
-    "relUrl": "/reference/infinitives-and-participles#aorist"
-  },"206": {
-    "doc": "Infinitives and Participles",
-    "title": "Perfect",
-    "content": "Perfect Active . Paradigm verb: λύω . Infinitive: λελυκέναι . Participle: λελυκώς, λελυκυῖα, λελυκός (m./n. stem λελυκότ-) . |   | Masc. | Fem. | Neut. | . | Nom. Sg. | λελυκώς | λελυκυῖα | λελυκός | . | Gen. Sg. | λελυκότος | λελυκυίας | λελυκότος | . | Dat. Sg. | λελυκότι | λελυκυίᾳ | λελυκότι | . | Acc. Sg. | λελυκότα | λελυκυῖαν | λελυκός | . | Nom. Pl. | λελυκότες | λελυκυῖαι | λελυκότα | . | Gen. Pl. | λελυκότων | λελυκυιῶν | λελυκότων | . | Dat. Pl. | λελυκόσι(ν) | λελυκυίαις | λελυκόσι(ν) | . | Acc. Pl. | λελυκότας | λελυκυίας | λελυκότα | . Perfect Middle/Passive . Paradigm verb: λύω . Infinitive: λελῦσθαι . Participle: λελυμένος, λελυμένη, λελυμένον . |   | Masc. | Fem. | Neut. | . | Nom. Sg. | λελυμένος | λελυμένη | λελυμένον | . | Gen. Sg. | λελυμένου | λελυμένης | λελυμένου | . | Dat. Sg. | λελυμένῳ | λελυμένῃ | λελυμένῳ | . | Acc. Sg. | λελυμένον | λελυμένην | λελυμένον | . | Nom. Pl. | λελυμένοι | λελυμέναι | λελυμένα | . | Gen. Pl. | λελυμένων | λελυμένων | λελυμένων | . | Dat. Pl. | λελυμένοις | λελυμέναις | λελυμένοις | . | Acc. Pl. | λελυμένους | λελυμένας | λελυμένα | . ",
-    "url": "/reference/infinitives-and-participles#perfect",
-    
-    "relUrl": "/reference/infinitives-and-participles#perfect"
-  },"207": {
-    "doc": "Infinitives and Participles",
-    "title": "Irregular Verbs",
-    "content": "εἰμί . Present Infinitive: εἶναι Present Participle: ὤν, οὖσα, ὄν (m./n. stem ὀντ-)* . | declines like the active voice present tense -ω participle endings without a verb stem (e.g., masculine forms are ὤν, ὄντος, ὄντι, ὄντα, etc.) | . Future Infinitive: ἔσεσθαι Future Participle: ἐσόμενος, ἐσομένη, ἐσόμενον . φημί . Present Infinitive: φάναι Present Participle: φάς, φᾶσα, φάν (m./n. stem φαντ-) . ",
-    "url": "/reference/infinitives-and-participles#irregular-verbs",
-    
-    "relUrl": "/reference/infinitives-and-participles#irregular-verbs"
-  },"208": {
     "doc": "Nouns",
     "title": "Nouns",
     "content": " ",
     "url": "/reference/nouns",
     
     "relUrl": "/reference/nouns"
-  },"209": {
+  },"203": {
     "doc": "Nouns",
     "title": "Table of contents",
     "content": ". | Alpha/Eta Declension (1st Declension) | Omicron Declension (2nd Declension) | Consonant Declension (3rd Declension) | . ",
     "url": "/reference/nouns#table-of-contents",
     
     "relUrl": "/reference/nouns#table-of-contents"
-  },"210": {
+  },"204": {
     "doc": "Nouns",
     "title": "Alpha/Eta Declension (1st Declension)",
-    "content": "Long-Alpha: συμφορά, συμφορᾶς, f. - “event, outcome, mishap” . | Case | Singular | Plural | . | Nom./Voc. | συμφορά | συμφοραί | . | Genitive | συμφορᾶς | συμφορῶν | . | Dative | συμφορᾷ | συμφοραῖς | . | Accusative | συμφοράν | συμφοράς | . Long-Eta: δίκη, δίκης, f. - “trial, lawsuit, penalty, custom, right” . | Case | Singular | Plural | . | Nom./Voc. | δίκη | δίκαι | . | Genitive | δίκης | δικῶν | . | Dative | δίκῃ | δίκαις | . | Accusative | δίκην | δίκας | . Short-Alpha: πεῖρα, πείρας, f. - “attempt” . | Case | Singular | Plural | . | Nom./Voc. | πεῖρα | πεῖραι | . | Genitive | πείρας | πειρῶν | . | Dative | πείρᾳ | πείραις | . | Accusative | πεῖραν | πείρας | . Short-Eta: θάλαττα, θαλάττης, f. - “sea” . | Case | Singular | Plural | . | Nom./Voc. | θάλαττα | θάλατται | . | Genitive | θαλάττης | θαλαττῶν | . | Dative | θαλάττῃ | θαλάτταις | . | Accusative | θάλατταν | θαλάττας | . Masculine in -ας: νεανίας, νεανίου, m. - “young man” . | Case | Singular | Plural | . | Nominative | νεανίας | νεανίαι | . | Genitive | νεανίου | νεανίῶν | . | Dative | νεανίᾳ | νεανίαις | . | Accusative | νεανίαν | νεανίας | . | Vocative | νεανία | νεανίαι | . Masculine in -ης: πολίτης, πολίτου, m. - “citizen” . | Case | Singular | Plural | . | Nominative | πολίτης | πολῖται | . | Genitive | πολίτου | πολιτῶν | . | Dative | πολίτᾳ | πολίταις | . | Accusative | πολίταν | πολίτας | . | Vocative | πολῖτα | πολῖται | . ",
+    "content": "Long-Alpha: συμφορά, συμφορᾶς, f. - “event, outcome, mishap” . | Case | Singular | Plural | . | Nom./Voc. | συμφορά | συμφοραί | . | Genitive | συμφορᾶς | συμφορῶν | . | Dative | συμφορᾷ | συμφοραῖς | . | Accusative | συμφοράν | συμφοράς | . Long-Eta: δίκη, δίκης, f. - “trial, lawsuit, penalty, custom, right” . | Case | Singular | Plural | . | Nom./Voc. | δίκη | δίκαι | . | Genitive | δίκης | δικῶν | . | Dative | δίκῃ | δίκαις | . | Accusative | δίκην | δίκας | . Short-Alpha: πεῖρα, πείρας, f. - “attempt” . | Case | Singular | Plural | . | Nom./Voc. | πεῖρα | πεῖραι | . | Genitive | πείρας | πειρῶν | . | Dative | πείρᾳ | πείραις | . | Accusative | πεῖραν | πείρας | . Short-Eta: θάλαττα, θαλάττης, f. - “sea” . | Case | Singular | Plural | . | Nom./Voc. | θάλασσα | θάλασσαι | . | Genitive | θαλάσσης | θαλασσῶν | . | Dative | θαλάσσῃ | θαλάσσαις | . | Accusative | θάλασσαν | θαλάσσας | . Masculine in -ης: στρατιώτης, στρατιώτου, m. - “soldier” . | Case | Singular | Plural | . | Nominative | στρατιώτης | στρατιῶται | . | Genitive | στρατιώτου | στρατιωτῶν | . | Dative | στρατιώτᾳ | στρατιώταις | . | Accusative | στρατιῶταν | στρατιώτας | . | Vocative | στρατιῶτα | στρατιῶται | . ",
     "url": "/reference/nouns#alphaeta-declension-1st-declension",
     
     "relUrl": "/reference/nouns#alphaeta-declension-1st-declension"
-  },"211": {
+  },"205": {
     "doc": "Nouns",
     "title": "Omicron Declension (2nd Declension)",
     "content": "Masculine/Feminine: νόμος, νόμου, m. - “law, custom” . | Case | Singular | Plural | . | Nominative | νόμος | νόμοι | . | Genitive | νόμου | νόμων | . | Dative | νόμῳ | νόμοις | . | Accusative | νόμον | νόμους | . | Vocative | νόμε | νόμοι | . Neuter: ἔργον, ἔργου, n. - “deed” . | Case | Singular | Plural | . | Nom./Voc. | ἔργον | ἔργα | . | Genitive | ἔργου | ἔργων | . | Dative | ἔργῳ | ἔργοις | . | Accusative | ἔργον | ἔργα | . ",
     "url": "/reference/nouns#omicron-declension-2nd-declension",
     
     "relUrl": "/reference/nouns#omicron-declension-2nd-declension"
-  },"212": {
+  },"206": {
     "doc": "Nouns",
     "title": "Consonant Declension (3rd Declension)",
     "content": "Labial Plosive (π, β, φ) stems: Κύκλωψ, Κύκλωπος, m. - “Cyclops” . | Case | Singular | Plural | . | Nom./Voc. | Κύκλωψ | Κύκλωπες | . | Genitive | Κύκλωπος | Κυκλώπων | . | Dative | Κύκλωπι | Κύκλωπ + σι(ν) = Κύκλωψι(ν) | . | Accusative | Κύκλωπα | Κύκλωπας | . Velar Plosive (γ, κ, χ) stems: φύλαξ, φύλακος, m. - “guard” . | Case | Singular | Plural | . | Nom./Voc. | φύλαξ | φύλακες | . | Genitive | φύλακος | φυλάκων | . | Dative | φύλακι | φύλακ + σι(ν) = φύλαξι(ν) | . | Accusative | φύλακα | φύλακας | . Dental Plosive (τ, δ, θ), accented 1st syllable: ὄρνις, ὄρνιθος, m./f. - “bird” . | Case | Singular | Plural | . | Nom./Voc. | ὄρνις | ὄρνιθες | . | Genitive | ὄρνιθος | ὀρνίθων | . | Dative | ὄρνιθι | ὄρνιθ + σι(ν) = ὄρνισι(ν) | . | Accusative | ὄρνιν | ὄρνιθας | . Dental Plosive (τ, δ, θ), accented 2nd syllable: ἀσπίς, ἀσπίδος, f. - “shield” . | Case | Singular | Plural | . | Nom./Voc. | ἀσπίς | ἀσπίδες | . | Genitive | ἀσπίδος | ἀσπίδων | . | Dative | ἀσπίδι | ἀσπίδ + σι(ν) = ἀσπίσι(ν) | . | Accusative | ἀσπίδα | ἀσπίδας | . Dental Plosive (ντ) stem: γέρων, γέροντος, m. - “old man” . | Case | Singular | Plural | . | Nominative | γέρων | γέροντες | . | Genitive | γέροντος | γερόντων | . | Dative | γέροντι | γέρo^ντ + σι(ν) = γέρουσι(ν) | . | Accusative | γέροντα | γέροντας | . | Vocative | γέρον | γέροντες | . Neuter Dental Plosive (τ) stem: ποίημα, ποιήματος, n. - “poem” . | Case | Singular | Plural | . | Nom./Voc. | ποίημα | ποιήματα | . | Genitive | ποιήματος | ποιημάτων | . | Dative | ποιήματι | ποιήματ + σι(ν) = ποιήμασι(ν) | . | Accusative | ποίημα | ποιήματα | . Rho-Stem: πατήρ, πατρός, m. - “father” . | Case | Singular | Plural | . | Nom. | πατήρ | πατέρες | . | Gen. | πατρός | πατέρων | . | Dat. | πατρί | πατράσι(ν) | . | Acc. | πατέρα | πατέρας | . Sigma-Stem (epsilon): τριήρης, τριήρους, f. - “trireme” . stem: τριηρε(σ)- . | Case | Singular | Plural | . | Nom. | τριήρης | τριήρεις | . | Gen. | τριήρους | τριηρῶν | . | Dat. | τριήρει | τριηρέσι(ν) | . | Acc. | τριήρη | τριήρεις | . Sigma-Stem (alpha): γέρας, γέρως, n. - “gift, prize” . stem: τριηρε(σ)- . | Case | Singular | Plural | . | Nom. | τριήρης | τριήρεις | . | Gen. | τριήρους | τριηρῶν | . | Dat. | τριήρει | τριηρέσι(ν) | . | Acc. | τριήρη | τριήρεις | . Variable Stem: πόλις, πόλεως, f. - “city” . | Case | Singular | Plural | . | Nom./Voc. | πόλις | πόλεις | . | Genitive | πόλεως | πόλεων | . | Dative | πόλει | πόλεσι(ν) | . | Accusative | πόλιν | πόλεις | . Variable Stem: ναῦς, νέως, f. - “ship” . |   | Singular | Plural | . | Nom. | ναῦς | νῆες | . | Gen. | νέως | νεῶν | . | Dat. | νηΐ | ναυσί(ν) | . | Acc. | ναῦν | ναῦς | . Variable Stem: βοῦς, βοός, m./f. - “bull, cow” . |   | Singular | Plural | . | Nom. | βοῦς | βόες | . | Gen. | βοός | βοῶν | . | Dat. | βοΐ | βουσί(ν) | . | Acc. | βοῦν | βοῦς | . Variable Stem: ἱππεύς, ἱππέως, m. - “cavalryman” . |   | Singular | Plural | . | Nom. | ἱππεύς | ἱππεῖς or ἱππῆς | . | Gen. | ἱππέως | ἱππέων | . | Dat. | ἱππεῖ | ἱππεῦσι(ν) | . | Acc. | ἱππέᾱ | ἱππέᾱς | . ",
     "url": "/reference/nouns#consonant-declension-3rd-declension",
     
     "relUrl": "/reference/nouns#consonant-declension-3rd-declension"
-  },"213": {
+  },"207": {
     "doc": "Policies",
     "title": "Policies",
     "content": " ",
     "url": "/course_info/policies",
     
     "relUrl": "/course_info/policies"
-  },"214": {
+  },"208": {
     "doc": "Policies",
     "title": "Table of contents",
     "content": ". | The Pandemic and Absences / Late Assignments | Honor Code and Academic Honesty | Artificial Intelligence | Student Hours | Gender Expression and Identity | Diversity, Inclusion, and Respect | Accessibility | External Resources | Mandated Reporter | Important Course University Deadlines | . ",
     "url": "/course_info/policies#table-of-contents",
     
     "relUrl": "/course_info/policies#table-of-contents"
-  },"215": {
+  },"209": {
     "doc": "Policies",
     "title": "The Pandemic and Absences / Late Assignments",
     "content": "The coronavirus pandemic has upended our normal way of life since March 2020, and the disruptions that we’ve experienced since then will have lasting effects in various ways. As of January 2026, we are slated to be on campus and in person in Spring 2026 (yay!), but if the pandemic surges again or other one-off concerns arise, we have to be ready to shift online and conduct our class via Zoom and other online media. Please rest assured that your health and safety and that of your family and friends will always come first, and I make it my mission to create a classroom environment that is supportive and safe as you navigate what’s happening in our world and deal with everything else that you have to deal with, in practical and emotional terms. If you have to miss class to take care of yourself or others, either physically or mentally, then do so and just let me know that you’ll be missing class via email before the class meeting in question. If you need extensions on assignments, ask for them. If you would like extra help outside of class time, don’t hesitate to let me know. I reserve the right to penalize your semester grade by one full letter grade (e.g., from an A- to a B-) if you accrue three or more unexcused absences (i.e., you are absent from class and have not communicated with me about it up to 24 hours after the absence on three separate occasions). I recognize that emergencies may preclude you from communicating with me about an absence in a timely fashion; I simply ask that you reach out as soon as you can so that I can excuse the absence if necessary and so that we can make sure that you have the resources that you need to keep up with the class. In addition, an email within 24 hours of your absence is required in order for you to be granted permission to make up or submit late any assignments distributed or due on that day. Needless to say, these are unprecedented times which call for extraordinary measures. Please don’t ever hesitate to email me, visit with me during student hours or non-preordained times via appointment, or leave a group or private message in the Discord server with any questions, issues, or concerns that you have. We’re all figuring it out as we go; the best we can do is to be here for each other with compassion and patience. And maybe an occasional fuzzy animal picture or meme. Return to top. ",
     "url": "/course_info/policies#the-pandemic-and-absences--late-assignments",
     
     "relUrl": "/course_info/policies#the-pandemic-and-absences--late-assignments"
-  },"216": {
+  },"210": {
     "doc": "Policies",
     "title": "Honor Code and Academic Honesty",
     "content": "You are expected to abide by Fairfield’s Honor Code and its tenets of Academic Honesty, posted here. Cheating on homework, assignments, quizzes, or exams (defined here as but not limited to reproducing answers from an answer key, referring to forbidden notes to help answer questions, copying another student’s answers, or using AI to generate assignment answers [see below]) may result in penalties ranging from a failure on the specific assignment to failure for the entire course. Return to top. ",
     "url": "/course_info/policies#honor-code-and-academic-honesty",
     
     "relUrl": "/course_info/policies#honor-code-and-academic-honesty"
-  },"217": {
+  },"211": {
     "doc": "Policies",
     "title": "Artificial Intelligence",
     "content": "Artificial intelligence (AI) is a tool that can help us work through and with our course content in a streamlined and efficient manner, but only if we use it responsibly. (The extent to which any use of generative AI can be responsible, however, is undermined by its deleterious impacts on the environment and on student learning, its inaccuracies, and its ability to amplify bias.) For example, ChatGPT is only as accurate as the data that it uses, and while it can translate Greek into English, it will often not be able to capture the correct context for certain vocabulary words or communicate the larger context of a passage. As students, your goal in this course is to build a solid foundation of knowledge of ancient Greek morphology and syntax; using AI to think through those concepts for you runs counter to the goals of the course and indicates that you are not fulfilling the course’s objectives, which is grounds for a low grade or even failure for the course. In sum, I expect all of the answers on your submitted work to have come directly from your own brain. I want to track your progress and understanding through this course, not a computer’s! . In detail, the use of AI in this course is subject to the following guidelines: . Types of AI covered by this policy: any automatic translation services that render Latin into English and vice versa (including but not limited to Google Translate and Apple Translate) and interfaces that respond to user-generated prompts (including but not limited to ChatGPT, Microsoft Copilot, Apple Siri, and Google Gemini). Prohibited use: You may not use AI: . | to generate any content for inclusion in your assignment submissions, including but not limited to answers on open-note assignments, Greek vocabulary and inflected forms, responses to articles or videos, and analyses of Greek or English passages. | to produce vocabulary items or paradigm charts for any part of speech; all vocabulary and word endings must come from our course website https://introgreek.github.io, reputable websites, or resources disseminated in class (we will discuss what constitutes a reputable website or reliable source in class). | to check the accuracy of your answers on open-note assignments. | to check the spelling of written Greek expressions. | to format or reword an assignment that you have already generated on your own. For example, you may not use AI on text that you have already written to change text styles (italics, bold, etc.), to add summaries, or to create synonyms. | . Permitted use: AI may be used: . | to check the spelling of written English expressions. | . Disclosure and non-compliance: If you use AI in a permitted capacity on any assignment, you are required to add a statement to the end of the assignment that discloses which type of AI you used and what specific tasks you used AI to complete. At all times, you are expected to maintain academic honesty and integrity in all your assignment submissions. Any violation of the guidelines above will be considered a violation of academic integrity and adjudicated according to Fairfield University’s policies. Each violation will be communicated immediately to the dean upon detection. If you are not sure whether a certain practice violates the guidelines above, please ask me about it before submitting the assignment in question to avoid being penalized. Return to top. ",
     "url": "/course_info/policies#artificial-intelligence",
     
     "relUrl": "/course_info/policies#artificial-intelligence"
-  },"218": {
+  },"212": {
     "doc": "Policies",
     "title": "Student Hours",
     "content": "Student hours are an opportunity for you to meet with me outside of class to discuss anything you’d like: questions about course material, clarifications about assignments, even simply shooting the breeze. My student hours are times that I am sure to be in my office, unless you’re notified otherwise, so I highly encourage you to take advantage of them! I’m also happy to make appointments outside of my regular student hours if they conflict with your availability; simply shoot me an email or a direct message on Discord with what times and dates work for you. Return to top. ",
     "url": "/course_info/policies#student-hours",
     
     "relUrl": "/course_info/policies#student-hours"
-  },"219": {
+  },"213": {
     "doc": "Policies",
     "title": "Gender Expression and Identity",
     "content": "I (Prof. Libatique) am a cisgender man and use he/him/his pronouns. Your first assignment will be to fill out a Google Form to let me know what I should call you, what pronouns you use if you opt to share them, and what you hope to learn from this class. My goal is to avoid dead-naming, as the name that you use may not match the legal name on my class roster. Return to top. ",
     "url": "/course_info/policies#gender-expression-and-identity",
     
     "relUrl": "/course_info/policies#gender-expression-and-identity"
-  },"220": {
+  },"214": {
     "doc": "Policies",
     "title": "Diversity, Inclusion, and Respect",
     "content": "Studying the ancient Mediterranean world at Fairfield is one way to challenge a centuries-long tradition that reserved the study of the ancient world for a privileged elite. The challenge goes beyond simply welcoming students however they identify their race, ethnicity, gender identity and expression, sexual orientation, religious or spiritual tradition, or socioeconomic background. As we work to see the multicultural world of the ancient Mediterranean through the original thoughts and language of the Romans, we reflect on and actively explore how this can help us recognize and respond to structures of power and privilege in our own lives. This work is especially important today, when historically false images of the ancient world are being invoked to support particular political viewpoints. Studying the ancient Mediterranean helps us see through erroneous assertions about the “whiteness” of the ancient Mediterranean and reject claims that the Greco-Roman world is the special province of any ethnic or political group. Return to top. ",
     "url": "/course_info/policies#diversity-inclusion-and-respect",
     
     "relUrl": "/course_info/policies#diversity-inclusion-and-respect"
-  },"221": {
+  },"215": {
     "doc": "Policies",
     "title": "Accessibility",
     "content": "Any student who feels the need for accommodation based on the impact of a disability should contact the Office of Accessibility to discuss support services available. Students with disabilities can begin the accommodation request process by completing the online intake form through the “Accessibility and Accommodations” portal on my.fairfield or by contacting the Office of Accessibility at ooa@fairfield.edu. Contact information for the Office of Accessibility can be found here. You may also call 203-254-4000, x2615, or visit the Office on the main floor of the DiMenna-Nyselius Library in the Academic Commons. If you are already registered with the Office of Accessibility, please be sure to get your accommodation letters and deliver them to me in a timely fashion. Instructors need 4-5 days advance notice to be able to facilitate the process of receiving testing accommodations. Return to top. ",
     "url": "/course_info/policies#accessibility",
     
     "relUrl": "/course_info/policies#accessibility"
-  },"222": {
+  },"216": {
     "doc": "Policies",
     "title": "External Resources",
     "content": "In addition to my email and student hours, there are resources outside myself, like the Office of Academic Support and Retention and the Writing Center that can help with assignments or your progress through the course in general. Remember, there is no such thing as a stupid question. By the way, to test whether you’re reading the syllabus all the way through, please send me an email with a photo of your favorite ancient Greek letter of the alphabet by Monday, January 26, at 9:30am, with the subject line “It’s all GREEK to me!” If you do so, you will receive five (5) extra credit points on your semester total (see Grading for the course grading structure). Return to top. ",
     "url": "/course_info/policies#external-resources",
     
     "relUrl": "/course_info/policies#external-resources"
-  },"223": {
+  },"217": {
     "doc": "Policies",
     "title": "Mandated Reporter",
     "content": "As an instructor, one of my responsibilities is to help create a safe learning environment on our campus. I also have a mandatory reporting responsibility related to my role as your professor. It is my goal that you feel able to share information related to your life experiences in classroom discussions, in your written work, and in our one-on-one meetings. I will seek to keep information you share private to the greatest extent possible. However, any information that you disclose that addresses actual or suspected discrimination, harassment, and/or retaliation based on sex requires my sharing that information with those on campus who are able to provide you with necessary resources. If you would like to discuss the matter confidentially, this website lists confidential resources that are available to you under section 19a. Return to top. ",
     "url": "/course_info/policies#mandated-reporter",
     
     "relUrl": "/course_info/policies#mandated-reporter"
-  },"224": {
+  },"218": {
     "doc": "Policies",
     "title": "Important Course University Deadlines",
     "content": ". | Monday, January 26, 2026: end of add/drop period | Monday, February 2, 2026: deadline for Full-Time Undergraduates Withdrawal, 90% Refund | Monday, February 9, 2026: deadline for Full-Time Undergraduates Withdrawal, 60% Refund | Monday, February 16, 2026: deadline for Full-Time Undergraduates Withdrawal, 40% Refund | Monday, February 23, 2026: deadline for Full-Time Undergraduates Withdrawal, 20% Refund | Wednesday, March 25, 2026: deadline for Full-Time Undergraduates Withdrawal and deadline to declare Credit/No Credit Course | . ",
     "url": "/course_info/policies#important-course-university-deadlines",
     
     "relUrl": "/course_info/policies#important-course-university-deadlines"
-  },"225": {
+  },"219": {
     "doc": "Pronouns",
     "title": "Pronouns",
     "content": " ",
     "url": "/reference/pronouns",
     
     "relUrl": "/reference/pronouns"
-  },"226": {
+  },"220": {
     "doc": "Pronouns",
     "title": "Table of contents",
-    "content": ". | Demonstratives . | ὅδε, ἥδε, τόδε | οὗτος, αὗτη, τοῦτο | ἐκεῖνος, ἐκείνη, ἐκεῖνο | . | Relative Pronoun: ὅς, ἥ, ὅ | Personal Pronouns . | First Person | Second Person | Third Person (also Intensive/Emphatic) | . | Reflexive Pronouns . | First Person | Second Person | Third Person | . | Reciprocal Pronoun | (Direct) Interrogative Pronoun | Indirect Interrogative / Indefinite Relative Pronoun | . ",
+    "content": ". | Demonstratives . | ὅδε, ἥδε, τόδε | οὗτος, αὗτη, τοῦτο | ἐκεῖνος, ἐκείνη, ἐκεῖνο | . | Relative Pronoun: ὅς, ἥ, ὅ | . ",
     "url": "/reference/pronouns#table-of-contents",
     
     "relUrl": "/reference/pronouns#table-of-contents"
-  },"227": {
+  },"221": {
     "doc": "Pronouns",
     "title": "Demonstratives",
     "content": "ὅδε, ἥδε, τόδε . |   | Masculine | Feminine | Neuter | . | Nom. Sg. | ὅδε | ἥδε | τόδε | . | Gen. Sg. | τοῦδε | τῆσδε | τοῦδε | . | Dat. Sg. | τῷδε | τῇδε | τῷδε | . | Acc. Sg. | τόνδε | τήνδε | τόδε | . | Nom. Pl. | οἵδε | αἵδε | τάδε | . | Gen. Pl. | τῶνδε | τῶνδε | τῶνδε | . | Dat. Pl. | τοῖσδε | ταῖσδε | τοῖσδε | . | Acc. Pl. | τούσδε | τάσδε | τάδε | . οὗτος, αὗτη, τοῦτο . |   | Masculine | Feminine | Neuter | . | Nom. Sg. | οὗτος | αὕτη | τοῦτο | . | Gen. Sg. | τούτου | ταύτης | τούτου | . | Dat. Sg. | τούτῳ | ταύτῃ | τούτῳ | . | Acc. Sg. | τοῦτον | ταύτην | τοῦτο | . | Nom. Pl. | οὗτοι | αὗται | ταῦτα | . | Gen. Pl. | τούτων | τούτων | τούτων | . | Dat. Pl. | τούτοις | ταύταις | τούτοις | . | Acc. Pl. | τούτους | ταύτας | ταῦτα | . ἐκεῖνος, ἐκείνη, ἐκεῖνο . |   | Masculine | Feminine | Neuter | . | Nom. Sg. | ἐκεῖνος | ἐκείνη | ἐκεῖνο | . | Gen. Sg. | ἐκείνου | ἐκείνης | ἐκείνου | . | Dat. Sg. | ἐκείνῳ | ἐκείνῃ | ἐκείνῳ | . | Acc. Sg. | ἐκεῖνον | ἐκείνην | ἐκεῖνο | . | Nom. Pl. | ἐκεῖνοι | ἐκεῖναι | ἐκεῖνα | . | Gen. Pl. | ἐκείνων | ἐκείνων | ἐκείνων | . | Dat. Pl. | ἐκείνοις | ἐκείναις | ἐκείνοις | . | Acc. Pl. | ἐκείνους | ἐκείνας | ἐκεῖνα | . ",
     "url": "/reference/pronouns#demonstratives",
     
     "relUrl": "/reference/pronouns#demonstratives"
-  },"228": {
+  },"222": {
     "doc": "Pronouns",
     "title": "Relative Pronoun: ὅς, ἥ, ὅ",
     "content": "|   | Masculine | Feminine | Neuter | . | Nom. Sg. | ὅς | ἥ | ὅ | . | Gen. Sg. | οὗ | ἧς | οὗ | . | Dat. Sg. | ᾧ | ᾗ | ᾧ | . | Acc. Sg. | ὅν | ἥν | ὅ | . | Nom. Pl. | οἵ | αἵ | ἅ | . | Gen. Pl. | ὧν | ὧν | ὧν | . | Dat. Pl. | οἷς | αἷς | οἷς | . | Acc. Pl. | οὕς | ἅς | ἅ | . ",
     "url": "/reference/pronouns#relative-pronoun-%E1%BD%85%CF%82-%E1%BC%A5-%E1%BD%85",
     
     "relUrl": "/reference/pronouns#relative-pronoun-ὅς-ἥ-ὅ"
-  },"229": {
-    "doc": "Pronouns",
-    "title": "Personal Pronouns",
-    "content": "First Person . |   | Regular | Non-Emphatic | . | Nom. Sg. | ἐγώ | – | . | Gen. Sg. | ἐμοῦ | μου | . | Dat. Sg. | ἐμοί | μοι | . | Acc. Sg. | ἐμέ | με | . | Nom. Pl. | ἡμεῖς | – | . | Gen. Pl. | ἡμῶν | – | . | Dat. Pl. | ἡμῖν | – | . | Acc. Pl. | ἡμᾶς | – | . Second Person . |   | Regular | Non-Emphatic | . | Nom. Sg. | σύ | – | . | Gen. Sg. | σοῦ | σου | . | Dat. Sg. | σοί | σοι | . | Acc. Sg. | σέ | σε | . | Nom. Pl. | ὑμεῖς | – | . | Gen. Pl. | ὑμῶν | – | . | Dat. Pl. | ὑμῖν | – | . | Acc. Pl. | ὑμᾶς | – | . Third Person (also Intensive/Emphatic) . |   | Masculine | Feminine | Neuter | . | Nom. Sg. | αὐτός | αὐτή | αὐτό | . | Gen. Sg. | αὐτοῦ | αὐτῆς | αὐτοῦ | . | Dat. Sg. | αὐτῷ | αὐτῇ | αὐτῷ | . | Acc. Sg. | αὐτόν | αὐτήν | αὐτό | . | Nom. Pl. | αὐτοί | αὐταί | αὐτά | . | Gen. Pl. | αὐτῶν | αὐτῶν | αὐτῶν | . | Dat. Pl. | αὐτοῖς | αὐταῖς | αὐτοῖς | . | Acc. Pl. | αὐτούς | αὐτάς | αὐτά | . ",
-    "url": "/reference/pronouns#personal-pronouns",
-    
-    "relUrl": "/reference/pronouns#personal-pronouns"
-  },"230": {
-    "doc": "Pronouns",
-    "title": "Reflexive Pronouns",
-    "content": "First Person . |   | Masculine | Feminine | . | Nom. Sg. | – | – | . | Gen. Sg. | ἐμαυτοῦ | ἐμαυτῆς | . | Dat. Sg. | ἐμαυτῷ | ἐμαυτῇ | . | Acc. Sg. | ἐμαυτόν | ἐμαυτήν | . | Nom. Pl. | – | – | . | Gen. Pl. | ἡμῶν αὐτῶν | ἡμῶν αὐτῶν | . | Dat. Pl. | ἡμῖν αὐτοῖς | ἡμῖν αὐταῖς | . | Acc. Pl. | ἡμᾶς αὐτούς | ἡμᾶς αὐτάς | . Second Person . |   | Masculine | Feminine | . | Nom. Sg. | – | – | . | Gen. Sg. | σεαυτοῦ / σαυτοῦ | σεαυτῆς / σαυτῆς | . | Dat. Sg. | σεαυτῷ / σαυτῷ | σεαυτῇ / σαυτῇ | . | Acc. Sg. | σεαυτόν / σαυτόν | σεαυτήν / σαυτήν | . | Nom. Pl. | – | – | . | Gen. Pl. | ὑμῶν αὐτῶν | ὑμῶν αὐτῶν | . | Dat. Pl. | ὑμῖν αὐτοῖς | ὑμῖν αὐταῖς | . | Acc. Pl. | ὑμᾶς αὐτούς | ὑμᾶς αὐτάς | . Third Person . |   | Masculine | Feminine | Neuter | . | Nom. Sg. | – | – | – | . | Gen. Sg. | ἑαυτοῦ / αὑτοῦ | ἑαυτῆς / αὑτῆς | ἑαυτοῦ / αὑτοῦ | . | Dat. Sg. | ἑαυτῷ / αὑτῷ | ἑαυτῇ / αὑτῇ | ἑαυτῷ / αὑτῷ | . | Acc. Sg. | ἑαυτόν / αὑτόν | ἑαυτήν / αὑτήν | ἑαυτό / αὑτό | . | Nom. Pl. | – | – |   | . | Gen. Pl. | ἑαυτῶν / αὑτῶν | ἑαυτῶν / αὑτῶν | ἑαυτῶν / αὑτῶν | . | Dat. Pl. | ἑαυτοῖς / αὑτοῖς | ἑαυταῖς / αὑταῖς | ἑαυτοῖς / αὑτοῖς | . | Acc. Pl. | ἑαυτούς / αὑτούς | ἑαυτάς / αὑτάς | ἑαυτά / αὑτά | . ",
-    "url": "/reference/pronouns#reflexive-pronouns",
-    
-    "relUrl": "/reference/pronouns#reflexive-pronouns"
-  },"231": {
-    "doc": "Pronouns",
-    "title": "Reciprocal Pronoun",
-    "content": "|   | Masculine | Feminine | Neuter | . | Nom. Pl. | – | – | – | . | Gen. Pl. | ἀλλήλων | ἀλλήλων | ἀλλήλων | . | Dat. Pl. | ἀλλήλοις | ἀλλήλαις | ἀλλήλοις | . | Acc. Pl. | ἀλλήλους | ἀλλήλας | ἄλληλα | . ",
-    "url": "/reference/pronouns#reciprocal-pronoun",
-    
-    "relUrl": "/reference/pronouns#reciprocal-pronoun"
-  },"232": {
-    "doc": "Pronouns",
-    "title": "(Direct) Interrogative Pronoun",
-    "content": "* Also indefinite pronoun if enclitic. |   | Masc./Fem. | Neut. | . | Nom. Sg. | τίς | τί | . | Gen. Sg. | τίνος (τοῦ) | τίνος (τοῦ) | . | Dat. Sg. | τίνι (τῷ) | τίνι (τῷ) | . | Acc. Sg. | τίνα | τί | . | Nom. Pl. | τίνες | τίνα | . | Gen. Pl. | τίνων | τίνων | . | Dat. Pl. | τίσι(ν) | τίσι(ν) | . | Acc. Pl. | τίνας | τίνα | . ",
-    "url": "/reference/pronouns#direct-interrogative-pronoun",
-    
-    "relUrl": "/reference/pronouns#direct-interrogative-pronoun"
-  },"233": {
-    "doc": "Pronouns",
-    "title": "Indirect Interrogative / Indefinite Relative Pronoun",
-    "content": "|   | Masc. | Fem. | Neut. | . | Nom. Sg. | ὅστις | ἥτις | ὅ τι | . | Gen. Sg. | οὗτινος (ὅτου) | ἧστινος | οὗτινος (ὅτου) | . | Dat. Sg. | ᾧτινι (ὅτῳ) | ᾗτινι | ᾧτινι (ὅτῳ) | . | Acc. Sg. | ὅντινα | ἥντινα | ὅ τι | . | Nom. Pl. | οἵτινες | αἵτινες | ἅτινα (ἅττα) | . | Gen. Pl. | ὧντινων (ὅτων) | ὧντινων | ὧντινων (ὅτων) | . | Dat. Pl. | οἷστισι(ν) (ὅτοις) | αἷστισι(ν) | οἷστισι(ν) (ὅτοις) | . | Acc. Pl. | οὕστινας | ἅστινας | ἅτινα (ἅττα) | . ",
-    "url": "/reference/pronouns#indirect-interrogative--indefinite-relative-pronoun",
-    
-    "relUrl": "/reference/pronouns#indirect-interrogative--indefinite-relative-pronoun"
-  },"234": {
+  },"223": {
     "doc": "Resources",
     "title": "Resources",
     "content": " ",
     "url": "/course_info/resources",
     
     "relUrl": "/course_info/resources"
-  },"235": {
+  },"224": {
     "doc": "Resources",
     "title": "Table of contents",
     "content": ". | Electronic Resources | Academic and Student Support Resources | . ",
     "url": "/course_info/resources#table-of-contents",
     
     "relUrl": "/course_info/resources#table-of-contents"
-  },"236": {
+  },"225": {
     "doc": "Resources",
     "title": "Electronic Resources",
     "content": "NOTE: All vocabulary items can be found in the Vocabulary section of the site, and all paradigms charts (for verb, noun, etc., forms) can be found in the Paradigms section of the site. | Logeion: Lexidium: An online version of the Liddell-Scott Greek to English Dictionary. | . ",
     "url": "/course_info/resources#electronic-resources",
     
     "relUrl": "/course_info/resources#electronic-resources"
-  },"237": {
+  },"226": {
     "doc": "Resources",
     "title": "Academic and Student Support Resources",
     "content": ". | Office of Accessibility | Office of Academic Support and Retention | Writing Center | Sexual Misconduct Policy | . ",
     "url": "/course_info/resources#academic-and-student-support-resources",
     
     "relUrl": "/course_info/resources#academic-and-student-support-resources"
-  },"238": {
+  },"227": {
     "doc": "Course Schedule - List",
     "title": "Course Schedule - List Form",
     "content": " ",
     "url": "/schedule-and-slideshows/schedule-list#course-schedule---list-form",
     
     "relUrl": "/schedule-and-slideshows/schedule-list#course-schedule---list-form"
-  },"239": {
+  },"228": {
     "doc": "Course Schedule - List",
     "title": "Table of contents",
     "content": ". | Week 1 (1/22) . | Resources for Today’s Class | . | Week 2 (1/26 - 1/29) . | Resources for Today’s Class | Resources for Today’s Class | . | Week 3 (2/2 - 2/5) . | Resources for Today’s Class | Resources for Today’s Class | . | Week 4 (2/9 - 2/12) . | Resources for Today’s Class | Resources for Today’s Class | . | Week 5 (2/17 - 2/19) . | Resources for Today’s Class | Resources for Today’s Class | . | Week 6 (2/23 - 2/26) . | Resources for Today’s Class | Resources for Today’s Class | . | Week 7 (3/2 - 3/5) . | Resources for Today’s Class | Resources for Today’s Class | . | Spring Recess (3/7 through 3/15) | Week 8 (3/16 - 3/19) . | Resources for Today’s Class | Resources for Today’s Class | . | Week 9 (3/23 - 3/26) . | Resources for Today’s Class | Resources for Today’s Class | . | Week 10 (3/30) . | Resources for Today’s Class | . | Easter Break (4/2 through 4/6) | Week 11 (4/8 - 4/9) . | Resources for Today’s Class | Resources for Today’s Class | . | Week 12 (4/13 - 4/16) . | Resources for Today’s Class | Resources for Today’s Class | . | Week 13 (4/20 - 4/23) . | Resources for Today’s Class | Resources for Today’s Class | . | Week 14 (4/27) . | Resources for Today’s Class | . | READING DAYS (4/30, 5/1, 5/3) | EXAM PERIOD (5/2 through 5/8) | . ",
     "url": "/schedule-and-slideshows/schedule-list#table-of-contents",
     
     "relUrl": "/schedule-and-slideshows/schedule-list#table-of-contents"
-  },"240": {
+  },"229": {
     "doc": "Course Schedule - List",
     "title": "Week 1 (1/22)",
     "content": "Thursday, January 22 . | Topic: Syllabus Day | Due by start of next class: Student Information Form . | Homework 1 | . | . Resources for Today’s Class . | Readings: . | Google Doc Syllabus | . | Slideshow: | . ",
     "url": "/schedule-and-slideshows/schedule-list#week-1-122",
     
     "relUrl": "/schedule-and-slideshows/schedule-list#week-1-122"
-  },"241": {
+  },"230": {
     "doc": "Course Schedule - List",
     "title": "Week 2 (1/26 - 1/29)",
     "content": "Monday, January 26 . | Topic: Alphabet, Accents, Inflection | In-class: Check-in 1 | Due by start of next class: . | Homework 2 | . | . Resources for Today’s Class . | Readings: | Slideshow: | . Thursday, January 29 . | Topic: Verbs Overview and First Aorist Active and Middle | In-class: Check-in 2 | Due by start of next class: . | Homework 3 | Quiz 1 | . | . Resources for Today’s Class . | Readings: | Slideshow: | . ",
     "url": "/schedule-and-slideshows/schedule-list#week-2-126---129",
     
     "relUrl": "/schedule-and-slideshows/schedule-list#week-2-126---129"
-  },"242": {
+  },"231": {
     "doc": "Course Schedule - List",
     "title": "Week 3 (2/2 - 2/5)",
     "content": "Monday, February 2 . | Topic: Second Aorist Active and Middle; Clauses and Coordination | In-class: Check-in 3 | Due by start of next class: . | Homework 4 | . | . Resources for Today’s Class . | Readings: | Slideshow: | . Thursday, February 5 . | Topic: Nouns Overview and Definite Article | In-class: Check-in 4 | Due by start of next class: . | Homework 5 | Quiz 2 | . | . Resources for Today’s Class . | Readings: | Slideshow: | . ",
     "url": "/schedule-and-slideshows/schedule-list#week-3-22---25",
     
     "relUrl": "/schedule-and-slideshows/schedule-list#week-3-22---25"
-  },"243": {
+  },"232": {
     "doc": "Course Schedule - List",
     "title": "Week 4 (2/9 - 2/12)",
     "content": "Monday, February 9 . | Topic: Nominative and Genitive (1st and 2nd Declension) | In-class: Check-in 5 | Due by start of next class: . | Homework 6 | . | . Resources for Today’s Class . | Readings: | Slideshow: | . Thursday, February 12 . | Topic: Accusative and Dative (1st and 2nd Declension) | In-class: Check-in 6 | Due by start of next class: . | Homework 7 | Quiz 3 | . | . Resources for Today’s Class . | Readings: | Slideshow: | . ",
     "url": "/schedule-and-slideshows/schedule-list#week-4-29---212",
     
     "relUrl": "/schedule-and-slideshows/schedule-list#week-4-29---212"
-  },"244": {
+  },"233": {
     "doc": "Course Schedule - List",
     "title": "Week 5 (2/17 - 2/19)",
     "content": "NOTE: This week, our Monday class meets on a Tuesday. Tuesday, February 17 . | Topic: Review / Buffer | In-class: Check-in 7 | . Resources for Today’s Class . | Readings: | Slideshow: | . Thursday, February 19 . | EXAM 1 (in class) | . Resources for Today’s Class . | Readings: | Slideshow: | . ",
     "url": "/schedule-and-slideshows/schedule-list#week-5-217---219",
     
     "relUrl": "/schedule-and-slideshows/schedule-list#week-5-217---219"
-  },"245": {
+  },"234": {
     "doc": "Course Schedule - List",
     "title": "Week 6 (2/23 - 2/26)",
     "content": "Monday, February 23 . | Topic: Prepositions and Verb Compounds | Due by start of next class: . | Homework 8 | . | . Resources for Today’s Class . | Readings: | Slideshow: | . Thursday, February 26 . | Topic: Vowel Declension Adjectives | In-class: Check-in 8 | Due by start of next class: . | Homework 9 | Quiz 4 | . | . Resources for Today’s Class . | Readings: | Slideshow: | . ",
     "url": "/schedule-and-slideshows/schedule-list#week-6-223---226",
     
     "relUrl": "/schedule-and-slideshows/schedule-list#week-6-223---226"
-  },"246": {
+  },"235": {
     "doc": "Course Schedule - List",
     "title": "Week 7 (3/2 - 3/5)",
     "content": "Monday, March 2 . | Topic: Attributive and Predicative Position | In-class: Check-in 9 | Due by start of next class: . | Homework 10 | . | . Resources for Today’s Class . | Readings: | Slideshow: | . Thursday, March 5 . | Topic: Pronouns (Demonstrative) | In-class: Check-in 10 | Due by start of next class: . | Homework 11 | Quiz 5 | . | . Resources for Today’s Class . | Readings: | Slideshow: | . ",
     "url": "/schedule-and-slideshows/schedule-list#week-7-32---35",
     
     "relUrl": "/schedule-and-slideshows/schedule-list#week-7-32---35"
-  },"247": {
+  },"236": {
     "doc": "Course Schedule - List",
     "title": "Spring Recess (3/7 through 3/15)",
     "content": ". ",
     "url": "/schedule-and-slideshows/schedule-list#spring-recess-37-through-315",
     
     "relUrl": "/schedule-and-slideshows/schedule-list#spring-recess-37-through-315"
-  },"248": {
+  },"237": {
     "doc": "Course Schedule - List",
     "title": "Week 8 (3/16 - 3/19)",
     "content": "Monday, March 16 . | Topic: Dependent Clauses | In-class: Check-in 11 | Due by start of next class: . | Homework 12 | . | . Resources for Today’s Class . | Readings: | Slideshow: | . Thursday, March 19 . | Topic: Core Four -μι Verbs - Aorist Active and Middle | In-class: Check-in 12 | Due by start of next class: . | Homework 13 | Quiz 6 | . | . Resources for Today’s Class . | Readings: | Slideshow: | . ",
     "url": "/schedule-and-slideshows/schedule-list#week-8-316---319",
     
     "relUrl": "/schedule-and-slideshows/schedule-list#week-8-316---319"
-  },"249": {
+  },"238": {
     "doc": "Course Schedule - List",
     "title": "Week 9 (3/23 - 3/26)",
     "content": "Monday, March 23 . | Topic: Review / Buffer | In-class: Check-in 13 | . Resources for Today’s Class . | Readings: | Slideshow: | . Thursday, March 26 . | EXAM 2 (in class) | . Resources for Today’s Class . | Readings: | Slideshow: | . ",
     "url": "/schedule-and-slideshows/schedule-list#week-9-323---326",
     
     "relUrl": "/schedule-and-slideshows/schedule-list#week-9-323---326"
-  },"250": {
+  },"239": {
     "doc": "Course Schedule - List",
     "title": "Week 10 (3/30)",
     "content": "Monday, March 30 . | Topic: Relative Pronoun and Relative Clauses | Due by start of next class: . | Homework 14 | Quiz 7 | . | . Resources for Today’s Class . | Readings: | Slideshow: | . ",
     "url": "/schedule-and-slideshows/schedule-list#week-10-330",
     
     "relUrl": "/schedule-and-slideshows/schedule-list#week-10-330"
-  },"251": {
+  },"240": {
     "doc": "Course Schedule - List",
     "title": "Easter Break (4/2 through 4/6)",
     "content": ". ",
     "url": "/schedule-and-slideshows/schedule-list#easter-break-42-through-46",
     
     "relUrl": "/schedule-and-slideshows/schedule-list#easter-break-42-through-46"
-  },"252": {
+  },"241": {
     "doc": "Course Schedule - List",
     "title": "Week 11 (4/8 - 4/9)",
     "content": "NOTE: This week, our Monday class meets on a Wednesday. Wednesday, April 8 . | Topic: Aorist Passive and Genitive of Agent | In-class: Check-in 14 | Due by start of next class: . | Homework 15 | . | . Resources for Today’s Class . | Readings: | Slideshow: | . Thursday, April 9 . | Topic: Present Tense - -ω Verbs | In-class: Check-in 15 | Due by start of next class: . | Homework 16 | Quiz 8 | . | . Resources for Today’s Class . | Readings: | Slideshow: | . ",
     "url": "/schedule-and-slideshows/schedule-list#week-11-48---49",
     
     "relUrl": "/schedule-and-slideshows/schedule-list#week-11-48---49"
-  },"253": {
+  },"242": {
     "doc": "Course Schedule - List",
     "title": "Week 12 (4/13 - 4/16)",
     "content": "Monday, April 13 . | Topic: Present Tense - Regular -μι Verbs | In-class: Check-in 16 | Due by start of next class: . | Homework 17 | . | . Resources for Today’s Class . | Readings: | Slideshow: | . Thursday, April 16 . | Topic: Present Tense - Cour Four -μι Verbs | In-class: Check-in 17 | Due by start of next class: . | Homework 18 | Quiz 9 | . | . Resources for Today’s Class . | Readings: | Slideshow: | . ",
     "url": "/schedule-and-slideshows/schedule-list#week-12-413---416",
     
     "relUrl": "/schedule-and-slideshows/schedule-list#week-12-413---416"
-  },"254": {
+  },"243": {
     "doc": "Course Schedule - List",
     "title": "Week 13 (4/20 - 4/23)",
     "content": "Monday, April 20 . | Topic: 3rd Declension Nouns | In-class: Check-in 18 | Due by start of next class: . | Homework 19 | . | . Resources for Today’s Class . | Readings: | Slideshow: | . Thursday, April 23 . | Topic: 3rd Declension Adjectives | In-class: Check-in 19 | Due by start of next class: . | Homework 20 | Quiz 10 | . | . Resources for Today’s Class . | Readings: | Slideshow: | . ",
     "url": "/schedule-and-slideshows/schedule-list#week-13-420---423",
     
     "relUrl": "/schedule-and-slideshows/schedule-list#week-13-420---423"
-  },"255": {
+  },"244": {
     "doc": "Course Schedule - List",
     "title": "Week 14 (4/27)",
     "content": "Monday, April 27 . | Topic: Review / Course Evaluations | In-class links (DO NOT CLICK UNTIL INSTRUCTED TO DO SO IN CLASS): . | IDEA Course Evaluation (link TBD) | Personal Course Evaluation (link TBD) (use Fairfield credentials to authenticate) | . | . Resources for Today’s Class . | Readings: | Slideshow: | . ",
     "url": "/schedule-and-slideshows/schedule-list#week-14-427",
     
     "relUrl": "/schedule-and-slideshows/schedule-list#week-14-427"
-  },"256": {
+  },"245": {
     "doc": "Course Schedule - List",
     "title": "READING DAYS (4/30, 5/1, 5/3)",
     "content": ". ",
     "url": "/schedule-and-slideshows/schedule-list#reading-days-430-51-53",
     
     "relUrl": "/schedule-and-slideshows/schedule-list#reading-days-430-51-53"
-  },"257": {
+  },"246": {
     "doc": "Course Schedule - List",
     "title": "EXAM PERIOD (5/2 through 5/8)",
     "content": ". | Exam 3 will be held in person from 8am to 11am on R 5/7. | . ",
     "url": "/schedule-and-slideshows/schedule-list#exam-period-52-through-58",
     
     "relUrl": "/schedule-and-slideshows/schedule-list#exam-period-52-through-58"
-  },"258": {
+  },"247": {
     "doc": "Course Schedule - List",
     "title": "Course Schedule - List",
     "content": " ",
     "url": "/schedule-and-slideshows/schedule-list",
     
     "relUrl": "/schedule-and-slideshows/schedule-list"
-  },"259": {
+  },"248": {
     "doc": "Course Schedule - Table",
     "title": "Course Schedule - Table Form",
     "content": "NOTE: . | Homework and quizzes are due by the start of the class period on the date for which they’re listed. | Check-ins and exams will be administered in class on the date for which they’re listed. | . ",
     "url": "/schedule-and-slideshows/schedule-table#course-schedule---table-form",
     
     "relUrl": "/schedule-and-slideshows/schedule-table#course-schedule---table-form"
-  },"260": {
+  },"249": {
     "doc": "Course Schedule - Table",
     "title": "Course Schedule - Table",
     "content": " ",
     "url": "/schedule-and-slideshows/schedule-table",
     
     "relUrl": "/schedule-and-slideshows/schedule-table"
-  },"261": {
+  },"250": {
     "doc": "Slideshows",
     "title": "Slideshows",
     "content": " ",
     "url": "/schedule-and-slideshows/slideshows",
     
     "relUrl": "/schedule-and-slideshows/slideshows"
-  },"262": {
+  },"251": {
     "doc": "Slideshows",
     "title": "Table of contents",
     "content": ". | Slideshows Folder | . ",
     "url": "/schedule-and-slideshows/slideshows#table-of-contents",
     
     "relUrl": "/schedule-and-slideshows/slideshows#table-of-contents"
-  },"263": {
+  },"252": {
     "doc": "Slideshows",
     "title": "Slideshows Folder",
     "content": ". | Google Drive folder link here. | . ",
     "url": "/schedule-and-slideshows/slideshows#slideshows-folder",
     
     "relUrl": "/schedule-and-slideshows/slideshows#slideshows-folder"
-  },"264": {
+  },"253": {
     "doc": "Verbs",
     "title": "Verb Paradigms",
     "content": " ",
     "url": "/reference/verbs#verb-paradigms",
     
     "relUrl": "/reference/verbs#verb-paradigms"
-  },"265": {
+  },"254": {
     "doc": "Verbs",
     "title": "Table of contents",
-    "content": ". | Present | Imperfect | Future | Aorist | Perfect | Irregular Verbs | -μι Verbs . | δίδωμι | τίθημι | ἵημι | ἵστημι | . | . ",
+    "content": ". | Present | Aorist | Irregular Verbs | Core Four -μι Verbs . | δίδωμι | τίθημι | ἵημι | ἵστημι | . | . ",
     "url": "/reference/verbs#table-of-contents",
     
     "relUrl": "/reference/verbs#table-of-contents"
-  },"266": {
+  },"255": {
     "doc": "Verbs",
     "title": "Present",
     "content": "Present Tense (-ω) . Paradigm verb: κελεύω . | Person and # | Active | Middle/Passive | . | 1st sg. | κελεύω | κελεύομαι | . | 2nd sg. | κελεύεις | κελεύῃ | . | 3rd sg. | κελεύει | κελεύεται | . | 1st pl. | κελεύομεν | κελευόμεθα | . | 2nd pl. | κελεύετε | κελεύεσθε | . | 3rd pl. | κελεύουσι(ν) | κελεύονται | . | 2nd dual | κελεύετον | κελεύεσθον | . | 3rd dual | κελεύετον | κελεύεσθον | . Present Tense (-μι) . Paradigm verb: δείκνυμι . | Person and # | Active | Middle/Passive | . | 1st sg. | δείκνυμι | δείκνυμαι | . | 2nd sg. | δείκνυς | δείκνυσαι | . | 3rd sg. | δείκνυσι(ν) | δείκνυται | . | 1st pl. | δείκνυμεν | δεικνύμεθα | . | 2nd pl. | δείκνυτε | δείκνυσθε | . | 3rd pl. | δείκνύασι(ν) | δείκνυνται | . | 2nd dual | δείκνυτον | δείκνυσθον | . | 3rd dual | δείκνυτον | δείκνυσθον | . ",
     "url": "/reference/verbs#present",
     
     "relUrl": "/reference/verbs#present"
-  },"267": {
-    "doc": "Verbs",
-    "title": "Imperfect",
-    "content": "Imperfect Tense (-ω) . | Person and # | Active | Middle/Passive | . | 1st sg. | ἐκέλευον | ἐκελευόμην | . | 2nd sg. | ἐκέλευες | ἐκελεύου | . | 3rd sg. | ἐκέλευε(ν) | ἐκελεύετο | . | 1st pl. | ἐκελεύομεν | ἐκελευόμεθα | . | 2nd pl. | ἐκελεύετε | ἐκελεύεσθε | . | 3rd pl. | ἐκέλευον | ἐκελεύοντο | . | 2nd dual | ἐκελεύετον | ἐκελεύεσθον | . | 3rd dual | ἐκελευέτην | ἐκελευέσθην | . Imperfect Tense (-μι) . Paradigm verb: δείκνυμι . | Person and # | Active | Middle/Passive | . | 1st sg. | ἐδείκνυν | ἐδεικνύμην | . | 2nd sg. | ἐδείκνυς | ἐδείκνυσο | . | 3rd sg. | ἐδείκνυ | ἐδείκνυτο | . | 1st pl. | ἐδείκνυμεν | ἐδεικνύμεθα | . | 2nd pl. | ἐδείκνυτε | ἐδείκνυσθε | . | 3rd pl. | ἐδείκνυσαν | ἐδείκνυντο | . | 2nd dual | ἐδείκνυτον | ἐδείκνυσθον | . | 3rd dual | ἐδεικνύτην | ἐδεικνύσθην | . ",
-    "url": "/reference/verbs#imperfect",
-    
-    "relUrl": "/reference/verbs#imperfect"
-  },"268": {
-    "doc": "Verbs",
-    "title": "Future",
-    "content": "Paradigm verb: λύω . | Person and # | Active | Middle | Passive | . | 1st sg. | λύσω | λύσομαι | λυθήσομαι | . | 2nd sg. | λύσεις | λύσῃ | λυθήσῃ | . | 3rd sg. | λύσει | λύσεται | λυθήσεται | . | 1st pl. | λύσομεν | λυσόμεθα | λυθησόμεθα | . | 2nd pl. | λύσετε | λύσεσθε | λυθήσεσθε | . | 3rd pl. | λύσουσι(ν) | λύσονται | λυθήσονται | . | 2nd dual | λύσετον | λύσεσθον | λυθήσεσθον | . | 3rd dual | λύσετον | λύσεσθον | λυθήσεσθον | . ",
-    "url": "/reference/verbs#future",
-    
-    "relUrl": "/reference/verbs#future"
-  },"269": {
+  },"256": {
     "doc": "Verbs",
     "title": "Aorist",
     "content": "First Aorist . Paradigm verb: κελεύω . | Person and # | Active | Middle | Passive | . | 1st sg. | ἐκέλευσα | ἐκελευσάμην | ἐκελεύσθην | . | 2nd sg. | ἐκέλευσας | ἐκελεύσω | ἐκελεύσθης | . | 3rd sg. | ἐκέλευσε(ν) | ἐκελεύσατο | ἐκελεύσθη | . | 1st pl. | ἐκελεύσαμεν | ἐκελευσάμεθα | ἐκελεύσθημεν | . | 2nd pl. | ἐκελεύσατε | ἐκελεύσασθε | ἐκελεύσθητε | . | 3rd pl. | ἐκέλευσαν | ἐκελεύσαντο | ἐκελεύσθησαν | . | 2nd dual | ἐκελεύσατον | ἐκελεύσασθον | ἐκελεύσθητον | . | 3rd dual | ἐκελευσάτην | ἐκελευσάσθην | ἐκελευσθήτην | . Second Aorist . Paradigm verb: ἄγω . | Person and # | Active | Middle | Passive | . | 1st sg. | ἤγαγον | ἠγαγόμην | ἤχθην | . | 2nd sg. | ἤγαγες | ἠγάγου | ἤχθης | . | 3rd sg. | ἤγαγε(ν) | ἠγάγετο | ἤχθη | . | 1st pl. | ἠγάγομεν | ἠγαγόμεθα | ἤχθημεν | . | 2nd pl. | ἠγάγετε | ἠγάγεσθε | ἤχθητε | . | 3rd pl. | ἤγαγον | ἠγάγοντο | ἤχθησαν | . | 2nd dual | ἠγάγετον | ἠγάγεσθον | ἤχθητον | . | 3rd dual | ἠγαγέτην | ἠγαγέσθην | ἠχθήτην | . ",
     "url": "/reference/verbs#aorist",
     
     "relUrl": "/reference/verbs#aorist"
-  },"270": {
-    "doc": "Verbs",
-    "title": "Perfect",
-    "content": "Perfect Active . Paradigm verb: λύω . | Person and # | Active | . | 1st sg. | λέλυκα | . | 2nd sg. | λέλυκας | . | 3rd sg. | λέλυκε(ν) | . | 1st pl. | λελύκαμεν | . | 2nd pl. | λελύκατε | . | 3rd pl. | λελύκασι(ν) | . | 2nd dual | λελύκατον | . | 3rd dual | λελύκατον | . Perfect Middle/Passive . |   | λύω(vowel stem) | κελεύω(dental plosive stem) | γράφω(labial plosive stem) | ἄγω(velar plosive stem) | ἀγγέλλω(λ stem) | . | 1st sg. | λέλυμαι | κεκέλευσμαι | γέγραμμαι | ἦγμαι | ἤγγελμαι | . | 2nd sg. | λέλυσαι | κεκέλευσαι | γέγραψαι | ἦξαι | ἤγγελσαι | . | 3rd sg. | λέλυται | κεκέλευσται | γέγραπται | ἦκται | ἤγγελται | . | 1st pl. | λελύμεθα | κεκελεύσμεθα | γεγράμμεθα | ἤγμεθα | ἠγγέλμεθα | . | 2nd pl. | λέλυσθε | κεκέλευσθε | γέγραφθε | ἦχθε | ἤγγελθε | . | 3rd pl. | λέλυνται | κεκελευσμένοι εἰσί(ν) | γεγραμμένοι εἰσί(ν) | ἠγμένοι εἰσί(ν) | ἠγγελμένοι εἰσί(ν) | . | 2nd dual | λέλυσθον | κεκέλευσθον | γέγραφθον | ἦχθον | ἤγγελθον | . | 3rd dual | λέλυσθον | κεκέλευσθον | γέγραφθον | ἦχθον | ἤγγελθον | . ",
-    "url": "/reference/verbs#perfect",
-    
-    "relUrl": "/reference/verbs#perfect"
-  },"271": {
+  },"257": {
     "doc": "Verbs",
     "title": "Irregular Verbs",
-    "content": "εἰμί . |   | Present | Imperfect | Future | . | 1st sg. | εἰμί | ἦ / ἦν | ἔσομαι | . | 2nd sg. | εἶ | ἦσθα | ἔσῃ | . | 3rd sg. | ἐστί(ν) | ἦν | ἔσται | . | 1st pl. | ἐσμέν | ἦμεν | ἐσόμεθα | . | 2nd pl. | ἐστέ | ἦτε / ἦστε | ἔσεσθε | . | 3rd pl. | εἰσί(ν) | ἦσαν | ἔσονται | . | 2nd dual | ἐστόν | ἦστον | ἔσεσθον | . | 3rd dual | ἐστόν | ἤστην | ἔσεσθον | . φημί . |   | Present | Imperfect | . | 1st sg. | φημί | ἔφην | . | 2nd sg. | φῇς | ἔφησθα / ἔφης | . | 3rd sg. | φησί(ν) | ἔφη | . | 1st pl. | φαμέν | ἔφαμεν | . | 2nd pl. | φατέ | ἔφατε | . | 3rd pl. | φασί(ν) | ἔφασαν | . | 2nd dual | φατόν | ἔφατον | . | 3rd dual | φατόν | ἐφάτην | . ",
+    "content": "εἰμί . |   | Present | Imperfect | Future | . | 1st sg. | εἰμί | ἦ / ἦν | ἔσομαι | . | 2nd sg. | εἶ | ἦσθα | ἔσῃ | . | 3rd sg. | ἐστί(ν) | ἦν | ἔσται | . | 1st pl. | ἐσμέν | ἦμεν | ἐσόμεθα | . | 2nd pl. | ἐστέ | ἦτε / ἦστε | ἔσεσθε | . | 3rd pl. | εἰσί(ν) | ἦσαν | ἔσονται | . | 2nd dual | ἐστόν | ἦστον | ἔσεσθον | . | 3rd dual | ἐστόν | ἤστην | ἔσεσθον | . ",
     "url": "/reference/verbs#irregular-verbs",
     
     "relUrl": "/reference/verbs#irregular-verbs"
-  },"272": {
+  },"258": {
     "doc": "Verbs",
-    "title": "-μι Verbs",
-    "content": "δίδωμι . |   | Pres. Act. | Pres. M./P. | Impf. Act. | Impf. M./P. | . | 1st sg. | δίδωμι | δίδομαι | ἐδίδουν | ἐδιδόμην | . | 2nd sg. | δίδως | δίδοσαι | ἐδίδους | ἐδίδοσο | . | 3rd sg. | δίδωσι(ν) | δίδοται | ἐδίδου | ἐδίδοτο | . | 1st pl. | δίδομεν | διδόμεθα | ἐδίδομεν | ἐδιδόμεθα | . | 2nd pl. | δίδοτε | δίδοσθε | ἐδίδοτε | ἐδίδοσθε | . | 3rd pl. | διδόασι(ν) | δίδονται | ἐδίδοσαν | ἐδίδοντο | . | pres. act. inf.: διδόναι | pres. act. part.: διδούς, διδοῦσα, διδόν (m./n. stem διδοντ-) | pres. m./p. inf.: δίδοσθαι | pres. m./p. part.: διδόμενος, -η, -ον | . |   | Aor. Act. | Aor. Mid. | . | 1st sg. | ἔδωκα | ἐδόμην | . | 2nd sg. | ἔδωκας | ἔδου | . | 3rd sg. | ἔδωκε(ν) | ἔδοτο | . | 1st pl. | ἔδομεν | ἐδόμεθα | . | 2nd pl. | ἔδοτε | ἔδοσθε | . | 3rd pl. | ἔδοσαν | ἔδοντο | . | aor. act. inf.: δοῦναι | aor. act. part.: δούς, δοῦσα, δόν (m./n. stem δοντ-) | aor. mid. inf.: δόσθαι | aor. mid. part.: δόμενος, -η, -ον | . τίθημι . |   | Pres. Act. | Pres. M./P. | Impf. Act. | Impf. M./P. | . | 1st sg. | τίθημι | τίθεμαι | ἐτίθην | ἐτιθέμην | . | 2nd sg. | τίθης | τίθεσαι | ἐτίθεις | ἐτίθεσο | . | 3rd sg. | τίθησι(ν) | τίθεται | ἐτίθει | ἐτίθετο | . | 1st pl. | τίθεμεν | τιθέμεθα | ἐτίθεμεν | ἐτιθέμεθα | . | 2nd pl. | τίθετε | τίθεσθε | ἐτίθετε | ἐτίθεσθε | . | 3rd pl. | τιθέασι(ν) | τίθενται | ἐτίθεσαν | ἐτίθεντο | . | pres. act. inf.: τιθέναι | pres. act. part.: τιθείς, τιθεῖσα, τιθέν (m./n. stem τιθεντ-) | pres. m./p. inf.: τίθεσθαι | pres. m./p. part.: τιθέμενος, -η, -ον | . |   | Aor. Act. | Aor. Mid. | . | 1st sg. | ἔθηκα | ἐθέμην | . | 2nd sg. | ἔθηκας | ἔθου | . | 3rd sg. | ἔθηκε(ν) | ἔθετο | . | 1st pl. | ἔθεμεν | ἐθέμεθα | . | 2nd pl. | ἔθετε | ἔθεσθε | . | 3rd pl. | ἔθεσαν | ἔθεντο | . | aor. act. inf.: θεῖναι | aor. act. part.: θεῖς, θεῖσα, θέν (m./n. stem θεντ-) | aor. mid. inf.: θέσθαι | aor. mid. part.: θέμενος, -η, -ον | . ἵημι . |   | Pres. Act. | Pres. M./P. | Impf. Act. | Impf. M./P. | . | 1st sg. | ἵημι | ἵεμαι | ἵην | ἱέμην | . | 2nd sg. | ἵης | ἱεσαι | ἵεις | ἵεσο | . | 3rd sg. | ἵησι(ν) | ἱεται | ἵει | ἵετο | . | 1st pl. | ἵεμεν | ἱέμεθα | ἵεμεν | ἱέμεθα | . | 2nd pl. | ἵετε | ἵεσθε | ἵετε | ἵεσθε | . | 3rd pl. | ἱᾶσι(ν) | ἵενται | ἵεσαν | ἵεντο | . | pres. act. inf.: ἱέναι | pres. act. part.: ἱείς, ἱεῖσα, ἱέν (m./n. stem ἱεντ-) | pres. m./p. inf.: ἵεσθαι | pres. m./p. part.: ἱέμενος, -η, -ον | . |   | Aor. Act. | Aor. Mid. | . | 1st sg. | -ἧκα | -εἵμην | . | 2nd sg. | -ἧκας | -εἷσο | . | 3rd sg. | -ἧκε(ν) | -εἷτο | . | 1st pl. | -εἷμεν | -εἵμεθα | . | 2nd pl. | -εἷτε | -εἷσθε | . | 3rd pl. | -εἷσαν | -εἷντο | . | aor. act. inf.: -εἷναι | aor. act. part.: -εἵς, -εἷσα, -ἕν (m./n. stem -ἑντ-) | aor. mid. inf.: -ἕσθαι | aor. mid. part.: -ἕμενος, -η, -ον | . ἵστημι . |   | Pres. Act. | Pres. M./P. | Impf. Act. | Impf. M./P. | . | 1st sg. | ἵστημι | ἵσταμαι | ἵστην | ἱστάμην | . | 2nd sg. | ἵστης | ἵστασαι | ἵστης | ἵστασο | . | 3rd sg. | ἵστησι(ν) | ἵσταται | ἵστη | ἵστατο | . | 1st pl. | ἵσταμεν | ἱστάμεθα | ἵσταμεν | ἱστάμεθα | . | 2nd pl. | ἵστατε | ἵστασθε | ἵστατε | ἵστασθε | . | 3rd pl. | ἱστᾶσι(ν) | ἵστανται | ἵστασαν | ἵσταντο | . | pres. act. inf.: ἱστάναι | pres. act. part.: ἱστάς, ἱστᾶσα, ἱστάν (m./n. stem ἱσταντ-) | pres. m./p. inf.: ἵστασθαι | pres. m./p. part.: ἱστάμενος, -η, -ον | . |   | Aor. Act. (trans.) | Aor. Mid. (trans.) | Aor. Act. (intrans.) | . | 1st sg. | ἔστησα | ἐστησάμην | ἔστην | . | 2nd sg. | ἔστησας | ἐστήσω | ἔστης | . | 3rd sg. | ἔστησε(ν) | ἐστήσατο | ἔστη | . | 1st pl. | ἐστήσαμεν | ἐστησάμεθα | ἔστημεν | . | 2nd pl. | ἐστήσατε | ἐστήσασθε | ἔστητε | . | 3rd pl. | ἔστησαν | ἐστήσαντο | ἔστησαν | . | aor. act. inf. (trans.): στῆσαι | aor. act. part. (trans.): στήσας, στήσασα, στῆσαν (m./n. stem στησαντ-) | aor. act. mid. (trans.): στήσασθαι | aor. act. mid. (trans.): στησάμενος, -η, -ον | aor. act. inf. (intrans.): στῆναι | aor. act. part. (intrans.): στάς, στᾶσα, στάν (m./n. stem σταντ-) | . ",
-    "url": "/reference/verbs#-%CE%BC%CE%B9-verbs",
+    "title": "Core Four -μι Verbs",
+    "content": "δίδωμι . |   | Pres. Act. | Pres. M./P. | Aor. Act. | Aor. Mid. | . | 1st sg. | δίδωμι | δίδομαι | ἔδωκα | ἐδόμην | . | 2nd sg. | δίδως | δίδοσαι | ἔδωκας | ἔδου | . | 3rd sg. | δίδωσι(ν) | δίδοται | ἔδωκε(ν) | ἔδοτο | . | 1st pl. | δίδομεν | διδόμεθα | ἔδομεν | ἐδόμεθα | . | 2nd pl. | δίδοτε | δίδοσθε | ἔδοτε | ἔδοσθε | . | 3rd pl. | διδόασι(ν) | δίδονται | ἔδοσαν | ἔδοντο | . τίθημι . |   | Pres. Act. | Pres. M./P. | Aor. Act. | Aor. Mid. | . | 1st sg. | τίθημι | τίθεμαι | ἔθηκα | ἐθέμην | . | 2nd sg. | τίθης | τίθεσαι | ἔθηκας | ἔθου | . | 3rd sg. | τίθησι(ν) | τίθεται | ἔθηκε(ν) | ἔθετο | . | 1st pl. | τίθεμεν | τιθέμεθα | ἔθεμεν | ἐθέμεθα | . | 2nd pl. | τίθετε | τίθεσθε | ἔθετε | ἔθεσθε | . | 3rd pl. | τιθέασι(ν) | τίθενται | ἔθεσαν | ἔθεντο | . ἵημι . |   | Pres. Act. | Pres. M./P. | Aor. Act. | Aor. Mid. | . | 1st sg. | ἵημι | ἵεμαι | -ἧκα | -εἵμην | . | 2nd sg. | ἵης | ἱεσαι | -ἧκας | -εἷσο | . | 3rd sg. | ἵησι(ν) | ἱεται | -ἧκε(ν) | -εἷτο | . | 1st pl. | ἵεμεν | ἱέμεθα | -εἷμεν | -εἵμεθα | . | 2nd pl. | ἵετε | ἵεσθε | -εἷτε | -εἷσθε | . | 3rd pl. | ἱᾶσι(ν) | ἵενται | -εἷσαν | -εἷντο | . ἵστημι . |   | Pres. Act. | Pres. M./P. | Aor. Act. (trans) | Aor. Mid. (trans.) | Aor. Act. (intrans.) | . | 1st sg. | ἵστημι | ἵσταμαι | ἔστησα | ἐστησάμην | ἔστην | . | 2nd sg. | ἵστης | ἵστασαι | ἔστησας | ἐστήσω | ἔστης | . | 3rd sg. | ἵστησι(ν) | ἵσταται | ἔστησε(ν) | ἐστήσατο | ἔστη | . | 1st pl. | ἵσταμεν | ἱστάμεθα | ἐστήσαμεν | ἐστησάμεθα | ἔστημεν | . | 2nd pl. | ἵστατε | ἵστασθε | ἐστήσατε | ἐστήσασθε | ἔστητε | . | 3rd pl. | ἱστᾶσι(ν) | ἵστανται | ἔστησαν | ἐστήσαντο | ἔστησαν | . ",
+    "url": "/reference/verbs#core-four--%CE%BC%CE%B9-verbs",
     
-    "relUrl": "/reference/verbs#-μι-verbs"
-  },"273": {
+    "relUrl": "/reference/verbs#core-four--μι-verbs"
+  },"259": {
     "doc": "Verbs",
     "title": "Verbs",
     "content": " ",
