@@ -27,6 +27,8 @@ Student Information Form
     * Homework 1
 
 #### Resources for Today's Class
+{: .no_toc }
+{: .no_toc }
 * Readings:
     * [Google Doc Syllabus](https://docs.google.com/document/d/17khbhsVIT3GHJvCRU3WGMh79HiXVnf_hPaufv8tkjfM/edit?usp=sharing)
 * Slideshow:
@@ -43,6 +45,7 @@ Student Information Form
     * Homework 2
 
 #### Resources for Today's Class
+{: .no_toc }
 * Readings:
 * Slideshow:
 
@@ -55,6 +58,7 @@ Student Information Form
     * Quiz 1
 
 #### Resources for Today's Class
+{: .no_toc }
 * Readings:
 * Slideshow:
 
@@ -70,6 +74,7 @@ Student Information Form
     * Homework 4
 
 #### Resources for Today's Class
+{: .no_toc }
 * Readings:
 * Slideshow:
 
@@ -82,6 +87,7 @@ Student Information Form
     * Quiz 2
 
 #### Resources for Today's Class
+{: .no_toc }
 * Readings:
 * Slideshow:
 
@@ -97,6 +103,7 @@ Student Information Form
     * Homework 6
 
 #### Resources for Today's Class
+{: .no_toc }
 * Readings:
 * Slideshow:
 
@@ -109,6 +116,7 @@ Student Information Form
     * Quiz 3
 
 #### Resources for Today's Class
+{: .no_toc }
 * Readings:
 * Slideshow:
 
@@ -124,6 +132,7 @@ NOTE: This week, our Monday class meets on a Tuesday.
 * _In-class_: Check-in 7
 
 #### Resources for Today's Class
+{: .no_toc }
 * Readings:
 * Slideshow:
 
@@ -132,6 +141,7 @@ NOTE: This week, our Monday class meets on a Tuesday.
 * EXAM 1 (in class)
 
 #### Resources for Today's Class
+{: .no_toc }
 * Readings:
 * Slideshow:
 
@@ -146,6 +156,7 @@ NOTE: This week, our Monday class meets on a Tuesday.
     * Homework 8
 
 #### Resources for Today's Class
+{: .no_toc }
 * Readings:
 * Slideshow:
 
@@ -158,6 +169,7 @@ NOTE: This week, our Monday class meets on a Tuesday.
     * Quiz 4
 
 #### Resources for Today's Class
+{: .no_toc }
 * Readings:
 * Slideshow:
 
@@ -173,6 +185,7 @@ NOTE: This week, our Monday class meets on a Tuesday.
     * Homework 10
 
 #### Resources for Today's Class
+{: .no_toc }
 * Readings:
 * Slideshow:
 
@@ -185,6 +198,7 @@ NOTE: This week, our Monday class meets on a Tuesday.
     * Quiz 5
 
 #### Resources for Today's Class
+{: .no_toc }
 * Readings:
 * Slideshow:
 
@@ -204,6 +218,7 @@ NOTE: This week, our Monday class meets on a Tuesday.
     * Homework 12
 
 #### Resources for Today's Class
+{: .no_toc }
 * Readings:
 * Slideshow:
 
@@ -216,6 +231,7 @@ NOTE: This week, our Monday class meets on a Tuesday.
     * Quiz 6
 
 #### Resources for Today's Class
+{: .no_toc }
 * Readings:
 * Slideshow:
 
@@ -229,6 +245,7 @@ NOTE: This week, our Monday class meets on a Tuesday.
 * _In-class_: Check-in 13
 
 #### Resources for Today's Class
+{: .no_toc }
 * Readings:
 * Slideshow:
 
@@ -237,6 +254,7 @@ NOTE: This week, our Monday class meets on a Tuesday.
 * EXAM 2 (in class)
 
 #### Resources for Today's Class
+{: .no_toc }
 * Readings:
 * Slideshow:
 
@@ -252,6 +270,7 @@ NOTE: This week, our Monday class meets on a Tuesday.
     * Quiz 7
 
 #### Resources for Today's Class
+{: .no_toc }
 * Readings:
 * Slideshow:
 
@@ -273,6 +292,7 @@ NOTE: This week, our Monday class meets on a Wednesday.
     * Homework 15
 
 #### Resources for Today's Class
+{: .no_toc }
 * Readings:
 * Slideshow:
 
@@ -285,6 +305,7 @@ NOTE: This week, our Monday class meets on a Wednesday.
     * Quiz 8
 
 #### Resources for Today's Class
+{: .no_toc }
 * Readings:
 * Slideshow:
 
@@ -300,6 +321,7 @@ NOTE: This week, our Monday class meets on a Wednesday.
     * Homework 17
 
 #### Resources for Today's Class
+{: .no_toc }
 * Readings:
 * Slideshow:
 
@@ -312,6 +334,7 @@ NOTE: This week, our Monday class meets on a Wednesday.
     * Quiz 9
 
 #### Resources for Today's Class
+{: .no_toc }
 * Readings:
 * Slideshow:
 
@@ -327,6 +350,7 @@ NOTE: This week, our Monday class meets on a Wednesday.
     * Homework 19
 
 #### Resources for Today's Class
+{: .no_toc }
 * Readings:
 * Slideshow:
 
@@ -339,6 +363,7 @@ NOTE: This week, our Monday class meets on a Wednesday.
     * Quiz 10
 
 #### Resources for Today's Class
+{: .no_toc }
 * Readings:
 * Slideshow:
 
@@ -354,6 +379,7 @@ NOTE: This week, our Monday class meets on a Wednesday.
     * Personal Course Evaluation (link TBD) (use Fairfield credentials to authenticate)
 
 #### Resources for Today's Class
+{: .no_toc }
 * Readings:
 * Slideshow:
 
