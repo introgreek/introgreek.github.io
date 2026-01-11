@@ -27,7 +27,7 @@ parent: Vocabulary
 * δείκνυμι, δείξω, ἔδειξα, δέδειχα, δέδειγμαι, ἐδείχθην - [to show](https://logeion.uchicago.edu/δείκνυμι)
 * διδάσκω, διδάξω, ἐδίδαξα, δεδίδαχα, δεδίδαγμαι, ἐδιδάχθην - [to teach](https://logeion.uchicago.edu/διδάσκω)
 * ἔρχομαι, ἐλεύσομαι, ἦλθον, ἐλήλυθα, --, -- - [to come, to go](https://logeion.uchicago.edu/ἔρχομαι)
-* εὑρίσκω, εὑρήσσω, ηὗρον, ηὕρηκα, ηὕρημαι, ηὑρέθην - [to find, discover](https://logeion.uchicago.edu/εὑρίσκω)
+* εὑρίσκω, εὑρήσω, ηὗρον, ηὕρηκα, ηὕρημαι, ηὑρέθην - [to find, discover](https://logeion.uchicago.edu/εὑρίσκω)
 * ἔχω, ἕξω / σχήσω, ἔσχον, ἔσχηκα, -ἔσχημαι, ἐσχέθην - [to have, to hold](https://logeion.uchicago.edu/ἔχω)
 * κελεύω, κελεύσω, ἐκέλευσα, κεκέλευκα, κεκέλευσμαι, ἐκελεύσθην - [to order](https://logeion.uchicago.edu/κελεύω)
 * κρύπτω, κρύψω, ἔκρυψα, --, κέκρυμμαι, ἐκρύφθην - [to hide, conceal](https://logeion.uchicago.edu/κρύπτω)
@@ -41,6 +41,7 @@ parent: Vocabulary
 * ποιέω, ποιήσω, ἐποίησα, πεποίηκα, πεποίημαι, ἐποιήθην - [to make, do](https://logeion.uchicago.edu/ποιέω)
 * πράσσω, πράξω, ἔπραξα, πέπραγα / πέπραχα, πέπραγμαι, ἐπράχθην - [to effect, do, bring to pass](https://logeion.uchicago.edu/πράσσω)
 * φέρω, οἴσω, ἤνεγκον / ἤνεγκα, ἐνήνοχα, ἐνήνεγμαι, ἠνέχθην - [to bring, carry, bear](https://logeion.uchicago.edu/φέρω)
+* φεύγω, φεύξομαι / φευξέομαι, ἔφυγον, πέφευγα, --, -- - [to flee, escape](https://logeion.uchicago.edu/φεύγω)
 * φοβέω, φοβήσω, ἐφόβησα, --, πεφόβημαι, ἐφοβήθην - [(active voice) to frighten, terrify; [middle] to fear, be afraid of](https://logeion.uchicago.edu/φοβέω)
 * φυλάσσω, φυλάξω, ἐφύλαξα, πεφύλαχα, πεφύλαγμαι, ἐφυλάχθην - [to guard](https://logeion.uchicago.edu/φυλάσσω)
 

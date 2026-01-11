@@ -112,7 +112,7 @@ parent: Vocabulary
 * ἔτι - [still, yet](https://logeion.uchicago.edu/ἔτι)
 * εὐδαίμων, εὐδαῖμον - [lucky, blessed, fortunate](https://logeion.uchicago.edu/εὐδαίμων)
 * εὐθύς, εὐθεῖα, εὐθύ - [straight, direct](https://logeion.uchicago.edu/εὐθύς)
-* εὑρίσκω, εὑρήσσω, ηὗρον, ηὕρηκα, ηὕρημαι, ηὑρέθην - [to find, discover](https://logeion.uchicago.edu/εὑρίσκω)
+* εὑρίσκω, εὑρήσω, ηὗρον, ηὕρηκα, ηὕρημαι, ηὑρέθην - [to find, discover](https://logeion.uchicago.edu/εὑρίσκω)
 * ἐφίημι (ἐπί + ἵημι) - [to send against; (middle voice) to command, order; (middle voice) to aim at, desire (+ genitive)](https://logeion.uchicago.edu/ἐφίημι)
 * ἐφίστημι (ἐπί + ἵστημι) - [(trans.) to set up in charge of; (intrans.) to be in charge of (+ dative)](https://logeion.uchicago.edu/ἐφίστημι)
 * ἐχθρός, ἐχθρά, ἐχθρόν - [hostile, enemy, hated](https://logeion.uchicago.edu/ἐχθρός)
@@ -293,6 +293,7 @@ parent: Vocabulary
 ## φ
 
 * φέρω, οἴσω, ἤνεγκον / ἤνεγκα, ἐνήνοχα, ἐνήνεγμαι, ἠνέχθην - [to bring, carry, bear](https://logeion.uchicago.edu/φέρω)
+* φεύγω, φεύξομαι / φευξέομαι, ἔφυγον, πέφευγα, --, -- - [to flee, escape](https://logeion.uchicago.edu/φεύγω)
 * φιλέω, φιλήσω, ἐφίλησα, πεφίληκα, πεφίλημαι, ἐφιλήθην - [to love, kiss](https://logeion.uchicago.edu/φιλέω)
 * φίλος, φίλη, φίλον - [dear, friendly, beloved](https://logeion.uchicago.edu/φίλος)
 * φοβέω, φοβήσω, ἐφόβησα, --, πεφόβημαι, ἐφοβήθην - [(active voice) to frighten, terrify; [middle] to fear, be afraid of](https://logeion.uchicago.edu/φοβέω)
