@@ -2,7 +2,7 @@
 title: Third Declension Adjectives
 layout: default
 permalink: /textbook/exam-3/third-decl-adjs
-nav_order: 5
+nav_order: 1
 parent: Exam 3
 grand_parent: Textbook
 ---

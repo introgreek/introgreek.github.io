@@ -23,15 +23,13 @@ parent: Schedule and Slideshows
 {: .no_toc }
 * _Topic_: Syllabus Day
 * _Due by start of next class_:
-Student Information Form
-    * Homework 1
+    * [Student Information Form](https://forms.gle/sybKzsrcasiFbY8T8)
+    * Homework 1 (distributed in class)
 
 #### Resources for Today's Class
 {: .no_toc }
-{: .no_toc }
-* Readings:
-    * [Google Doc Syllabus](https://docs.google.com/document/d/17khbhsVIT3GHJvCRU3WGMh79HiXVnf_hPaufv8tkjfM/edit?usp=sharing)
-* Slideshow:
+* Readings: [Google Doc Syllabus](https://docs.google.com/document/d/17khbhsVIT3GHJvCRU3WGMh79HiXVnf_hPaufv8tkjfM/edit?usp=sharing)
+* Slideshow: TBD
 
 ***
 
@@ -42,25 +40,25 @@ Student Information Form
 * _Topic_: Alphabet, Accents, Inflection
 * _In-class_: Check-in 1
 * _Due by start of next class_:
-    * Homework 2
+    * Homework 2 (distributed in class)
 
 #### Resources for Today's Class
 {: .no_toc }
-* Readings:
-* Slideshow:
+* Readings: [Alphabet and Accents](../textbook/basics/alphabet-and-accents), [Inflection](../textbook/basics/inflection)
+* Slideshow: TBD
 
 ### Thursday, January 29
 {: .no_toc }
 * _Topic_: Verbs Overview and First Aorist Active and Middle
 * _In-class_: Check-in 2
 * _Due by start of next class_:
-    * Homework 3
-    * Quiz 1
+    * Homework 3 (distributed in class)
+    * Quiz 1 (distributed in class)
 
 #### Resources for Today's Class
 {: .no_toc }
-* Readings:
-* Slideshow:
+* Readings: [Verbs Overview](../textbook/exam-1/verbs-overview), [First Aorist, Active and Middle](../textbook/exam-1/first-aorist)
+* Slideshow: TBD
 
 ***
 
@@ -68,19 +66,19 @@ Student Information Form
 
 ### Monday, February 2
 {: .no_toc }
-* _Topic_: Second Aorist Active and Middle; Clauses and Coordination
+* _Topic_: Second Aorist Active and Middle
 * _In-class_: Check-in 3
 * _Due by start of next class_:
     * Homework 4
 
 #### Resources for Today's Class
 {: .no_toc }
-* Readings:
-* Slideshow:
+* Readings: [Second Aorist, Active and Middle](../textbook/exam-1/second-aorist)
+* Slideshow: TBD
 
 ### Thursday, February 5
 {: .no_toc }
-* _Topic_: Nouns Overview and Definite Article
+* _Topic_: Nouns Overview and the Definite Article
 * _In-class_: Check-in 4
 * _Due by start of next class_:
     * Homework 5
@@ -88,8 +86,8 @@ Student Information Form
 
 #### Resources for Today's Class
 {: .no_toc }
-* Readings:
-* Slideshow:
+* Readings: [Nouns Overview and the Definite Article](../textbook/exam-1/nouns-overview)
+* Slideshow: TBD
 
 ***
 
@@ -104,8 +102,8 @@ Student Information Form
 
 #### Resources for Today's Class
 {: .no_toc }
-* Readings:
-* Slideshow:
+* Readings: [Nominative and Genitive](../textbook/exam-1/nom-gen)
+* Slideshow: TBD
 
 ### Thursday, February 12
 {: .no_toc }
@@ -117,8 +115,8 @@ Student Information Form
 
 #### Resources for Today's Class
 {: .no_toc }
-* Readings:
-* Slideshow:
+* Readings: [Accusative and Dative](../textbook/exam-1/acc-dat)
+* Slideshow: TBD
 
 ***
 
@@ -128,22 +126,17 @@ NOTE: This week, our Monday class meets on a Tuesday.
 
 ### Tuesday, February 17
 {: .no_toc }
-* _Topic_: Review / Buffer
+* _Topic_: Negation, Clauses, and Coordination; Review
 * _In-class_: Check-in 7
 
 #### Resources for Today's Class
 {: .no_toc }
-* Readings:
-* Slideshow:
+* Readings: [Negation, Clauses, and Coordination](../textbook/exam-1/negation-clauses-coordination)
+* Slideshow: TBD
 
 ### Thursday, February 19
 {: .no_toc }
-* EXAM 1 (in class)
-
-#### Resources for Today's Class
-{: .no_toc }
-* Readings:
-* Slideshow:
+* <ins>**EXAM 1**</ins> (in class)
 
 ***
 
@@ -157,8 +150,8 @@ NOTE: This week, our Monday class meets on a Tuesday.
 
 #### Resources for Today's Class
 {: .no_toc }
-* Readings:
-* Slideshow:
+* Readings: [Prepositions and Verb Compounds](../textbook/exam-2/prepositions)
+* Slideshow: TBD
 
 ### Thursday, February 26
 {: .no_toc }
@@ -170,8 +163,8 @@ NOTE: This week, our Monday class meets on a Tuesday.
 
 #### Resources for Today's Class
 {: .no_toc }
-* Readings:
-* Slideshow:
+* Readings: [Vowel Declension Adjectives](../textbook/exam-2/vowel-declension-adjectives)
+* Slideshow: TBD
 
 ***
 
@@ -186,12 +179,12 @@ NOTE: This week, our Monday class meets on a Tuesday.
 
 #### Resources for Today's Class
 {: .no_toc }
-* Readings:
-* Slideshow:
+* Readings: [Attributive and Predicative Position](../textbook/exam-2/attr-pred)
+* Slideshow: TBD
 
 ### Thursday, March 5
 {: .no_toc }
-* _Topic_: Pronouns (Demonstrative)
+* _Topic_: Pronouns
 * _In-class_: Check-in 10
 * _Due by start of next class_:
     * Homework 11
@@ -199,8 +192,8 @@ NOTE: This week, our Monday class meets on a Tuesday.
 
 #### Resources for Today's Class
 {: .no_toc }
-* Readings:
-* Slideshow:
+* Readings: [Pronouns](../textbook/exam-2/pronouns)
+* Slideshow: TBD
 
 ***
 
@@ -219,8 +212,8 @@ NOTE: This week, our Monday class meets on a Tuesday.
 
 #### Resources for Today's Class
 {: .no_toc }
-* Readings:
-* Slideshow:
+* Readings: [Dependent Clauses](../textbook/exam-2/dependent-clauses)
+* Slideshow: TBD
 
 ### Thursday, March 19
 {: .no_toc }
@@ -232,8 +225,8 @@ NOTE: This week, our Monday class meets on a Tuesday.
 
 #### Resources for Today's Class
 {: .no_toc }
-* Readings:
-* Slideshow:
+* Readings: [Core Four -μι Verbs - Aorist Active and Middle](../textbook/exam-2/core-four-aorist)
+* Slideshow: TBD
 
 ***
 
@@ -244,19 +237,9 @@ NOTE: This week, our Monday class meets on a Tuesday.
 * _Topic_: Review / Buffer
 * _In-class_: Check-in 13
 
-#### Resources for Today's Class
-{: .no_toc }
-* Readings:
-* Slideshow:
-
 ### Thursday, March 26
 {: .no_toc }
-* EXAM 2 (in class)
-
-#### Resources for Today's Class
-{: .no_toc }
-* Readings:
-* Slideshow:
+* <ins>**EXAM 2**</ins> (in class)
 
 ***
 
@@ -264,15 +247,15 @@ NOTE: This week, our Monday class meets on a Tuesday.
 
 ### Monday, March 30
 {: .no_toc }
-* _Topic_: Relative Pronoun and Relative Clauses
+* _Topic_: Third Declension Nouns
 * _Due by start of next class_:
     * Homework 14
     * Quiz 7
 
 #### Resources for Today's Class
 {: .no_toc }
-* Readings:
-* Slideshow:
+* Readings: [Third Declension Nouns](../textbook/exam-3/third-decl-nouns)
+* Slideshow: TBD
 
 ***
 
@@ -286,19 +269,19 @@ NOTE: This week, our Monday class meets on a Wednesday.
 
 ### Wednesday, April 8
 {: .no_toc }
-* _Topic_: Aorist Passive and Genitive of Agent
+* _Topic_: Third Declension Adjectives
 * _In-class_: Check-in 14
 * _Due by start of next class_:
     * Homework 15
 
 #### Resources for Today's Class
 {: .no_toc }
-* Readings:
-* Slideshow:
+* Readings: [Third Declension Adjectives](../textbook/exam-3/third-decl-adjs)
+* Slideshow: TBD
 
 ### Thursday, April 9
 {: .no_toc }
-* _Topic_: Present Tense - -ω Verbs
+* _Topic_: Relative Pronoun and Relative Clauses
 * _In-class_: Check-in 15
 * _Due by start of next class_:
     * Homework 16
@@ -306,8 +289,8 @@ NOTE: This week, our Monday class meets on a Wednesday.
 
 #### Resources for Today's Class
 {: .no_toc }
-* Readings:
-* Slideshow:
+* Readings: [Relative Pronoun and Relative Clauses](../textbook/exam-3/relative-clauses)
+* Slideshow: TBD
 
 ***
 
@@ -315,19 +298,19 @@ NOTE: This week, our Monday class meets on a Wednesday.
 
 ### Monday, April 13
 {: .no_toc }
-* _Topic_: Present Tense - Regular -μι Verbs
+* _Topic_: Aorist Passive and Genitive of Agent
 * _In-class_: Check-in 16
 * _Due by start of next class_:
     * Homework 17
 
 #### Resources for Today's Class
 {: .no_toc }
-* Readings:
-* Slideshow:
+* Readings: [Aorist Passive](../textbook/exam-3/aorist-passive)
+* Slideshow: TBD
 
 ### Thursday, April 16
 {: .no_toc }
-* _Topic_: Present Tense - Cour Four -μι Verbs
+* _Topic_: Present Tense - -ω Verbs
 * _In-class_: Check-in 17
 * _Due by start of next class_:
     * Homework 18
@@ -335,8 +318,8 @@ NOTE: This week, our Monday class meets on a Wednesday.
 
 #### Resources for Today's Class
 {: .no_toc }
-* Readings:
-* Slideshow:
+* Readings: [Present Tense - -ω and Regular -μι Verbs](../textbook/exam-3/present)
+* Slideshow: TBD
 
 ***
 
@@ -344,19 +327,19 @@ NOTE: This week, our Monday class meets on a Wednesday.
 
 ### Monday, April 20
 {: .no_toc }
-* _Topic_: 3rd Declension Nouns
+* _Topic_: Present Tense - Regular -μι Verbs
 * _In-class_: Check-in 18
 * _Due by start of next class_:
     * Homework 19
 
 #### Resources for Today's Class
 {: .no_toc }
-* Readings:
-* Slideshow:
+* Readings: [Present Tense - -ω and Regular -μι Verbs](../textbook/exam-3/present)
+* Slideshow: TBD
 
 ### Thursday, April 23
 {: .no_toc }
-* _Topic_: 3rd Declension Adjectives
+* _Topic_: Present Tense - Core Four -μι Verbs
 * _In-class_: Check-in 19
 * _Due by start of next class_:
     * Homework 20
@@ -364,8 +347,8 @@ NOTE: This week, our Monday class meets on a Wednesday.
 
 #### Resources for Today's Class
 {: .no_toc }
-* Readings:
-* Slideshow:
+* Readings: [Present Tense - Core Four -μι Verbs](../textbook/exam-3/core-four-present)
+* Slideshow: TBD
 
 ***
 
@@ -374,14 +357,13 @@ NOTE: This week, our Monday class meets on a Wednesday.
 ### Monday, April 27
 {: .no_toc }
 * _Topic_: Review / Course Evaluations
-* _In-class_ links (DO NOT CLICK UNTIL INSTRUCTED TO DO SO IN CLASS):
-    * IDEA Course Evaluation (link TBD)
-    * Personal Course Evaluation (link TBD) (use Fairfield credentials to authenticate)
+* _In-class links_ (DO NOT CLICK UNTIL INSTRUCTED TO DO SO IN CLASS):
+    * [IDEA Course Evaluation](#) (link TBD)
+    * [Personal Course Evaluation](#) (link TBD) (use Fairfield credentials to authenticate)
 
 #### Resources for Today's Class
 {: .no_toc }
-* Readings:
-* Slideshow:
+* Slideshow: TBD
 
 ***
 
@@ -390,4 +372,4 @@ NOTE: This week, our Monday class meets on a Wednesday.
 ***
 
 ## EXAM PERIOD (5/2 through 5/8)
-* Exam 3 will be held in person from **8am to 11am on R 5/7**.
+* <ins>**Exam 3**</ins> will be held in person from **8am to 11am on R 5/7**.

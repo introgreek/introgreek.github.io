@@ -2,7 +2,7 @@
 title: Dependent Clauses
 layout: default
 permalink: /textbook/exam-2/dependent-clauses
-nav_order: 6
+nav_order: 4
 parent: Exam 2
 grand_parent: Textbook
 ---

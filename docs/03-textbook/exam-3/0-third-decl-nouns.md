@@ -2,7 +2,7 @@
 title: Third Declension Nouns
 layout: default
 permalink: /textbook/exam-3/third-decl-nouns
-nav_order: 4
+nav_order: 0
 parent: Exam 3
 grand_parent: Textbook
 ---

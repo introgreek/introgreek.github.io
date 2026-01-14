@@ -1,13 +1,13 @@
 ---
-title: Adjectives
+title: Vowel Declension Adjectives
 layout: default
-permalink: /textbook/exam-2/adjectives
+permalink: /textbook/exam-2/vowel-declension-adjectives
 nav_order: 1
 parent: Exam 2
 grand_parent: Textbook
 ---
 
-# Adjectives
+# Vowel Declension Adjectives
 {: .no_toc }
 
 ## Table of contents

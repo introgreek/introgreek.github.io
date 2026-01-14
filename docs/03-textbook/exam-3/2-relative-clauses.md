@@ -2,7 +2,7 @@
 title: Relative Clauses
 layout: default
 permalink: /textbook/exam-3/relative-clauses
-nav_order: 0
+nav_order: 2
 parent: Exam 3
 grand_parent: Textbook
 ---

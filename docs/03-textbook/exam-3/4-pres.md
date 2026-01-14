@@ -1,13 +1,13 @@
 ---
-title: Present Tense
+title: Present Tense - -ω and Regular -μι Verbs
 layout: default
 permalink: /textbook/exam-3/present
-nav_order: 2
+nav_order: 4
 parent: Exam 3
 grand_parent: Textbook
 ---
 
-# Present Tense
+# Present Tense - -ω and Regular -μι Verbs
 {: .no_toc }
 
 ## Table of contents

@@ -1,13 +1,13 @@
 ---
-title: Core Four -μι Verbs - Present Tense
+title: Present Tense - Core Four -μι Verbs 
 layout: default
 permalink: /textbook/exam-3/core-four-present
-nav_order: 3
+nav_order: 5
 parent: Exam 3
 grand_parent: Textbook
 ---
 
-# Core Four -μι Verbs - Present Tense
+# Present Tense - Core Four -μι Verbs
 {: .no_toc }
 
 ## Table of contents

@@ -2,7 +2,7 @@
 title: Aorist Passive
 layout: default
 permalink: /textbook/exam-3/aorist-passive
-nav_order: 1
+nav_order: 3
 parent: Exam 3
 grand_parent: Textbook
 ---
