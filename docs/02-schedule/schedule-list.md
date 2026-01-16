@@ -29,7 +29,7 @@ parent: Schedule and Slideshows
 #### Resources for Today's Class
 {: .no_toc }
 * Readings: [Google Doc Syllabus](https://docs.google.com/document/d/17khbhsVIT3GHJvCRU3WGMh79HiXVnf_hPaufv8tkjfM/edit?usp=sharing)
-* Slideshow: TBD
+* Slideshow: [01/22/26 - Syllabus Day](https://docs.google.com/presentation/d/1GeRaEEo97vQ3ZxYA9g753JVn-CjUD5uPVV5SWNRmJBA/edit?usp=sharing)
 
 ***
 
