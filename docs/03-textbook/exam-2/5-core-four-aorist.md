@@ -18,13 +18,20 @@ grand_parent: Textbook
 
 ***
 
-## Athematic Verbs
+## Core Four -μι Verbs
 
-Verbs belong to one of two major conjugations: **-ω** / **thematic** or **-μι** / **athematic**.
+As we learned in the first unit, verbs generally belong to one of two major conjugations: **-ω** / **thematic** or **-μι** / **athematic**. This has not affected us too much so far, given that the distinction between -ω and -μι verbs will affect the **present tense**, which we'll learn about after Exam 2, and the distinction is largely immaterial when it comes to the aorist active and middle; we have only been concerned so far with whether a third principal part is first aorist or second aorist. 
+
+However, it is important to note four -μι verbs that are extremely common in ancient Greek because their conjugations in the aorist active and middle on the third principal part do *not* follow regular patterns. These verbs are called the **core four -μι verbs**, and their dictionary entries are as follows:
+
+* δίδωμι, δώσω, ἔδωκα, δέδωκα, δέδομαι, ἐδόθην - [to give, grant, allow](https://logeion.uchicago.edu/δίδωμι)
+* τίθημι, θήσω, ἔθηκα, τέθηκα, τέθειμαι, ἐτέθην - [to put, place](https://logeion.uchicago.edu/τίθημι)
+* ἵημι, ἥσω, -ἧκα, -εἷκα, -εἷμαι, -εἵθην - [to hurl, throw, send; (middle voice) to rush, hurry](https://logeion.uchicago.edu/ἵημι)
+* ἵστημι, στήσω, ἔστησα or ἔστην, ἕστηκα, ἕσταμαι, ἐστάθην - [(active and 1st aorist transitive) to make stand up, set up, cause to stop; (passive and 2nd aorist intransitive) to stand, be set up, stop](https://logeion.uchicago.edu/ἵστημι)
 
 ***
 
-## Core Four -μι Verbs
+## 
 
 The most common -μι verbs are δίδωμι, τίθημι, ἵημι, and ἵστημι. Each of these verbs follows general athematic conjugation patterns, but the *stem* of the verb in the first principal part (and also in the third, as we'll learn later) ends in a vowel that will *change length* depending on the tense, voice, and number of the verb.
 

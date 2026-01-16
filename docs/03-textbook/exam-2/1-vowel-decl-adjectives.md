@@ -43,7 +43,7 @@ This means that, for example, if a noun is in the masculine nominative plural, a
 
 ## Adjective Declension
 
-If an adjective must match a noun in gender, case, and number, it stands to reason that the adjective itself can be declined into any gender, case, and number. This concept is familiar to us from the [definite article](../exam-1/nom-gen-art#the-definite-article-ὁ-ἡ-τό) (which itself is basically an adjective!).
+If an adjective must match a noun in gender, case, and number, it stands to reason that the adjective itself can be declined into any gender, case, and number. This concept is familiar to us from the [definite article](../exam-1/nouns-overview#the-definite-article-ὁ-ἡ-τό) (which itself is basically an adjective!).
 
 Like the definite article, adjectives can decline into any of the combinations of aspects that we've discussed so far:
 * gender: masculine, feminine, neuter
@@ -68,7 +68,7 @@ Each of these declensions and sub-groups has certain features and rules of decle
 
 #### Three-Termination (2-1-2)
 
-Three-termination vowel declension adjectives have a dictionary entry that ends in the pattern -ος, -α/-η, -ον. In the feminine, -α is used with an adjective stem that ends in ε, ι, or ρ; -η is used elsewhere. Here are some quick examples from the [Week 6 Vocabulary](../../vocabulary/week-06-vocabulary).
+Three-termination vowel declension adjectives have a dictionary entry that ends in the pattern -ος, -α/-η, -ον. In the feminine, -α is used with an adjective stem that ends in ε, ι, or ρ; -η is used elsewhere. Here are some quick examples from the [Exam 2 Vocabulary](../../vocabulary/exam-2-vocabulary).
 
 * μίκρος, μίκρα, μίκρον - small
 * ἀγαθός, ἀγαθή, ἀγαθόν - noble, good
@@ -108,11 +108,11 @@ And when we pair an adjective like this with a noun, recall that it must match i
 
 But:
 
-* τοῦ ἀγαθοῦ ἀνδρός, "of the good man"
+* οἱ ἀγαθοὶ στρατιῶται, "the good soldiers" (masculine nominative plural)
 
-The -ου ending of the adjective does not match the -ος ending of the noun, but because both the adjective and the noun are **masculine genitive singular**, the pairing of adjective and noun is sound.
+The -οι ending of the adjective does not match the -αι ending of the noun, but because both the adjective and the noun are **masculine nominative plural**, the pairing of adjective and noun is sound.
 
-#### Two-Termination
+#### Two-Termination (2-2)
 
 Two-termination vowel declension adjectives are essentially 2-1-2s with the feminine column (the "1") removed. Here are examples of dictionary entries for two-termination vowel declension adjectives:
 
@@ -121,7 +121,7 @@ Two-termination vowel declension adjectives are essentially 2-1-2s with the femi
 
 You'll notice that there are only two Greek forms in the entry that end in the pattern -ος, -ον. This differentiates two-terminations from 2-1-2s because of the absence of an entry ending in -α or -η.
 
-In the absence of discrete feminine endings, **the first column of the paradigm is used for both masculine and feminine forms of the adjective**. Hence, the name "two-termination", for the fact that there are only two forms of the nominative singular: one for masculine *and* feminine, and one for neuter.
+In the absence of discrete feminine endings, **the first column of the paradigm is used for both masculine and feminine forms of the adjective**. Hence, the name "two-termination", for the fact that there are only two forms of the nominative singular: one for masculine *and* feminine, and one for neuter. As in 2-1-2, these endings follow second declension patterns, so we might call these types of adjectives **2-2s**.
 
 | | Masc./Fem. | Neut. |
 | ----- | ----- | ----- |
@@ -147,7 +147,7 @@ Here's an example of a fully declined two-termination vowel declension adjective
 | Dat. Pl. | ἀδίκοις | ἀδίκοις |
 | Acc. Pl. | ἀδίκους | ἄδικα |
 
-Two-termination vowel declension adjectives, like 2-1-2s, must match the nouns that they describe in gender, case, and number, so we must be extra careful not to conflate "same ending" with "matching," especially if the adjective and the noun do not belong to the same declension groups. For example:
+2-2s, like 2-1-2s, must match the nouns that they describe in gender, case, and number, so we must be extra careful not to conflate "same ending" with "matching," especially if the adjective and the noun do not belong to the same declension groups. For example:
 
 * οἱ ἄδικοι ἄνθρωποι, "the unjust people" (masculine nominative plural)
 

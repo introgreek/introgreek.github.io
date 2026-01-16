@@ -22,11 +22,11 @@ grand_parent: Textbook
 
 In this unit, we will introduce another part of speech into our lexicon, which currently consists of verbs, nouns, prepositions, adjectives, and adverbs. The **pronoun** is a word that can take the place of a noun. We've already been working with pronouns; think, for example, of the subjects of the verbs that we've been supplying in the absence of a nominative noun:
 
-* λέγει τὰ βιβλία. **She** reads the books.
+* ἔκρυψε τὰ βιβλία. **She** hid the books.
 
 A pronoun like "she" often is used in the context of a longer narrative or conversation in which the noun that "she" replaces can be intuited from context. For example:
 
-* **The doctor** came into the room. **She** reads the books.
+* **The doctor** came into the room. **She** spoke to the patient.
 
 Because of the context of the preceding sentence, we can understand that the pronoun "she" refers to "the doctor." The noun that a pronoun replaces is called an **antecedent**; so, "the doctor" is the antecedent of the pronoun "she."
 
@@ -58,19 +58,19 @@ Note that there is a lot of variation in how to translate μέν ... δέ cons
     * One woman spoke, and the other woman listened.
     * One spoke, while the other listened.
 
-* **οἱ μὲν** τοὺς παῖδας ἤγαγον, **οἱ δὲ** ἐν τῇ οἰκίᾳ ἦσαν.
-    * Some people led the children, while the other people were in the house.
-    * Some men led the children, but the other men were in the house.
-    * Some led the children, and the others were in the house.
+* **οἱ μὲν** τοὺς κόρους ἤγαγον, **οἱ δὲ** ἐν τῇ οἰκίᾳ ἦσαν.
+    * Some people led the boys, while the other people were in the house.
+    * Some men led the boys, but the other men were in the house.
+    * Some led the boys, and the others were in the house.
 
 ### δέ
 
 The pronominal article can also be used with just δέ to mark a new subject for a sentence. You can usually find its antecedent in the preceding sentence, often in a different case. Remember that **a pronoun must agree with its antecedent in gender and number, but not necessarily case**, especially if the antecedent and the pronoun fulfill different functions within their respective clauses. For example:
 
-* οἱ πολῖται **τὴν γυναῖκα** ἔβλεψαν· **ἡ δὲ** τοῖς πολίταις οὐκ εἶπεν.
-    * The citizens saw the woman, but she did not speak to the citizens.
+* ὁ ἵππος **τοὺς στρατιώτας** ἔβλεψεν· **οἱ δὲ** αὐτὸν οὐκ ἔβλεψαν.
+    * The horse saw the soldiers, but they did not see him [the horse]. (more on αὐτὸν below)
 
-Notice that the pronominal article ἡ is feminine nominative singular, and its antecedent is τὴν γυναῖκα (feminine accusative singular) in the previous sentence. While the article serves as the nominative subject of its clause, its antecedent serves as the accusative direct object of its clause, but we can tell that τὴν γυναῖκα is the antecedent of ἡ because the gender and number of the article ἡ (feminine singular) matches with the gender and number of τὴν γυναῖκα (feminine singular). The other possibility for an antecedent, οἱ πολῖται, is masculine nominative plural, so it cannot possibly serve as an antecedent for ἡ.
+Notice that the pronominal article οἱ is masculine nominative plural, and its antecedent is τοὺς στρατιώτας (masculine accusative plural) in the previous sentence. While the article serves as the nominative subject of its clause, its antecedent serves as the accusative direct object of its clause, but we can tell that τοὺς στρατιώτας is the antecedent of οἱ because the gender and number of the article οἱ (masculine plural) matches with the gender and number of τοὺς στρατιώτας (masculine plural). The other possibility for an antecedent, ὁ ἵππος, is masculine nominative *singular*, so it cannot possibly serve as an antecedent for οἱ.
 
 ***
 
@@ -101,20 +101,20 @@ The first demonstrative, ὅδε, ἥδε, τόδε, usually indicates that som
 
 As mentioned above, this demonstrative can serve either as an adjective (in predicative position) when modifying a noun:
 
-* **τόδε** τὸ ποιῆμα ὑπὸ **τῶνδε** τῶν παιδῶν ἐγράφη.
-    * **This** poem was written by **these** children.
+* **οἵδε** οἱ κόροι **τόδε** τὸ ποιῆμα ἔγραψαν.
+    * **These boys** wrote **this** poem.
 
 Or it can stand as a pronoun on its own, in the same way that the pronominal article was used above (matching an antecedent in gender and number):
 
-* ἡ γυνὴ λέγει **τοὺς λόγους**, καὶ **οἵδε** ὑπὸ τοῦ ἀνδρὸς ἀκούονται.
-    * The woman is saying **the words**, and **these (words)** are heard by the man.
+* ἡ κόρη **τοὺς λόγους** εἶπεν, ἀλλ' **οἵδε** ἐν τῇ ἐπιστολῇ ἦσαν.
+    * The girl said the words, but **these** were in the letter.
 
 Notice how in this example, the demonstrative pronoun οἵδε matches with its antecedent τοὺς λόγους in gender and number (masculine plural) but not in case, since each is used in different ways within its respective clauses: the pronoun serves as the nominative subject of the second clause, while the antecedent serves as the accusative direct object of the first clause.
 
 There is also another common use for ὅδε, ἥδε, τόδε: when used in the context of a longer story or narrative, ὅδε, ἥδε, τόδε often points forward to the parts of the narrative yet to come. As a result, it can often mean "the following", especially to introduce a direct speech.
 
-* ὁ πολίτης **τάδε** εἶπεν· "ἐπὶ τῇ ὁδῷ οἱ ἵπποι."
-    * The citizen said **the following (things, words)**: "The horses are on the road."
+* ὁ ἄνθρωπος **τάδε** εἶπεν· "ἐπὶ τῇ ὁδῷ οἱ ἵπποι."
+    * The person said **the following (things, words)**: "The horses are on the road."
 
 ### οὗτος, αὕτη, τοῦτο
 
@@ -135,15 +135,15 @@ Its declined forms are less regular than other substantives that we've seen so f
 
 Like ὅδε, οὗτος can be used either as an adjective in predicative position or as a pronoun that stands on its own:
 
-* **οὗτοι** οἱ πολῖται τὰ ὅπλα αἱροῦσιν.
-    * **These** citizens are taking the weapons.
-* **οἱ διδάσκαλοι** ἀπὸ τῆς ὁδοῦ ἦλθον, ὁ δὲ μαθητὴς πρὸς τὴν θάλατταν **τούτους** ἤγαγεν.
+* **οὗτοι** οἱ στρατιῶται πρὸς τὸν ποταμὸν ἦλθον.
+    * **These** soldiers came to the river.
+* **οἱ διδάσκαλοι** ἀπὸ τῆς ὁδοῦ ἦλθον, ὁ δὲ μαθητὴς πρὸς τὴν θάλασσαν **τούτους** ἤγαγεν.
     * **The teachers** came from the road, and the student led **those (people, men, teachers)** toward the sea.
 
 While ὅδε points forward in a narrative, οὗτος points backwards and can mean "the preceding", especially to summarize or conclude a section of a narrative like a direct speech.
 
-* ἡ σώφρων **ταῦτα** εἶπεν.
-    * The wise (person, woman) said **the preceding (things, words)**.
+* ὁ δίκαιος **ταῦτα** εἶπεν.
+    * The just (person, man) said **the preceding (things, words)**.
 
 It can also be used in conjunction with ἐκεῖνος to mean "the latter"; more on this in the next section.
 
@@ -164,15 +164,15 @@ It can also be used in conjunction with ἐκεῖνος to mean "the latter"; m
 
 As with ὅδε and οὗτος, ἐκεῖνος can be used as an adjective in predicative position or as a pronoun:
 
-* οἱ παῖδες **ἐκείνην** τὴν οἰκίαν βλέπουσιν.
-    * The children see **that** house.
-* οἱ λόγοι ἐν **τῷ βιβλίῳ**· ὁ διδάσκαλος **ἐκεῖνο** τοῖς μαθηταῖς δείκνυσιν.
-    * The words are in **the book**; the teacher shows **that (book)** to the students.
+* οἱ κόροι **ἐκείνην** τὴν οἰκίαν ἔβλεψαν.
+    * The boys saw **that** house.
+* οἱ λόγοι ἐν **τῷ βιβλίῳ**· ὁ διδάσκαλος **ἐκεῖνο** τοῖς μαθηταῖς ἔδειξεν.
+    * The words were in **the book**; the teacher showed **that (book)** to the students.
 
 When a form of ἐκεῖνος and a form of οὗτος appear in the same sentence, **ἐκεῖνος** can mean **"the former"** while **οὗτος** can mean **"the latter"** when referring to two entitites that were referenced in the previous sentence. If we think about the distance aspects of each demonstrative, these translations make more sense: οὗτος indicates something closer (i.e., the latter of two options) while ἐκεῖνος points to something farther away (i.e., the former of two options).
 
-* ἡ μὲν γυνὴ λέγει, ὁ δὲ δικαστὴς ἀκούει. **οὗτος** μὲν οὐ λέγει, **ἐκείνη** δ' ἀκούεται.
-    * The woman speaks, and the juror listens. **The latter [i.e., the juror]** does not speak, while **the former [i.e., the woman]** is being heard.
+* ἡ μὲν κόρη εἶπεν, ὁ δὲ δικαστὴς ἤκουσεν. **οὗτος** μὲν δίκαιος, **ἐκείνη** δ' ἀγαθή.
+    * The girl spoke, and the juror listened. **The latter [i.e., the juror]** was just, while **the former [i.e., the girl]** was noble.
 
 ***
 
@@ -202,9 +202,9 @@ Here are the ways in which αὐτός, αὐτή, αὐτό can be used. Rem
 
 As a standalone **pronoun** in the **oblique cases** (i.e., the genitive, dative, or accusative, and *not* the nominative), αὐτός, αὐτή, αὐτόν is a **3rd person pronoun** meaning **him, her, it, or them**, depending on the number of the pronoun. For example, let me rewrite one of the examples used above:
 
-* τὴν γυναῖκα **οἱ πολῖται** ἔβλεψαν· ἡ δὲ **αὐτοῖς** οὐκ εἶπεν. **The citizens** saw the woman. But she did not speak **to them.**
+* τὴν κόρην **οἱ μαθηταὶ** ἔβλεψαν· ἡ δὲ **αὐτοῖς** οὐκ εἶπεν. **The students** saw the girl. But she did not speak **to them.**
 
-As with the other pronouns we've discussed, you must use its gender and number to determine its antecedent. αὐτοῖς is masculine dative plural; thus, its only logical antecedent in the preceding sentence that agrees with it in gender and number is οἱ πολῖται (masculine nominative plural). It cannot be τὴν γυναῖκα, the only other noun, because τὴν γυναῖκα is feminine singular.
+As with the other pronouns we've discussed, you must use its gender and number to determine its antecedent. αὐτοῖς is masculine dative plural; thus, its only logical antecedent in the preceding sentence that agrees with it in gender and number is οἱ μαθηταὶ (masculine nominative plural). It cannot be τὴν κόρην, the only other noun, because τὴν κόρην is feminine singular.
 
 ### Adjective in Predicative Position or Nominative Pronoun
 {: .no_toc }
@@ -217,10 +217,10 @@ As an **adjective in predicative position** or as a **pronoun in the nominative 
 
 In both of these translations, the noun τὸ βιβλίον gets a special emphasis by means of the modification of αὐτό. The "itself" adjective or the "very" modifier figuratively draw an underline or make italicized "the book."
 
-* **αὐτὴ** τοὺς ἵππους ἄγει.
-    * She **herself** is leading the horses.
+* **αὐτὴ** τοὺς ἵππους ἤγαγεν.
+    * She **herself** led the horses.
 
-In this example, αὐτή is feminine nominative singular, and it occurs as a pronoun (there is no noun nearby it that it can agree with in gender, case, and number, so it stands alone). This pronoun, then, lends emphasis to the subject of the sentence, which we supply from the 3rd person singular number of the verb ἄγει and the feminine gender of the pronoun: "she **herself**."
+In this example, αὐτή is feminine nominative singular, and it occurs as a pronoun (there is no noun nearby it that it can agree with in gender, case, and number, so it stands alone). This pronoun, then, lends emphasis to the subject of the sentence, which we supply from the 3rd person singular number of the verb ἤγαγεν and the feminine gender of the pronoun: "she **herself**."
 
 Be aware: if you use the "-self" translation, this is an **emphatic** or **intensive** use and **NOT** a **reflexive** use of the "-self" pronoun. Note the difference between the following:
 
@@ -236,4 +236,4 @@ As an **adjective in attributive position**, whether modifying an explicit noun 
 
 * οἱ δικασταὶ εἶπον τοὺς **αὐτοὺς** λόγους. The jurors said the **same** words.
 * ὁ διδάσκαλος ὅ τε μαθητὴς ἐπὶ τῇ ὁδῷ τῇ **αὐτῇ** ἦσαν. The teacher and the student were on the **same** road.
-* αἱ γυναῖκες **τὸ αὐτὸ** ἐποίησαν. The women did **the same thing**.
+* αἱ κόραι **τὸ αὐτὸ** ἐποίησαν. The girls did **the same thing**.
