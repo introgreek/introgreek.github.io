@@ -61,9 +61,9 @@ And here is a video from Carleton College Classics that shows how to draw each o
 
 Some ideas to note:
 
-### Double gamma
+### Gamma + gamma, kappa, or chi
 {: .no_toc }
-If you see two gammas in a row (γγ), the pronunciation is "ng". So, for example, φάλαγγος is "phalangos."
+If you see a gamma (γ) followed by a gamma (γγ), a kappa (γκ), or a chi (γχ), the gamma is pronounced like the "n" in "song." So, for example, φάλαγγος is "phala**n**gos", not "phala<ins>g</ins>gos"; ἠνέγκοντο is "ēne**n**konto", not "ēne<ins>g</ins>konto".
 
 ### Consonant groups
 {: .no_toc }
