@@ -45,7 +45,8 @@ parent: Schedule and Slideshows
 #### Resources for Today's Class
 {: .no_toc }
 * Readings: [Alphabet and Accents](../textbook/basics/alphabet-and-accents), [Inflection](../textbook/basics/inflection)
-* Slideshow: TBD
+* Slideshow: [1/26/26 - Alphabet, Accents, and Inflection](https://docs.google.com/presentation/d/1QV71zKp0nmghFFK_8i1SJl58tykrPtulYEm_8nNoYqE/edit?usp=drive_link)
+* Recording: [Zoom recording for 1/26/26 (snow day)](https://Fairfield.zoom.us/rec/share/6TNK4dEOpun3BLSWjCvfo7hnGP_U0JY0_an4KDGRKQRQwGkLtoES76CyJQAEPdsb.T7pxadQw2XajrxGj)
 
 ### Thursday, January 29
 {: .no_toc }
@@ -58,7 +59,7 @@ parent: Schedule and Slideshows
 #### Resources for Today's Class
 {: .no_toc }
 * Readings: [Verbs Overview](../textbook/exam-1/verbs-overview), [First Aorist, Active and Middle](../textbook/exam-1/first-aorist)
-* Slideshow: TBD
+* Slideshow: [1/29/26 - Verbs Overview and First Aorist Active and Middle](https://docs.google.com/presentation/d/1VAP9PhFmZoP0l5vjMeMmJSRNEpG8gpQ07Hd5JULb13U/edit?usp=drive_link)
 
 ***
 
@@ -74,7 +75,7 @@ parent: Schedule and Slideshows
 #### Resources for Today's Class
 {: .no_toc }
 * Readings: [Second Aorist, Active and Middle](../textbook/exam-1/second-aorist)
-* Slideshow: TBD
+* Slideshow: [2/2/26 - Second Aorist](https://docs.google.com/presentation/d/1zwRWv5zJWb4QmQEt2vsYl3SwfNQcPW21MLAwSk50-yc/edit?usp=drive_link)
 
 ### Thursday, February 5
 {: .no_toc }
