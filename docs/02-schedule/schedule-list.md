@@ -24,7 +24,7 @@ parent: Schedule and Slideshows
 * _Topic_: Syllabus Day
 * _Due by start of next class_:
     * [Student Information Form](https://forms.gle/sybKzsrcasiFbY8T8)
-    * Homework 1 (distributed in class)
+    * [Homework 1](https://docs.google.com/document/d/1AidKxZ6bpLUak73SSvFbyVlAYZUX04aymzlCSONEnxU/edit?usp=drive_link)
 
 #### Resources for Today's Class
 {: .no_toc }
@@ -40,7 +40,7 @@ parent: Schedule and Slideshows
 * _Topic_: Alphabet, Accents, Inflection
 * _In-class_: Check-in 1
 * _Due by start of next class_:
-    * Homework 2 (distributed in class)
+    * [Homework 2](https://docs.google.com/document/d/1ZsEJ-tZvk0DX-aMvVLNF08Bnvtc4uN_MJDtuheJ8MF8/edit?usp=drive_link)
 
 #### Resources for Today's Class
 {: .no_toc }
@@ -51,7 +51,7 @@ parent: Schedule and Slideshows
 ### Thursday, January 29
 {: .no_toc }
 * _Topic_: Verbs Overview and First Aorist Active and Middle
-* _In-class_: Check-in 2
+* _In-class_: Check-in 2 (closed-book on the Greek alphabet)
 * _Due by start of next class_:
     * Homework 3 (distributed in class)
     * Quiz 1 (distributed in class)
@@ -88,7 +88,7 @@ parent: Schedule and Slideshows
 #### Resources for Today's Class
 {: .no_toc }
 * Readings: [Nouns Overview and the Definite Article](../textbook/exam-1/nouns-overview)
-* Slideshow: TBD
+* Slideshow: [2/5/26 - Nouns Overview and the Definite Article](https://docs.google.com/presentation/d/1x0Gz-fx8ZrnZoNjUNpTHetosQa55JLHM3aDgsoMVxpc/edit?usp=drive_link)
 
 ***
 
@@ -97,7 +97,7 @@ parent: Schedule and Slideshows
 ### Monday, February 9
 {: .no_toc }
 * _Topic_: Nominative and Genitive (1st and 2nd Declension)
-* _In-class_: Check-in 5
+* _In-class_: Check-in 5 (closed-book on the definite article chart)
 * _Due by start of next class_:
     * Homework 6
 
