@@ -38,7 +38,7 @@ parent: Schedule and Slideshows
 ### Monday, January 26
 {: .no_toc }
 * _Topic_: Alphabet, Accents, Inflection
-* _In-class_: Check-in 1
+* _In-class_: [Check-in 1](https://docs.google.com/document/d/1lQHCZGy5hG_GdRttsxkKpVGzE-MwLPSR4lSZaZOAOzM/edit?usp=sharing)
 * _Due by start of next class_:
     * [Homework 2](https://docs.google.com/document/d/1ZsEJ-tZvk0DX-aMvVLNF08Bnvtc4uN_MJDtuheJ8MF8/edit?usp=drive_link)
 
@@ -51,10 +51,10 @@ parent: Schedule and Slideshows
 ### Thursday, January 29
 {: .no_toc }
 * _Topic_: Verbs Overview and First Aorist Active and Middle
-* _In-class_: Check-in 2 (closed-book on the Greek alphabet)
+* _In-class_: [Check-in 2](https://docs.google.com/document/d/110I9RVb8Mu8Mt-sFduOTtCXAquCnpg2qYnskD34U5j0/edit?usp=sharing) (closed-book on the Greek alphabet)
 * _Due by start of next class_:
-    * Homework 3 (distributed in class)
-    * Quiz 1 (distributed in class)
+    * [Homework 3](https://docs.google.com/document/d/1YyxQDZaVkekwgVmh9rAJl2LE1mShVmx3r-Zby62-adU/edit?usp=drive_link)
+    * [Quiz 1](https://docs.google.com/document/d/14oGxTmo7AcpwDOHbyQpfM94w_JgQxpLy-te1AMEL6CI/edit?usp=drive_link)
 
 #### Resources for Today's Class
 {: .no_toc }
@@ -68,7 +68,7 @@ parent: Schedule and Slideshows
 ### Monday, February 2
 {: .no_toc }
 * _Topic_: Second Aorist Active and Middle
-* _In-class_: Check-in 3
+* _In-class_: [Check-in 3](https://docs.google.com/document/d/1oOibOB4-1K8SYZH6US8KSVqP9BmISr416AUXw2_XAfo/edit?usp=sharing)
 * _Due by start of next class_:
     * Homework 4
 
