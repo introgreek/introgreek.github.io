@@ -70,7 +70,7 @@ parent: Schedule and Slideshows
 * _Topic_: Second Aorist Active and Middle
 * _In-class_: [Check-in 3](https://docs.google.com/document/d/1oOibOB4-1K8SYZH6US8KSVqP9BmISr416AUXw2_XAfo/edit?usp=sharing)
 * _Due by start of next class_:
-    * Homework 4
+    * [Homework 4](https://docs.google.com/document/d/1xHvYGE_DkH5VxiRarIc_u24jb2VLMfDfzhHmzds9MMc/edit?usp=drive_link)
 
 #### Resources for Today's Class
 {: .no_toc }
@@ -82,7 +82,7 @@ parent: Schedule and Slideshows
 * _Topic_: Nouns Overview and the Definite Article
 * _In-class_: Check-in 4
 * _Due by start of next class_:
-    * Homework 5
+    * [Homework 5](https://docs.google.com/document/d/1g-45OJx2XnFYo0XPbidsljP-PjHGbIVTjoUBwkF1Lz4/edit?usp=drive_link)
     * Quiz 2
 
 #### Resources for Today's Class
@@ -104,7 +104,7 @@ parent: Schedule and Slideshows
 #### Resources for Today's Class
 {: .no_toc }
 * Readings: [Nominative and Genitive](../textbook/exam-1/nom-gen)
-* Slideshow: TBD
+* Slideshow: [2/9/26 - Nominative and Genitive](https://docs.google.com/presentation/d/1Phxsd2BSDKC3teHzKO0Y6yD5bacOiMT8JVOt769qFqw/edit?usp=drive_link)
 
 ### Thursday, February 12
 {: .no_toc }
