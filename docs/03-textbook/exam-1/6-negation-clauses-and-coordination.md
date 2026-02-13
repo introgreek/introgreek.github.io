@@ -28,14 +28,14 @@ Negation is the act of putting a "no" or "not" in front of a part of speech. For
 The word "not" in each sentence negates a different part of speech. In the first, it negates the verb "[did] see" to indicate that that action did not happen. In the second, it negates the adjective "happy" to indicate what state the boy was not in.
 
 The typical negation in ancient Greek is **οὐ**.
-* οἱ κόροι ἔβλεψαν **οὐ** τὸν κίνδυνον ἀλλα τὰ δῶρα. "The boys saw **not** the danger but the gifts.
+* οἱ κόροι ἔβλεψαν **οὐ** τὸν κίνδυνον ἀλλα τὰ δῶρα. "The boys saw **not** the danger but the gifts."
 
-However, οὐ may exhibit one of two extra letters at the end, depending on the word that follows the negation:
+However, οὐ may exhibit an extra letter at the end, depending on the word that follows the negation:
 
 * **οὐ** becomes **οὐκ** when the next word after the negation begins with an **unaspirated vowel or diphthong** (or, phrased differently, a vowel or diphthong with a **smooth breathing**). For example:
     * οὐκ ἔβλεψαν. "They did not see."
 * **οὐ** becomes **οὐχ** when the next word after the negation begins with an **aspirated vowel or diphthong** (or, phrased differently, a vowel or diphthong with a **rough breathing** [the 'h' sound]). For example:
-    * τὰ δῶρα οὐχ ἔλαβεν. "She did not take the gifts."
+    * τὰ δῶρα οὐχ εἷλεν. "She did not take the gifts."
 
 ***
 
@@ -92,9 +92,9 @@ There are two specific sets of correlative conjunctions to be aware of for now:
 
 Whenever you see a καί or an ἤ, you must look at the full context of the clauses around it to see if there's another καί or ἤ to form a correlative conjunction. If so, the "both" and the "either", respectively, of the correlative conjunction can help you organize your translation better. If not, then the καί or ἤ in question is simply a coordinating conjunction and can be translated straightforwardly as "and" or "or" respectively. Some examples (with comparisons to sentences with coordinating conjunctions):
 
-* **καὶ** οἱ ἄνθρωποι τὸν κίνδυνον ἔδειξαν **καὶ** ταῖς κόραις εἶπον. "The people *both* showed the danger *and* spoke to the girls."
+* οἱ ἄνθρωποι **καὶ** τὸν κίνδυνον ἔδειξαν **καὶ** ταῖς κόραις εἶπον. "The people *both* showed the danger *and* spoke to the girls."
 * ὁ κόρος τὸ βίβλιον **ἢ** ἔβλεψεν **ἢ** εἶλεν. "The boy *either* saw *or* took the book."
-* ὅ **τ'** κόρος ἥ **τε** κόρη ἦλθον εἰς τὴν οἰκίαν. "*Both* the boy *and* the girl came into the house." (More on the placement of τε below, and more on the prepositional phrase εἰς τὴν οἰκίαν, "into the house", after Exam 1.)
+* ὅ **τε** κόρος ἥ **τε** κόρη ἦλθον εἰς τὴν οἰκίαν. "*Both* the boy *and* the girl came into the house." (More on the placement of τε below, and more on the prepositional phrase εἰς τὴν οἰκίαν, "into the house", after Exam 1.)
 
 ***
 
@@ -107,7 +107,7 @@ Here are some examples of particles:
 * **οὖν** draws a conclusion from the previous clause. This happened; "therefore..."
 
 And here are some examples of these particles in use:
-* ἦλθον· τὸν **γὰρ** κίνδυνον ἔβλεψαν, "They came, for they saw the danger." (The second clause, which contains γάρ, explains why they came.)
+* οἱ ἄνθρωποι ἔφυγον· τὸν **γὰρ** κίνδυνον ἔβλεψαν, "The people fled, for they saw the danger." (The second clause, which contains γάρ, explains why they came.)
 * τὸν κίνδυνον ἔβλεψεν· ἐκελεύσατο **οὖν**. "He saw the danger; therefore, he gave the order." (The second clause, which contains οὖν, indicates that him giving the order was the result or outcome of his seeing the danger.)
 
 ***
@@ -118,8 +118,8 @@ You'll notice in the most recent examples that γάρ and οὖν were placed *
 
 When translating a post-positive from Greek into English, you will often need to translate it **before** the word that precedes it in the Greek, as you can see in the examples from the particles section. See also the following examples with conjunctions:
 
-* ἔβλεψεν, ἔλειψε **τε**. She saw, **and** she left.
-* ἔβλεψεν, ἦλθε **δέ**. He saw, **and** he came.
+* ὁ κόρος τὸν κίνδυνον ἔβλεψεν, ἔλειψε **τε**. The boy saw the danger, **and** he left.
+* ἡ κόρη τὸν κίνδυνον ἔβλεψεν, ἦλθε **δέ**. The girl saw the danger, **and** she came.
 
 When you have multiple conjunctions or particles, particularly with post-positives, you must be able to determine which words are being coordinated by each conjunction. Take a look at the following example:
 
@@ -135,15 +135,15 @@ One special note about **τε**, a post-positive conjunction that means "and."
 
 If τε is followed by a word beginning with a consonant, nothing further needs to be done.
 
-* ὁ κόρος ἣ τε κόρη - "the boy and the girl"
+* ὁ κόρος ἥ τε κόρη - "the boy and the girl"
 
 If τε is followed by a word beginning with a vowel or diphthong with a smooth breathing, the epsilon is elided:
 
-* ἡ θάλαττα ἣ τ' οἰκία - "the sea and the house"
+* ἡ θάλαττα ἥ τ' οἰκία - "the sea and the house"
 
 However, if it is followed by a word beginning with a vowel or diphthong with a **rough breathing** (i.e., the "h" sound), two things happen: the epsilon is elided *and* the remaining tau ("t") is *aspirated* into the letter theta ("th"). For example:
 
-* οἱ ἄνθρωποι οἳ θ' ἵπποι - "the people and the horses"
+* οἱ ἄνθρωποι οἵ θ' ἵπποι - "the people and the horses"
 
 ***
 
