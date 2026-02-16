@@ -80,10 +80,10 @@ parent: Schedule and Slideshows
 ### Thursday, February 5
 {: .no_toc }
 * _Topic_: Nouns Overview and the Definite Article
-* _In-class_: Check-in 4
+* _In-class_: [Check-in 4](https://docs.google.com/document/d/15jWEL6_SNZT2QtrhniJ6xdje-SOtcsGeuFhD3hYO48A/edit?usp=sharing)
 * _Due by start of next class_:
     * [Homework 5](https://docs.google.com/document/d/1g-45OJx2XnFYo0XPbidsljP-PjHGbIVTjoUBwkF1Lz4/edit?usp=drive_link)
-    * Quiz 2
+    * [Quiz 2](https://docs.google.com/document/d/1u87JG9LCXsO2vDpTaUvkfBTQr57OGNueJeGMfGji0to/edit?usp=sharing)
 
 #### Resources for Today's Class
 {: .no_toc }
@@ -97,9 +97,9 @@ parent: Schedule and Slideshows
 ### Monday, February 9
 {: .no_toc }
 * _Topic_: Nominative and Genitive (1st and 2nd Declension)
-* _In-class_: Check-in 5 (closed-book on the definite article chart)
+* _In-class_: [Check-in 5 (closed-book on the definite article chart)](https://docs.google.com/document/d/1cuXkfpfZlv_US1uFbB7XEYMatq23KFOOsrX1XE3JjpM/edit?usp=sharing)
 * _Due by start of next class_:
-    * Homework 6
+    * [Homework 6](https://docs.google.com/document/d/1V8bb26RYMV8msyCEISYp5J6aAWnh_tzia0prg80-fHQ/edit?usp=drive_link)
 
 #### Resources for Today's Class
 {: .no_toc }
@@ -117,7 +117,7 @@ parent: Schedule and Slideshows
 #### Resources for Today's Class
 {: .no_toc }
 * Readings: [Accusative and Dative](../textbook/exam-1/acc-dat)
-* Slideshow: TBD
+* Slideshow: [2/12/26 - Accusative and Dative](https://docs.google.com/presentation/d/1qUU3BZXkzLFHBDt2ay5abbAJZixnrY6t5T3ADrULLjk/edit?usp=drive_link)
 
 ***
 
@@ -133,7 +133,7 @@ NOTE: This week, our Monday class meets on a Tuesday.
 #### Resources for Today's Class
 {: .no_toc }
 * Readings: [Negation, Clauses, and Coordination](../textbook/exam-1/negation-clauses-coordination)
-* Slideshow: TBD
+* Slideshow: [2/17/26 - Negation, Clauses, and Coordinaton](https://docs.google.com/presentation/d/1mIvccxchwctQbAGaWmnqEnQm9azUz_tvcG7ipj24W3w/edit?usp=drive_link)
 
 ### Thursday, February 19
 {: .no_toc }
