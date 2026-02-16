@@ -21,7 +21,7 @@ parent: Vocabulary
 * αἱρέω, αἱρήσω, εἷλον, ᾕρηκα, ᾕρημαι, ᾑρέθην - [to take, seize](https://logeion.uchicago.edu/αἱρέω)
 * ἀκούω, ἀκούσομαι, ἤκουσα, ἀκήκοα, --, ἠκούσθην - [to hear, listen to](https://logeion.uchicago.edu/ἀκούω)
 * ἁρπάζω, ἁρπάσομαι, ἥρπασα, ἥρπακα, ἥρπασμαι, ἡρπάσθην - [to seize, take](https://logeion.uchicago.edu/ἁρπάζω)
-* βάλλω, βαλέω, ἔβαλον, βέβληκα, βέβλημαικ, ἐβλήθην - [to throw, cast, hurl](https://logeion.uchicago.edu/βάλλω)
+* βάλλω, βαλέω, ἔβαλον, βέβληκα, βέβλημαι, ἐβλήθην - [to throw, cast, hurl](https://logeion.uchicago.edu/βάλλω)
 * βλέπω, βλέψομαι, ἔβλεψα, βέβλεφα, βέβλεμμαι, ἐβλέφθην - [to see](https://logeion.uchicago.edu/βλέπω)
 * γράφω, γράψω, ἔγραψα, γέγραφα, γέγραμμαι, ἐγράφην - [to write](https://logeion.uchicago.edu/γράφω)
 * δείκνυμι, δείξω, ἔδειξα, δέδειχα, δέδειγμαι, ἐδείχθην - [to show](https://logeion.uchicago.edu/δείκνυμι)
