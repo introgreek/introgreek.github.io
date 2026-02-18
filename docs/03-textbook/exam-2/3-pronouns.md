@@ -41,7 +41,9 @@ There are a few different kinds of pronouns, and we'll discuss only a few kinds 
 
 One kind of pronoun that you've already interacted with without realizing it is **the definite article**. We've technically used it in its capacity as a **pronominal adjective**, a word that matches with an explicit noun in gender, case, and number:
 
-* **ὁ λόγος** ὑπὸ **τῆς γυναικὸς** λέγεται. The word is said by the woman.
+* **ἡ κόρη** εἶπε **τοὺς λόγους**. The girl spoke the words.
+
+In the example above, ἡ matches κόρη (feminine nominative singular) while τοὺς matches λόγους (masculine accusative plural).
 
 The article can also be used as a pronoun in specific sentence structures, primarily involving a μέν ... δέ construction or simply δέ.
 
@@ -65,7 +67,7 @@ Note that there is a lot of variation in how to translate μέν ... δέ cons
 
 ### δέ
 
-The pronominal article can also be used with just δέ to mark a new subject for a sentence. You can usually find its antecedent in the preceding sentence, often in a different case. Remember that **a pronoun must agree with its antecedent in gender and number, but not necessarily case**, especially if the antecedent and the pronoun fulfill different functions within their respective clauses. For example:
+The pronominal article can also be used with just δέ to mark a new subject for a sentence. You can usually find its antecedent in the preceding clause, often in a different case. Remember that **a pronoun must agree with its antecedent in gender and number, but not necessarily case**, especially if the antecedent and the pronoun fulfill different functions within their respective clauses. For example:
 
 * ὁ ἵππος **τοὺς στρατιώτας** ἔβλεψεν· **οἱ δὲ** αὐτὸν οὐκ ἔβλεψαν.
     * The horse saw the soldiers, but they did not see him [the horse]. (more on αὐτὸν below)

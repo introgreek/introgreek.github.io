@@ -39,11 +39,17 @@ In Greek, the primary way that we can tell that an adjective modifies a noun is 
 
 This means that, for example, if a noun is in the masculine nominative plural, any adjective that modifies it must be in the masculine nominative plural as well. If the noun is feminine dative singular, then any adjective that modifies it must be feminine dative singular.
 
+Consider that you've already been putting this concept into practice without even realizing it when working with the **definite article**. Any definite article has to match the noun that it pairs with in **gender, case, and number** as well; for example:
+
+* τῆς χώρας > feminine genitive singular
+* τοὺς κόρους > masculine accusative plural
+* τοὺς στρατιώτας > masculine accusative plural
+
 ***
 
 ## Adjective Declension
 
-If an adjective must match a noun in gender, case, and number, it stands to reason that the adjective itself can be declined into any gender, case, and number. This concept is familiar to us from the [definite article](../exam-1/nouns-overview#the-definite-article-ὁ-ἡ-τό) (which itself is basically an adjective!).
+If an adjective must match a noun in gender, case, and number, it stands to reason that the adjective itself can be declined into any gender, case, and number. This concept is again familiar to us from the [definite article](../exam-1/nouns-overview#the-definite-article-ὁ-ἡ-τό) (which itself is basically an adjective!).
 
 Like the definite article, adjectives can decline into any of the combinations of aspects that we've discussed so far:
 * gender: masculine, feminine, neuter
@@ -55,10 +61,10 @@ Like nouns, however, adjectives belong to certain groups and subgroups that dete
 There are two major adjective declensions, each with two sub-groups:
 1. **vowel declension** (1st/2nd declension)
     * three-termination (-ος, -α/-η, -ον) (2-1-2)
-    * two-termination (-ος, -ον)
+    * two-termination (-ος, -ον) (2-2)
 2. **consonant declension** (3rd declension-ish)
     * three-termination (--, -α, --) (3-1-3)
-    * two-termination (-ων, -ον or -ης, -ες)
+    * two-termination (-ων, -ον or -ης, -ες) (3-3)
 
 Each of these declensions and sub-groups has certain features and rules of declension. We will discuss **vowel declension adjectives** below; we will discuss **consonant declension adjectives** after Exam 2.
 
@@ -68,7 +74,7 @@ Each of these declensions and sub-groups has certain features and rules of decle
 
 #### Three-Termination (2-1-2)
 
-Three-termination vowel declension adjectives have a dictionary entry that ends in the pattern -ος, -α/-η, -ον. In the feminine, -α is used with an adjective stem that ends in ε, ι, or ρ; -η is used elsewhere. Here are some quick examples from the [Exam 2 Vocabulary](../../vocabulary/exam-2-vocabulary).
+Three-termination vowel declension adjectives have a dictionary entry that ends in the pattern **-ος, -α/-η, -ον**. In the feminine, -α is used with an adjective stem that ends in ε, ι, or ρ; -η is used elsewhere. Here are some quick examples from the [Exam 2 Vocabulary](../../vocabulary/exam-2-vocabulary).
 
 * μίκρος, μίκρα, μίκρον - small
 * ἀγαθός, ἀγαθή, ἀγαθόν - noble, good

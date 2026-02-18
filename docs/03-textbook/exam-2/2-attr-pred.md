@@ -74,7 +74,7 @@ The verb that a modifier in the predicative position supplies is the linking ver
 
 * δίκαιοι οἱ δικασταί. The jurors are just.
 
-In this example, there is no explicit conjugated verb, but because the adjective δίκαιοι is in the predicative position, we can *supply* a form of the verb "to be" as the main verb. Compare this against οἱ δίκαιοι δικασταί (or any other attributive configuration): in this position, δίκαιοι simply modifies δικασταί as part of a larger sentence. That is to say, while δίκαιοι οἱ δικασταί can be a full sentence, οἱ δίκαιοι δικασταί cannot, and it would lead you to expect a fully conjugated verb elsewhere in the sentence (e.g., οἱ δίκαιοι δικασταὶ εἶπον, The just jurors spoke).
+In this example, there is no explicit conjugated verb, but because the adjective δίκαιοι is in the predicative position, we can *supply* a form of the verb "to be" (like "is" or "was") as the main verb. Compare this against οἱ δίκαιοι δικασταί (or any other attributive configuration): in this position, δίκαιοι simply modifies δικασταί as part of a larger sentence, "the just jurors...". That is to say, while δίκαιοι οἱ δικασταί can be a full sentence, οἱ δίκαιοι δικασταί cannot, and it would lead you to expect a fully conjugated verb elsewhere in the sentence (e.g., οἱ δίκαιοι δικασταὶ εἶπον, The just jurors spoke).
 
 This idea of a modifier in the predicative position also constitutes the second use of the **nominative case** that we'll learn about this semester: the **predicate nominative**. The predicate nominative is an adjective or noun in the nominative case that tells us more about the subject of a sentence while being placed in the predicate of a sentence, after a linking verb, whether an explicitly mentioned one or an implied one (as in predicative position). So, in the example above, note that δίκαιοι is a predicate nominative.
 
@@ -101,6 +101,8 @@ The verb "to be" in Greek is εἰμί, an irregular verb. This means that its 
 | 1st Person | `ἦν` or `ἦ` | `ἦμεν` |
 | 2nd Person | `ἦσθα` | `ἦτε` or `ἦστε` |
 | 3rd Person | **ἦν** | **ἦσαν** |
+
+Do note that this is the only example of the **imperfect** tense that we'll encounter this semester.
 
 ### Uses of εἰμί
 

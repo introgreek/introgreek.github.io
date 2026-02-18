@@ -44,7 +44,7 @@ A **causal clause**, from the Latin *causa*, "reason", gives *the reason why* th
 
 the dependent clause "because he was afraid" explains why the boy performed the action of leaving.
 
-In Greek, the subordinating conjunction **ἐπεί** or **ἐπειδή**, "after, when, since, because", introduces either a *temporal* or *causal clause*. Context will often help us determine whether a **temporal** (when, after) or a **causal** (since, because) translation is more appropriate.
+In Greek, the subordinating conjunction **ἐπεί** or **ἐπειδή**, "after, when, since, because", introduces either a *temporal* or *causal clause*. Context will often help us determine whether a **temporal** translation ("when", "after") or a **causal** translation ("since", "because") is more appropriate.
 
 When we see multiple conjugated verbs in a sentence, we have to ask how they are related and connected (i.e., what kinds of conjunctions are used?). When those connectors are coordinating (like καί or ἀλλά) or correlative (like καί/τε ... καί/τε), then the verbs and clauses thus connected are main clauses and on the same level. When the connector is *subordinating*, however, like **ἐπεί**, we must realize that we are dealing with a *sub*ordinate clause or dependent clause that exists to give context to the main clause; the subordinate clause can't stand by itself.
 
@@ -64,7 +64,9 @@ With these criteria in mind, we can mark the beginning and end of our temporal c
 
 Thus, we can see where the temporal clause begins and ends and work with the main clause and the dependent clause separately. In the main clause (outside of the brackets), we have a structure with an aorist active verb: "The boy led the horses away from the road." The ἐπεί clause, then, adds some more information and answers a question posed by the main clause: *when* did the boy lead the horses away from the road? **He led the horses away from the road <ins>when he saw the danger</ins>**. The "when" dependent clause (i.e., the temporal clause) answers the question.
 
-Note that the translation of ἐπεί as "when" means that we are interpreting ἐπεὶ τὸν κίνδυνον ἔβλεψεν as a *temporal clause*, answering the question "at what time did the action of the main verb ἤγαγεν happen"? If we were to interpret it as a *causal clause* (i.e., translate ἐπεί as "because"):
+Note that the translation of ἐπεί as "when" means that we are interpreting ἐπεὶ τὸν κίνδυνον ἔβλεψεν as a *temporal clause*, answering the question "at what time did the action of the main verb ἤγαγεν happen"?
+
+However, if we were to interpret it as a *causal clause* (i.e., translate ἐπεί as "because"):
 
 * The boy led the horses away from the road **because** he saw the danger.
 
