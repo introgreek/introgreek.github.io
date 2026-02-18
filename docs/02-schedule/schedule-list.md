@@ -109,10 +109,10 @@ parent: Schedule and Slideshows
 ### Thursday, February 12
 {: .no_toc }
 * _Topic_: Accusative and Dative (1st and 2nd Declension)
-* _In-class_: Check-in 6
+* _In-class_: [Check-in 6](https://docs.google.com/document/d/1XZnepWcpbMeLd70R_RoZeYYYvaTNkaItbD723-XmpTI/edit?usp=sharing)
 * _Due by start of next class_:
-    * Homework 7
-    * Quiz 3
+    * [Homework 7](https://docs.google.com/document/d/15khEMvfksmh-RTrlW1MWWRNyaEqkN_IagWBCwTkmUCc/edit?usp=drive_link)
+    * [Quiz 3](https://docs.google.com/document/d/1mX1c_WtR-uqXQ-VpIUYt3T2LOv10qEDbArCgeosTVlo/edit?usp=sharing)
 
 #### Resources for Today's Class
 {: .no_toc }
@@ -128,7 +128,7 @@ NOTE: This week, our Monday class meets on a Tuesday.
 ### Tuesday, February 17
 {: .no_toc }
 * _Topic_: Negation, Clauses, and Coordination; Review
-* _In-class_: Check-in 7
+* _In-class_: [Check-in 7](https://docs.google.com/document/d/1WlDDN2wcdmdlk0qnwHY4ldjL8gAPoQUPu0zeW0KQV28/edit?usp=sharing)
 
 #### Resources for Today's Class
 {: .no_toc }
