@@ -152,7 +152,7 @@ NOTE: This week, our Monday class meets on a Tuesday.
 #### Resources for Today's Class
 {: .no_toc }
 * Readings: [Prepositions and Verb Compounds](../textbook/exam-2/prepositions)
-* Slideshow: TBD
+* Slideshow: [2/23/26 - Prepositions and Compound Verbs](https://docs.google.com/presentation/d/1DWRM3sS4u5Wb4o9mtwApVdSwbxhoj-QOFzTHkF3at3A/edit?usp=sharing)
 
 ### Thursday, February 26
 {: .no_toc }
