@@ -147,12 +147,13 @@ NOTE: This week, our Monday class meets on a Tuesday.
 {: .no_toc }
 * _Topic_: Prepositions and Verb Compounds
 * _Due by start of next class_:
-    * Homework 8
+    * [Homework 8](https://docs.google.com/document/d/1MJL2eo_2-JuFKqY00KyRni4eyJw3J4m9P9RQlCU72fE/edit?usp=drive_link)
 
 #### Resources for Today's Class
 {: .no_toc }
 * Readings: [Prepositions and Verb Compounds](../textbook/exam-2/prepositions)
 * Slideshow: [2/23/26 - Prepositions and Compound Verbs](https://docs.google.com/presentation/d/1DWRM3sS4u5Wb4o9mtwApVdSwbxhoj-QOFzTHkF3at3A/edit?usp=sharing)
+* Recording: [Zoom recording for 2/23 (snow day)](https://Fairfield.zoom.us/rec/share/r-vL6Dn6gR3SYGu1DiMBmY1kob_cgjrLbBftRFJPe8Rx7Dnwf4LXV8HC58PHFKY0.DApsccnMkyOfqv_0)
 
 ### Thursday, February 26
 {: .no_toc }
