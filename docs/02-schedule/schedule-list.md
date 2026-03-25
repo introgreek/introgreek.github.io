@@ -158,15 +158,15 @@ NOTE: This week, our Monday class meets on a Tuesday.
 ### Thursday, February 26
 {: .no_toc }
 * _Topic_: Vowel Declension Adjectives
-* _In-class_: Check-in 8
+* _In-class_: [Check-in 8](https://docs.google.com/document/d/1uYaVqTeb9us2TAOn3m9bKWQ8YCkHb0bRGDrGiP7cMgU/edit?usp=sharing)
 * _Due by start of next class_:
-    * Homework 9
+    * [Homework 9](https://docs.google.com/document/d/1rrR7M8NQ4EV2-RcSVFv-jjAgGoigPpCHr96_fCAY-Z4/edit?usp=drive_link)
     * Quiz 4
 
 #### Resources for Today's Class
 {: .no_toc }
 * Readings: [Vowel Declension Adjectives](../textbook/exam-2/vowel-declension-adjectives)
-* Slideshow: TBD
+* Slideshow: [2/26/26 - Vowel Declension Adjectives](https://docs.google.com/presentation/d/1CzG2OgmfW3gkjoLXBH77aXjKFByoUyv-BHw6LGgShGE/edit?usp=drive_link)
 
 ***
 
@@ -175,27 +175,27 @@ NOTE: This week, our Monday class meets on a Tuesday.
 ### Monday, March 2
 {: .no_toc }
 * _Topic_: Attributive and Predicative Position
-* _In-class_: Check-in 9
+* _In-class_: [Check-in 9](https://docs.google.com/document/d/1vVUvyIlGCU1xpma1NRIaU_4DT-S9y4NJAq0qkshIaY8/edit?usp=sharing)
 * _Due by start of next class_:
-    * Homework 10
+    * [Homework 10](https://docs.google.com/document/d/1FgfAzBcd3XGuIhlYF13pcyQGLkikxj_SOsgzQC3T_ek/edit?usp=drive_link)
 
 #### Resources for Today's Class
 {: .no_toc }
 * Readings: [Attributive and Predicative Position](../textbook/exam-2/attr-pred)
-* Slideshow: TBD
+* Slideshow: [3/2/26 - Attributive and Predicative Position](https://docs.google.com/presentation/d/1Yd2tXuukypJiBN6Vfvf_4PV2Ttr0sFj0bNuvW2x4fZQ/edit?usp=drive_link)
 
 ### Thursday, March 5
 {: .no_toc }
 * _Topic_: Pronouns
-* _In-class_: Check-in 10
+* _In-class_: [Check-in 10](https://docs.google.com/document/d/1trwiz7ignCA8sm3a7b_uiDIijTyL8J9f4RdtPQmLyO0/edit?usp=sharing)
 * _Due by start of next class_:
-    * Homework 11
+    * [Homework 11](https://docs.google.com/document/d/1thUAVH5BCDowjrdlrdnu0fMRTDli6AVy98dek_KpTUo/edit?usp=drive_link)
     * Quiz 5
 
 #### Resources for Today's Class
 {: .no_toc }
 * Readings: [Pronouns](../textbook/exam-2/pronouns)
-* Slideshow: TBD
+* Slideshow: [3/5/26 - Pronouns](https://docs.google.com/presentation/d/1WryJK6epzmhHfVdGFfPcSCuNg4FCt4x3K0pNCaYGB4E/edit?usp=drive_link)
 
 ***
 
@@ -208,27 +208,27 @@ NOTE: This week, our Monday class meets on a Tuesday.
 ### Monday, March 16
 {: .no_toc }
 * _Topic_: Dependent Clauses
-* _In-class_: Check-in 11
+* _In-class_: [Check-in 11](https://docs.google.com/document/d/1lV8evDaHA96fJVSa9wO84l72wxrFAZPdA3V8S934rr8/edit?usp=sharing)
 * _Due by start of next class_:
-    * Homework 12
+    * [Homework 12](https://docs.google.com/document/d/11_M3Whvhe5lzlGbnunLymOBLF4ls6ClSos9614XffuQ/edit?usp=drive_link)
 
 #### Resources for Today's Class
 {: .no_toc }
 * Readings: [Dependent Clauses](../textbook/exam-2/dependent-clauses)
-* Slideshow: TBD
+* Slideshow: [3/16/26 - Dependent Clauses](https://docs.google.com/presentation/d/1DAu2m05WzS0u3ZSlFe9SIHo3bMYul9a_Rvr6oisU9kg/edit?usp=drive_link)
 
 ### Thursday, March 19
 {: .no_toc }
 * _Topic_: Core Four -μι Verbs - Aorist Active and Middle
-* _In-class_: Check-in 12
+* _In-class_: [Check-in 12](https://docs.google.com/document/d/1_XF_9K4z2VELZQzrEjEqs2Roko9Irw24R1Yz2nbUboA/edit?usp=sharing)
 * _Due by start of next class_:
-    * Homework 13
+    * [Homework 13](https://docs.google.com/document/d/1srfwfszSXXZkwTlmCUjraAfOW1CwD_Ia2NPbLZsBo9E/edit?usp=drive_link)
     * Quiz 6
 
 #### Resources for Today's Class
 {: .no_toc }
 * Readings: [Core Four -μι Verbs - Aorist Active and Middle](../textbook/exam-2/core-four-aorist)
-* Slideshow: TBD
+* Slideshow: [3/19/26 - Core Four -μι Verbs - Aorist Active and Middle](https://docs.google.com/presentation/d/1aT6YPY47UcNAfY1czScDDv6scq9cuybPXKucadNB38k/edit?usp=drive_link)
 
 ***
 
@@ -237,7 +237,7 @@ NOTE: This week, our Monday class meets on a Tuesday.
 ### Monday, March 23
 {: .no_toc }
 * _Topic_: Review / Buffer
-* _In-class_: Check-in 13
+* _In-class_: [Check-in 13](https://docs.google.com/document/d/1YNI-fDhMk-WAFFbl3g2St9pM9zI54aRThVPSdoad4M0/edit?usp=sharing)
 
 ### Thursday, March 26
 {: .no_toc }
