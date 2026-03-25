@@ -161,7 +161,7 @@ NOTE: This week, our Monday class meets on a Tuesday.
 * _In-class_: [Check-in 8](https://docs.google.com/document/d/1uYaVqTeb9us2TAOn3m9bKWQ8YCkHb0bRGDrGiP7cMgU/edit?usp=sharing)
 * _Due by start of next class_:
     * [Homework 9](https://docs.google.com/document/d/1rrR7M8NQ4EV2-RcSVFv-jjAgGoigPpCHr96_fCAY-Z4/edit?usp=drive_link)
-    * Quiz 4
+    * [Quiz 4](https://docs.google.com/document/d/1d4ak459QfbjNo36FfPxoBpg-kKVgPqmpTqR8p1cZ3JI/edit?usp=sharing)
 
 #### Resources for Today's Class
 {: .no_toc }
@@ -190,7 +190,7 @@ NOTE: This week, our Monday class meets on a Tuesday.
 * _In-class_: [Check-in 10](https://docs.google.com/document/d/1trwiz7ignCA8sm3a7b_uiDIijTyL8J9f4RdtPQmLyO0/edit?usp=sharing)
 * _Due by start of next class_:
     * [Homework 11](https://docs.google.com/document/d/1thUAVH5BCDowjrdlrdnu0fMRTDli6AVy98dek_KpTUo/edit?usp=drive_link)
-    * Quiz 5
+    * [Quiz 5](https://docs.google.com/document/d/10_SgK03k95wCnSefx4hvmWBmO6i2_meEMefX0ilPT1Y/edit?usp=sharing)
 
 #### Resources for Today's Class
 {: .no_toc }
@@ -223,7 +223,7 @@ NOTE: This week, our Monday class meets on a Tuesday.
 * _In-class_: [Check-in 12](https://docs.google.com/document/d/1_XF_9K4z2VELZQzrEjEqs2Roko9Irw24R1Yz2nbUboA/edit?usp=sharing)
 * _Due by start of next class_:
     * [Homework 13](https://docs.google.com/document/d/1srfwfszSXXZkwTlmCUjraAfOW1CwD_Ia2NPbLZsBo9E/edit?usp=drive_link)
-    * Quiz 6
+    * [Quiz 6](https://docs.google.com/document/d/1QuWNLVfzVVqUnpIIcoxk-_7FGBjgb2_m46DReNfN2ok/edit?usp=sharing)
 
 #### Resources for Today's Class
 {: .no_toc }
