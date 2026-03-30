@@ -141,6 +141,7 @@ parent: Vocabulary
 * θάλασσα, θαλάσσης, f. - [sea](https://logeion.uchicago.edu/θάλασσα)
 * θάνατος, θανάτου, m. - [death](https://logeion.uchicago.edu/θάνατος)
 * θεός, θεοῦ, m./f. - [god; goddess](https://logeion.uchicago.edu/θεός)
+* θυγάτηρ, θυγατρός, f. - [daughter](https://logeion.uchicago.edu/θυγάτηρ)
 
 ***
 
@@ -195,6 +196,7 @@ parent: Vocabulary
 * μέν - (post-positive) [(marks start of contrast with δέ)](https://logeion.uchicago.edu/μέν)
 * μέρος, μέρους, n. - [part, share, portion](https://logeion.uchicago.edu/μέρος)
 * μετά (μετ', μεθ') - [after (+ acc.); with (+ gen.)](https://logeion.uchicago.edu/μετά)
+* μήτηρ, μητρός, f. - [mother](https://logeion.uchicago.edu/μήτηρ)
 * μίκρος, μίκρα, μίκρον - [small, little](https://logeion.uchicago.edu/μίκρος)
 * μισέω, μισήσω, ἐμίσησα, μεμίσηκα, μεμίσημαι, ἐμισήθην - [to hate](https://logeion.uchicago.edu/μισέω)
 * μόνος, μόνη, μόνον - [only, single](https://logeion.uchicago.edu/μόνος)

@@ -30,6 +30,8 @@ parent: Vocabulary
 
 ## Nouns
 
+NOTE: All declension charts for these nouns can be found at the following link: [https://docs.google.com/document/d/1HRejjD78CxL6sJ7omyIeLjFEArdZ7dBt9B7gjUR5Tv4/edit?usp=sharing](https://docs.google.com/document/d/1HRejjD78CxL6sJ7omyIeLjFEArdZ7dBt9B7gjUR5Tv4/edit?usp=sharing).
+
 * ἄγαλμα, ἀγάλματος, n. - [statue, glory](https://logeion.uchicago.edu/ἄγαλμα)
 * ἀγών, ἀγῶνος, m. - [contest](https://logeion.uchicago.edu/ἀγών)
 * ἀνήρ, ἀνδρός, m. - [man, husband](https://logeion.uchicago.edu/ἀνήρ)
@@ -37,8 +39,10 @@ parent: Vocabulary
 * γένος, γένους, n. - [kind, stock, family, clan](https://logeion.uchicago.edu/γένος)
 * γυνή, γυναικός, f. - [woman, wife](https://logeion.uchicago.edu/γυνή)
 * δύναμις, δυνάμεως, f. - [power, ability](https://logeion.uchicago.edu/δύναμις)
+* θυγάτηρ, θυγατρός, f. - [daughter](https://logeion.uchicago.edu/θυγάτηρ)
 * μάρτυς, μάρτυρος, m./f. - [witness](https://logeion.uchicago.edu/μάρτυς)
 * μέρος, μέρους, n. - [part, share, portion](https://logeion.uchicago.edu/μέρος)
+* μήτηρ, μητρός, f. - [mother](https://logeion.uchicago.edu/μήτηρ)
 * ὄνομα, ὀνόματος, n. - [name](https://logeion.uchicago.edu/ὄνομα)
 * παῖς, παιδός, m./f. - [child](https://logeion.uchicago.edu/παῖς)
 * πατήρ, πατρός, m. - [father](https://logeion.uchicago.edu/πατήρ)
