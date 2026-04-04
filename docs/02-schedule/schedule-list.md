@@ -257,7 +257,8 @@ NOTE: This week, our Monday class meets on a Tuesday.
 #### Resources for Today's Class
 {: .no_toc }
 * Readings: [Third Declension Nouns](../textbook/exam-3/third-decl-nouns)
-* Slideshow: TBD
+* Slideshow: [3/30/26 - Third Declension Nouns](https://docs.google.com/presentation/d/1ZVsKglLeBpWYvuOHMJnium7vAL7bBeBg4LwH7DtytXE/edit?usp=drive_link)
+* Zoom Recording: [3/30/26 - Zoom Recording](https://Fairfield.zoom.us/rec/share/plxxSvyAHrGNyPWSs1af9QpkWhx2WnC9_VnMvtDSjcpuI4QykPGTou5SpObSoLBh.bw92mwYZ36HjPaqi)
 
 ***
 
@@ -279,7 +280,7 @@ NOTE: This week, our Monday class meets on a Wednesday.
 #### Resources for Today's Class
 {: .no_toc }
 * Readings: [Third Declension Adjectives](../textbook/exam-3/third-decl-adjs)
-* Slideshow: TBD
+* Slideshow: [4/8/26 - Third Declension Adjectives](https://docs.google.com/presentation/d/1zHbxEElc29e0qgTKeV5A5Lg7_mbZQVE3tf7gFQNfQNA/edit?usp=drive_link)
 
 ### Thursday, April 9
 {: .no_toc }
@@ -292,7 +293,7 @@ NOTE: This week, our Monday class meets on a Wednesday.
 #### Resources for Today's Class
 {: .no_toc }
 * Readings: [Relative Pronoun and Relative Clauses](../textbook/exam-3/relative-clauses)
-* Slideshow: TBD
+* Slideshow: [4/9/26 - Relative Clauses](https://docs.google.com/presentation/d/1f8goFFiKqxVWdEEcx5XywH7SY7IMJuQb0UjGWN0Kb5M/edit?usp=drive_link)
 
 ***
 
