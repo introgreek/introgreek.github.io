@@ -19,6 +19,8 @@ parent: Reference
 
 ## Nouns
 
+NOTE: All declension charts for third declension nouns can be found at the following link: [https://docs.google.com/document/d/1HRejjD78CxL6sJ7omyIeLjFEArdZ7dBt9B7gjUR5Tv4/edit?usp=sharing](https://docs.google.com/document/d/1HRejjD78CxL6sJ7omyIeLjFEArdZ7dBt9B7gjUR5Tv4/edit?usp=sharing).
+
 ### Noun Endings
 
 #### Third Declension
@@ -37,6 +39,8 @@ parent: Reference
 ***
 
 ## Adjectives
+
+NOTE: All declension charts for third declension adjectives can be found at the following link: [https://docs.google.com/document/d/1HRejjD78CxL6sJ7omyIeLjFEArdZ7dBt9B7gjUR5Tv4/edit?usp=sharing](https://docs.google.com/document/d/1HRejjD78CxL6sJ7omyIeLjFEArdZ7dBt9B7gjUR5Tv4/edit?usp=sharing).
 
 ### Consonant Declension (3-1-3) Endings
 
@@ -64,7 +68,7 @@ parent: Reference
 | Dat. Pl. | πᾶσι(ν) | πάσαις | πᾶσι(ν) |
 | Acc. Pl. | πάντας | πάσας | πάντα |
 
-### Consonant Declension (2-termination) Endings
+### Consonant Declension (3-3) Endings
 
 | | Masc./Fem. | Neut. |
 | ----- | ----- | ----- |
@@ -77,7 +81,7 @@ parent: Reference
 | Dat. Pl. | -σι(ν) | -σι(ν) |
 | Acc. Pl. | -ας | -α |
 
-#### Sample Consonant Declension 2-termination
+#### Sample 3-3
 
 | | Masc./Fem. | Neut. |
 | ----- | ----- | ----- |

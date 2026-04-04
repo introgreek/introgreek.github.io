@@ -101,7 +101,7 @@ parent: Vocabulary
 * εἶτα - [then, next](https://logeion.uchicago.edu/εἶτα)
 * ἐκ (+ gen.) - [out of](https://logeion.uchicago.edu/ἐκ)
 * ἐκεῖνος, ἐκείνη, ἐκεῖνο - "[that, those](https://logeion.uchicago.edu/ἐκεῖνος)"; the former (vs. οὗτος)
-* ἐλάσσων, ἐλάσσον - [less, fewer, smaller](https://logeion.uchicago.edu/ἐλάσσων)
+* ἐλάσσων, ἐλάσσον (stem ἐλάσσον-) - [less, fewer, smaller](https://logeion.uchicago.edu/ἐλάσσων)
 * ἐν (+ dat.) - [in, within](https://logeion.uchicago.edu/ἐν)
 * ἐπεί, ἐπειδή - [since, when, after](https://logeion.uchicago.edu/ἐπεί)
 * ἐπί (ἐπ', ἐφ') - [on, upon](https://logeion.uchicago.edu/ἐπί)
@@ -110,8 +110,8 @@ parent: Vocabulary
 * ἔργον, ἔργου, n. - [deed, work](https://logeion.uchicago.edu/ἔργον)
 * ἔρχομαι, ἐλεύσομαι, ἦλθον, ἐλήλυθα, --, -- - [to come, to go](https://logeion.uchicago.edu/ἔρχομαι)
 * ἔτι - [still, yet](https://logeion.uchicago.edu/ἔτι)
-* εὐδαίμων, εὐδαῖμον - [lucky, blessed, fortunate](https://logeion.uchicago.edu/εὐδαίμων)
-* εὐθύς, εὐθεῖα, εὐθύ - [straight, direct](https://logeion.uchicago.edu/εὐθύς)
+* εὐδαίμων, εὔδαιμον (stem εὐδαίμον-) - [lucky, blessed, fortunate](https://logeion.uchicago.edu/εὐδαίμων)
+* εὐθύς, εὐθεῖα, εὐθύ (m./n. stem εὐθε-) - [straight, direct](https://logeion.uchicago.edu/εὐθύς)
 * εὑρίσκω, εὑρήσω, ηὗρον, ηὕρηκα, ηὕρημαι, ηὑρέθην - [to find, discover](https://logeion.uchicago.edu/εὑρίσκω)
 * ἐφίημι (ἐπί + ἵημι) - [to send against; (middle voice) to command, order; (middle voice) to aim at, desire (+ genitive)](https://logeion.uchicago.edu/ἐφίημι)
 * ἐφίστημι (ἐπί + ἵστημι) - [(trans.) to set up in charge of; (intrans.) to be in charge of (+ dative)](https://logeion.uchicago.edu/ἐφίστημι)
@@ -192,7 +192,7 @@ parent: Vocabulary
 * μάρτυς, μάρτυρος, m./f. - [witness](https://logeion.uchicago.edu/μάρτυς)
 * μέγας, μεγάλη, μέγα - [large, great, tall](https://logeion.uchicago.edu/μέγας)
 * μείγνυμι, μείξω, ἔμειξα, μέμιχα, μέμιγμαι, ἐμίγην - [to mix](https://logeion.uchicago.edu/μείγνυμι)
-* μέλας, μέλαινα, μέλαν - [black](https://logeion.uchicago.edu/μέλας)
+* μέλας, μέλαινα, μέλαν (m./n. stem μέλαν-) - [black](https://logeion.uchicago.edu/μέλας)
 * μέν - (post-positive) [(marks start of contrast with δέ)](https://logeion.uchicago.edu/μέν)
 * μέρος, μέρους, n. - [part, share, portion](https://logeion.uchicago.edu/μέρος)
 * μετά (μετ', μεθ') - [after (+ acc.); with (+ gen.)](https://logeion.uchicago.edu/μετά)
@@ -223,6 +223,7 @@ parent: Vocabulary
 * ὅπλον, ὅπλου, n. - [weapon](https://logeion.uchicago.edu/ὅπλον)
 * ὁράω, ὄψομαι, εἶδον, ἑώρακα / ἑόρακα, ἑώραμαι / ὦμμαι, ὤφθην - [to see](https://logeion.uchicago.edu/ὁράω)
 * ὅς, ἥ, ὅ - [(relative pronoun) who(m), which, that](https://logeion.uchicago.edu/ὅς)
+* οὐδείς, οὐδεμία, οὐδέν - [(m./f.) no one; (n.) nothing](https://logeion.uchicago.edu/οὐδείς)
 * οὖν - (post-positive) [thus, therefore](https://logeion.uchicago.edu/οὖν)
 * οὗτος, αὕτη, τοῦτο - "[this; the preceding](https://logeion.uchicago.edu/οὗτος)"; the latter (vs. ἐκεῖνος)
 * οὕτως - [in this way, thus](https://logeion.uchicago.edu/οὕτως)
@@ -234,7 +235,7 @@ parent: Vocabulary
 * παῖς, παιδός, m./f. - [child](https://logeion.uchicago.edu/παῖς)
 * πάλιν - [back, next](https://logeion.uchicago.edu/πάλιν)
 * παρά (παρ') - [next to, near](https://logeion.uchicago.edu/παρά)
-* πᾶς, πᾶσα, πᾶν - [(singular) each, every; (plural) all](https://logeion.uchicago.edu/πᾶς)
+* πᾶς, πᾶσα, πᾶν (m./n. stem παντ-) - [(singular) each, every; (plural) all](https://logeion.uchicago.edu/πᾶς)
 * πατήρ, πατρός, m. - [father](https://logeion.uchicago.edu/πατήρ)
 * παύω, παύσω, ἔπαυσα, πέπαυκα, πέπαυμαι, ἐπαύθην - [to stop, cease (+ gen.)](https://logeion.uchicago.edu/παύω)
 * πέμπω, πέμψω, ἔπεμψα, πέπομφα, πέπεμμαι, ἐπέμφθην - [to send](https://logeion.uchicago.edu/πέμπω)
@@ -270,7 +271,7 @@ parent: Vocabulary
 
 ## τ
 
-* ταχύς, ταχεῖα, ταχύ - [swift, quick](https://logeion.uchicago.edu/ταχύς)
+* ταχύς, ταχεῖα, ταχύ (m./n. stem ταχε-) - [swift, quick](https://logeion.uchicago.edu/ταχύς)
 * τε (τ', θ‘) - (post-positive) [and](https://logeion.uchicago.edu/τε)
 * τέσσαρες, τέσσαρα - [four](https://logeion.uchicago.edu/τέτταρες)
 * τίθημι, θήσω, ἔθηκα, τέθηκα, τέθειμαι, ἐτέθην - [to put, place](https://logeion.uchicago.edu/τίθημι)
@@ -306,7 +307,7 @@ parent: Vocabulary
 
 ## χ
 
-* χαρίεις, χαρίεσσα, χαρίεν - [graceful](https://logeion.uchicago.edu/χαρίεις)
+* χαρίεις, χαρίεσσα, χαρίεν (m./n. stem χαρίεντ-) - [graceful](https://logeion.uchicago.edu/χαρίεις)
 * χείρ, χειρός, f. - [hand](https://logeion.uchicago.edu/χείρ)
 * χρῆμα, χρήματος, n. - [thing, possession, good](https://logeion.uchicago.edu/χρῆμα)
 * χρόνος, χρόνου, m. - [time](https://logeion.uchicago.edu/χρόνος)

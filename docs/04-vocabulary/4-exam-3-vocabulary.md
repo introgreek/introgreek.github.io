@@ -60,27 +60,30 @@ NOTE: All declension charts for these nouns can be found at the following link: 
 
 ## Adjectives
 
+NOTE: All declension charts for these adjectives can be found at the following link: [https://docs.google.com/document/d/1HRejjD78CxL6sJ7omyIeLjFEArdZ7dBt9B7gjUR5Tv4/edit?usp=sharing](https://docs.google.com/document/d/1HRejjD78CxL6sJ7omyIeLjFEArdZ7dBt9B7gjUR5Tv4/edit?usp=sharing).
+
 ### 3-1-3 (3rd Declension, Three Terminations)
 
-* εὐθύς, εὐθεῖα, εὐθύ - [straight, direct](https://logeion.uchicago.edu/εὐθύς)
+* εὐθύς, εὐθεῖα, εὐθύ (m./n. stem εὐθε-) - [straight, direct](https://logeion.uchicago.edu/εὐθύς)
 * μέγας, μεγάλη, μέγα - [large, great, tall](https://logeion.uchicago.edu/μέγας)
-* μέλας, μέλαινα, μέλαν - [black](https://logeion.uchicago.edu/μέλας)
-* πᾶς, πᾶσα, πᾶν - [(singular) each, every; (plural) all](https://logeion.uchicago.edu/πᾶς)
+* μέλας, μέλαινα, μέλαν (m./n. stem μέλαν-) - [black](https://logeion.uchicago.edu/μέλας)
+* πᾶς, πᾶσα, πᾶν (m./n. stem παντ-) - [(singular) each, every; (plural) all](https://logeion.uchicago.edu/πᾶς)
 * πολύς, πολλή, πολύ - [(singular) much; (plural) many](https://logeion.uchicago.edu/πολύς)
-* ταχύς, ταχεῖα, ταχύ - [swift, quick](https://logeion.uchicago.edu/ταχύς)
-* χαρίεις, χαρίεσσα, χαρίεν - [graceful](https://logeion.uchicago.edu/χαρίεις)
+* ταχύς, ταχεῖα, ταχύ (m./n. stem ταχε-) - [swift, quick](https://logeion.uchicago.edu/ταχύς)
+* χαρίεις, χαρίεσσα, χαρίεν (m./n. stem χαρίεντ-) - [graceful](https://logeion.uchicago.edu/χαρίεις)
 
 ### 3-3 (3rd Declension, Two Terminations)
 
 * ἀληθής, ἀληθές - [true](https://logeion.uchicago.edu/ἀληθής)
-* ἐλάσσων, ἐλάσσον - [less, fewer, smaller](https://logeion.uchicago.edu/ἐλάσσων)
-* εὐδαίμων, εὐδαῖμον - [lucky, blessed, fortunate](https://logeion.uchicago.edu/εὐδαίμων)
+* ἐλάσσων, ἔλασσον (stem ἐλάσσον-) - [less, fewer, smaller](https://logeion.uchicago.edu/ἐλάσσων)
+* εὐδαίμων, εὔδαιμον (stem εὐδαίμον-) - [lucky, blessed, fortunate](https://logeion.uchicago.edu/εὐδαίμων)
 * σώφρων, σῶφρον - [wise, moderate](https://logeion.uchicago.edu/σώφρων)
 * ψευδής, ψευδές - [false, fake](https://logeion.uchicago.edu/ψευδής)
 
 ### Numerals
 
 * εἷς, μία, ἕν - [one](https://logeion.uchicago.edu/εἷς)
+* οὐδείς, οὐδεμία, οὐδέν - [(m./f.) no one; (n.) nothing](https://logeion.uchicago.edu/οὐδείς)
 * δύο - [two](https://logeion.uchicago.edu/δύο) (indeclinable)
 * τρεῖς, τρία - [three](https://logeion.uchicago.edu/τρεῖς)
 * τέσσαρες, τέσσαρα - [four](https://logeion.uchicago.edu/τέτταρες)
