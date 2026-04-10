@@ -20,20 +20,20 @@ grand_parent: Textbook
 
 ## The First Principal Part
 
-We have spent a lot of time until now with the third and sixth principal parts in learning about the aorist tense, the tense of instantaneous or completed actions in the past, in all voices. We will move now to the other principal part that you've been asked to memorize for new verbs, the **first principal part**, which we will use to build the forms of the **present tense**.
+We have spent a lot of time until now with the third and now sixth principal parts in learning about the aorist tense, the tense of instantaneous or completed actions in the past, in all three voices. We will move now to the other principal part that you've been asked to work with for new verbs, the **first principal part**, which we will use to build the forms of the **present tense**.
 
 ***
 
 ## Present Tense
 
-The **present** tense, as discussed [in the verb overview](overview#verb-aspects), indicates an action that is occurring right now. While the translation of the aorist is pretty narrowly defined (as the simple past tense of a verb, often its "-ed" form), there are a few different ways in which we can translate the present tense. Here are a few examples:
+The **present** tense, as discussed [in the verb overview](../exam-1/verbs-overview#verb-aspects), indicates an action that is occurring right now. While the translation of the aorist is pretty narrowly defined (as the simple past tense of a verb, often its "-ed" form), there are a few different ways in which we can translate the present tense. Here are a few examples:
 
 * "They order" (simple present)
 * "They are ordering" (progressive present)
 * "They do order" (emphatic present)
 
 These are all present tense versions of the same verb, "to order", in the 3rd person plural; each version refers to an action that is happening now. The variations simply cover different types of action:
-* the simple present, like the aorist, implies an instantaneous action;
+* the simple present, like the aorist, implies an instantaneous, one-and-done action;
 * the progressive present indicates an action that is in the process of happening;
 * and the emphatic present, as the name implies, emphasizes an action and is also used in questions (e.g., "do they order?").
 
@@ -51,7 +51,7 @@ Unlike the aorist, however, all three voices are built on one principal part, th
 
 ## Present Indicative (-ω and -μι)
 
-Recall from [the verb overview](overview#conjugation) that the ending of the first principal part indicates to what **conjugation** the verb belongs: -ω or -μι. The distinction between -ω and -μι verbs is similar to that between first and second aorists: the grouping determines what sets of endings we can use to conjugate the verb, but it doesn't affect the verb's core aspects. A 3rd singular present active indicative -ω verb is the same as a 3rd singular present active indicative -μι verb in terms of when the verb happens, who performs it, etc.; all that differs is the ending that we use to indicate those verbal aspects.
+Recall from [the verb overview](../exam-1/verbs-overview#conjugation) that the ending of the first principal part indicates to what **conjugation** the verb belongs: -ω or -μι. The distinction between -ω and -μι verbs is similar to that between first and second aorists: the grouping determines what sets of endings we can use to conjugate the verb, but it doesn't affect the verb's core aspects. A 3rd singular present active indicative -ω verb is the same as a 3rd singular present active indicative -μι verb in terms of when the verb happens, who performs it, etc.; all that differs is the ending that we use to indicate those verbal aspects.
 
 -ω verbs are also considered **thematic verbs**, so called because the personal endings are a combination of a **thematic/theme vowel** (-ο- before μ or ν, -ε- elsewhere) and a true personal ending that indicates person and number. In some endings of this type, it can be difficult to extricate the theme vowel from the true personal ending, but this distinction is important when we compare thematic verbs against **-μι verbs**, which are **athematic**, meaning that there is no -o- or -ε- between the verb stem and the personal ending.
 
@@ -62,7 +62,7 @@ As with the aorist, the conjugation of the present is a matter of combining a ve
 Here are the steps to conjugate a verb in the present active.
 1. Get the verb's **present stem** by taking -ω or -μι off the first principal part.
 2. Apply the appropriate **personal ending**, depending on whether the verb is -ω or -μι.
-3. Apply a **recessive accent** based on the rules laid out [in the unit on accents](../basics/alphabet-and-accents#accents).
+3. [Apply a **recessive accent** based on the rules laid out [in the unit on accents](../basics/alphabet-and-accents#accents).]
 
 #### Present Active Endings (-ω)
 
@@ -95,8 +95,8 @@ Here are our resulting forms:
 
 | Verb | Singular | Plural |
 | ----- | ----- | ----- |
-| κελεύω | **κελεύει** | **κελεύουσι(ν)** |
-| δείκνυμι | **δείκνυσι(ν)** | **δεικνύασι(ν)** |
+| κελεύω | **κελεύει** - "he/she/it orders" | **κελεύουσι(ν)** - "they order" |
+| δείκνυμι | **δείκνυσι(ν)** - "he/she/it shows" | **δεικνύασι(ν)** - "they show" |
 
 #### Translation
 {: .no_toc }
@@ -112,7 +112,7 @@ As mentioned above, we use the first principal part to form the middle and passi
 Here are the steps to conjugate a verb in the present middle/passive.
 1. Get the verb's **present stem** by taking -ω or -μι off the first principal part.
 2. Apply the appropriate **personal ending**, depending on whether the verb is -ω or -μι.
-3. Apply a **recessive accent** based on the rules laid out [in the unit on accents](../basics/alphabet-and-accents#accents).
+3. [Apply a **recessive accent** based on the rules laid out [in the unit on accents](../basics/alphabet-and-accents#accents).]
 
 Hopefully these steps sound familiar by this point. The only difference are the endings used in step 2:
 
@@ -220,9 +220,9 @@ The contraction of the stem's epsilon with the following vowel simply adds an ex
 1. find the stem (and add an augment if needed),
 2. attach the appropriate personal ending,
 3. **replace the clashing vowels with their resulting contraction**,
-4. and apply a recessive accent.
+4. [and apply a recessive accent.]
 
-The accentuation step will also have some specific rules, but first, let's take the verb ποιέω as an example and see how the contractions work when we conjugate it in the present tense (and deal with the accentuation when we get there).
+Let's take the verb ποιέω as an example and see how the contractions work when we conjugate it in the present tense.
 
 ### Present Tense
 

@@ -26,7 +26,7 @@ The third principal part, as discussed in the units on the first and second aori
 * The girl **saw for herself**. (middle voice)
 * The girl **was seen**. (passive voice)
 
-In the first two sentences, the girl is the one performing the action of **seeing**. In the last sentence, however, the action of seeing happened *to* the girl. This means that the verb is in the **passive voice** (and the fact that it occurred as an instantaneous action in the past means that it's in the **aorist tense**).
+In the first two sentences, the girl is the one performing the action of **seeing**. In the last sentence, however, the action of seeing happened *to* the girl, despite "the girl" coming to the left of the verb. This means that the verb is in the **passive voice** (and the fact that it occurred as an instantaneous action in the past means that it's in the **aorist tense**).
 
 ***
 
@@ -39,7 +39,7 @@ Let us use κελεύω and its sixth principal part ἐκελεύσθην as 
 Here are the steps to conjugate a verb in the aorist passive:
 1. To get the **aorist passive stem**, take the -ην off the sixth principal part.  
 2. Add the appropriate **personal ending** to indicate the appropriate person and number.  
-3. Apply a **recessive accent** based on the rules laid out [in the unit on accents](../basics/alphabet-and-accents#accents).
+3. [Apply a **recessive accent** based on the rules laid out [in the unit on accents](../basics/alphabet-and-accents#accents).]
 
 ### Aorist Passive Endings
 
@@ -65,10 +65,12 @@ So, when we apply these rules to κελεύω:
 ### Translation
 {: .no_toc }
 
-The tense is still aorist (i.e., a simple past tense), and the same subjects are in play depending on whether the verb is 3rd person singular ("he/she/it/they [singular]") or plural ("they [plural]"). The **passive voice**, however, indicates a different pathway of activity: the verb is performed *upon* the subject, rather than the subject performing the action. So, note the following translations:
+The tense is still aorist (i.e., a simple past tense), and the same subjects are in play depending on whether the verb is 3rd person singular ("he/she/it/they [singular]" or a nominative singular noun) or plural ("they [plural]" or a nominative plural noun). The **passive voice**, however, indicates a different pathway of activity: the verb is performed *upon* the subject, rather than the subject performing the action. So, note the following translations:
 
 * ἐκελεύσθη: "he/she/it **was ordered**"
 * ἐκελεύσθησαν: "they **were ordered**"
+
+In each of these examples, the verb's translation consists of **two parts**: the helping verb "was" (singular) or "were" (plural), and the past participle (or "-ed") form of the verb. 
 
 Envision the voice of a verb indicating the direction of an arrow between the subject and the verb.
 * In the **active** or **middle** voice, the arrow points *rightward* from the subject towards the verb: the subject performs the verb and makes that action happen (ἐκέλευσεν: he ordered).
@@ -86,9 +88,27 @@ Envision the voice of a verb indicating the direction of an arrow between the su
 
 ***
 
+## Genitive of Agent
+
+One special type of prepositional phrase is known as the **genitive of agent**. In this construction, **a prepositional phrase using ὑπό and a genitive noun indicates who performs the action of a** ***passive verb***. Here's an example:
+
+* ὁ μάρτυς **ὑπὸ τῶν ἀνδρῶν** εἰς τὴν οἰκίαν ἤχθη. The witness was led into the house **by the men**.
+
+Consider why we would need a construction like the genitive of agent. If the verb is **active or middle**, the **nominative subject** performs the verb's action:
+
+* οἱ ἄνδρες τὸν μάρτυρα ἤγαγον. The men led the witness.
+
+In a sentence with a **passive** verb, however, the subject *receives* the action, rather than performing it. In this construction, we don't necessarily *need* an indication of who performs the action for the sentence to be grammatically correct:
+
+* ὁ μάρτυς εἰς τὴν οἰκίαν ἤχθη. The witness was led into the house.
+
+We're left wondering, though -- who is doing the leading? Who is performing that verb's action? A **genitive of agent** construction helps answer that question, even though it is not technically necessary for the sentence to make sense. So, **ὑπὸ τῶν ἀνδρῶν** ("by the men") gives us that answer.
+
+***
+
 ## Deponent Verbs
 
-Some dictionary entries lack active forms in some or all principal parts and will instead show **middle** forms, as evidenced by the principal parts' endings. For example, take a look at [the dictionary entry](../../vocabulary/week-03-vocabulary) for the verb **γίγνομαι**, "to become, to happen". According to what we've learned about principal parts so far, this is what we've come to expect:
+Some dictionary entries lack active forms in some or all principal parts and will instead show **middle** forms, as evidenced by the principal parts' endings. For example, take a look at [the dictionary entry](../../vocabulary/exam-2-vocabulary) for the verb **γίγνομαι**, "to become, to happen". According to what we've learned about principal parts so far, this is what we've come to expect:
 
 * A first principal part should end in -ω or -μι.
 * A third principal part should end in -α or -ον.
@@ -99,22 +119,6 @@ Such verbs that lack active forms in some or all principal parts are known as **
 
 To conjugate deponents, the steps are the same: get the stem, add the appropriate ending, apply an accent. In these cases, the stem can be found by taking off the full middle ending off the principal part; when it comes to deponent 3rd principal parts, that means taking off the -άμην (for first aorists) or -όμην (for second aorists). So, in the case of γίγνομαι, that leaves us with the stem ἐγεν- from the third principal part and forms like ἐγένετο or ἐγένοντο.
 
-Some verbs are deponent in only some principal parts. For example, take a look at [the dictionary entry](../../vocabulary/week-02-vocabulary) for **ἔρχομαι**, "to come, to go." Its third principal part, ἦλθον, is a straightforward second aorist (active), but its first principal part, ἔρχομαι, with its -ομαι ending, is deponent (properly present tense and middle voice, as we'll learn about in a later chapter).
+Some verbs are deponent in only some principal parts. For example, take a look at [the dictionary entry](../../vocabulary/exam-1-vocabulary) for **ἔρχομαι**, "to come, to go." Its third principal part, ἦλθον, is a straightforward second aorist (active), but its first principal part, ἔρχομαι, with its -ομαι ending, is deponent (properly present tense and middle voice, as we'll learn about in a later chapter).
 
-***
 
-## Genitive of Agent
-
-One special type of prepositional phrase is known as the **genitive of agent**. In this construction, **a prepositional phrase using ὑπό and a genitive noun indicates who performs the action of a** ***passive verb***. Here's an example:
-
-* ὁ μάρτυς **ὑπὸ τῶν πολιτῶν** εἰς τὴν οἰκίαν ἄγεται. The witness is being led into the house **by the citizens**.
-
-Consider why we would need a construction like the genitive of agent. If the verb is **active or middle**, the **nominative subject** performs the verb's action:
-
-* οἱ πολῖται τὸν μάρτυρα ἄγουσιν. The citizens are leading the witness.
-
-In a sentence with a **passive** verb, however, the subject *receives* the action, rather than performing it. In this construction, we don't necessarily *need* an indication of who performs the action for the sentence to be grammatically correct:
-
-* ὁ μάρτυς εἰς τὴν οἰκίαν ἄγεται. The witness is being led into the house.
-
-We're left wondering, though -- who is doing the leading? Who is performing that verb's action? A **genitive of agent** construction helps answer that question, even though it is not technically necessary for the sentence to make sense. So, **ὑπὸ τῶν πολιτῶν** ("by the citizens") gives us that answer.
