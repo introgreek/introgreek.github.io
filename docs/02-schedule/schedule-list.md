@@ -251,8 +251,8 @@ NOTE: This week, our Monday class meets on a Tuesday.
 {: .no_toc }
 * _Topic_: Third Declension Nouns
 * _Due by start of next class_:
-    * Homework 14
-    * Quiz 7
+    * [Homework 14](https://docs.google.com/document/d/1mK3l0X8RF_HcPHvpFAieyvOFUDIciXjXPD-bRuaiI6w/edit?usp=drive_link)
+    * [Quiz 7](https://docs.google.com/document/d/1bnAUhcJ8AmVcOuNGJ39_aximC_5KpV_z6N0s2hw4nkk/edit?usp=sharing)
 
 #### Resources for Today's Class
 {: .no_toc }
@@ -273,9 +273,9 @@ NOTE: This week, our Monday class meets on a Wednesday.
 ### Wednesday, April 8
 {: .no_toc }
 * _Topic_: Third Declension Adjectives
-* _In-class_: Check-in 14
+* _In-class_: [Check-in 14](https://docs.google.com/document/d/1HlIpyj52SpZrOZXVdGhnVK9V2FDL1FWpMzzZEaThWR4/edit?usp=sharing)
 * _Due by start of next class_:
-    * Homework 15
+    * [Homework 15](https://docs.google.com/document/d/19ARMUuSlTYorQssbfLmwo7mMToTjmgmIMNeZDS-BIPg/edit?usp=drive_link)
 
 #### Resources for Today's Class
 {: .no_toc }
@@ -285,10 +285,10 @@ NOTE: This week, our Monday class meets on a Wednesday.
 ### Thursday, April 9
 {: .no_toc }
 * _Topic_: Relative Pronoun and Relative Clauses
-* _In-class_: Check-in 15
+* _In-class_: [Check-in 15](https://docs.google.com/document/d/1mlZgtBg3ebbqiI8dTLk5b6PfTp3nWJ1DU4-r6x8MgxQ/edit?usp=sharing)
 * _Due by start of next class_:
-    * Homework 16
-    * Quiz 8
+    * [Homework 16](https://docs.google.com/document/d/1Rku6JiNjs94QPMDLGxeUyZX-1zUkGAiKT_dOsvYuvT4/edit?usp=drive_link)
+    * [Quiz 8](https://docs.google.com/document/d/1KCzgKZG0OS9Opw5yzQu0n_3zVEbntQBn7sRxz9WyeJ4/edit?usp=sharing)
 
 #### Resources for Today's Class
 {: .no_toc }
@@ -302,27 +302,27 @@ NOTE: This week, our Monday class meets on a Wednesday.
 ### Monday, April 13
 {: .no_toc }
 * _Topic_: Aorist Passive and Genitive of Agent
-* _In-class_: Check-in 16
+* _In-class_: [Check-in 16](https://docs.google.com/document/d/1DhZ7PuUdb52qILL3qOf7VH2Tbp7nTgqyNTBTRqfmKFI/edit?usp=sharing)
 * _Due by start of next class_:
-    * Homework 17
+    * [Homework 17](https://docs.google.com/document/d/1NFPEX2eeyPM7u0llgKHfKmH5v9FWY-I_-T8UtBEhHGk/edit?usp=drive_link)
 
 #### Resources for Today's Class
 {: .no_toc }
 * Readings: [Aorist Passive](../textbook/exam-3/aorist-passive)
-* Slideshow: TBD
+* Slideshow: [4/13/26 - Aorist Passive and Genitive of Agent](https://docs.google.com/presentation/d/17rH48pcbZKFnZ-ioQ1ZxoNwlcldZYOAqQQfhBjHRx9c/edit?usp=drive_link)
 
 ### Thursday, April 16
 {: .no_toc }
 * _Topic_: Present Tense - -ω Verbs
-* _In-class_: Check-in 17
+* _In-class_: [Check-in 17](https://docs.google.com/document/d/1gI7WGg6f42JxlTsq26YUPBERd0vzvgR0x01nVwFb4P8/edit?usp=sharing)
 * _Due by start of next class_:
-    * Homework 18
-    * Quiz 9
+    * [Homework 18](https://docs.google.com/document/d/1iR43scNx1aTAvBssKs8D8dCA1bI3nv7wkmREZDmQb-4/edit?usp=drive_link)
+    * [Quiz 9](https://docs.google.com/document/d/1aiQBSJRKLs2fPxcPiNMmvMfCNbOA025Zg7Ff207mVm8/edit?usp=sharing)
 
 #### Resources for Today's Class
 {: .no_toc }
 * Readings: [Present Tense - -ω and Regular -μι Verbs](../textbook/exam-3/present)
-* Slideshow: TBD
+* Slideshow: [4/16/26 - Present Tense (-ω, epsilon contracts)](https://docs.google.com/presentation/d/1qSulXGwQTaN8L8f7cyhaVu4IjA24AI_olJlWv0bG4-Y/edit?usp=drive_link)
 
 ***
 
@@ -331,27 +331,26 @@ NOTE: This week, our Monday class meets on a Wednesday.
 ### Monday, April 20
 {: .no_toc }
 * _Topic_: Present Tense - Regular -μι Verbs
-* _In-class_: Check-in 18
+* _In-class_: [Check-in 18](https://docs.google.com/document/d/1KqWgKQ48eIqMIxdc7Fy4tdbpDsM9cw-xRTVT04yuGgc/edit?usp=sharing)
 * _Due by start of next class_:
-    * Homework 19
+    * [Homework 19](https://docs.google.com/document/d/1gcPVeQffkUxn8XewLyFk2G6vzgXRxc0AwQpoZXoi-QM/edit?usp=drive_link)
 
 #### Resources for Today's Class
 {: .no_toc }
 * Readings: [Present Tense - -ω and Regular -μι Verbs](../textbook/exam-3/present)
-* Slideshow: TBD
+* Slideshow: [4/20/26 - Present Tense (-μι, Core Four)](https://docs.google.com/presentation/d/1jaP8Pb128RuTk_1uMne_b1ASPe1_ZylXIX5Y8B4U9j4/edit?usp=drive_link)
 
 ### Thursday, April 23
 {: .no_toc }
-* _Topic_: Present Tense - Core Four -μι Verbs
-* _In-class_: Check-in 19
+* _Topic_: Semester Review
+* _In-class_: [Check-in 19](https://docs.google.com/document/d/1tvbvE4h0VABQm0v78rs7e6DoUfE_vVX9JHqawsHl5bc/edit?usp=sharing)
 * _Due by start of next class_:
-    * Homework 20
-    * Quiz 10
+    * [Homework 20](https://docs.google.com/document/d/15tGRP-O_IgXG6FYhLySbawgNycu-GYGw5rHHrmTlTYM/edit?usp=drive_link)
+    * [Quiz 10](https://docs.google.com/document/d/121n1qf5Frqgo4E1KBoEFf2K9b75UwpEOqusoPWt1LAA/edit?usp=sharing)
 
 #### Resources for Today's Class
 {: .no_toc }
-* Readings: [Present Tense - Core Four -μι Verbs](../textbook/exam-3/core-four-present)
-* Slideshow: TBD
+* [Full Semester Topic List](https://docs.google.com/document/d/1rQSGOXYXuU0fEdxkKiCHN-vpxxFh03oc1z3w5CwzoBo/edit?usp=drive_link)
 
 ***
 
@@ -361,12 +360,12 @@ NOTE: This week, our Monday class meets on a Wednesday.
 {: .no_toc }
 * _Topic_: Review / Course Evaluations
 * _In-class links_ (DO NOT CLICK UNTIL INSTRUCTED TO DO SO IN CLASS):
-    * [IDEA Course Evaluation](#) (link TBD)
-    * [Personal Course Evaluation](#) (link TBD) (use Fairfield credentials to authenticate)
+    * [IDEA Course Evaluation](https://fairfield.campuslabs.com/eval-home/direct/7580026)
+    * [Personal Course Evaluation](https://docs.google.com/forms/d/e/1FAIpQLScxYgN8M4Gm7yBxzHzcKyFZi4S7HgbbD48yO947New_o6qfbQ/viewform?usp=sharing&ouid=110948329031323943691) (use Fairfield credentials to authenticate)
 
 #### Resources for Today's Class
 {: .no_toc }
-* Slideshow: TBD
+* Slideshow: [4/27/26 - In Conclusion](https://docs.google.com/presentation/d/14CZzps-ei1V-VeV-f6B7Uh4OjQeIJugxFhqfN2FwxjM/edit?usp=sharing)
 
 ***
 
